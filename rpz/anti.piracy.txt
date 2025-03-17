@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742185380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742209980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Mar 2025 04:23 UTC
-; Version: 2025.0317.0423.08
+; Last modified: 17 Mar 2025 11:13 UTC
+; Version: 2025.0317.1113.29
 ; Syntax: RPZ
-; Number of entries: 19564
+; Number of entries: 19596
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -903,6 +903,8 @@ gophie.cam CNAME .
 *.gophie.cam CNAME .
 guardaserie.cam CNAME .
 *.guardaserie.cam CNAME .
+ilgeniodellostreaming.cam CNAME .
+*.ilgeniodellostreaming.cam CNAME .
 megastream.cam CNAME .
 *.megastream.cam CNAME .
 movies123-online.cam CNAME .
@@ -1475,6 +1477,8 @@ flixhq.click CNAME .
 *.flixhq.click CNAME .
 gomovies.click CNAME .
 *.gomovies.click CNAME .
+guardarefilm.click CNAME .
+*.guardarefilm.click CNAME .
 guardaserie01.click CNAME .
 *.guardaserie01.click CNAME .
 italia-film.click CNAME .
@@ -1859,6 +1863,8 @@ gowatchseries.co CNAME .
 *.gowatchseries.co CNAME .
 guardaserie.co CNAME .
 *.guardaserie.co CNAME .
+tracker.hdarea.co CNAME .
+*.tracker.hdarea.co CNAME .
 hdmovie99.co CNAME .
 *.hdmovie99.co CNAME .
 illimitestreaming.co CNAME .
@@ -7601,6 +7607,8 @@ altadefinizione.day CNAME .
 *.altadefinizione.day CNAME .
 eurostreaming.day CNAME .
 *.eurostreaming.day CNAME .
+ilgeniodellostreaming.day CNAME .
+*.ilgeniodellostreaming.day CNAME .
 soap2day.day CNAME .
 *.soap2day.day CNAME .
 kinox.unblockit.day CNAME .
@@ -8813,6 +8821,8 @@ extreme-down.in CNAME .
 *.extreme-down.in CNAME .
 filmstreaming.in CNAME .
 *.filmstreaming.in CNAME .
+getmodapks.in CNAME .
+*.getmodapks.in CNAME .
 torrent.hificode.in CNAME .
 *.torrent.hificode.in CNAME .
 ilgeniodellostreaming.in CNAME .
@@ -9001,6 +9011,8 @@ tracker-udp.gbitt.info CNAME .
 *.tracker-udp.gbitt.info CNAME .
 getcomics.info CNAME .
 *.getcomics.info CNAME .
+warez.goldzoneweb.info CNAME .
+*.warez.goldzoneweb.info CNAME .
 grabthe.info CNAME .
 *.grabthe.info CNAME .
 grifon.info CNAME .
@@ -9539,6 +9551,8 @@ gomoviesfree.is CNAME .
 *.gomoviesfree.is CNAME .
 gomovieshub.is CNAME .
 *.gomovieshub.is CNAME .
+gostream.is CNAME .
+*.gostream.is CNAME .
 hydrax.is CNAME .
 *.hydrax.is CNAME .
 hz.is CNAME .
@@ -9671,6 +9685,8 @@ guardarefilm.it CNAME .
 *.guardarefilm.it CNAME .
 guardaserie.it CNAME .
 *.guardaserie.it CNAME .
+zerocool.has.it CNAME .
+*.zerocool.has.it CNAME .
 hdtorrents.it CNAME .
 *.hdtorrents.it CNAME .
 ilgeniodellostreaming.it CNAME .
@@ -9995,6 +10011,8 @@ golkoralive.live CNAME .
 *.golkoralive.live CNAME .
 harleyquinnwidget.live CNAME .
 *.harleyquinnwidget.live CNAME .
+hiperflix.live CNAME .
+*.hiperflix.live CNAME .
 ihub.live CNAME .
 *.ihub.live CNAME .
 ilgeniodellostreaming.live CNAME .
@@ -10951,6 +10969,8 @@ git.fuwafuwa.moe CNAME .
 *.git.fuwafuwa.moe CNAME .
 haho.moe CNAME .
 *.haho.moe CNAME .
+ilgeniodellostreaming.moe CNAME .
+*.ilgeniodellostreaming.moe CNAME .
 tracker.iro.moe CNAME .
 *.tracker.iro.moe CNAME .
 leet-tracker.moe CNAME .
@@ -11857,6 +11877,8 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
+gamezlinks.net CNAME .
+*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -13343,6 +13365,8 @@ casacinema.onl CNAME .
 *.casacinema.onl CNAME .
 dunia21.onl CNAME .
 *.dunia21.onl CNAME .
+guardaserie.onl CNAME .
+*.guardaserie.onl CNAME .
 moviesjoy.onl CNAME .
 *.moviesjoy.onl CNAME .
 papystreaming.onl CNAME .
@@ -15165,6 +15189,8 @@ filmpertutti.pics CNAME .
 *.filmpertutti.pics CNAME .
 filmstreaming.pics CNAME .
 *.filmstreaming.pics CNAME .
+ilgeniodellostreaming.pics CNAME .
+*.ilgeniodellostreaming.pics CNAME .
 italia-film.pics CNAME .
 *.italia-film.pics CNAME .
 proxybit.pics CNAME .
@@ -16439,6 +16465,8 @@ zamunda.se CNAME .
 *.zamunda.se CNAME .
 tracker.darkness.services CNAME .
 *.tracker.darkness.services CNAME .
+guardaserie.services CNAME .
+*.guardaserie.services CNAME .
 koli.services CNAME .
 *.koli.services CNAME .
 aegir.sexy CNAME .
@@ -16837,6 +16865,8 @@ go123.stream CNAME .
 *.go123.stream CNAME .
 hurawatch.stream CNAME .
 *.hurawatch.stream CNAME .
+ilgeniodellostreaming.stream CNAME .
+*.ilgeniodellostreaming.stream CNAME .
 live-nfl.stream CNAME .
 *.live-nfl.stream CNAME .
 mojaloss.stream CNAME .
@@ -16865,6 +16895,8 @@ yoursports.stream CNAME .
 *.yoursports.stream CNAME .
 cb01.studio CNAME .
 *.cb01.studio CNAME .
+guardaserie.studio CNAME .
+*.guardaserie.studio CNAME .
 lookmovie.studio CNAME .
 *.lookmovie.studio CNAME .
 vvv.movies123.studio CNAME .

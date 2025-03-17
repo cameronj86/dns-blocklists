@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Mar 2025 00:08 UTC
-# Version: 2025.0317.0008.47
+# Last modified: 17 Mar 2025 06:35 UTC
+# Version: 2025.0317.0635.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2187
+# Number of entries: 2188
 #
 local=/000a.de/
 local=/000space.com/
@@ -1139,6 +1139,7 @@ local=/gtexpsers.cc/
 local=/gtsepress.vip/
 local=/guest.de/
 local=/guide.lc/
+local=/guzhibo.cn/
 local=/gymshark-france.fr/
 local=/gymsharkitaliaofficial.it/
 local=/gynoblog.com/
@@ -1204,6 +1205,7 @@ local=/i.gp/
 local=/iamarrows.com/
 local=/ibiz.cc/
 local=/iblogger.org/
+local=/iblogs.com/
 local=/iceiy.com/
 local=/id.gp/
 local=/idblogmaker.com/
@@ -1794,7 +1796,6 @@ local=/spintheblog.com/
 local=/sport-pro.de/
 local=/sportsontheweb.net/
 local=/spruz.com/
-local=/square7.ch/
 local=/srv1.org/
 local=/ss-blog.jp/
 local=/ssnblog.com/

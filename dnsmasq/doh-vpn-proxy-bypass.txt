@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Mar 2025 04:27 UTC
-# Version: 2025.0317.0427.28
+# Last modified: 17 Mar 2025 11:17 UTC
+# Version: 2025.0317.1117.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3851
+# Number of entries: 3854
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1487,6 +1487,7 @@ local=/hideme.be/
 local=/hidemebro.com/
 local=/hidemefast.net/
 local=/hidemenow.net/
+local=/hidemesoftware.com/
 local=/hidemium.io/
 local=/hidemy.io/
 local=/hidemy.name/
@@ -1564,6 +1565,7 @@ local=/hugeph.art/
 local=/dns.hujiayucc.cn/
 local=/doth.huque.com/
 local=/dns.huseynov.work/
+local=/hustlersuniversity.pro/
 local=/ad.huyct.net/
 local=/dns.huyhoangit.net/
 local=/hyperbyte.net/
@@ -1603,6 +1605,7 @@ local=/noads.imbuffering.com/
 local=/dns.imchristian.de/
 local=/dns.immanuelschaffer.de/
 local=/doh.immerda.ch/
+local=/imnotaproxy.com/
 local=/http-dns.imoim.net/
 local=/imperio.top/
 local=/dns1.in-berlin.de/

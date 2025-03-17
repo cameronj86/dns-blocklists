@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742170080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742193300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Mar 2025 00:08 UTC
-; Version: 2025.0317.0008.47
+; Last modified: 17 Mar 2025 06:35 UTC
+; Version: 2025.0317.0635.44
 ; Syntax: RPZ
-; Number of entries: 4374
+; Number of entries: 4376
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -229,8 +229,6 @@ freehoster.ch CNAME .
 *.freehoster.ch CNAME .
 populus.ch CNAME .
 *.populus.ch CNAME .
-square7.ch CNAME .
-*.square7.ch CNAME .
 arien.cl CNAME .
 *.arien.cl CNAME .
 blogspot.cl CNAME .
@@ -307,6 +305,8 @@ blogspot.com.cn CNAME .
 *.blogspot.com.cn CNAME .
 duanwenzi.cn CNAME .
 *.duanwenzi.cn CNAME .
+guzhibo.cn CNAME .
+*.guzhibo.cn CNAME .
 tqhmu.cn CNAME .
 *.tqhmu.cn CNAME .
 vxwezsp.cn CNAME .
@@ -1287,6 +1287,8 @@ hyperphp.com CNAME .
 *.hyperphp.com CNAME .
 iamarrows.com CNAME .
 *.iamarrows.com CNAME .
+iblogs.com CNAME .
+*.iblogs.com CNAME .
 iceiy.com CNAME .
 *.iceiy.com CNAME .
 idblogmaker.com CNAME .
