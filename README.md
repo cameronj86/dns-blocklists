@@ -564,7 +564,7 @@ Blocks gambling content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 659920 compressed domains
+**Entries:** 659919 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
