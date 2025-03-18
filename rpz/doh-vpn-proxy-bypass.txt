@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742210220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742272140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Mar 2025 11:17 UTC
-; Version: 2025.0317.1117.53
+; Last modified: 18 Mar 2025 04:29 UTC
+; Version: 2025.0318.0429.50
 ; Syntax: RPZ
-; Number of entries: 7708
+; Number of entries: 7704
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -484,8 +484,6 @@ webproxy.club CNAME .
 *.webproxy.club CNAME .
 clearweb.woodbridge.club CNAME .
 *.clearweb.woodbridge.club CNAME .
-dns.23-4.cn CNAME .
-*.dns.23-4.cn CNAME .
 doh.360.cn CNAME .
 *.doh.360.cn CNAME .
 dot.360.cn CNAME .
@@ -4756,6 +4754,8 @@ dns.d4d.moe CNAME .
 *.dns.d4d.moe CNAME .
 dns.kosan.moe CNAME .
 *.dns.kosan.moe CNAME .
+dns.kusoneko.moe CNAME .
+*.dns.kusoneko.moe CNAME .
 dns.kuuhaku.moe CNAME .
 *.dns.kuuhaku.moe CNAME .
 naganohara-yoimiya.momokko.moe CNAME .
@@ -4834,12 +4834,8 @@ dnses.alekberg.net CNAME .
 *.dnses.alekberg.net CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
-dnsnl-noads.alekberg.net CNAME .
-*.dnsnl-noads.alekberg.net CNAME .
 dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
-dnsse-noads.alekberg.net CNAME .
-*.dnsse-noads.alekberg.net CNAME .
 doh.amonsul.net CNAME .
 *.doh.amonsul.net CNAME .
 anchorfree.net CNAME .
@@ -5890,6 +5886,8 @@ itsayx.online CNAME .
 *.itsayx.online CNAME .
 letscomply.online CNAME .
 *.letscomply.online CNAME .
+adsadkjsadjksakldjxx.math-solver.online CNAME .
+*.adsadkjsadjksakldjxx.math-solver.online CNAME .
 net-ml.online CNAME .
 *.net-ml.online CNAME .
 okado.online CNAME .
@@ -7592,8 +7590,6 @@ lukscasino-542-tr.xyz CNAME .
 *.lukscasino-542-tr.xyz CNAME .
 lukscasino-929-tr.xyz CNAME .
 *.lukscasino-929-tr.xyz CNAME .
-dns.maolaohei.xyz CNAME .
-*.dns.maolaohei.xyz CNAME .
 maqgie.xyz CNAME .
 *.maqgie.xyz CNAME .
 dns.mh4ckt3mh4ckt1c4s.xyz CNAME .

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Mar 2025 04:26 UTC
-# Version: 2025.0317.0426.09
+# Last modified: 18 Mar 2025 04:28 UTC
+# Version: 2025.0318.0428.32
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1640
+# Number of entries: 1637
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -20,7 +20,6 @@
 0.0.0.0 dns.13evl.com
 0.0.0.0 cloud.198.games
 0.0.0.0 1and1-dns.de
-0.0.0.0 dns.23-4.cn
 0.0.0.0 233py.com
 0.0.0.0 dns.240527.xyz
 0.0.0.0 doh003.280blocker.net
@@ -117,9 +116,7 @@
 0.0.0.0 dns2.alekberg.net
 0.0.0.0 dnses.alekberg.net
 0.0.0.0 dnsnl.alekberg.net
-0.0.0.0 dnsnl-noads.alekberg.net
 0.0.0.0 dnsse.alekberg.net
-0.0.0.0 dnsse-noads.alekberg.net
 0.0.0.0 alidns.com
 0.0.0.0 dns.alidns.com
 0.0.0.0 doh.alidns.com
@@ -903,6 +900,7 @@
 0.0.0.0 adblock.krctech.dev
 0.0.0.0 xray.krnl.eu
 0.0.0.0 dns.kukal.cz
+0.0.0.0 dns.kusoneko.moe
 0.0.0.0 dns.kuuhaku.moe
 0.0.0.0 kx-97795-tr.xyz
 0.0.0.0 dns.kxy.ink
@@ -971,7 +969,6 @@
 0.0.0.0 mailkyb.co
 0.0.0.0 dns.maitrekuc.fr
 0.0.0.0 dns.mandre.dev
-0.0.0.0 dns.maolaohei.xyz
 0.0.0.0 maqgie.xyz
 0.0.0.0 dns.marasov.id
 0.0.0.0 dns.marbledfennec.net

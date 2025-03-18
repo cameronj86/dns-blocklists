@@ -2289,6 +2289,13 @@
       }
     },
     {
+      "PK": "libreelec.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.life",
       "action": {
         "do": 0,
@@ -4488,6 +4495,13 @@
     },
     {
       "PK": "via.life",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vidstream.vip",
       "action": {
         "do": 1,
         "status": 1

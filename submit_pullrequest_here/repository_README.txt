@@ -40,7 +40,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 
 ### :books: **Multi - Cleans the Internet and protects your privacy!** <a name="overview"></a>
 
-An all-in-one DNS blocklist in **various versions (light, normal, pro, pro++ and ultimate)**. It can be used as a standalone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, coins and other "crap". Based on [various native blocklists](sources.md). No, they are not just block lists cobbled together from different sources. They have been optimized and extended to efficiently "clean the Internet" in all areas.             
+An all-in-one DNS blocklist in **various versions (light, normal, pro, pro++ and ultimate)**. It can be used as a standalone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, cryptojacking and other "crap". Based on [various native blocklists](sources.md). No, they are not just block lists cobbled together from different sources. They have been optimized and extended to efficiently "clean the Internet" in all areas.             
 
 See also: [Which sources are used for the lists and how are the lists compiled on the basis of these sources?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#sources)
 
@@ -99,7 +99,7 @@ Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking
 
 ### :blue_book: **Multi NORMAL** - **All-round protection** <a name="normal"></a>
 
-Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".
+Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other "Crap".
 
 > [!NOTE]
 > **Blocking type:** Relaxed/Balanced              
@@ -123,7 +123,7 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 
 ### :ledger: **Multi PRO** - **Extended protection (Recommended)** <a name="pro"></a>
 
-Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".
+Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other "Crap".
 
 > [!NOTE]
 > **Blocking type:** Balanced            
@@ -158,7 +158,7 @@ Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RA
 
 ### :orange_book: **Multi PRO++** - **Maximum protection** <a name="proplus"></a>
 
-Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".
+Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Cryptojacking and other "Crap".
 
 > [!NOTE]
 > **Blocking type:** Balanced/Aggressive              
@@ -197,7 +197,7 @@ Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RA
 
 ### :closed_book: **Multi ULTIMATE** - **Aggressive protection** <a name="ultimate"></a>
 
-Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Free Hoster, Fake, Coins and other "Crap".
+Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Free Hoster, Fake, Cryptojacking and other "Crap".
 
 > [!NOTE]
 > **Blocking type:** Aggressive              
@@ -294,7 +294,7 @@ A blocklist for annoying and malicious pop-up ads.
 
 ### :closed_lock_with_key: **Threat Intelligence Feeds - Increases security significantly! (Recommended)** <a name="tif"></a>
 
-A blocklist for blocking malware, cryptojacking, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.
+A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.
 
 |             | Light           | Normal          | Pro             | Pro++           | Ultimate        |
 |:-----------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|

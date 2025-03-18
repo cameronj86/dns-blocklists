@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Mar 2025 04:26 UTC
-# Version: 2025.0317.0426.09
+# Last modified: 18 Mar 2025 04:28 UTC
+# Version: 2025.0318.0428.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1470
+# Number of entries: 1467
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -19,7 +19,6 @@ local=/123000123.xyz/
 local=/dns.13evl.com/
 local=/cloud.198.games/
 local=/1and1-dns.de/
-local=/dns.23-4.cn/
 local=/233py.com/
 local=/dns.240527.xyz/
 local=/doh003.280blocker.net/
@@ -92,9 +91,7 @@ local=/dns.alekberg.net/
 local=/dns2.alekberg.net/
 local=/dnses.alekberg.net/
 local=/dnsnl.alekberg.net/
-local=/dnsnl-noads.alekberg.net/
 local=/dnsse.alekberg.net/
-local=/dnsse-noads.alekberg.net/
 local=/alidns.com/
 local=/httpdns-sc.aliyuncs.com/
 local=/alleesph.online/
@@ -784,6 +781,7 @@ local=/dart.kpsn.org/
 local=/adblock.krctech.dev/
 local=/xray.krnl.eu/
 local=/dns.kukal.cz/
+local=/dns.kusoneko.moe/
 local=/dns.kuuhaku.moe/
 local=/kx-97795-tr.xyz/
 local=/dns.kxy.ink/
@@ -852,7 +850,6 @@ local=/mabuktogel.solutions/
 local=/mailkyb.co/
 local=/dns.maitrekuc.fr/
 local=/dns.mandre.dev/
-local=/dns.maolaohei.xyz/
 local=/maqgie.xyz/
 local=/dns.marasov.id/
 local=/dns.marbledfennec.net/

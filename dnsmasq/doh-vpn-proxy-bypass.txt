@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Mar 2025 11:17 UTC
-# Version: 2025.0317.1117.53
+# Last modified: 18 Mar 2025 04:29 UTC
+# Version: 2025.0318.0429.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3854
+# Number of entries: 3852
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -63,7 +63,6 @@ local=/1and1-dns.de/
 local=/1banproxy.com/
 local=/1clickvpn.com/
 local=/1clickvpn.net/
-local=/dns.23-4.cn/
 local=/233py.com/
 local=/dns.240527.xyz/
 local=/24tunnel.com/
@@ -192,9 +191,7 @@ local=/dns.alekberg.net/
 local=/dns2.alekberg.net/
 local=/dnses.alekberg.net/
 local=/dnsnl.alekberg.net/
-local=/dnsnl-noads.alekberg.net/
 local=/dnsse.alekberg.net/
-local=/dnsse-noads.alekberg.net/
 local=/alhapi.com/
 local=/alhvp.com/
 local=/alidns.com/
@@ -1782,6 +1779,7 @@ local=/adblock.krctech.dev/
 local=/xray.krnl.eu/
 local=/kryptovpn.kryptotel.net/
 local=/dns.kukal.cz/
+local=/dns.kusoneko.moe/
 local=/dns.kuuhaku.moe/
 local=/kx-97795-tr.xyz/
 local=/dns.kxy.ink/
@@ -1894,7 +1892,6 @@ local=/dns.maitrekuc.fr/
 local=/mallocapp.com/
 local=/mallocprivacy.com/
 local=/dns.mandre.dev/
-local=/dns.maolaohei.xyz/
 local=/maqgie.xyz/
 local=/dns.marasov.id/
 local=/dns.marbledfennec.net/
@@ -1907,6 +1904,7 @@ local=/masters-of-cloud.de/
 local=/masterssh.com/
 local=/masthisis.ir/
 local=/dns.mateo.ovh/
+local=/adsadkjsadjksakldjxx.math-solver.online/
 local=/mathhelpnow.site/
 local=/mathlearning.tech/
 local=/mathnotes.help/
