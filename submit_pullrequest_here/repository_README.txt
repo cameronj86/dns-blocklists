@@ -29,7 +29,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 15. [Most Abused TLDs](#tlds) - Protects against known malicious Top Level Domains!
 16. [Anti Piracy](#piracy) - Protects against piracy!
 17. [Gambling](#gambling) - Protects against gambling content! : [Full](#gambling) - [Medium](#gamblingmedium) - [Mini](#gamblingmini)
-18. [NSFW (external)](https://oisd.nl/setup) - oisd NSFW - Protects against adult content!
+18. [NSFW](#nsfw) - Protects against adult content!
 19. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
 20. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
 21. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
@@ -613,6 +613,28 @@ A size-optimised version of the Gambling Medium list. This list only contains do
 | Wildcard<br>Asterisk | [GH](lnkgh_w/gambling.mini.txt) [GL](lnkgl_w/gambling.mini.txt) [CB](lnkjd_w/gambling.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/gambling.mini-onlydomains.txt) [GL](lnkgl_w/gambling.mini-onlydomains.txt) [CB](lnkjd_w/gambling.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [GH](lnkgh_r/gambling.mini.txt) [GL](lnkgl_r/gambling.mini.txt) [CB](lnkjd_r/gambling.mini.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
+
+---
+
+### :underage: **NSFW - Protects against adult content!** <a name="nsfw"></a>
+
+Blocks adult content.
+
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+
+**Entries:** nsfw_cp compressed domains
+
+| Format | Links | Should be used for |
+|:-------|:-----|:----------------|
+| Adblock | [GH](lnkgh_a/nsfw.txt) [GL](lnkgl_a/nsfw.txt) [CB](lnkjd_a/nsfw.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
+| DNSMasq | [GH](lnkgh_m/nsfw.txt) [GL](lnkgl_m/nsfw.txt) [CB](lnkjd_m/nsfw.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| Wildcard<br>Asterisk | [GH](lnkgh_w/nsfw.txt) [GL](lnkgl_w/nsfw.txt) [CB](lnkjd_w/nsfw.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
+| Wildcard<br>Domains | [GH](lnkgh_w/nsfw-onlydomains.txt) [GL](lnkgl_w/nsfw-onlydomains.txt) [CB](lnkjd_w/nsfw-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| RPZ | [GH](lnkgh_r/nsfw.txt) [GL](lnkgl_r/nsfw.txt) [CB](lnkjd_r/nsfw.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
 
