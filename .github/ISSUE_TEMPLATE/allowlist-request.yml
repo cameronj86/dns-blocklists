@@ -166,8 +166,10 @@ body:
         - Most Abused TLDs
         - Anti Piracy
         - Gambling
+        - NSFW
         - Native Tracker
         - Allowlist Referral
+        - Allowlist URL shortener
     validations:
       required: true
 
