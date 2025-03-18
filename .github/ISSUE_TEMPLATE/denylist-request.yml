@@ -33,8 +33,10 @@ body:
         - Most Abused TLDs
         - Anti Piracy
         - Gambling
+        - NSFW
         - Native Tracker
         - Allowlist Referral
+        - Allowlist URL shortener
     validations:
       required: true
 
@@ -53,6 +55,7 @@ body:
         - Analytics/Metrics/Telemetry
         - Malware/Badware/Phishing/Scam
         - Gambling
+        - Adult
         - Piracy
         - DoH/VPN/TOR/Proxy DNS bypass 
         - Other
