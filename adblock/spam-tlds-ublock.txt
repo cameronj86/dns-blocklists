@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 18 Mar 2025 04:31 UTC
-! Version: 2025.0318.0431.23
+! Last modified: 18 Mar 2025 14:08 UTC
+! Version: 2025.0318.1408.24
 ! Syntax: uBlock
 ! Number of latin TLDs: 228 - non-latin TLDs: 151
 !
@@ -59,7 +59,7 @@
 ||claims^$doc
 ||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~qr-code.click|~ravelin.click|~xcine.click
 ||clothing^$doc
-||club^$doc,domain=~baby-beamup.club|~clovius.club|~digipres.club|~hd-olimpo.club|~mbcherohub.club|~pdfmagazines.club|~skin.club|~thelemmy.club
+||club^$doc,domain=~4k-hd.club|~baby-beamup.club|~clovius.club|~digipres.club|~hd-olimpo.club|~mbcherohub.club|~pdfmagazines.club|~skin.club|~thelemmy.club
 ||college^$doc
 ||computer^$doc,domain=~libre.computer|~neat.computer|~silly.computer
 ||cool^$doc,domain=~cnyes.cool|~shirtz.cool
@@ -96,7 +96,7 @@
 ||forsale^$doc
 ||foundation^$doc,domain=~e.foundation|~grapheneos.foundation|~jp.foundation|~player.foundation
 ||fund^$doc
-||fyi^$doc,domain=~apollo.fyi|~better.fyi|~genderdysphoria.fyi|~iusearchlinux.fyi|~levels.fyi|~lunar.fyi|~vercel.fyi
+||fyi^$doc,domain=~apollo.fyi|~better.fyi|~genderdysphoria.fyi|~iusearchlinux.fyi|~levels.fyi|~lunar.fyi|~uhdmovies.fyi|~vercel.fyi
 ||gdn^$doc,domain=~cst.gdn
 ||gent^$doc
 ||gift^$doc,domain=~discord.gift
@@ -119,7 +119,7 @@
 ||ink^$doc,domain=~ishortn.ink|~next.ink|~pahe.ink|~shrinkme.ink|~sumerian.ink|~work.ink
 ||international^$doc
 ||irish^$doc
-||kim^$doc
+||kim^$doc,domain=~mkvcinemas.kim
 ||lat^$doc
 ||legal^$doc,domain=~doctolib.legal|~wbs.legal
 ||lgbt^$doc,domain=~tech.lgbt
@@ -147,7 +147,7 @@
 ||money^$doc,domain=~flowyour.money|~unstoppable.money|~vivid.money
 ||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~vipbj.monster|~yts.monster
 ||motorcycles^$doc
-||mov^$doc,domain=~david.mov|~peerflix.mov|~spankbang.mov
+||mov^$doc,domain=~david.mov|~mkvanime.mov|~peerflix.mov|~spankbang.mov
 ||name^$doc
 ||navy^$doc
 ||new^$doc,domain=~bolt.new|~doc.new|~drawing.new|~form.new|~git.new|~lecture.new|~postgres.new|~sheet.new|~site.new|~slide.new
@@ -168,7 +168,7 @@
 ||pink^$doc
 ||pizza^$doc,domain=~tux.pizza
 ||place^$doc,domain=~gamedev.place
-||plus^$doc
+||plus^$doc,domain=~pahe.plus
 ||poker^$doc
 ||post^$doc
 ||prof^$doc,domain=~casey.prof
@@ -195,7 +195,7 @@
 ||science^$doc,domain=~canonn.science|~hal.science|~wander.science
 ||sew^$doc
 ||sexy^$doc,domain=~privacy.sexy|~terminal.sexy
-||shop^$doc,domain=~11ts.shop|~chessvibes.shop|~eventix.shop|~freshtorge.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~munu.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop
+||shop^$doc,domain=~11ts.shop|~chessvibes.shop|~eventix.shop|~freshtorge.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~munu.shop|~olamovies.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop
 ||shopping^$doc
 ||show^$doc,domain=~camz.show
 ||site^$doc,domain=~aftermath.site|~claude.site|~dodi-repacks.site|~elamigos.site|~fbsmarthome.site|~fitgirl-repacks.site|~gov-img.site|~notion.site|~onrocket.site|~platformsh.site|~privacy-test-pages.site|~reddit-doesnt-like-this.site|~wishonly.site|~wolow.site|~wpdns.site

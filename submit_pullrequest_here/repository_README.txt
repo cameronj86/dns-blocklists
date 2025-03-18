@@ -511,7 +511,7 @@ A blocklist for blocking Top Most Abused Top Level Domains, merged from [@Yokoff
 > However, a lot of spam, scam, phishing, malware and badware is also blocked very effectively. That is the purpose of this list.                   
 > Anyone using this list should be aware of what the list blocks.
 >        
-> For the AdBlock format (AdGuard and uBlock Origin) of the list there is the option to exclude popular domains via rule modifiers like `$denyallow` or `$domain`. However, the number is limited, as the entire rule becomes invalid depending on the total length. Therefore, only popular domains are unblocked.              
+> For the AdBlock format (AdGuard and uBlock Origin) of the list there is the option to exclude domains via rule modifiers like `$denyallow` or `$domain`. However, the number is limited, as the entire rule becomes invalid depending on the total length. Therefore, only legal popular domains that are on common top 1M lists (Tranco, Umbrella, Chrome, Cloudflare Radar, etc.) are unblocked. No illegal domains, e.g. from the piracy category, will be unblocked. The user must unblock these himself as required.                  
 > For other formats, the user himself is responsible for unblocking what he needs.
               
 |             | Light | Normal | Pro | Pro++ | Ultimate |

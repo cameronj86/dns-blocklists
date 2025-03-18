@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742272140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742317500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Mar 2025 04:29 UTC
-; Version: 2025.0318.0429.50
+; Last modified: 18 Mar 2025 17:05 UTC
+; Version: 2025.0318.1705.36
 ; Syntax: RPZ
-; Number of entries: 7704
+; Number of entries: 7728
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1884,6 +1884,8 @@ needunblock.com CNAME .
 *.needunblock.com CNAME .
 netaltr.com CNAME .
 *.netaltr.com CNAME .
+netsneak.com CNAME .
+*.netsneak.com CNAME .
 newipnow.com CNAME .
 *.newipnow.com CNAME .
 newshosting.com CNAME .
@@ -1906,6 +1908,8 @@ ninjabrowse.com CNAME .
 *.ninjabrowse.com CNAME .
 ninjacloak.com CNAME .
 *.ninjacloak.com CNAME .
+nntime.com CNAME .
+*.nntime.com CNAME .
 pi1.node15.com CNAME .
 *.pi1.node15.com CNAME .
 noodlevpn.com CNAME .
@@ -2154,6 +2158,10 @@ protonvpn.com CNAME .
 *.protonvpn.com CNAME .
 provpnaccounts.com CNAME .
 *.provpnaccounts.com CNAME .
+proxandthecity.com CNAME .
+*.proxandthecity.com CNAME .
+proxbomb.com CNAME .
+*.proxbomb.com CNAME .
 proxery.com CNAME .
 *.proxery.com CNAME .
 proxfree.com CNAME .
@@ -2162,10 +2170,16 @@ proxify.com CNAME .
 *.proxify.com CNAME .
 proxmecallmenames.com CNAME .
 *.proxmecallmenames.com CNAME .
+proxmesomethingdirty.com CNAME .
+*.proxmesomethingdirty.com CNAME .
+proxmyass.com CNAME .
+*.proxmyass.com CNAME .
 proxpn.com CNAME .
 *.proxpn.com CNAME .
 proxssl.com CNAME .
 *.proxssl.com CNAME .
+proxtrot.com CNAME .
+*.proxtrot.com CNAME .
 proxtube.com CNAME .
 *.proxtube.com CNAME .
 proxy-123.com CNAME .
@@ -4096,6 +4110,8 @@ prointern.info CNAME .
 *.prointern.info CNAME .
 propage.info CNAME .
 *.propage.info CNAME .
+provpn.info CNAME .
+*.provpn.info CNAME .
 proxify.info CNAME .
 *.proxify.info CNAME .
 proxite.info CNAME .
@@ -4544,6 +4560,8 @@ dns.circl.lu CNAME .
 *.dns.circl.lu CNAME .
 blackhole.myon.lu CNAME .
 *.blackhole.myon.lu CNAME .
+onion.lu CNAME .
+*.onion.lu CNAME .
 dnspub.restena.lu CNAME .
 *.dnspub.restena.lu CNAME .
 dns.ours.luxe CNAME .
@@ -6722,6 +6740,8 @@ prox.rocks CNAME .
 *.prox.rocks CNAME .
 proxy.rocks CNAME .
 *.proxy.rocks CNAME .
+proxyserver.rocks CNAME .
+*.proxyserver.rocks CNAME .
 dns.quiet.rocks CNAME .
 *.dns.quiet.rocks CNAME .
 ad.anym0re.ru CNAME .
@@ -6764,6 +6784,8 @@ novembeer.ru CNAME .
 *.novembeer.ru CNAME .
 adguard.oms-ctr.ru CNAME .
 *.adguard.oms-ctr.ru CNAME .
+vpn-ru-msk.pakharenko.ru CNAME .
+*.vpn-ru-msk.pakharenko.ru CNAME .
 dns.petqa.ru CNAME .
 *.dns.petqa.ru CNAME .
 proxybox.ru CNAME .
@@ -7644,6 +7666,8 @@ penkun0286.xyz CNAME .
 *.penkun0286.xyz CNAME .
 pepetio.xyz CNAME .
 *.pepetio.xyz CNAME .
+pinkproxy.xyz CNAME .
+*.pinkproxy.xyz CNAME .
 pm1239-bd.xyz CNAME .
 *.pm1239-bd.xyz CNAME .
 pm7051-br.xyz CNAME .

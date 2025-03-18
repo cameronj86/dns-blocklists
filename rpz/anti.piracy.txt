@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742271900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742309520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Mar 2025 04:25 UTC
-; Version: 2025.0318.0425.35
+; Last modified: 18 Mar 2025 14:52 UTC
+; Version: 2025.0318.1452.59
 ; Syntax: RPZ
-; Number of entries: 19646
+; Number of entries: 19684
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1567,6 +1567,8 @@ upvid.cloud CNAME .
 *.123files.club CNAME .
 123netflix.club CNAME .
 *.123netflix.club CNAME .
+4k-hd.club CNAME .
+*.4k-hd.club CNAME .
 agentfilm.club CNAME .
 *.agentfilm.club CNAME .
 altadefinizione.club CNAME .
@@ -1655,6 +1657,8 @@ piratetpb.club CNAME .
 *.piratetpb.club CNAME .
 playseries.club CNAME .
 *.playseries.club CNAME .
+pornomen.club CNAME .
+*.pornomen.club CNAME .
 tracker.ptsbao.club CNAME .
 *.tracker.ptsbao.club CNAME .
 putlocker-free.club CNAME .
@@ -5333,6 +5337,8 @@ novusnetworkbd.com CNAME .
 *.novusnetworkbd.com CNAME .
 nowhdtime.com CNAME .
 *.nowhdtime.com CNAME .
+tracker.npupt.com CNAME .
+*.tracker.npupt.com CNAME .
 nsanedown.com CNAME .
 *.nsanedown.com CNAME .
 nsaneforums.com CNAME .
@@ -5409,6 +5415,8 @@ oklivetv.com CNAME .
 *.oklivetv.com CNAME .
 oldgamesdownload.com CNAME .
 *.oldgamesdownload.com CNAME .
+oldgamesfinder.com CNAME .
+*.oldgamesfinder.com CNAME .
 oleoo.com CNAME .
 *.oleoo.com CNAME .
 olevod.com CNAME .
@@ -8479,6 +8487,8 @@ putlocker.fyi CNAME .
 *.putlocker.fyi CNAME .
 tantifilm.fyi CNAME .
 *.tantifilm.fyi CNAME .
+uhdmovies.fyi CNAME .
+*.uhdmovies.fyi CNAME .
 tr.abir.ga CNAME .
 *.tr.abir.ga CNAME .
 open.free-tracker.ga CNAME .
@@ -10415,6 +10425,8 @@ feeder.lt CNAME .
 *.feeder.lt CNAME .
 nerealus.lt CNAME .
 *.nerealus.lt CNAME .
+musicmania.ql.lt CNAME .
+*.musicmania.ql.lt CNAME .
 seed.lt CNAME .
 *.seed.lt CNAME .
 torentas.lt CNAME .
@@ -10727,6 +10739,8 @@ online-fix.me CNAME .
 *.online-fix.me CNAME .
 openloadfreetv.me CNAME .
 *.openloadfreetv.me CNAME .
+tracker.openlook.me CNAME .
+*.tracker.openlook.me CNAME .
 oxtorrent.me CNAME .
 *.oxtorrent.me CNAME .
 passthepopcorn.me CNAME .
@@ -11039,6 +11053,8 @@ altadefinizione.mov CNAME .
 *.altadefinizione.mov CNAME .
 dunia21.mov CNAME .
 *.dunia21.mov CNAME .
+mkvanime.mov CNAME .
+*.mkvanime.mov CNAME .
 pirate-proxy.mov CNAME .
 *.pirate-proxy.mov CNAME .
 ssrmovies.mov CNAME .
@@ -11899,6 +11915,8 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
+gamezlinks.net CNAME .
+*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -12391,6 +12409,8 @@ pelisplushd.net CNAME .
 *.pelisplushd.net CNAME .
 peruwarez.net CNAME .
 *.peruwarez.net CNAME .
+pianyuan.net CNAME .
+*.pianyuan.net CNAME .
 picturesetc.net CNAME .
 *.picturesetc.net CNAME .
 piecejointe.net CNAME .
@@ -13921,6 +13941,8 @@ downloadwarez.org CNAME .
 *.downloadwarez.org CNAME .
 downthem.org CNAME .
 *.downthem.org CNAME .
+tracker.guguan.dpdns.org CNAME .
+*.tracker.guguan.dpdns.org CNAME .
 dpstreaming.org CNAME .
 *.dpstreaming.org CNAME .
 dqqd.org CNAME .
@@ -14465,6 +14487,8 @@ newz-complex.org CNAME .
 *.newz-complex.org CNAME .
 nfhh.org CNAME .
 *.nfhh.org CNAME .
+nicoblog.org CNAME .
+*.nicoblog.org CNAME .
 nima4k.org CNAME .
 *.nima4k.org CNAME .
 nitesgate.org CNAME .
@@ -14633,6 +14657,8 @@ psynews.org CNAME .
 *.psynews.org CNAME .
 ptfiles.org CNAME .
 *.ptfiles.org CNAME .
+puredl.org CNAME .
+*.puredl.org CNAME .
 bt.pusacg.org CNAME .
 *.bt.pusacg.org CNAME .
 pussytorrents.org CNAME .
@@ -15661,6 +15687,8 @@ eurostreaming.quest CNAME .
 *.eurostreaming.quest CNAME .
 ilgeniodellostreaming.quest CNAME .
 *.ilgeniodellostreaming.quest CNAME .
+pirateproxy.quest CNAME .
+*.pirateproxy.quest CNAME .
 cb01.racing CNAME .
 *.cb01.racing CNAME .
 guardaserie.racing CNAME .
@@ -15821,6 +15849,8 @@ kat.rip CNAME .
 *.kat.rip CNAME .
 monflix.rip CNAME .
 *.monflix.rip CNAME .
+network.rip CNAME .
+*.network.rip CNAME .
 request.rip CNAME .
 *.request.rip CNAME .
 tracker.sheesh.rip CNAME .
@@ -16233,8 +16263,12 @@ pavv.ru CNAME .
 *.pavv.ru CNAME .
 pc-software.ru CNAME .
 *.pc-software.ru CNAME .
+bot.ponomar-sibir.ru CNAME .
+*.bot.ponomar-sibir.ru CNAME .
 1c.premierzal.ru CNAME .
 *.1c.premierzal.ru CNAME .
+files.project-cataclysm.ru CNAME .
+*.files.project-cataclysm.ru CNAME .
 prosmotr-filmov.ru CNAME .
 *.prosmotr-filmov.ru CNAME .
 proxy.ru CNAME .
@@ -16555,6 +16589,8 @@ eurostreaming.shop CNAME .
 *.eurostreaming.shop CNAME .
 filmpertutti.shop CNAME .
 *.filmpertutti.shop CNAME .
+olamovies.shop CNAME .
+*.olamovies.shop CNAME .
 streamingcommunity.shop CNAME .
 *.streamingcommunity.shop CNAME .
 tantifilm.shop CNAME .
@@ -16915,6 +16951,8 @@ mojaloss.stream CNAME .
 *.mojaloss.stream CNAME .
 movply.stream CNAME .
 *.movply.stream CNAME .
+onlineflix.stream CNAME .
+*.onlineflix.stream CNAME .
 papystreaming.stream CNAME .
 *.papystreaming.stream CNAME .
 ripple.stream CNAME .
