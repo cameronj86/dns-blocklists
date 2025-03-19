@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742358600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742391780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Mar 2025 04:30 UTC
-; Version: 2025.0319.0430.40
+; Last modified: 19 Mar 2025 13:43 UTC
+; Version: 2025.0319.1343.39
 ; Syntax: RPZ
-; Number of entries: 19708
+; Number of entries: 19718
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -9779,6 +9779,8 @@ altadefinizione.kim CNAME .
 *.altadefinizione.kim CNAME .
 gomovies.kim CNAME .
 *.gomovies.kim CNAME .
+mkvcinemas.kim CNAME .
+*.mkvcinemas.kim CNAME .
 altadefinizione.kitchen CNAME .
 *.altadefinizione.kitchen CNAME .
 tracker1.bt.moack.co.kr CNAME .
@@ -17015,6 +17017,8 @@ kmsautoplus.su CNAME .
 *.kmsautoplus.su CNAME .
 lizardstresser.su CNAME .
 *.lizardstresser.su CNAME .
+lucida.su CNAME .
+*.lucida.su CNAME .
 retracker.nts.su CNAME .
 *.retracker.nts.su CNAME .
 nullc0de.su CNAME .
@@ -19059,6 +19063,8 @@ hesgoal.world CNAME .
 *.hesgoal.world CNAME .
 ilgeniodellostreaming.world CNAME .
 *.ilgeniodellostreaming.world CNAME .
+mobilecrack.world CNAME .
+*.mobilecrack.world CNAME .
 pirateproxy.world CNAME .
 *.pirateproxy.world CNAME .
 stresser.world CNAME .
@@ -19691,6 +19697,10 @@ tracker.silksa.co.za CNAME .
 *.tracker.silksa.co.za CNAME .
 tracker-us.silksa.co.za CNAME .
 *.tracker-us.silksa.co.za CNAME .
+redecanais.zip CNAME .
+*.redecanais.zip CNAME .
+redecanaistv.zip CNAME .
+*.redecanaistv.zip CNAME .
 worldfree4u.zip CNAME .
 *.worldfree4u.zip CNAME .
 9anime.zone CNAME .

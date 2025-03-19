@@ -542,7 +542,7 @@ Blocks websites and services that are mainly used for the illegal distribution o
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 9854 compressed domains
+**Entries:** 9859 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -564,7 +564,7 @@ Blocks gambling content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 662468 compressed domains
+**Entries:** 662500 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
