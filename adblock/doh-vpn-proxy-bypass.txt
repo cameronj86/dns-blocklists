@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 18 Mar 2025 17:05 UTC
-! Version: 2025.0318.1705.36
+! Last modified: 19 Mar 2025 04:46 UTC
+! Version: 2025.0319.0446.46
 ! Syntax: AdBlock
-! Number of entries: 3864
+! Number of entries: 3870
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -2708,6 +2708,7 @@
 ||doh.quickline.ch^
 ||dot.quickline.ch^
 ||quickprox.com^
+||quickproxies.com^
 ||quicksilvervpn.com^
 ||dns.quiet.rocks^
 ||quintex.com^
@@ -2780,6 +2781,7 @@
 ||riseup.net^
 ||rnblyatclub.online^
 ||rocketube.online^
+||rockwell.website^
 ||dns.roedel.cloud^
 ||romirely.tech^
 ||dns.ronc.ru^
@@ -2975,6 +2977,7 @@
 ||smartydns.com^
 ||snowproxy.com^
 ||guard.sntrk.ru^
+||dove.soapagent.com^
 ||dove.soapclient.com^
 ||socialnetworkinfo.us^
 ||socks-proxy.net^
@@ -2985,6 +2988,7 @@
 ||solaxy.live^
 ||soleilvpn-app.com^
 ||solidproxy.net^
+||somelikeitproxy.com^
 ||sourceproxy.com^
 ||spacedns.org^
 ||spacevpn.io^
@@ -3072,6 +3076,7 @@
 ||dns.stvsk.ml^
 ||doh.sublime9.xyz^
 ||doh.suche.org^
+||suedeproxy.info^
 ||dns.suhaila.dev^
 ||resolver.sunet.se^
 ||sunnygyl.com^
@@ -3118,6 +3123,7 @@
 ||surfskip.com^
 ||surfsneaker.com^
 ||surfsuark.com^
+||surfwebsite.org^
 ||dns.surobe.com^
 ||surtshark.com^
 ||dns.sv-zauner.at^

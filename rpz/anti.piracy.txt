@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742309520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742358600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Mar 2025 14:52 UTC
-; Version: 2025.0318.1452.59
+; Last modified: 19 Mar 2025 04:30 UTC
+; Version: 2025.0319.0430.40
 ; Syntax: RPZ
-; Number of entries: 19684
+; Number of entries: 19708
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1663,6 +1663,8 @@ tracker.ptsbao.club CNAME .
 *.tracker.ptsbao.club CNAME .
 putlocker-free.club CNAME .
 *.putlocker-free.club CNAME .
+rarbg.club CNAME .
+*.rarbg.club CNAME .
 rg-mechanics.club CNAME .
 *.rg-mechanics.club CNAME .
 isk.richardsw.club CNAME .
@@ -6085,6 +6087,8 @@ sickdownload.com CNAME .
 *.sickdownload.com CNAME .
 pj.sidewalkcrusaders.com CNAME .
 *.pj.sidewalkcrusaders.com CNAME .
+aus.sierules.com CNAME .
+*.aus.sierules.com CNAME .
 sifara.com CNAME .
 *.sifara.com CNAME .
 siliconguide.com CNAME .
@@ -10119,6 +10123,10 @@ sportlemon.live CNAME .
 *.sportlemon.live CNAME .
 streameast.live CNAME .
 *.streameast.live CNAME .
+superseries.live CNAME .
+*.superseries.live CNAME .
+supertela.live CNAME .
+*.supertela.live CNAME .
 supertvaovivo.live CNAME .
 *.supertvaovivo.live CNAME .
 tantifilm.live CNAME .
@@ -10925,6 +10933,8 @@ lookmovie.media CNAME .
 *.lookmovie.media CNAME .
 showbox.media CNAME .
 *.showbox.media CNAME .
+streamingcommunity.media CNAME .
+*.streamingcommunity.media CNAME .
 tantifilm.media CNAME .
 *.tantifilm.media CNAME .
 unimay.media CNAME .
@@ -10995,8 +11005,6 @@ because.moe CNAME .
 *.because.moe CNAME .
 tracker.cangku.moe CNAME .
 *.tracker.cangku.moe CNAME .
-catbox.moe CNAME .
-*.catbox.moe CNAME .
 tracker.doko.moe CNAME .
 *.tracker.doko.moe CNAME .
 lucke.fenesisu.moe CNAME .
@@ -11033,6 +11041,8 @@ juststream.mom CNAME .
 *.juststream.mom CNAME .
 privatemoviez.mom CNAME .
 *.privatemoviez.mom CNAME .
+solarmovie.mom CNAME .
+*.solarmovie.mom CNAME .
 tantifilm.mom CNAME .
 *.tantifilm.mom CNAME .
 yesmovies.mom CNAME .
@@ -11915,8 +11925,6 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
-gamezlinks.net CNAME .
-*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -12569,6 +12577,8 @@ rpgmaker.net CNAME .
 *.rpgmaker.net CNAME .
 rsload.net CNAME .
 *.rsload.net CNAME .
+rsoccerstreams.net CNAME .
+*.rsoccerstreams.net CNAME .
 rtorrent.net CNAME .
 *.rtorrent.net CNAME .
 rutracker.net CNAME .
@@ -14775,6 +14785,8 @@ serienjunkies.org CNAME .
 *.serienjunkies.org CNAME .
 seriesturcas.org CNAME .
 *.seriesturcas.org CNAME .
+seriesvip.org CNAME .
+*.seriesvip.org CNAME .
 zonegolry.servhome.org CNAME .
 *.zonegolry.servhome.org CNAME .
 seventorrents.org CNAME .
@@ -14847,6 +14859,8 @@ stresser.org CNAME .
 *.stresser.org CNAME .
 subsplease.org CNAME .
 *.subsplease.org CNAME .
+sugar-cube.org CNAME .
+*.sugar-cube.org CNAME .
 sumotracker.org CNAME .
 *.sumotracker.org CNAME .
 supertorrents.org CNAME .
@@ -17783,6 +17797,8 @@ netmap.top CNAME .
 *.netmap.top CNAME .
 novastream.top CNAME .
 *.novastream.top CNAME .
+ol-am.top CNAME .
+*.ol-am.top CNAME .
 piratbit.top CNAME .
 *.piratbit.top CNAME .
 piratebayproxy.top CNAME .
@@ -18965,8 +18981,6 @@ serien.wiki CNAME .
 *.serien.wiki CNAME .
 thepiratebay.wiki CNAME .
 *.thepiratebay.wiki CNAME .
-activated.win CNAME .
-*.activated.win CNAME .
 ddgroupclub.win CNAME .
 *.ddgroupclub.win CNAME .
 4.tracker.devnak.win CNAME .
@@ -19049,6 +19063,8 @@ pirateproxy.world CNAME .
 *.pirateproxy.world CNAME .
 stresser.world CNAME .
 *.stresser.world CNAME .
+unblockedgames.world CNAME .
+*.unblockedgames.world CNAME .
 vumoo.world CNAME .
 *.vumoo.world CNAME .
 0123movie.ws CNAME .
@@ -19213,6 +19229,8 @@ t.quic.ws CNAME .
 *.t.quic.ws CNAME .
 toplist.raidrush.ws CNAME .
 *.toplist.raidrush.ws CNAME .
+rf.ws CNAME .
+*.rf.ws CNAME .
 samlab.ws CNAME .
 *.samlab.ws CNAME .
 sanet.ws CNAME .
@@ -19547,12 +19565,18 @@ publictracker.xyz CNAME .
 *.publictracker.xyz CNAME .
 putlockerfull.xyz CNAME .
 *.putlockerfull.xyz CNAME .
+redditsoccerstreams.xyz CNAME .
+*.redditsoccerstreams.xyz CNAME .
 redwarez.xyz CNAME .
 *.redwarez.xyz CNAME .
+oscar.reyesleon.xyz CNAME .
+*.oscar.reyesleon.xyz CNAME .
 rivestream.xyz CNAME .
 *.rivestream.xyz CNAME .
 sabross.xyz CNAME .
 *.sabross.xyz CNAME .
+tracker.sakurato.xyz CNAME .
+*.tracker.sakurato.xyz CNAME .
 santost12.xyz CNAME .
 *.santost12.xyz CNAME .
 showflix.xyz CNAME .
