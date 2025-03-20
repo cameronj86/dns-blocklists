@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742256480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742429160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Mar 2025 00:08 UTC
-; Version: 2025.0318.0008.09
+; Last modified: 20 Mar 2025 00:06 UTC
+; Version: 2025.0320.0006.43
 ; Syntax: RPZ
-; Number of entries: 4378
+; Number of entries: 4322
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -39,8 +39,8 @@ qu.am CNAME .
 *.4everland.app CNAME .
 csb.app CNAME .
 *.csb.app CNAME .
-ethergases.app CNAME .
-*.ethergases.app CNAME .
+teleporthq.app CNAME .
+*.teleporthq.app CNAME .
 webnode.app CNAME .
 *.webnode.app CNAME .
 blogspot.com.ar CNAME .
@@ -51,8 +51,6 @@ webnode.com.ar CNAME .
 *.webnode.com.ar CNAME .
 prima.net.ar CNAME .
 *.prima.net.ar CNAME .
-anakdara9.art CNAME .
-*.anakdara9.art CNAME .
 okdfhb.art CNAME .
 *.okdfhb.art CNAME .
 114.at CNAME .
@@ -221,8 +219,6 @@ wox.cc CNAME .
 *.wox.cc CNAME .
 blogspot.cf CNAME .
 *.blogspot.cf CNAME .
-xitiz.cfd CNAME .
-*.xitiz.cfd CNAME .
 blogspot.ch CNAME .
 *.blogspot.ch CNAME .
 freehoster.ch CNAME .
@@ -253,8 +249,6 @@ cityhotel.club CNAME .
 *.cityhotel.club CNAME .
 datingpm.club CNAME .
 *.datingpm.club CNAME .
-easy-market.club CNAME .
-*.easy-market.club CNAME .
 englishset.club CNAME .
 *.englishset.club CNAME .
 gamingadd.club CNAME .
@@ -483,8 +477,6 @@ actifforum.com CNAME .
 *.actifforum.com CNAME .
 activablog.com CNAME .
 *.activablog.com CNAME .
-activisionfree-cp.com CNAME .
-*.activisionfree-cp.com CNAME .
 activoblog.com CNAME .
 *.activoblog.com CNAME .
 activosblog.com CNAME .
@@ -887,8 +879,6 @@ blogs.cnn.com CNAME .
 *.blogs.cnn.com CNAME .
 codm-free.com CNAME .
 *.codm-free.com CNAME .
-codmsupport.com CNAME .
-*.codmsupport.com CNAME .
 collectblogs.com CNAME .
 *.collectblogs.com CNAME .
 blogspot.com.com CNAME .
@@ -1247,18 +1237,16 @@ gtempurl.com CNAME .
 *.gtempurl.com CNAME .
 gynoblog.com CNAME .
 *.gynoblog.com CNAME .
-halloweencp.com CNAME .
-*.halloweencp.com CNAME .
 hanefra7bikiemta.com CNAME .
 *.hanefra7bikiemta.com CNAME .
 happy-couple.com CNAME .
 *.happy-couple.com CNAME .
 hautetfort.com CNAME .
 *.hautetfort.com CNAME .
+hefeicang.com CNAME .
+*.hefeicang.com CNAME .
 highclassacademia.com CNAME .
 *.highclassacademia.com CNAME .
-hinerava.com CNAME .
-*.hinerava.com CNAME .
 homemarker.com CNAME .
 *.homemarker.com CNAME .
 homestead.com CNAME .
@@ -1353,16 +1341,18 @@ justaboutblogs.com CNAME .
 *.justaboutblogs.com CNAME .
 ka-blogs.com CNAME .
 *.ka-blogs.com CNAME .
+keetkotoun.com CNAME .
+*.keetkotoun.com CNAME .
 kiluweb.com CNAME .
 *.kiluweb.com CNAME .
+kraftonevent.com CNAME .
+*.kraftonevent.com CNAME .
 kylieblog.com CNAME .
 *.kylieblog.com CNAME .
 laowaiblog.com CNAME .
 *.laowaiblog.com CNAME .
 launchaco.com CNAME .
 *.launchaco.com CNAME .
-layanan-dana.com CNAME .
-*.layanan-dana.com CNAME .
 leaguelineup.com CNAME .
 *.leaguelineup.com CNAME .
 liberty-blog.com CNAME .
@@ -1479,8 +1469,6 @@ newbigblog.com CNAME .
 *.newbigblog.com CNAME .
 newsbloger.com CNAME .
 *.newsbloger.com CNAME .
-nexgenelectricct.com CNAME .
-*.nexgenelectricct.com CNAME .
 ngontinh24.com CNAME .
 *.ngontinh24.com CNAME .
 niloblog.com CNAME .
@@ -1513,8 +1501,6 @@ onzeblog.com CNAME .
 *.onzeblog.com CNAME .
 oooninja.com CNAME .
 *.oooninja.com CNAME .
-oortstorage.com CNAME .
-*.oortstorage.com CNAME .
 opensea-claimnft.com CNAME .
 *.opensea-claimnft.com CNAME .
 opisial.com CNAME .
@@ -1533,8 +1519,6 @@ own-free-website.com CNAME .
 *.own-free-website.com CNAME .
 p2blogs.com CNAME .
 *.p2blogs.com CNAME .
-page-bussines-review.com CNAME .
-*.page-bussines-review.com CNAME .
 page4.com CNAME .
 *.page4.com CNAME .
 pages10.com CNAME .
@@ -1551,8 +1535,6 @@ piczo.com CNAME .
 *.piczo.com CNAME .
 pimpedhost.com CNAME .
 *.pimpedhost.com CNAME .
-pinkeosemrabo.com CNAME .
-*.pinkeosemrabo.com CNAME .
 pirchio.com CNAME .
 *.pirchio.com CNAME .
 podia.com CNAME .
@@ -1607,8 +1589,6 @@ bookp.ru.com CNAME .
 *.bookp.ru.com CNAME .
 euspray.ru.com CNAME .
 *.euspray.ru.com CNAME .
-hcck.ru.com CNAME .
-*.hcck.ru.com CNAME .
 sexpay.ru.com CNAME .
 *.sexpay.ru.com CNAME .
 runhosting.com CNAME .
@@ -1781,16 +1761,12 @@ ftp.totallyanonymous.com CNAME .
 *.ftp.totallyanonymous.com CNAME .
 trackfinanceworld.com CNAME .
 *.trackfinanceworld.com CNAME .
-transparency-business.com CNAME .
-*.transparency-business.com CNAME .
 tribalpages.com CNAME .
 *.tribalpages.com CNAME .
 tribunablog.com CNAME .
 *.tribunablog.com CNAME .
 tripod.com CNAME .
 *.tripod.com CNAME .
-tripvlog.com CNAME .
-*.tripvlog.com CNAME .
 truistcooperative.com CNAME .
 *.truistcooperative.com CNAME .
 ttblogs.com CNAME .
@@ -1905,8 +1881,6 @@ wtcsites.com CNAME .
 *.wtcsites.com CNAME .
 wy5532.com CNAME .
 *.wy5532.com CNAME .
-x10hosting.com CNAME .
-*.x10hosting.com CNAME .
 xanco.com CNAME .
 *.xanco.com CNAME .
 xanga.com CNAME .
@@ -2679,8 +2653,6 @@ za.gp CNAME .
 *.za.gp CNAME .
 blogspot.gr CNAME .
 *.blogspot.gr CNAME .
-getwell-staywell.gr CNAME .
-*.getwell-staywell.gr CNAME .
 snn.gr CNAME .
 *.snn.gr CNAME .
 webnode.gr CNAME .
@@ -3065,8 +3037,6 @@ blogas.lt CNAME .
 *.blogas.lt CNAME .
 blogspot.lt CNAME .
 *.blogspot.lt CNAME .
-fargofx.ltd CNAME .
-*.fargofx.ltd CNAME .
 blogspot.lu CNAME .
 *.blogspot.lu CNAME .
 eclub.lv CNAME .
@@ -3325,6 +3295,8 @@ phpbb.net CNAME .
 *.phpbb.net CNAME .
 pktriot.net CNAME .
 *.pktriot.net CNAME .
+pnsiayfas.net CNAME .
+*.pnsiayfas.net CNAME .
 pointblog.net CNAME .
 *.pointblog.net CNAME .
 ql4h.net CNAME .
@@ -3391,8 +3363,6 @@ widezone.net CNAME .
 *.widezone.net CNAME .
 web.core.windows.net CNAME .
 *.web.core.windows.net CNAME .
-www365kvip.net CNAME .
-*.www365kvip.net CNAME .
 x90x.net CNAME .
 *.x90x.net CNAME .
 xrs.net CNAME .
@@ -3495,10 +3465,6 @@ cavandoragh.org CNAME .
 *.cavandoragh.org CNAME .
 cl4n.org CNAME .
 *.cl4n.org CNAME .
-claimed-web3.org CNAME .
-*.claimed-web3.org CNAME .
-claims-web3.org CNAME .
-*.claims-web3.org CNAME .
 clandomain.org CNAME .
 *.clandomain.org CNAME .
 cs-clan.org CNAME .
@@ -3611,12 +3577,6 @@ vpswala.org CNAME .
 *.vpswala.org CNAME .
 wapka.org CNAME .
 *.wapka.org CNAME .
-web3-claim.org CNAME .
-*.web3-claim.org CNAME .
-web3-claimed.org CNAME .
-*.web3-claimed.org CNAME .
-web3-claims.org CNAME .
-*.web3-claims.org CNAME .
 website.org CNAME .
 *.website.org CNAME .
 wpmudev.org CNAME .
@@ -3733,8 +3693,6 @@ mycpanel.rs CNAME .
 *.3dn.ru CNAME .
 bazefrost.ru CNAME .
 *.bazefrost.ru CNAME .
-binance-bonus1btc.ru CNAME .
-*.binance-bonus1btc.ru CNAME .
 blog.ru CNAME .
 *.blog.ru CNAME .
 blogspot.ru CNAME .
@@ -3841,8 +3799,6 @@ asianhotel.shop CNAME .
 *.asianhotel.shop CNAME .
 bellastheboutique.shop CNAME .
 *.bellastheboutique.shop CNAME .
-bestpeople.shop CNAME .
-*.bestpeople.shop CNAME .
 bethelcreations.shop CNAME .
 *.bethelcreations.shop CNAME .
 bezemchsell.shop CNAME .
@@ -3901,6 +3857,8 @@ dinaellen.shop CNAME .
 *.dinaellen.shop CNAME .
 dmodaboutique1.shop CNAME .
 *.dmodaboutique1.shop CNAME .
+dnaprior.shop CNAME .
+*.dnaprior.shop CNAME .
 dolebropro.shop CNAME .
 *.dolebropro.shop CNAME .
 domepaosell.shop CNAME .
@@ -3995,8 +3953,6 @@ kidnumber.shop CNAME .
 *.kidnumber.shop CNAME .
 kyoce.shop CNAME .
 *.kyoce.shop CNAME .
-landmen.shop CNAME .
-*.landmen.shop CNAME .
 malltree.shop CNAME .
 *.malltree.shop CNAME .
 mapsweight.shop CNAME .
@@ -4051,8 +4007,6 @@ temu-jp.shop CNAME .
 *.temu-jp.shop CNAME .
 tokusi.shop CNAME .
 *.tokusi.shop CNAME .
-toyo-jp.shop CNAME .
-*.toyo-jp.shop CNAME .
 tsure.shop CNAME .
 *.tsure.shop CNAME .
 ultimatescrubsmore.shop CNAME .
@@ -4085,8 +4039,6 @@ temporary-demo.site CNAME .
 *.temporary-demo.site CNAME .
 turbo.site CNAME .
 *.turbo.site CNAME .
-uncody.site CNAME .
-*.uncody.site CNAME .
 wapka.site CNAME .
 *.wapka.site CNAME .
 weblium.site CNAME .
@@ -4239,8 +4191,6 @@ triadw.top CNAME .
 *.triadw.top CNAME .
 troove.top CNAME .
 *.troove.top CNAME .
-w-registration.top CNAME .
-*.w-registration.top CNAME .
 wapka.top CNAME .
 *.wapka.top CNAME .
 waptrad.top CNAME .
@@ -4371,18 +4321,12 @@ website-home.ws CNAME .
 *.website-home.ws CNAME .
 07080900.xyz CNAME .
 *.07080900.xyz CNAME .
-akaramessi.xyz CNAME .
-*.akaramessi.xyz CNAME .
 cominbaxz.xyz CNAME .
 *.cominbaxz.xyz CNAME .
 hkearth.xyz CNAME .
 *.hkearth.xyz CNAME .
-officebook.xyz CNAME .
-*.officebook.xyz CNAME .
 pwttr.xyz CNAME .
 *.pwttr.xyz CNAME .
-ryuekyo.xyz CNAME .
-*.ryuekyo.xyz CNAME .
 sekigu.xyz CNAME .
 *.sekigu.xyz CNAME .
 wapka.xyz CNAME .

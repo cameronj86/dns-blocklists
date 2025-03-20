@@ -65,6 +65,7 @@ https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://phish.sinking.yachts/v2/text
+https://phishunt.io/feed.txt
 https://radar.cloudflare.com/domains
 https://radar.cloudflare.com/email-security
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
@@ -227,11 +228,14 @@ https://raw.githubusercontent.com/realodix/adblockid/master/src/adservers.adfl
 https://raw.githubusercontent.com/ReverendRetro/Domain-Blocklists/main/Domain-Blocklist
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ips.txt
 https://raw.githubusercontent.com/scamsniffer/scam-database/main/blacklist/domains.json
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambling
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts

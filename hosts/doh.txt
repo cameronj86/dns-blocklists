@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Mar 2025 04:45 UTC
-# Version: 2025.0319.0445.27
+# Last modified: 20 Mar 2025 04:44 UTC
+# Version: 2025.0320.0444.07
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1638
+# Number of entries: 1639
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -231,7 +231,6 @@
 0.0.0.0 dns.bobstrecansky.com
 0.0.0.0 d.bod.lol
 0.0.0.0 dns.bofh.in
-0.0.0.0 doh.boje8.me
 0.0.0.0 adguard.bonis.de
 0.0.0.0 adguard.bonsirven.eu
 0.0.0.0 doh.bortzmeyer.fr
@@ -847,6 +846,7 @@
 0.0.0.0 doh.jeroenhd.nl
 0.0.0.0 adguard.jfchenier.ca
 0.0.0.0 dns.jhangy.us
+0.0.0.0 dns.jichi.io
 0.0.0.0 dns.jinwoo.dev
 0.0.0.0 dns.jiyi.eu
 0.0.0.0 jkdns.me
@@ -1329,6 +1329,7 @@
 0.0.0.0 dns13.quad9.net
 0.0.0.0 dns9.quad9.net
 0.0.0.0 2.dnscrypt-cert.quad9.net
+0.0.0.0 quic.lol
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
 0.0.0.0 dns.quiet.rocks

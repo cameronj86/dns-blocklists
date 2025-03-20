@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Mar 2025 04:45 UTC
-# Version: 2025.0319.0445.27
+# Last modified: 20 Mar 2025 04:44 UTC
+# Version: 2025.0320.0444.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1468
+# Number of entries: 1469
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -191,7 +191,6 @@ local=/dns.bmwhocking.com/
 local=/dns.bobstrecansky.com/
 local=/d.bod.lol/
 local=/dns.bofh.in/
-local=/doh.boje8.me/
 local=/adguard.bonis.de/
 local=/adguard.bonsirven.eu/
 local=/doh.bortzmeyer.fr/
@@ -728,6 +727,7 @@ local=/dns.janl.eu/
 local=/doh.jeroenhd.nl/
 local=/adguard.jfchenier.ca/
 local=/dns.jhangy.us/
+local=/dns.jichi.io/
 local=/dns.jinwoo.dev/
 local=/dns.jiyi.eu/
 local=/jkdns.me/
@@ -1180,6 +1180,7 @@ local=/dns12.quad9.net/
 local=/dns13.quad9.net/
 local=/dns9.quad9.net/
 local=/2.dnscrypt-cert.quad9.net/
+local=/quic.lol/
 local=/doh.quickline.ch/
 local=/dot.quickline.ch/
 local=/dns.quiet.rocks/
