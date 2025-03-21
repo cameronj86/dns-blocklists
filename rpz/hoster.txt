@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742429160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742515620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Mar 2025 00:06 UTC
-; Version: 2025.0320.0006.43
+; Last modified: 21 Mar 2025 00:07 UTC
+; Version: 2025.0321.0007.43
 ; Syntax: RPZ
-; Number of entries: 4322
+; Number of entries: 4326
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1237,6 +1237,8 @@ gtempurl.com CNAME .
 *.gtempurl.com CNAME .
 gynoblog.com CNAME .
 *.gynoblog.com CNAME .
+halloweencp.com CNAME .
+*.halloweencp.com CNAME .
 hanefra7bikiemta.com CNAME .
 *.hanefra7bikiemta.com CNAME .
 happy-couple.com CNAME .
@@ -1247,6 +1249,8 @@ hefeicang.com CNAME .
 *.hefeicang.com CNAME .
 highclassacademia.com CNAME .
 *.highclassacademia.com CNAME .
+hinerava.com CNAME .
+*.hinerava.com CNAME .
 homemarker.com CNAME .
 *.homemarker.com CNAME .
 homestead.com CNAME .
@@ -1469,6 +1473,8 @@ newbigblog.com CNAME .
 *.newbigblog.com CNAME .
 newsbloger.com CNAME .
 *.newsbloger.com CNAME .
+nexgenelectricct.com CNAME .
+*.nexgenelectricct.com CNAME .
 ngontinh24.com CNAME .
 *.ngontinh24.com CNAME .
 niloblog.com CNAME .
@@ -3857,8 +3863,6 @@ dinaellen.shop CNAME .
 *.dinaellen.shop CNAME .
 dmodaboutique1.shop CNAME .
 *.dmodaboutique1.shop CNAME .
-dnaprior.shop CNAME .
-*.dnaprior.shop CNAME .
 dolebropro.shop CNAME .
 *.dolebropro.shop CNAME .
 domepaosell.shop CNAME .
@@ -3953,6 +3957,8 @@ kidnumber.shop CNAME .
 *.kidnumber.shop CNAME .
 kyoce.shop CNAME .
 *.kyoce.shop CNAME .
+landmen.shop CNAME .
+*.landmen.shop CNAME .
 malltree.shop CNAME .
 *.malltree.shop CNAME .
 mapsweight.shop CNAME .
@@ -4123,8 +4129,6 @@ bebinmall.today CNAME .
 *.bebinmall.today CNAME .
 africafull.top CNAME .
 *.africafull.top CNAME .
-apeweae.top CNAME .
-*.apeweae.top CNAME .
 artsold.top CNAME .
 *.artsold.top CNAME .
 biproplw.top CNAME .

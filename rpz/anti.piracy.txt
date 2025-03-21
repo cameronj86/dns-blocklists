@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742487720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742531760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Mar 2025 16:22 UTC
-; Version: 2025.0320.1622.55
+; Last modified: 21 Mar 2025 04:36 UTC
+; Version: 2025.0321.0436.33
 ; Syntax: RPZ
-; Number of entries: 19754
+; Number of entries: 19756
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5617,6 +5617,8 @@ playhydrax.com CNAME .
 *.playhydrax.com CNAME .
 playtvgo.com CNAME .
 *.playtvgo.com CNAME .
+playurbano.com CNAME .
+*.playurbano.com CNAME .
 playvidto.com CNAME .
 *.playvidto.com CNAME .
 playwarez.com CNAME .
@@ -11949,6 +11951,8 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
+gamezlinks.net CNAME .
+*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -19097,8 +19101,6 @@ hesgoal.world CNAME .
 *.hesgoal.world CNAME .
 ilgeniodellostreaming.world CNAME .
 *.ilgeniodellostreaming.world CNAME .
-mobilecrack.world CNAME .
-*.mobilecrack.world CNAME .
 pirateproxy.world CNAME .
 *.pirateproxy.world CNAME .
 stresser.world CNAME .
