@@ -122,6 +122,6 @@
  27 |     100% |   0% |      0% | Denylist Community Aggressive
  28 |     100% |   0% |      0% | META Graph Tracker (Facebook, Instagram)
  29 |      90% |   8% |      2% | Ultimate Extension
- 30 |      91% |   5% |      4% | Denylist Aggressive
+ 30 |      90% |   6% |      4% | Denylist Aggressive
  31 |      69% |  24% |      7% | Denylist Community Ultimate
 ```
