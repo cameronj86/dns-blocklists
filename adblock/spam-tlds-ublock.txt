@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 22 Mar 2025 20:54 UTC
-! Version: 2025.0322.2054.41
+! Last modified: 22 Mar 2025 20:58 UTC
+! Version: 2025.0322.2058.35
 ! Syntax: uBlock
 ! Number of latin TLDs: 228 - non-latin TLDs: 151
 !
@@ -32,7 +32,7 @@
 ||bid^$doc
 ||bike^$doc,domain=~lime.bike|~rapido.bike
 ||bingo^$doc
-||biz^$doc,domain=~anonymurl.biz|~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~epson.biz|~ette.biz|~gamesindustry.biz|~gimmeporn.biz|~hb.biz|~iimwf.biz|~knuddels.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~notebookcheck.biz|~panasonic.biz|~slussen.biz|~wiz.biz|~wyborcza.biz|~yoox.biz
+||biz^$doc,domain=~anonymurl.biz|~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~epson.biz|~ette.biz|~gamesindustry.biz|~gimmeporn.biz|~hb.biz|~iimwf.biz|~knuddels.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~notebookcheck.biz|~panasonic.biz|~slussen.biz|~volvocars.biz|~wiz.biz|~wyborcza.biz|~yoox.biz
 ||black^$doc
 ||blue^$doc
 ||boats^$doc
