@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Mar 2025 01:15 UTC
-# Version: 2025.0315.0115.00
+# Last modified: 22 Mar 2025 00:30 UTC
+# Version: 2025.0322.0030.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 363
+# Number of entries: 360
 #
 *.frontier.byteoversea.com
 *.gplog-sg.byteoversea.com
@@ -85,7 +85,6 @@
 *.ads.tiktok.tv
 *.ads-api.tiktok.com
 *.ads-frontier.tiktok.com
-*.ads-service.tiktok.com
 *.ads-sg.tiktok.com
 *.analytics.tiktok.com
 *.analytics-attribution.tiktok.com
@@ -115,7 +114,6 @@
 *.mcs.us.tiktok.com
 *.mcs-ttp2.us.tiktok.com
 *.mssdk.us.tiktok.com
-*.mssdk-ttp2.us.tiktok.com
 *.sf16-telemetry-proxy-oci.tiktokcdn-us.com
 *.ad.tiktokv.com
 *.ad.tiktokv.us
@@ -371,4 +369,3 @@
 *.mcs16-normal-no1a.tiktokw.eu
 *.mssdk.tiktokw.eu
 *.mssdk.tiktokw.us
-*.mssdk-ttp2.tiktokw.us

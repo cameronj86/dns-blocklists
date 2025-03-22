@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Mar 2025 23:59 UTC
-# Version: 2025.0320.2359.32
+# Last modified: 22 Mar 2025 00:45 UTC
+# Version: 2025.0322.0045.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10744
+# Number of entries: 10747
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -1442,6 +1442,7 @@ local=/brueggen-handel.de/
 local=/bruland.store/
 local=/brunateschuhewerksverkauf.de/
 local=/brunetsludmila.com/
+local=/bs2best.at/
 local=/bs2site.at/
 local=/bsc-network.de/
 local=/bse-capital.com/
@@ -2332,6 +2333,7 @@ local=/depeople-work.xyz/
 local=/depeople-works.work/
 local=/depickedwell.pro/
 local=/depickedwell.site/
+local=/deplacer.com/
 local=/depotsnow.com/
 local=/derabattfahrrad.com/
 local=/derekoutlet.de/
@@ -3987,6 +3989,7 @@ local=/gorobo.de/
 local=/gotrax.store/
 local=/gotrixa.de/
 local=/gourmandebusy.com/
+local=/govern1.com/
 local=/goviva-kaffee.de/
 local=/gpslocatorphone.com/
 local=/gpt-chatt.com/
@@ -6782,7 +6785,6 @@ local=/octapustravel.com/
 local=/octeno.de/
 local=/ocycling.com/
 local=/oe24.co/
-local=/mkt.oeamtc.at/
 local=/oel-direkt.de/
 local=/oesterreichischeapotheke.com/
 local=/ofenbrnholz.com/
@@ -6916,6 +6918,7 @@ local=/onlinekamagrastore.org/
 local=/onlinekmnwi.com/
 local=/onlinekuche.com/
 local=/onlineladywear.com/
+local=/app.onlinelebenslauf.com/
 local=/onlinemaripe.com/
 local=/onlinemensdenim.com/
 local=/onlinemotorrad.com/

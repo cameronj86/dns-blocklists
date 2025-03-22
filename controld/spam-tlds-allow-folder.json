@@ -2094,6 +2094,13 @@
       }
     },
     {
+      "PK": "primer.style",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "privacy.sexy",
       "action": {
         "do": 1,
@@ -2767,6 +2774,13 @@
     },
     {
       "PK": "up4ever.download",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "upfiles.download",
       "action": {
         "do": 1,
         "status": 1
