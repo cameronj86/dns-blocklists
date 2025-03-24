@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Mar 2025 16:51 UTC
-# Version: 2025.0322.1651.53
+# Last modified: 24 Mar 2025 04:42 UTC
+# Version: 2025.0324.0442.08
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3891
+# Number of entries: 3889
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -2809,7 +2809,6 @@
 *.dns.rubyfish.cn
 *.ea-dns.rubyfish.cn
 *.uw-dns.rubyfish.cn
-*.adg.rueiliu.space
 *.rumpelsepp.org
 *.doh.runsel.id
 *.rushproxy.com
@@ -3035,7 +3034,6 @@
 *.sslsecureproxy.com
 *.sslunblocker.com
 *.doh.ntu.ssooss.win
-*.ag.ssrahul96.xyz
 *.dns.sstomp.nl
 *.stable-vpn.com
 *.stackfront.xyz

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Mar 2025 00:40 UTC
-# Version: 2025.0322.0040.31
+# Last modified: 23 Mar 2025 13:00 UTC
+# Version: 2025.0323.1300.39
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 371
+# Number of entries: 364
 #
 *.traffic-media.co.uk
 *.mistat.india.xiaomi.com.edgesuite.net
@@ -32,13 +32,6 @@
 *.sdk-cache.video.ptqy.gitv.tv
 *.time.video.ptqy.gitv.tv
 *.openapi.vip.ptqy.gitv.tv
-*.app.chat.global.xiaomi.net.iberostar.com
-*.resolver.msg.global.xiaomi.net.iberostar.com
-*.find.api.micloud.xiaomi.net.iberostar.com
-*.us.appbackupapi.micloud.xiaomi.net.iberostar.com
-*.us.micardapi.micloud.xiaomi.net.iberostar.com
-*.us.noteapi.micloud.xiaomi.net.iberostar.com
-*.us.pdc.micloud.xiaomi.net.iberostar.com
 *.mistat.xiaomi.com.download.ks-cdn.com
 *.mistat.india.xiaomi.com.ksyna.net
 *.ad.intl.xiaomi.com.ksyna.net
