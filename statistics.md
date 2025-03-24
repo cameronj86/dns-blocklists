@@ -20,7 +20,7 @@
  10 |      70% |  12% |     18% | Denylist Base
  11 |      99% |   0% |      1% | Basic Extension
  12 |      88% |   8% |      4% | Denylist Community non-Aggressive
- 13 |      86% |   6% |      8% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
+ 13 |      85% |   7% |      8% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  14 |      78% |  10% |     12% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      95% |   3% |      2% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
@@ -29,7 +29,7 @@
  19 |      87% |   0% |     13% | Native Tracker Samsung (Devices)
  20 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  21 |      69% |  27% |      4% | Analytics/Metrics Extension
- 22 |      96% |   3% |      1% | Balanced Extension
+ 22 |      97% |   3% |      0% | Balanced Extension
 ```
 #### PRO
 ```
@@ -122,6 +122,6 @@
  27 |     100% |   0% |      0% | Denylist Community Aggressive
  28 |     100% |   0% |      0% | META Graph Tracker (Facebook, Instagram)
  29 |      90% |   8% |      2% | Ultimate Extension
- 30 |      90% |   6% |      4% | Denylist Aggressive
+ 30 |      91% |   5% |      4% | Denylist Aggressive
  31 |      69% |  24% |      7% | Denylist Community Ultimate
 ```

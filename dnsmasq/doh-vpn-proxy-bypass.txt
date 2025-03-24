@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Mar 2025 04:42 UTC
-# Version: 2025.0324.0442.08
+# Last modified: 24 Mar 2025 16:44 UTC
+# Version: 2025.0324.1644.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3889
+# Number of entries: 3888
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -2809,6 +2809,7 @@ local=/adguard.ruby.ci/
 local=/dns.rubyfish.cn/
 local=/ea-dns.rubyfish.cn/
 local=/uw-dns.rubyfish.cn/
+local=/adg.rueiliu.space/
 local=/rumpelsepp.org/
 local=/doh.runsel.id/
 local=/rushproxy.com/
@@ -3236,7 +3237,6 @@ local=/dot.tiar.app/
 local=/jp.tiar.app/
 local=/doh.tiarap.org/
 local=/jp.tiarap.org/
-local=/dns.tierradeayala.com/
 local=/tigervpn.com/
 local=/tigrons.ru/
 local=/tikvpn.com/
@@ -3799,7 +3799,6 @@ local=/wyx.cloud/
 local=/x9fnzrtl4x8pynsf.com/
 local=/adb-home.xaoimoon.fr/
 local=/pub.xapktech.xyz/
-local=/xbcpb668.com/
 local=/doh.xcom.pro/
 local=/xcomplus.com/
 local=/xenergy.cc/

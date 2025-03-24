@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742791200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742834520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Mar 2025 04:40 UTC
-; Version: 2025.0324.0440.49
+; Last modified: 24 Mar 2025 16:42 UTC
+; Version: 2025.0324.1642.56
 ; Syntax: RPZ
-; Number of entries: 2934
+; Number of entries: 2932
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -802,8 +802,6 @@ rx.techomespace.com CNAME .
 *.rx.techomespace.com CNAME .
 cloud.tezoi.com CNAME .
 *.cloud.tezoi.com CNAME .
-dns.tierradeayala.com CNAME .
-*.dns.tierradeayala.com CNAME .
 adb.timnichollsphotography.com CNAME .
 *.adb.timnichollsphotography.com CNAME .
 d.toairs.com CNAME .
@@ -828,8 +826,6 @@ ns2.wuyouss.com CNAME .
 *.ns2.wuyouss.com CNAME .
 ns3.wuyouss.com CNAME .
 *.ns3.wuyouss.com CNAME .
-xbcpb668.com CNAME .
-*.xbcpb668.com CNAME .
 doh.xfinity.com CNAME .
 *.doh.xfinity.com CNAME .
 dot.xfinity.com CNAME .
@@ -2616,6 +2612,8 @@ dns.b33.space CNAME .
 *.dns.b33.space CNAME .
 adguard.neon0404.space CNAME .
 *.adguard.neon0404.space CNAME .
+adg.rueiliu.space CNAME .
+*.adg.rueiliu.space CNAME .
 dns.sy.st CNAME .
 *.dns.sy.st CNAME .
 home-server.store CNAME .
