@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742922300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742964780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Mar 2025 17:05 UTC
-; Version: 2025.0325.1705.06
+; Last modified: 26 Mar 2025 04:53 UTC
+; Version: 2025.0326.0453.05
 ; Syntax: RPZ
-; Number of entries: 20546
+; Number of entries: 20536
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -119,8 +119,8 @@ kat.am CNAME .
 *.kat.am CNAME .
 kinox.am CNAME .
 *.kinox.am CNAME .
-m.mamul.am CNAME .
-*.m.mamul.am CNAME .
+mamul.am CNAME .
+*.mamul.am CNAME .
 putlockers.am CNAME .
 *.putlockers.am CNAME .
 riper.am CNAME .
@@ -10847,8 +10847,6 @@ guardaserie.markets CNAME .
 *.guardaserie.markets CNAME .
 eurostreaming.mba CNAME .
 *.eurostreaming.mba CNAME .
-90notes.md CNAME .
-*.90notes.md CNAME .
 123moviesfull.me CNAME .
 *.123moviesfull.me CNAME .
 123moviestv.me CNAME .
@@ -12353,6 +12351,8 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
+gamezlinks.net CNAME .
+*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -12683,8 +12683,6 @@ movieserver.net CNAME .
 *.movieserver.net CNAME .
 moviesjoy.net CNAME .
 *.moviesjoy.net CNAME .
-moviesm4u.net CNAME .
-*.moviesm4u.net CNAME .
 moviesmobile.net CNAME .
 *.moviesmobile.net CNAME .
 moviestape.net CNAME .
@@ -16251,8 +16249,6 @@ layer7.pw CNAME .
 *.layer7.pw CNAME .
 leechinghell.pw CNAME .
 *.leechinghell.pw CNAME .
-m4ufree.pw CNAME .
-*.m4ufree.pw CNAME .
 mlwbd.pw CNAME .
 *.mlwbd.pw CNAME .
 myflixer.pw CNAME .
@@ -17147,14 +17143,10 @@ shush.se CNAME .
 *.shush.se CNAME .
 tfpdl.se CNAME .
 *.tfpdl.se CNAME .
-theflixer.se CNAME .
-*.theflixer.se CNAME .
 thepiratebay.se CNAME .
 *.thepiratebay.se CNAME .
 thepiratebayproxylist.se CNAME .
 *.thepiratebayproxylist.se CNAME .
-tinyzonetv.se CNAME .
-*.tinyzonetv.se CNAME .
 toolba.se CNAME .
 *.toolba.se CNAME .
 topnow.se CNAME .
@@ -18821,8 +18813,6 @@ filmy-online.tv CNAME .
 *.filmy-online.tv CNAME .
 firstsrowsports.tv CNAME .
 *.firstsrowsports.tv CNAME .
-foumovies.tv CNAME .
-*.foumovies.tv CNAME .
 freshon.tv CNAME .
 *.freshon.tv CNAME .
 fubo.tv CNAME .

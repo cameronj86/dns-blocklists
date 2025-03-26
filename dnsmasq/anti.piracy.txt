@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Mar 2025 17:05 UTC
-# Version: 2025.0325.1705.06
+# Last modified: 26 Mar 2025 04:53 UTC
+# Version: 2025.0326.0453.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10273
+# Number of entries: 10268
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -368,7 +368,6 @@ local=/8kun.top/
 local=/8millimeters.com/
 local=/8putlocker.com/
 local=/8wsm.com/
-local=/90notes.md/
 local=/94hiphop.com/
 local=/960303.xyz/
 local=/9anime.ru/
@@ -3679,7 +3678,6 @@ local=/fost.ws/
 local=/fotoredactor.com/
 local=/down.fouadmod.com/
 local=/fouadws.download/
-local=/foumovies.tv/
 local=/fourfriends.biz/
 local=/dsroms.fr.cr/
 local=/scene-wz.fr.cr/
@@ -3906,6 +3904,7 @@ local=/gamestorrents.io/
 local=/gamestorrents.nu/
 local=/gametechwiki.com/
 local=/bt-tracker.gamexp.ru/
+local=/gamezlinks.net/
 local=/gamingbeasts.com/
 local=/gaoqing.fm/
 local=/garageforum.org/
@@ -5402,7 +5401,6 @@ local=/m4ckd0ge-repacks.site/
 local=/m4ufree.com/
 local=/m4ufree.fun/
 local=/m4ufree.info/
-local=/m4ufree.pw/
 local=/m4ufree.se/
 local=/m4ufree.to/
 local=/m4ufree.vip/
@@ -5467,7 +5465,7 @@ local=/mamahd.org/
 local=/mamahd.to/
 local=/mamahd.ws/
 local=/mamahd.xyz/
-local=/m.mamul.am/
+local=/mamul.am/
 local=/manga-addict.fr/
 local=/mangadex.org/
 local=/mangadex.tv/
@@ -5841,7 +5839,6 @@ local=/moviesjoy.onl/
 local=/moviesjoy.plus/
 local=/moviesjoy.to/
 local=/moviesjoytv.to/
-local=/moviesm4u.net/
 local=/moviesmania.info/
 local=/moviesmobile.net/
 local=/moviesmod.dev/
@@ -8457,7 +8454,6 @@ local=/thedaddy.to/
 local=/thedise.me/
 local=/thedvdclub.org/
 local=/theebooksbay.com/
-local=/theflixer.se/
 local=/theflixer.tv/
 local=/theflixertv.to/
 local=/thegeeks.bz/
@@ -8622,7 +8618,6 @@ local=/tinyls.net/
 local=/tinyzone.tv/
 local=/tinyzonehd.net/
 local=/tinyzonetv.cc/
-local=/tinyzonetv.se/
 local=/tinyzonetv.to/
 local=/tioanime.com/
 local=/tipucrack.com/
