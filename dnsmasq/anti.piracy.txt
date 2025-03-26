@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Mar 2025 09:12 UTC
-# Version: 2025.0326.0912.46
+# Last modified: 26 Mar 2025 09:20 UTC
+# Version: 2025.0326.0920.12
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 10456
 #
@@ -722,6 +722,7 @@ local=/android-zone.ws/
 local=/androidhackers.io/
 local=/androidik.net/
 local=/androidloading.com/
+local=/androidoyun.club/
 local=/androidrookies.com/
 local=/andropalace.org/
 local=/andyday.tv/
@@ -7274,7 +7275,6 @@ local=/quorks.com/
 local=/qvvo.com/
 local=/qwemovies.com/
 local=/r123movie.com/
-local=/rabbitholebd.com/
 local=/racing-underground.com/
 local=/racinghd.net/
 local=/radamel.icu/

@@ -542,7 +542,7 @@ Blocks websites and services that are mainly used for the illegal distribution o
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 10268 compressed domains
+**Entries:** 10456 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|

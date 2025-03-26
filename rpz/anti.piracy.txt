@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742980320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1742980800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Mar 2025 09:12 UTC
-; Version: 2025.0326.0912.46
+; Last modified: 26 Mar 2025 09:20 UTC
+; Version: 2025.0326.0920.12
 ; Syntax: RPZ
 ; Number of entries: 20912
 ;
@@ -1669,6 +1669,8 @@ agentfilm.club CNAME .
 *.agentfilm.club CNAME .
 altadefinizione.club CNAME .
 *.altadefinizione.club CNAME .
+androidoyun.club CNAME .
+*.androidoyun.club CNAME .
 animeon.club CNAME .
 *.animeon.club CNAME .
 animeua.club CNAME .
@@ -6109,8 +6111,6 @@ qwemovies.com CNAME .
 *.qwemovies.com CNAME .
 r123movie.com CNAME .
 *.r123movie.com CNAME .
-rabbitholebd.com CNAME .
-*.rabbitholebd.com CNAME .
 racing-underground.com CNAME .
 *.racing-underground.com CNAME .
 media.radiantbd.com CNAME .
