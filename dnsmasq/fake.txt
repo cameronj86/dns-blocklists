@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Mar 2025 23:59 UTC
-# Version: 2025.0322.2359.02
+# Last modified: 26 Mar 2025 12:07 UTC
+# Version: 2025.0326.1207.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10798
+# Number of entries: 10806
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -90,6 +90,8 @@ local=/abtreibungspillenrx.online/
 local=/abtrucks-trailers.com/
 local=/acapitalgroup.co/
 local=/acastleinthesun.com/
+local=/log.acces-btpanda.com/
+local=/acces-gestionparticulier.com/
 local=/acces-personnel.com/
 local=/access-eurnxt.com/
 local=/accessoriesbetter.com/
@@ -580,6 +582,7 @@ local=/ars-conservare.de/
 local=/arsuperet.live/
 local=/art-impulse.fr/
 local=/art-portrait.de/
+local=/artdupatrimoine.com/
 local=/artestaes.shop/
 local=/arti-ava.de/
 local=/artidomo.shop/
@@ -1586,6 +1589,7 @@ local=/capitalnvst.com/
 local=/capitalpilots.com/
 local=/capitaltradefx.com/
 local=/capri-charms.com/
+local=/capstellar.com/
 local=/captainboot.de/
 local=/caranly.com/
 local=/carasalesm.best/
@@ -1840,6 +1844,7 @@ local=/clearancegowns.com/
 local=/discountonline.clearancesales2023.com/
 local=/clearancesurfsale.com/
 local=/clearchoice-investments.com/
+local=/clefdupatrimoine.com/
 local=/clematore.shop/
 local=/clementrchrd.com/
 local=/cleo-capital.com/
@@ -3754,6 +3759,7 @@ local=/gastrade.co/
 local=/gastrosabicas.com/
 local=/gatar-trading.de/
 local=/gatar-versand.de/
+local=/gateusd.com/
 local=/gatomallde.shop/
 local=/gavriel-kauf.de/
 local=/gazkuch.shop/
@@ -5004,6 +5010,7 @@ local=/jintuti.com/
 local=/jjctrans.com/
 local=/jjmalibumen.com/
 local=/jkinski.shop/
+local=/jmbe-finances.com/
 local=/jnvdarjeeling.com/
 local=/joalpe.shop/
 local=/job-horizon-work.com/
@@ -7251,6 +7258,7 @@ local=/passivo.io/
 local=/patagoniapolskasklep.pl/
 local=/patainfel.com/
 local=/patrimoine-partenaires.com/
+local=/patrimoinefacile.com/
 local=/patrimoinesolution.com/
 local=/patriziabeni.com/
 local=/paul-joses.de/
