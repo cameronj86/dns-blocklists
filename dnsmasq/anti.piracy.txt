@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Mar 2025 16:55 UTC
-# Version: 2025.0326.1655.14
+# Last modified: 27 Mar 2025 04:33 UTC
+# Version: 2025.0327.0433.15
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 10457
 #
@@ -363,7 +363,6 @@ local=/7track.org/
 local=/7ur.ru/
 local=/7xstream.com/
 local=/7xtream.com/
-local=/nnasos1.8.zip/
 local=/87av.com/
 local=/open.8a.is/
 local=/8ebooks.net/
@@ -3972,6 +3971,7 @@ local=/gamestorrents.io/
 local=/gamestorrents.nu/
 local=/gametechwiki.com/
 local=/bt-tracker.gamexp.ru/
+local=/gamezlinks.net/
 local=/gamingbeasts.com/
 local=/gaoqing.fm/
 local=/garageforum.org/
@@ -4006,7 +4006,6 @@ local=/genoanime.com/
 local=/genvideos.com/
 local=/geographynetwork.com/
 local=/geotorrents.com/
-local=/ger.md/
 local=/gestor.tv/
 local=/get-apk.com/
 local=/get-filezzz.com/
@@ -6608,6 +6607,7 @@ local=/tracker.open-internet.nl/
 local=/openbittorrent.com/
 local=/tracker.openbtba.com/
 local=/openclip.info/
+local=/tracker.opendev.cloud/
 local=/openload.co/
 local=/openloadfreetv.me/
 local=/openloadmov.com/

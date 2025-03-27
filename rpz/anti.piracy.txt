@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743008100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743049980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Mar 2025 16:55 UTC
-; Version: 2025.0326.1655.14
+; Last modified: 27 Mar 2025 04:33 UTC
+; Version: 2025.0327.0433.15
 ; Syntax: RPZ
 ; Number of entries: 20914
 ;
@@ -1649,6 +1649,8 @@ lk21.cloud CNAME .
 *.lk21.cloud CNAME .
 musicpleer.cloud CNAME .
 *.musicpleer.cloud CNAME .
+tracker.opendev.cloud CNAME .
+*.tracker.opendev.cloud CNAME .
 pirateproxy.cloud CNAME .
 *.pirateproxy.cloud CNAME .
 rine.cloud CNAME .
@@ -11071,8 +11073,6 @@ guardaserie.markets CNAME .
 *.guardaserie.markets CNAME .
 eurostreaming.mba CNAME .
 *.eurostreaming.mba CNAME .
-ger.md CNAME .
-*.ger.md CNAME .
 123moviesfull.me CNAME .
 *.123moviesfull.me CNAME .
 123moviestv.me CNAME .
@@ -12601,6 +12601,8 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
+gamezlinks.net CNAME .
+*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -20889,8 +20891,6 @@ tracker.silksa.co.za CNAME .
 *.tracker.silksa.co.za CNAME .
 tracker-us.silksa.co.za CNAME .
 *.tracker-us.silksa.co.za CNAME .
-nnasos1.8.zip CNAME .
-*.nnasos1.8.zip CNAME .
 redecanais.zip CNAME .
 *.redecanais.zip CNAME .
 redecanaistv.zip CNAME .
