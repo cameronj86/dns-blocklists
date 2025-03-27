@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1742898540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743077460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Mar 2025 10:29 UTC
-; Version: 2025.0325.1029.25
+; Last modified: 27 Mar 2025 12:11 UTC
+; Version: 2025.0327.1211.54
 ; Syntax: RPZ
-; Number of entries: 4316
+; Number of entries: 4310
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1845,8 +1845,6 @@ websimages.com CNAME .
 *.websimages.com CNAME .
 websitehostfree.com CNAME .
 *.websitehostfree.com CNAME .
-webspawner.com CNAME .
-*.webspawner.com CNAME .
 webstarts.com CNAME .
 *.webstarts.com CNAME .
 weebly.com CNAME .
@@ -4243,8 +4241,6 @@ revk.uk CNAME .
 *.0fees.us CNAME .
 10h.us CNAME .
 *.10h.us CNAME .
-20m.us CNAME .
-*.20m.us CNAME .
 atspace.us CNAME .
 *.atspace.us CNAME .
 blogranking.us CNAME .
@@ -4259,8 +4255,6 @@ my-place.us CNAME .
 *.my-place.us CNAME .
 phpnet.us CNAME .
 *.phpnet.us CNAME .
-t50.us CNAME .
-*.t50.us CNAME .
 vipfree.us CNAME .
 *.vipfree.us CNAME .
 weblogs.us CNAME .

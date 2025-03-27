@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743050940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743094740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Mar 2025 04:49 UTC
-; Version: 2025.0327.0449.28
+; Last modified: 27 Mar 2025 16:59 UTC
+; Version: 2025.0327.1659.39
 ; Syntax: RPZ
-; Number of entries: 7782
+; Number of entries: 7820
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -914,8 +914,6 @@ boi9osyg1uwtyafn.com CNAME .
 *.boi9osyg1uwtyafn.com CNAME .
 boomproxy.com CNAME .
 *.boomproxy.com CNAME .
-boomtunnel.com CNAME .
-*.boomtunnel.com CNAME .
 booster456.com CNAME .
 *.booster456.com CNAME .
 boxpn.com CNAME .
@@ -2240,8 +2238,6 @@ proxygate.com CNAME .
 *.proxygate.com CNAME .
 proxygizlen.com CNAME .
 *.proxygizlen.com CNAME .
-proxyisp.com CNAME .
-*.proxyisp.com CNAME .
 proxyist.com CNAME .
 *.proxyist.com CNAME .
 proxyium.com CNAME .
@@ -2922,8 +2918,6 @@ viatun.com CNAME .
 *.viatun.com CNAME .
 videounblock.com CNAME .
 *.videounblock.com CNAME .
-videounblocked.com CNAME .
-*.videounblocked.com CNAME .
 vidproxy.com CNAME .
 *.vidproxy.com CNAME .
 vikingvpn.com CNAME .
@@ -4006,8 +4000,6 @@ bestyoutubeproxy.info CNAME .
 *.bestyoutubeproxy.info CNAME .
 brazilproxy.info CNAME .
 *.brazilproxy.info CNAME .
-clickapp.info CNAME .
-*.clickapp.info CNAME .
 coinsite.info CNAME .
 *.coinsite.info CNAME .
 coinweb.info CNAME .
@@ -4028,8 +4020,6 @@ dns.d96.info CNAME .
 *.dns.d96.info CNAME .
 directoryproxy.info CNAME .
 *.directoryproxy.info CNAME .
-easynetwork.info CNAME .
-*.easynetwork.info CNAME .
 everyproxies.info CNAME .
 *.everyproxies.info CNAME .
 fastestvpn.info CNAME .
@@ -4090,8 +4080,6 @@ lurk.info CNAME .
 *.lurk.info CNAME .
 mailproxy.info CNAME .
 *.mailproxy.info CNAME .
-maxvpn.info CNAME .
-*.maxvpn.info CNAME .
 testaghome.meshkov.info CNAME .
 *.testaghome.meshkov.info CNAME .
 miniprox.info CNAME .
@@ -4116,8 +4104,6 @@ onedown.info CNAME .
 *.onedown.info CNAME .
 adguard.onlyfriends.info CNAME .
 *.adguard.onlyfriends.info CNAME .
-onweb.info CNAME .
-*.onweb.info CNAME .
 papervpn.info CNAME .
 *.papervpn.info CNAME .
 pkproxy.info CNAME .
@@ -4878,12 +4864,6 @@ apple-relay.akamaized.net CNAME .
 *.apple-relay.akamaized.net CNAME .
 akunssh.net CNAME .
 *.akunssh.net CNAME .
-dns.alekberg.net CNAME .
-*.dns.alekberg.net CNAME .
-dns2.alekberg.net CNAME .
-*.dns2.alekberg.net CNAME .
-dnses.alekberg.net CNAME .
-*.dnses.alekberg.net CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
 dnsse.alekberg.net CNAME .
@@ -4986,10 +4966,16 @@ d101vabyweqq2v.cloudfront.net CNAME .
 *.d101vabyweqq2v.cloudfront.net CNAME .
 d11nlh9luc38sm.cloudfront.net CNAME .
 *.d11nlh9luc38sm.cloudfront.net CNAME .
+d127oyoibbqwge.cloudfront.net CNAME .
+*.d127oyoibbqwge.cloudfront.net CNAME .
 d135re68iqn9un.cloudfront.net CNAME .
 *.d135re68iqn9un.cloudfront.net CNAME .
+d15bbbc3wnvnmn.cloudfront.net CNAME .
+*.d15bbbc3wnvnmn.cloudfront.net CNAME .
 d1ai2z1erj0mzw.cloudfront.net CNAME .
 *.d1ai2z1erj0mzw.cloudfront.net CNAME .
+d1ay4vtvc8e6zx.cloudfront.net CNAME .
+*.d1ay4vtvc8e6zx.cloudfront.net CNAME .
 d1bshntecis4nt.cloudfront.net CNAME .
 *.d1bshntecis4nt.cloudfront.net CNAME .
 d1cu1v8rtmkdap.cloudfront.net CNAME .
@@ -4998,6 +4984,8 @@ d1d8t5xydfxgeo.cloudfront.net CNAME .
 *.d1d8t5xydfxgeo.cloudfront.net CNAME .
 d1dxafvkz5efdk.cloudfront.net CNAME .
 *.d1dxafvkz5efdk.cloudfront.net CNAME .
+d1h9h0ul1yshdr.cloudfront.net CNAME .
+*.d1h9h0ul1yshdr.cloudfront.net CNAME .
 d1llq9kjmh5kle.cloudfront.net CNAME .
 *.d1llq9kjmh5kle.cloudfront.net CNAME .
 d1mfbo70y8oix.cloudfront.net CNAME .
@@ -5010,24 +4998,42 @@ d1oil4jryamdk0.cloudfront.net CNAME .
 *.d1oil4jryamdk0.cloudfront.net CNAME .
 d1pijg9qb98hxx.cloudfront.net CNAME .
 *.d1pijg9qb98hxx.cloudfront.net CNAME .
+d1q7l8qbm9i79g.cloudfront.net CNAME .
+*.d1q7l8qbm9i79g.cloudfront.net CNAME .
 d1ry4tp9yai77v.cloudfront.net CNAME .
 *.d1ry4tp9yai77v.cloudfront.net CNAME .
+d1w3pxkso9cdze.cloudfront.net CNAME .
+*.d1w3pxkso9cdze.cloudfront.net CNAME .
+d1y8ra9afucwxf.cloudfront.net CNAME .
+*.d1y8ra9afucwxf.cloudfront.net CNAME .
+d1ygoiuoqawp5l.cloudfront.net CNAME .
+*.d1ygoiuoqawp5l.cloudfront.net CNAME .
 d1yqrjo3t9z45y.cloudfront.net CNAME .
 *.d1yqrjo3t9z45y.cloudfront.net CNAME .
 d1ziyscmc3vy4y.cloudfront.net CNAME .
 *.d1ziyscmc3vy4y.cloudfront.net CNAME .
+d20azcybrwtyo1.cloudfront.net CNAME .
+*.d20azcybrwtyo1.cloudfront.net CNAME .
+d20layvrh0e724.cloudfront.net CNAME .
+*.d20layvrh0e724.cloudfront.net CNAME .
 d218zko9b2en9z.cloudfront.net CNAME .
 *.d218zko9b2en9z.cloudfront.net CNAME .
 d21j7etzkdo9k9.cloudfront.net CNAME .
 *.d21j7etzkdo9k9.cloudfront.net CNAME .
 d21lp3bv4cvrq0.cloudfront.net CNAME .
 *.d21lp3bv4cvrq0.cloudfront.net CNAME .
+d22exc1qaxxg5.cloudfront.net CNAME .
+*.d22exc1qaxxg5.cloudfront.net CNAME .
 d22wz8n8kxtekt.cloudfront.net CNAME .
 *.d22wz8n8kxtekt.cloudfront.net CNAME .
 d23adb9b00af8o.cloudfront.net CNAME .
 *.d23adb9b00af8o.cloudfront.net CNAME .
+d24pwtxnl8j1kl.cloudfront.net CNAME .
+*.d24pwtxnl8j1kl.cloudfront.net CNAME .
 d25x2lo7c2cgcg.cloudfront.net CNAME .
 *.d25x2lo7c2cgcg.cloudfront.net CNAME .
+d26hytpp1egyak.cloudfront.net CNAME .
+*.d26hytpp1egyak.cloudfront.net CNAME .
 d2aie540xlenvh.cloudfront.net CNAME .
 *.d2aie540xlenvh.cloudfront.net CNAME .
 d2bt0exxr0npbv.cloudfront.net CNAME .
@@ -5040,32 +5046,66 @@ d2lc4c1pqsbcnb.cloudfront.net CNAME .
 *.d2lc4c1pqsbcnb.cloudfront.net CNAME .
 d2nwen82kufxls.cloudfront.net CNAME .
 *.d2nwen82kufxls.cloudfront.net CNAME .
+d2p6rd3rat982h.cloudfront.net CNAME .
+*.d2p6rd3rat982h.cloudfront.net CNAME .
 d2s11oshv6yhsg.cloudfront.net CNAME .
 *.d2s11oshv6yhsg.cloudfront.net CNAME .
+d2snllh8r7h5xe.cloudfront.net CNAME .
+*.d2snllh8r7h5xe.cloudfront.net CNAME .
 d2t530yk5s6ixp.cloudfront.net CNAME .
 *.d2t530yk5s6ixp.cloudfront.net CNAME .
+d2wkmoh47zvvhf.cloudfront.net CNAME .
+*.d2wkmoh47zvvhf.cloudfront.net CNAME .
 d2xl5j5majlxvm.cloudfront.net CNAME .
 *.d2xl5j5majlxvm.cloudfront.net CNAME .
+d30jxbzqqg5c6b.cloudfront.net CNAME .
+*.d30jxbzqqg5c6b.cloudfront.net CNAME .
+d30mgm21mrikqh.cloudfront.net CNAME .
+*.d30mgm21mrikqh.cloudfront.net CNAME .
 d32z5ni8t5127x.cloudfront.net CNAME .
 *.d32z5ni8t5127x.cloudfront.net CNAME .
+d33nduswak3e8z.cloudfront.net CNAME .
+*.d33nduswak3e8z.cloudfront.net CNAME .
 d33xcky42h0olw.cloudfront.net CNAME .
 *.d33xcky42h0olw.cloudfront.net CNAME .
 d3653e2epregbl.cloudfront.net CNAME .
 *.d3653e2epregbl.cloudfront.net CNAME .
+d36jcszes5m5y9.cloudfront.net CNAME .
+*.d36jcszes5m5y9.cloudfront.net CNAME .
+d37d0eet8vqwi8.cloudfront.net CNAME .
+*.d37d0eet8vqwi8.cloudfront.net CNAME .
+d39utm8gj45c7v.cloudfront.net CNAME .
+*.d39utm8gj45c7v.cloudfront.net CNAME .
 d39vupl819wjy5.cloudfront.net CNAME .
 *.d39vupl819wjy5.cloudfront.net CNAME .
 d3b4y213ksr6z5.cloudfront.net CNAME .
 *.d3b4y213ksr6z5.cloudfront.net CNAME .
 d3cegil552nnks.cloudfront.net CNAME .
 *.d3cegil552nnks.cloudfront.net CNAME .
+d3da4vp433xioa.cloudfront.net CNAME .
+*.d3da4vp433xioa.cloudfront.net CNAME .
+d3dfrde26093iw.cloudfront.net CNAME .
+*.d3dfrde26093iw.cloudfront.net CNAME .
+d3h88i27t2k9za.cloudfront.net CNAME .
+*.d3h88i27t2k9za.cloudfront.net CNAME .
+d3ld64f3x32q9b.cloudfront.net CNAME .
+*.d3ld64f3x32q9b.cloudfront.net CNAME .
 d3mbcglufa4kg4.cloudfront.net CNAME .
 *.d3mbcglufa4kg4.cloudfront.net CNAME .
+d3qrgc52ksxp0f.cloudfront.net CNAME .
+*.d3qrgc52ksxp0f.cloudfront.net CNAME .
+d3r068fmelzi0v.cloudfront.net CNAME .
+*.d3r068fmelzi0v.cloudfront.net CNAME .
 d3r4uyp6f50bpa.cloudfront.net CNAME .
 *.d3r4uyp6f50bpa.cloudfront.net CNAME .
+d3sdizpx54za7n.cloudfront.net CNAME .
+*.d3sdizpx54za7n.cloudfront.net CNAME .
 d3vbve16e4mwju.cloudfront.net CNAME .
 *.d3vbve16e4mwju.cloudfront.net CNAME .
 d3vo8ia181ei2.cloudfront.net CNAME .
 *.d3vo8ia181ei2.cloudfront.net CNAME .
+d4q7uy1bdj3do.cloudfront.net CNAME .
+*.d4q7uy1bdj3do.cloudfront.net CNAME .
 d560g3bzhkqrf.cloudfront.net CNAME .
 *.d560g3bzhkqrf.cloudfront.net CNAME .
 d8ou8y123d5vy.cloudfront.net CNAME .
@@ -5078,6 +5118,8 @@ dg98q1fqxxogp.cloudfront.net CNAME .
 *.dg98q1fqxxogp.cloudfront.net CNAME .
 djx5taukzt3mb.cloudfront.net CNAME .
 *.djx5taukzt3mb.cloudfront.net CNAME .
+djzmgdkxnizyn.cloudfront.net CNAME .
+*.djzmgdkxnizyn.cloudfront.net CNAME .
 dmh2vhxzf0tuf.cloudfront.net CNAME .
 *.dmh2vhxzf0tuf.cloudfront.net CNAME .
 dqwow4xvbctco.cloudfront.net CNAME .
@@ -5088,6 +5130,8 @@ dt4oxny0f90is.cloudfront.net CNAME .
 *.dt4oxny0f90is.cloudfront.net CNAME .
 du8aqpqj1sfsd.cloudfront.net CNAME .
 *.du8aqpqj1sfsd.cloudfront.net CNAME .
+dvfqxoi8ar2lj.cloudfront.net CNAME .
+*.dvfqxoi8ar2lj.cloudfront.net CNAME .
 dwhh0bi26t86w.cloudfront.net CNAME .
 *.dwhh0bi26t86w.cloudfront.net CNAME .
 dxyef5b084fjk.cloudfront.net CNAME .
@@ -6070,8 +6114,6 @@ jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
 krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
-osefcorp.duckdns.org CNAME .
-*.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .
@@ -6944,16 +6986,12 @@ croxy.ghgi.site CNAME .
 *.croxy.ghgi.site CNAME .
 www-croxy.ghgi.site CNAME .
 *.www-croxy.ghgi.site CNAME .
-hiddendragon.site CNAME .
-*.hiddendragon.site CNAME .
 joker81fansbase.site CNAME .
 *.joker81fansbase.site CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
 dns.labnekotest.site CNAME .
 *.dns.labnekotest.site CNAME .
-lookingglass.site CNAME .
-*.lookingglass.site CNAME .
 mathhelpnow.site CNAME .
 *.mathhelpnow.site CNAME .
 mycelium.site CNAME .

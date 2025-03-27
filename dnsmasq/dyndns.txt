@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Mar 2025 04:42 UTC
-# Version: 2025.0320.0442.50
+# Last modified: 27 Mar 2025 16:56 UTC
+# Version: 2025.0327.1656.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1401
+# Number of entries: 1395
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -330,7 +330,6 @@ local=/doomdns.org/
 local=/dougtreadwell.com/
 local=/doyleandprendergast.com/
 local=/dp76.com/
-local=/dray-dns.de/
 local=/drayddns.com/
 local=/dropfiles.net/
 local=/drunkensailor.org/
@@ -628,7 +627,6 @@ local=/forgot.his.name/
 local=/hitremixes.com/
 local=/hldns.ru/
 local=/hmail.us/
-local=/hmao.pro/
 local=/hobby-site.com/
 local=/hobby-site.org/
 local=/hokum-smack.com/
@@ -917,8 +915,6 @@ local=/mudchute.com/
 local=/musterihizmetleri.com/
 local=/mwop.net/
 local=/my.to/
-local=/my-vigor.de/
-local=/my-wan.de/
 local=/my03.com/
 local=/myactivedirectory.com/
 local=/myaddr.dev/
@@ -1266,8 +1262,6 @@ local=/surak.kz/
 local=/surfnet.ca/
 local=/suroot.com/
 local=/swtest.ru/
-local=/syno-ds.de/
-local=/synology-diskstation.de/
 local=/synoserver.com/
 local=/syntereo.com/
 local=/sysadminetworks.com/

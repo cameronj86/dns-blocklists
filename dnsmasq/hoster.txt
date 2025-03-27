@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Mar 2025 10:29 UTC
-# Version: 2025.0325.1029.25
+# Last modified: 27 Mar 2025 12:11 UTC
+# Version: 2025.0327.1211.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2158
+# Number of entries: 2155
 #
 local=/000a.de/
 local=/000space.com/
@@ -92,7 +92,6 @@ local=/2.je/
 local=/204.at/
 local=/20fr.com/
 local=/20m.com/
-local=/20m.us/
 local=/20megsfree.com/
 local=/22web.net/
 local=/22web.org/
@@ -1803,7 +1802,6 @@ local=/szm.com/
 local=/szm.sk/
 local=/t.gp/
 local=/t35.com/
-local=/t50.us/
 local=/talk4fun.net/
 local=/tar.hu/
 local=/targetblogs.com/
@@ -2061,7 +2059,6 @@ local=/website.org/
 local=/website-home.ws/
 local=/website2.me/
 local=/websitehostfree.com/
-local=/webspawner.com/
 local=/webstarts.com/
 local=/webwave.dev/
 local=/webzdarma.cz/
