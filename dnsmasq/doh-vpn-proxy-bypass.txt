@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Mar 2025 16:59 UTC
-# Version: 2025.0327.1659.39
+# Last modified: 28 Mar 2025 07:31 UTC
+# Version: 2025.0328.0731.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3910
+# Number of entries: 3914
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1058,7 +1058,6 @@ local=/agh.dshubham.xyz/
 local=/duapps.com/
 local=/duba.net/
 local=/home27.duckdns.org/
-local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
@@ -1398,6 +1397,7 @@ local=/giveproxy.com/
 local=/gizlen.net/
 local=/gizlibaglanti.com/
 local=/h.gjrick.tw/
+local=/sdns22.gkonuralp.com/
 local=/glacius.top/
 local=/dns.glf.wtf/
 local=/global-proxy.com/
@@ -1679,6 +1679,8 @@ local=/is-super.cool/
 local=/dns.is0mino.com/
 local=/mickedi.isgood.host/
 local=/dns.ishan.pw/
+local=/ishark.com/
+local=/isharkvpn.com/
 local=/isityet.net/
 local=/dns.islandnet.com/
 local=/ispunblock.com/
@@ -1750,6 +1752,7 @@ local=/k2vpn.io/
 local=/dns.k3nny.fr/
 local=/kaiwu.xyz/
 local=/dns.kamilszczepanski.com/
+local=/adguard.kantinyoyok.xyz/
 local=/dns.kapite.in/
 local=/dns.karadag.me/
 local=/dns.karfamily.net/
@@ -3553,6 +3556,7 @@ local=/resolver.unstoppable.io/
 local=/untraceable.us/
 local=/untracer.com/
 local=/dns.unx.io/
+local=/updatedproxies.com/
 local=/dns.uplenk.com/
 local=/uproxy.online/
 local=/ur-browser.com/

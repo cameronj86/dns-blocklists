@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743093780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743146040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Mar 2025 16:43 UTC
-; Version: 2025.0327.1643.22
+; Last modified: 28 Mar 2025 07:14 UTC
+; Version: 2025.0328.0714.56
 ; Syntax: RPZ
-; Number of entries: 20676
+; Number of entries: 20678
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1631,6 +1631,8 @@ musicpleer.cloud CNAME .
 *.musicpleer.cloud CNAME .
 tracker.opendev.cloud CNAME .
 *.tracker.opendev.cloud CNAME .
+tracker-v6.opendev.cloud CNAME .
+*.tracker-v6.opendev.cloud CNAME .
 pirateproxy.cloud CNAME .
 *.pirateproxy.cloud CNAME .
 rine.cloud CNAME .
@@ -8363,8 +8365,6 @@ dvdseed.eu CNAME .
 *.dvdseed.eu CNAME .
 edels-stube.eu CNAME .
 *.edels-stube.eu CNAME .
-european-alternatives.eu CNAME .
-*.european-alternatives.eu CNAME .
 eurostreaming.eu CNAME .
 *.eurostreaming.eu CNAME .
 exitorrent.eu CNAME .
@@ -12471,6 +12471,8 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
+gamezlinks.net CNAME .
+*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
