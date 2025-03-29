@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Mar 2025 07:29 UTC
-# Version: 2025.0328.0729.53
+# Last modified: 28 Mar 2025 23:28 UTC
+# Version: 2025.0328.2328.40
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 182
 #
@@ -78,24 +78,24 @@
 0.0.0.0 doh.xyz au-syd.doh.sb ca-yyc.doh.sb de-dus.doh.sb de-fra.doh.sb ee-tll.doh.sb hk-hkg.doh.sb in-blr.doh.sb jp-kix.doh.sb
 0.0.0.0 jp-nrt.doh.sb kr-sel.doh.sb nl-ams.doh.sb nl-ams2.doh.sb ru-mow.doh.sb sg-sin.doh.sb sm2.doh.pub uk-lon.doh.sb doh.domreg.lt
 0.0.0.0 takhtakh.domyah.net dns.dooks.uk dot.pub dns.dotnet.win dns.dremaxx.de droyd.top doh.dscloud.me agh.dshubham.xyz home27.duckdns.org
-0.0.0.0 krtekvpn.duckdns.org punono.duckdns.org tuandns.duckdns.org tungdnsne.duckdns.org dukun.de dns.dyn1.de ueni.dyndns.org dnscache.e-utp.net adguard.easez.net
-0.0.0.0 easyhandshake.com dns.eddi.net doh.eddi.net dns.edgeburnmedia.com edgy-dns.com dns.editechstudio.com dns.tuna.tsinghua.edu.cn adguard.ef67daisuki.club dns.efficientdocuments.com
-0.0.0.0 hole.elbschloss.xyz dns.elemental.software eliatofani.ovh dns.eliv.kr dns.ellichua.com dns.emiliyan.com adguard.ender.fr home.enjoymylife.net dns.enzonix.com
-0.0.0.0 bl.eq.md shield1.eranext.net doh.ersei.net dns.esnube.es eth.link opennic1.eth-services.de arashi.eu.org armorrush.eu.org dns.de.futuredns.eu.org
-0.0.0.0 dns.us.futuredns.eu.org dns.fullaccesstointernet.jp.eu.org dns.mayx.eu.org arashi.net.eu.org sukidayo.eu.org dns.extrawdw.net fra1.eyecay.xyz dns.f4a.fun jp1.f7b6h9.tk
-0.0.0.0 dns.f97.xyz pdns.faelix.net rdns.faelix.net dns.faked.org dns.falkenthal.org dnsvps.familiamv.net dns.fancyorg.at farewellkou.click dns.farshidhakimy.de
-0.0.0.0 apple-relay.fastly-edge.com ns0.fdn.fr ns1.fdn.fr dns.fehlsprache.de fezgate.ovh ag.ff0x.ca 2.dnscrypt-cert.ffmuc.net doh.ffmuc.net dot.ffmuc.net
-0.0.0.0 dns.ffnw.de fidelius.top dns.filipccz.eu dns.fizz.studio dns.flatuslifir.is dns.flightspace.net dns01.flm9.net ns1.flodns.net ns2.flodns.net
-0.0.0.0 resolv.flokinet.net dns.floriantinney.de agh.fltn.us dns.flwagners.com dns.flymc.cc biying.flymlc.com gateway.fomichev.cloud hkname.freecdn.one dns.freopc.fr
-0.0.0.0 dns.freyja.pw dns.froth.zone doh.funil.de doh.funtopia.tv dns.furrydns.de doh.futa.app doh.futa.gg dns.futuredns.me cluster-0.gac.edu
-0.0.0.0 cluster-1.gac.edu dns.gamban.com adguard.gambini.org dns.beta.gandi.net gclouddns.com adg.geili.me geshido.vpn.geshido.ru getdnsapi.net gibblets.top
-0.0.0.0 adguard.maison.gifino.fr dns.ginovs.nl dns.girino.org h.gjrick.tw sdns22.gkonuralp.com glacius.top dns.glf.wtf dns.api.globus.org dns.api.preview.globus.org
-0.0.0.0 dns.api.integration.globuscs.info dns.api.sandbox.globuscs.info dns.api.staging.globuscs.info dns.api.test.globuscs.info agh.gloom.nexus dns.gnb09.id privacydns.go6lab.si dns.goldplate.org doh-primary-pool.goodbyegambling.com
-0.0.0.0 dns.google.com google-public-dns-a.google.com google-public-dns-b.google.com performance.gosami.xyz dot.libredns.gr.com dnsblock.grisumedia.de dns.grqu.de dns.guard.io dns.guardmydns.com
-0.0.0.0 dns2.guidocioni.it dns.gutwe.in gztech.me dns.hahnjo.de dns.haka.se dns.hakim.one dns.hanahira.dev adguard.haneulo.com dns.hanmey.de
-0.0.0.0 hanniel.tech dns.hannielzhang.com resolver-eu.haringstad.com adguard.hartley.cloud query.hdns.io ordns.he.net us-ny-alula.heliumcloud.cc dns.hellozhao.com dns.henek.ovh
-0.0.0.0 httpdns-push.heytapmobile.com hfgx.shop dns.hinet.net hitian.me pihole1.hoerli.net pihole2.hoerli.net pihole3.hoerli.net pihole4.hoerli.net home-server.store
-0.0.0.0 dns.hoody.com keithchung.hopto.org dns.horcrux.vip dns.internal.hosmatic.com dns.hostux.net dns.hotta.page doh.hottis.de hshh.org dns.hshoe.cn
+0.0.0.0 jurre-home.duckdns.org krtekvpn.duckdns.org punono.duckdns.org tuandns.duckdns.org tungdnsne.duckdns.org dukun.de dns.dyn1.de ueni.dyndns.org dnscache.e-utp.net
+0.0.0.0 adguard.easez.net easyhandshake.com dns.eddi.net doh.eddi.net dns.edgeburnmedia.com edgy-dns.com dns.editechstudio.com dns.tuna.tsinghua.edu.cn adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com hole.elbschloss.xyz dns.elemental.software eliatofani.ovh dns.eliv.kr dns.ellichua.com dns.emiliyan.com adguard.ender.fr home.enjoymylife.net
+0.0.0.0 dns.enzonix.com bl.eq.md shield1.eranext.net doh.ersei.net dns.esnube.es eth.link opennic1.eth-services.de arashi.eu.org armorrush.eu.org
+0.0.0.0 dns.de.futuredns.eu.org dns.us.futuredns.eu.org dns.fullaccesstointernet.jp.eu.org dns.mayx.eu.org arashi.net.eu.org sukidayo.eu.org dns.extrawdw.net fra1.eyecay.xyz dns.f4a.fun
+0.0.0.0 jp1.f7b6h9.tk dns.f97.xyz pdns.faelix.net rdns.faelix.net dns.faked.org dns.falkenthal.org dnsvps.familiamv.net dns.fancyorg.at farewellkou.click
+0.0.0.0 dns.farshidhakimy.de apple-relay.fastly-edge.com ns0.fdn.fr ns1.fdn.fr dns.fehlsprache.de fezgate.ovh ag.ff0x.ca 2.dnscrypt-cert.ffmuc.net doh.ffmuc.net
+0.0.0.0 dot.ffmuc.net dns.ffnw.de fidelius.top dns.filipccz.eu dns.fizz.studio dns.flatuslifir.is dns.flightspace.net dns01.flm9.net ns1.flodns.net
+0.0.0.0 ns2.flodns.net resolv.flokinet.net dns.floriantinney.de agh.fltn.us dns.flwagners.com dns.flymc.cc biying.flymlc.com gateway.fomichev.cloud hkname.freecdn.one
+0.0.0.0 dns.freopc.fr dns.freyja.pw dns.froth.zone doh.funil.de doh.funtopia.tv dns.furrydns.de doh.futa.app doh.futa.gg dns.futuredns.me
+0.0.0.0 cluster-0.gac.edu cluster-1.gac.edu dns.gamban.com adguard.gambini.org dns.beta.gandi.net gclouddns.com adg.geili.me geshido.vpn.geshido.ru getdnsapi.net
+0.0.0.0 gibblets.top adguard.maison.gifino.fr dns.ginovs.nl dns.girino.org h.gjrick.tw sdns22.gkonuralp.com glacius.top dns.glf.wtf dns.api.globus.org
+0.0.0.0 dns.api.preview.globus.org dns.api.integration.globuscs.info dns.api.sandbox.globuscs.info dns.api.staging.globuscs.info dns.api.test.globuscs.info agh.gloom.nexus dns.gnb09.id privacydns.go6lab.si dns.goldplate.org
+0.0.0.0 doh-primary-pool.goodbyegambling.com dns.google.com google-public-dns-a.google.com google-public-dns-b.google.com performance.gosami.xyz dot.libredns.gr.com dnsblock.grisumedia.de dns.grqu.de dns.guard.io
+0.0.0.0 dns.guardmydns.com dns2.guidocioni.it dns.gutwe.in gztech.me dns.hahnjo.de dns.haka.se dns.hakim.one dns.hanahira.dev adguard.haneulo.com
+0.0.0.0 dns.hanmey.de hanniel.tech dns.hannielzhang.com resolver-eu.haringstad.com adguard.hartley.cloud query.hdns.io ordns.he.net us-ny-alula.heliumcloud.cc dns.hellozhao.com
+0.0.0.0 dns.henek.ovh httpdns-push.heytapmobile.com hfgx.shop dns.hinet.net hitian.me pihole1.hoerli.net pihole2.hoerli.net pihole3.hoerli.net pihole4.hoerli.net
+0.0.0.0 home-server.store dns.hoody.com keithchung.hopto.org dns.horcrux.vip dns.internal.hosmatic.com dns.hostux.net dns.hotta.page doh.hottis.de hshh.org
 0.0.0.0 dns.hujiayucc.cn ads.hunga1k47.com doth.huque.com dns.huseynov.work ad.huyct.net dns.huyhoangit.net dns.hypercute.eu opennic.i2pd.xyz opennic2.i2pd.xyz
 0.0.0.0 vd.i81.ru dns.iamanuragh.in dns.iamninja.ru mask.icloud.com mask-api.icloud.com mask-boot.icloud.com mask-canary.icloud.com mask-h2.icloud.com tienpham.id.vn
 0.0.0.0 adguard.shuting.idv.tw dns.ihaveacloud.com iij.jp public.dns.iij.jp ikarosalpha.xyz dns.ikataruto.com dns.imaicool.com noads.imbuffering.com dns.imchristian.de

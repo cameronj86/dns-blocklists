@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Mar 2025 22:58 UTC
-# Version: 2025.0321.2258.01
+# Last modified: 28 Mar 2025 22:58 UTC
+# Version: 2025.0328.2258.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 796
+# Number of entries: 788
 #
 l.1mp.ru
 t.1und1.de
@@ -65,18 +65,14 @@ aax-eu.amazon.fr
 aax-eu.amazon.in
 aax-eu.amazon.it
 aax-eu.amazon.nl
-aax-eu.amazon.sa
-aax-eu.amazon.se
+aax-eu.amazon.pl
 aax-fe.amazon.sg
 aax-fe-pdx-direct.amazon.com
-aax-fe-retail-rtb.amazon.com
 aax-us-east-retail-direct.amazon.com
-aax-us-east-retail-rtb.amazon.com
 aax-us-iad.amazon.com
 aax-dtb-cf.amazon-adsystem.amazon.com
 aax-dtb-mobile-geo.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.amazon.com
-aax-ott-sdk.amazon-adsystem.amazon.com
 aax-us.amazon-adsystem.amazon.com
 aax-us-ott.amazon-adsystem.amazon.com
 assoc-redirect.amazon.com
@@ -183,6 +179,7 @@ adservice.google.com.au
 adservice.google.com.br
 adservice.google.com.cl
 adservice.google.com.co
+adservice.google.com.ec
 adservice.google.com.eg
 adservice.google.com.gt
 adservice.google.com.hk
@@ -248,6 +245,8 @@ api.elasticemail.com
 hs.eloqua.com
 list-unsubscribe.eservice.emarsys.net
 redirector.eservice.emarsys.net
+suite-dashboard.gservice.emarsys.net
+suite.emarsys.net
 suite10.emarsys.net
 suite11.emarsys.net
 suite16.emarsys.net
@@ -258,19 +257,16 @@ suite27.emarsys.net
 suite29.emarsys.net
 suite32.emarsys.net
 suite33.emarsys.net
-suite34.emarsys.net
-suite36.emarsys.net
 suite38.emarsys.net
 suite40.emarsys.net
-suite40-cf.emarsys.net
 suite45.emarsys.net
-suite52.emarsys.net
 suite54.emarsys.net
 suite56.emarsys.net
 suite57.emarsys.net
 suite58.emarsys.net
 suite59.emarsys.net
 suite63.emarsys.net
+suite67-cf.emarsys.net
 suite7.emarsys.net
 suite9.emarsys.net
 emjcd.com
@@ -293,7 +289,6 @@ s11.exacttarget.com
 s12.exacttarget.com
 s13.exacttarget.com
 s4.exacttarget.com
-s5.exacttarget.com
 s50.exacttarget.com
 s51.exacttarget.com
 s6.exacttarget.com
@@ -305,7 +300,6 @@ cdn.exponea.com
 cdn.eu1.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.network.exponea.com
-nxi-cdn.exponea.com
 ozon-cdn.exponea.com
 ri-cdn.exponea.com
 cdn.uk.exponea.com
@@ -332,7 +326,6 @@ track.glovoapp.com
 go.link
 go2jump.org
 adservice.google.ca
-adservice.google.ch
 adservice.google.com
 adservice.google.de
 adservice.google.dk
@@ -350,7 +343,6 @@ adservice.google.pl
 adservice.google.ro
 adservice.google.ru
 adservice.google.se
-adservice.google.sk
 adservice.google.vg
 www.googleadservices.com
 gopjn.com
@@ -371,7 +363,6 @@ api.hubapi.com
 api-eu1.hubapi.com
 api-na1.hubapi.com
 api-na2.hubapi.com
-api-na3.hubapi.com
 hubspotemail.net
 hubspotlinks.com
 ssl.hurra.com
@@ -445,15 +436,14 @@ email.microsoftemail.com
 email.microsoftonline.com
 links.mkt41.net
 mkto-a0095.com
+mkto-ab010169.com
+mkto-ab020242.com
 mkto-ab040115.com
 mkto-ab040147.com
 mkto-ab060085.com
-mkto-ab060144.com
+mkto-ab070017.com
 mkto-ab080206.com
-mkto-ab110171.com
-mkto-ab150224.com
-mkto-ab180008.com
-mkto-ab180024.com
+mkto-ab160143.com
 mkto-ab200065.com
 mkto-ab210094.com
 mkto-ab210104.com
@@ -461,17 +451,14 @@ mkto-ab220178.com
 mkto-ab220193.com
 mkto-ab240112.com
 mkto-ab250105.com
-mkto-ab270090.com
-mkto-ab280191.com
-mkto-ab290022.com
+mkto-ab280126.com
 mkto-ab300154.com
 mkto-ab310115.com
 mkto-ab330197.com
+mkto-ab340124.com
 mkto-ab420081.com
-mkto-ab450037.com
-mkto-ab450191.com
 mkto-ab470148.com
-mkto-ab520004.com
+mkto-ab480047.com
 mkto-ab530057.com
 mkto-ab540059.com
 mkto-ab540186.com
@@ -479,30 +466,35 @@ mkto-ab550140.com
 mkto-ab550168.com
 mkto-ab560068.com
 mkto-ab570110.com
+mkto-ab570148.com
 mkto-ab580004.com
+mkto-ab640150.com
+mkto-ab650006.com
 mkto-ab650097.com
+mkto-ab650145.com
 mkto-ab660121.com
 mkto-ab690180.com
 mkto-abj0022.com
 mkto-abm0229.com
-mkto-cs0007.com
-mkto-d0064.com
 mkto-d0097.com
 mkto-d0170.com
+mkto-d0177.com
 mkto-f0054.com
 mkto-g0030.com
 mkto-g0180.com
+mkto-h0125.com
 mkto-k0071.com
 mkto-lon030291.com
 mkto-lon040152.com
-mkto-lon050200.com
 mkto-lon090082.com
 mkto-n0199.com
+mkto-nld1030007.com
 mkto-nld1040060.com
 mkto-nld1040186.com
 mkto-o0153.com
 mkto-sj010104.com
 mkto-sj030214.com
+mkto-sj040017.com
 mkto-sj040252.com
 mkto-sj070214.com
 mkto-sj070259.com
@@ -514,6 +506,7 @@ mkto-sj180011.com
 mkto-sj190104.com
 mkto-sj190237.com
 mkto-sj200192.com
+mkto-sj210107.com
 mkto-sj230006.com
 mkto-sj240014.com
 mkto-sj240021.com
@@ -521,10 +514,9 @@ mkto-sj270080.com
 mkto-sj310061.com
 mkto-sj320047.com
 mkto-sj330006.com
+mkto-sj340004.com
 mkto-sj360142.com
 mkto-sj370181.com
-mkto-sj390079.com
-mkto-sjh0224.com
 mkto-test.com
 mktoweb.com
 mkto-lp.mlinc.com
@@ -597,6 +589,7 @@ pntrac.com
 pntrack.com
 postaffiliatepro.com
 ndirect.ppro.de
+geo01.dns.presslabs.net
 geo02.dns.presslabs.net
 geo1.presslabs.net
 prf.hn
@@ -620,13 +613,13 @@ rewardtk.com
 adorama.rfvk.net
 click.royalcaribbeanmarketing.com
 r4gh8tuab.cc.rs6.net
-r4iqtwrab.cc.rs6.net
 r4ofs8cab.cc.rs6.net
 r5waxhbbb.cc.rs6.net
+r6hquldab.cc.rs6.net
 r6lccqnab.cc.rs6.net
 r7avxrcab.cc.rs6.net
-r88lcbcab.cc.rs6.net
-rapki9kab.cc.rs6.net
+rdbpgc7ab.cc.rs6.net
+reaplmcab.cc.rs6.net
 rgkkzvdab.cc.rs6.net
 rjpz4ucab.cc.rs6.net
 rq6agxabb.cc.rs6.net
@@ -784,7 +777,6 @@ clicks.trx-hub.com
 analytics.twitter.com
 email.uber.com
 redirect.viglink.com
-ek8.voyage-prive.com
 cts.vresp.com
 cdn.webclicks24.com
 api.webengage.com

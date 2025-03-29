@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Mar 2025 07:31 UTC
-# Version: 2025.0328.0731.13
+# Last modified: 28 Mar 2025 23:27 UTC
+# Version: 2025.0328.2327.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3914
+# Number of entries: 3916
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1058,6 +1058,7 @@ local=/agh.dshubham.xyz/
 local=/duapps.com/
 local=/duba.net/
 local=/home27.duckdns.org/
+local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
@@ -1577,9 +1578,9 @@ local=/dns.hotta.page/
 local=/doh.hottis.de/
 local=/howdy.id/
 local=/hoxx.com/
+local=/hoxx.net/
 local=/hoyofun.xyz/
 local=/hshh.org/
-local=/dns.hshoe.cn/
 local=/hsselite.com/
 local=/html.cafe/
 local=/httpdserver.info/
@@ -3074,6 +3075,7 @@ local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/error.proxy.startpage.com/
+local=/proxy1.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us-browse.startpage.com/

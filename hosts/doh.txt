@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Mar 2025 07:29 UTC
-# Version: 2025.0328.0729.53
+# Last modified: 28 Mar 2025 23:28 UTC
+# Version: 2025.0328.2328.40
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1634
 #
@@ -622,6 +622,7 @@
 0.0.0.0 doh.dscloud.me
 0.0.0.0 agh.dshubham.xyz
 0.0.0.0 home27.duckdns.org
+0.0.0.0 jurre-home.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org
@@ -783,7 +784,6 @@
 0.0.0.0 dns.hotta.page
 0.0.0.0 doh.hottis.de
 0.0.0.0 hshh.org
-0.0.0.0 dns.hshoe.cn
 0.0.0.0 dns.hujiayucc.cn
 0.0.0.0 ads.hunga1k47.com
 0.0.0.0 doth.huque.com

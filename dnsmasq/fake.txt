@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Mar 2025 02:38 UTC
-# Version: 2025.0328.0238.30
+# Last modified: 29 Mar 2025 00:42 UTC
+# Version: 2025.0329.0042.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10567
+# Number of entries: 10568
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -1427,7 +1427,6 @@ local=/brueggen-handel.de/
 local=/bruland.store/
 local=/brunateschuhewerksverkauf.de/
 local=/brunetsludmila.com/
-local=/bs2best.at/
 local=/bs2site.at/
 local=/bsc-network.de/
 local=/bse-capital.com/
@@ -1442,7 +1441,6 @@ local=/btcminer.website/
 local=/btcoinpro.com/
 local=/btcswing.com/
 local=/btop24.de/
-local=/btvtransport.com/
 local=/buceplantde.shop/
 local=/buchholzs.de/
 local=/buchverlag-scholz.de/
@@ -1509,7 +1507,6 @@ local=/callitspringshoe.com/
 local=/caloubois.com/
 local=/cambase-berlin.de/
 local=/cameraverse.de/
-local=/camion-europeo.co/
 local=/camper-schuhe.at/
 local=/camperschuh.com/
 local=/camperschuhe.at/
@@ -6308,6 +6305,7 @@ local=/my-schaschlik.shop/
 local=/myalpins.com/
 local=/portal.mybeautyplans.com/
 local=/mybitchain.com/
+local=/mycrypto-invest.com/
 local=/mycrypto24.com/
 local=/mycupofteababyde.shop/
 local=/mydealz.live/
@@ -6732,6 +6730,7 @@ local=/olfanew.com/
 local=/olivespielzeug.com/
 local=/oliviachic.com/
 local=/olukai-france.fr/
+local=/olympics-shop.com/
 local=/olympicsvipshop.com/
 local=/olympis.de/
 local=/ome2.vip/
@@ -7733,6 +7732,7 @@ local=/retter-de.shop/
 local=/returnpotentialonline.com/
 local=/revemotode.shop/
 local=/reviewpunt.nl/
+local=/reviteu.com/
 local=/revolutionfsl.com/
 local=/revolutionraceshop.com/
 local=/revomarkt.com/
@@ -8784,6 +8784,7 @@ local=/straps-shop.com/
 local=/strassenvogel-waren.de/
 local=/strategic-expansion.com/
 local=/strategiessolution.com/
+local=/strauss-eu.shop/
 local=/strauss-vip.shop/
 local=/straussandramm.shop/
 local=/straussoffvip.shop/
@@ -9600,6 +9601,7 @@ local=/tuinbalkon.com/
 local=/tunepart.com/
 local=/tunespot.de/
 local=/tupperware-de.shop/
+local=/tupperware-eu.shop/
 local=/tupperware-osterreich.com/
 local=/tupperwarestore-us.com/
 local=/tupperwarseonline.com/
@@ -10141,7 +10143,6 @@ local=/watch-fakes.to/
 local=/watchesbuy.to/
 local=/watchesreplica.is/
 local=/watchesstore.co/
-local=/watchfaceshub.com/
 local=/watercupvogue.com/
 local=/waterkant.shop/
 local=/watermotionod.com/

@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 22 Mar 2025 20:58 UTC
-! Version: 2025.0322.2058.35
+! Last modified: 28 Mar 2025 23:00 UTC
+! Version: 2025.0328.2300.52
 ! Syntax: uBlock
 ! Number of latin TLDs: 228 - non-latin TLDs: 151
 !
@@ -62,7 +62,7 @@
 ||club^$doc,domain=~digipres.club|~hd-olimpo.club|~mbcherohub.club|~skin.club|~thelemmy.club
 ||college^$doc
 ||computer^$doc,domain=~libre.computer|~neat.computer|~silly.computer
-||cool^$doc,domain=~cnyes.cool|~shirtz.cool
+||cool^$doc,domain=~cnyes.cool|~shirtz.cool|~upbitit.cool
 ||coupons^$doc
 ||cymru^$doc
 ||cyou^$doc,domain=~hammertime.cyou

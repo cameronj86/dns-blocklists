@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Mar 2025 15:10 UTC
-# Version: 2025.0305.1510.53
+# Last modified: 28 Mar 2025 23:24 UTC
+# Version: 2025.0328.2324.43
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 184
 #
@@ -30,6 +30,7 @@
 *.beezboo.com
 *.search.biboumail.fr
 *.searx.bissisoft.com
+*.blackle.com
 *.boomle.com
 *.search.bowlman.org
 *.searx.catfluori.de
@@ -145,7 +146,6 @@
 *.roteserver.de
 *.search.rubberverse.xyz
 *.searchencrypt.com
-*.searchx.mobi
 *.searx.bar
 *.searx.ch
 *.searx.info
