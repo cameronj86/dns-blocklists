@@ -302,7 +302,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 1134189 domains/hosts - 126021 compressed hosts - 1003322 compressed domains
+**Entries:** 1134187 domains/hosts - 126021 compressed hosts - 1003320 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -564,7 +564,7 @@ Blocks gambling content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 635599 compressed domains
+**Entries:** 635443 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
