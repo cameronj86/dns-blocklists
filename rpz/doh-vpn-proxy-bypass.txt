@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743204420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743310020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Mar 2025 23:27 UTC
-; Version: 2025.0328.2327.13
+; Last modified: 30 Mar 2025 04:47 UTC
+; Version: 2025.0330.0447.15
 ; Syntax: RPZ
-; Number of entries: 7832
+; Number of entries: 7830
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1062,6 +1062,8 @@ criarssh.com CNAME .
 *.criarssh.com CNAME .
 crownproxy.com CNAME .
 *.crownproxy.com CNAME .
+croxy.com CNAME .
+*.croxy.com CNAME .
 croxy-proxy.com CNAME .
 *.croxy-proxy.com CNAME .
 croxyproxy.com CNAME .
@@ -3578,8 +3580,6 @@ cluster-1.gac.edu CNAME .
 *.cluster-1.gac.edu CNAME .
 dns.cert.ee CNAME .
 *.dns.cert.ee CNAME .
-ahoj.email CNAME .
-*.ahoj.email CNAME .
 mabuktogel.enterprises CNAME .
 *.mabuktogel.enterprises CNAME .
 proxyweb.com.es CNAME .
@@ -3770,8 +3770,6 @@ wez.fr CNAME .
 *.wez.fr CNAME .
 adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
-dns.auapi.fun CNAME .
-*.dns.auapi.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .

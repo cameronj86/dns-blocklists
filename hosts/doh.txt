@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Mar 2025 23:28 UTC
-# Version: 2025.0328.2328.40
+# Last modified: 30 Mar 2025 04:45 UTC
+# Version: 2025.0330.0445.53
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1634
+# Number of entries: 1632
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -108,7 +108,6 @@
 0.0.0.0 dot.ny.ahadns.net
 0.0.0.0 doh.pl.ahadns.net
 0.0.0.0 dot.pl.ahadns.net
-0.0.0.0 ahoj.email
 0.0.0.0 apple-relay.akamaized.net
 0.0.0.0 dns.albony.xyz
 0.0.0.0 dnsnl.alekberg.net
@@ -166,7 +165,6 @@
 0.0.0.0 adguardhome.atakorah.com
 0.0.0.0 atris.cyou
 0.0.0.0 dohtrial.att.net
-0.0.0.0 dns.auapi.fun
 0.0.0.0 africa.avastdns.com
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
