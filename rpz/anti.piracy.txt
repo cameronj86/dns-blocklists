@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743391980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743435780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 Mar 2025 03:33 UTC
-; Version: 2025.0331.0333.09
+; Last modified: 31 Mar 2025 15:43 UTC
+; Version: 2025.0331.1543.04
 ; Syntax: RPZ
-; Number of entries: 20674
+; Number of entries: 20676
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -12471,6 +12471,8 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
+gamezlinks.net CNAME .
+*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
