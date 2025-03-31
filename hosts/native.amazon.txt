@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Mar 2025 00:18 UTC
-# Version: 2025.0329.0018.35
+# Last modified: 30 Mar 2025 18:21 UTC
+# Version: 2025.0330.1821.08
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 574
+# Number of entries: 576
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -90,6 +90,7 @@
 0.0.0.0 ads.aps.amazon-adsystem.com
 0.0.0.0 ads-beta.aps.amazon-adsystem.com
 0.0.0.0 ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 adskit.juno.alexa.amazon.dev
 0.0.0.0 ads-setu-proxy-eu.amazon.com
 0.0.0.0 advertising.a2z.com
 0.0.0.0 advertising.amazon.ae
@@ -257,6 +258,7 @@
 0.0.0.0 events.bugsnag.shopbop.amazon.dev
 0.0.0.0 event-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 events.prod.bugs.firebat.prime-video.amazon.dev
+0.0.0.0 federatedanalytics.amazon.com
 0.0.0.0 fe.ono.axp.amazon-adsystem.com
 0.0.0.0 firetv.bugsnag.appstore.a2z.com
 0.0.0.0 fls-cn.amazon-adsystem.com

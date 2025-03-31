@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Mar 2025 04:30 UTC
-# Version: 2025.0330.0430.38
+# Last modified: 31 Mar 2025 03:33 UTC
+# Version: 2025.0331.0333.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10339
+# Number of entries: 10337
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -3922,7 +3922,6 @@ local=/gamestorrents.io/
 local=/gamestorrents.nu/
 local=/gametechwiki.com/
 local=/bt-tracker.gamexp.ru/
-local=/gamezlinks.net/
 local=/gamingbeasts.com/
 local=/gaoqing.fm/
 local=/garageforum.org/
@@ -4502,7 +4501,6 @@ local=/howtechismade.com/
 local=/hpav.tv/
 local=/hpjav.tv/
 local=/hq-films.ws/
-local=/hqsource.net/
 local=/hqsource.org/
 local=/hs-scene.to/
 local=/tracker.htp.re/

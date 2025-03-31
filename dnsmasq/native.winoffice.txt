@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Mar 2025 00:20 UTC
-# Version: 2025.0329.0020.22
+# Last modified: 30 Mar 2025 18:08 UTC
+# Version: 2025.0330.1808.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 356
+# Number of entries: 358
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -34,6 +34,7 @@ local=/adsdkpreprod.azureedge.net/
 local=/adsdkprod.azureedge.net/
 local=/adsdkpreprod.afd.azureedge.net/
 local=/adsdkprod.afd.azureedge.net/
+local=/msadsscale.azureedge.net/
 local=/cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net/
 local=/location-microsoft-com.b-0005.b-msedge.net/
 local=/a4.bing.com/
@@ -164,6 +165,7 @@ local=/location.microsoft.com/
 local=/redir.metaservices.microsoft.com/
 local=/geover-prod.do.dsp.mp.microsoft.com/
 local=/track.mp.microsoft.com/
+local=/msadsscale.microsoft.com/
 local=/oca.microsoft.com/
 local=/watson.officeint.microsoft.com/
 local=/analytics.pstnhub.microsoft.com/

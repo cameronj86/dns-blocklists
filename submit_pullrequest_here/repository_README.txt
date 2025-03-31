@@ -724,7 +724,7 @@ Check out Yokoffing's [ControlD Config Guide](https://github.com/yokoffing/Contr
 
 In [NextDNS](https://nextdns.io) you can use my Light, Normal, Pro, Pro++ and Ultimate lists.
 
-Check out Yokoffing's [NextDNS Config Guide](https://github.com/yokoffing/NextDNS-Config) and the Techlore Video [The ULTIMATE Guide to Mastering NextDNS!](https://youtu.be/WUG57ynLb8I) for recommended [NextDNS](https://nextdns.io) configuration settings.
+Check out Yokoffing's [NextDNS Config Guide](https://github.com/yokoffing/NextDNS-Config) ([discontinued](https://www.reddit.com/r/nextdns/comments/1jmru7b/config_guide_update/)) for recommended [NextDNS](https://nextdns.io) configuration settings.
 
 #### :department_store: **RethinkDNS - free** <a name="rethinkdns"></a>
 

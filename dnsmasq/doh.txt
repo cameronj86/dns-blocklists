@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Mar 2025 04:45 UTC
-# Version: 2025.0330.0445.53
+# Last modified: 31 Mar 2025 03:48 UTC
+# Version: 2025.0331.0348.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1463
+# Number of entries: 1466
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -84,6 +84,7 @@ local=/shield.afixer.app/
 local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
+local=/ahoj.email/
 local=/apple-relay.akamaized.net/
 local=/dns.albony.xyz/
 local=/dnsnl.alekberg.net/
@@ -776,6 +777,7 @@ local=/dns.kosan.moe/
 local=/dart.kpsn.org/
 local=/adblock.krctech.dev/
 local=/xray.krnl.eu/
+local=/dns.kugoapps.com/
 local=/dns.kukal.cz/
 local=/dns.kusoneko.moe/
 local=/dns.kuuhaku.moe/
@@ -1447,6 +1449,7 @@ local=/dns.xlion.tw/
 local=/xn--durhre-yxa.de/
 local=/dns.xuming.studio/
 local=/dns.xusqui.com/
+local=/dns.xwdmw.xyz/
 local=/v2.xx3210766.live/
 local=/dns.yameenassotally.com/
 local=/2.dnscrypt-cert.browser.yandex.net/

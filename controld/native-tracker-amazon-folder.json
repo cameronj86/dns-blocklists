@@ -477,6 +477,13 @@
       }
     },
     {
+      "PK": "adskit.juno.alexa.amazon.dev",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-setu-proxy-eu.amazon.com",
       "action": {
         "do": 0,
@@ -926,6 +933,13 @@
     },
     {
       "PK": "events.app-performance.music.amazon.dev",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "federatedanalytics.amazon.com",
       "action": {
         "do": 0,
         "status": 1

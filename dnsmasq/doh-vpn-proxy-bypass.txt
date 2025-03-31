@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Mar 2025 04:47 UTC
-# Version: 2025.0330.0447.15
+# Last modified: 31 Mar 2025 03:49 UTC
+# Version: 2025.0331.0349.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3915
+# Number of entries: 3919
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -180,6 +180,7 @@ local=/agurydog.website/
 local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
+local=/ahoj.email/
 local=/airdns.org/
 local=/airvpn.org/
 local=/apple-relay.akamaized.net/
@@ -1809,6 +1810,7 @@ local=/dart.kpsn.org/
 local=/adblock.krctech.dev/
 local=/xray.krnl.eu/
 local=/kryptovpn.kryptotel.net/
+local=/dns.kugoapps.com/
 local=/dns.kukal.cz/
 local=/dns.kusoneko.moe/
 local=/dns.kuuhaku.moe/
@@ -3281,6 +3283,7 @@ local=/tlz.asia/
 local=/tmhhd.tk/
 local=/tnvpn.com/
 local=/d.toairs.com/
+local=/tokit.site/
 local=/tonvpn.com/
 local=/toolara.net/
 local=/dot.tooli.ca/
@@ -3848,6 +3851,7 @@ local=/dns.xuming.studio/
 local=/dns.xusqui.com/
 local=/xvbelink.com/
 local=/xvpn.io/
+local=/dns.xwdmw.xyz/
 local=/v2.xx3210766.live/
 local=/dns.yameenassotally.com/
 local=/2.dnscrypt-cert.browser.yandex.net/
