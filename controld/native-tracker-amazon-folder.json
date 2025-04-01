@@ -477,13 +477,6 @@
       }
     },
     {
-      "PK": "adskit.juno.alexa.amazon.dev",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ads-setu-proxy-eu.amazon.com",
       "action": {
         "do": 0,
@@ -625,6 +618,13 @@
     },
     {
       "PK": "advertising-api-eu.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1836,6 +1836,76 @@
     },
     {
       "PK": "rcm-uk.amazon.co.uk",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rum.ap-northeast-1.amazonaws.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rum.ap-southeast-1.amazonaws.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rum.ca-central-1.amazonaws.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rum.eu-central-1.amazonaws.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rum.eu-west-1.amazonaws.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rum.eu-west-2.amazonaws.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rum.us-east-1.amazonaws.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rum.us-east-2.amazonaws.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rum.us-west-1.amazonaws.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rum.us-west-2.amazonaws.com",
       "action": {
         "do": 0,
         "status": 1

@@ -42,6 +42,8 @@ js.monitor.azure.com
 
 # Microsoft endpoint associated with the telemetry and diagnostic data collection in Windows operating systems.
 # Also be used to fetch configuration data or updates for settings related to diagnostics and privacy: Settings > Privacy > Diagnostics & feedback
+# There is a report that the Date/Time Sync does not work under Windows 11 if the domains are blocked.
+# This has not yet been confirmed or reproduced: https://github.com/hagezi/dns-blocklists/issues/5723
 settings.data.microsoft.com
 settings-win.data.microsoft.com
 settings-sandbox.data.microsoft.com

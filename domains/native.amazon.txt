@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Mar 2025 18:21 UTC
-# Version: 2025.0330.1821.08
+# Last modified: 31 Mar 2025 17:43 UTC
+# Version: 2025.0331.1743.31
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 576
+# Number of entries: 597
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -90,7 +90,6 @@ aca.ftv.bugsnag.appstore.a2z.com
 ads.aps.amazon-adsystem.com
 ads-beta.aps.amazon-adsystem.com
 ads-gamma.aps.amazon-adsystem.com
-adskit.juno.alexa.amazon.dev
 ads-setu-proxy-eu.amazon.com
 advertising.a2z.com
 advertising.amazon.ae
@@ -122,6 +121,7 @@ aes.us-east.live-events.ono.axp.amazon-adsystem.com
 aes.us-east.ono.axp.amazon-adsystem.com
 aes.us-west.3px.axp.amazon-adsystem.com
 aes.us-west.live-events.ono.axp.amazon-adsystem.com
+alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 alt1-3ps.amazon-adsystem.com
@@ -220,10 +220,21 @@ cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 c.gamma-toolbox.aps.amazon-adsystem.com
 client.aps.amazon-adsystem.com
+client.rum.us-east-1.amazonaws.com
 config.aps.amazon-adsystem.com
 c.toolbox.aps.amazon-adsystem.com
 d3p8zr0ffa9t17.cloudfront.net
 da-cdn.amazon-adsystem.com
+dataplane.rum.ap-northeast-1.amazonaws.com
+dataplane.rum.ap-southeast-1.amazonaws.com
+dataplane.rum.ca-central-1.amazonaws.com
+dataplane.rum.eu-central-1.amazonaws.com
+dataplane.rum.eu-west-1.amazonaws.com
+dataplane.rum.eu-west-2.amazonaws.com
+dataplane.rum.us-east-1.amazonaws.com
+dataplane.rum.us-east-2.amazonaws.com
+dataplane.rum.us-west-1.amazonaws.com
+dataplane.rum.us-west-2.amazonaws.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device-metrics-us-ud.amazon.com
@@ -422,6 +433,16 @@ rcm-na.amazon-adsystem.com
 rcm-na.assoc-amazon.com
 rcm-uk.amazon.co.uk
 rtb.axp.amazon-adsystem.com
+rum.ap-northeast-1.amazonaws.com
+rum.ap-southeast-1.amazonaws.com
+rum.ca-central-1.amazonaws.com
+rum.eu-central-1.amazonaws.com
+rum.eu-west-1.amazonaws.com
+rum.eu-west-2.amazonaws.com
+rum.us-east-1.amazonaws.com
+rum.us-east-2.amazonaws.com
+rum.us-west-1.amazonaws.com
+rum.us-west-2.amazonaws.com
 s2.paa-reporting-advertising.amazon
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com

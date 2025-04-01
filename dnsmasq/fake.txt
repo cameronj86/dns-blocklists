@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Mar 2025 11:03 UTC
-# Version: 2025.0331.1103.38
+# Last modified: 31 Mar 2025 22:59 UTC
+# Version: 2025.0331.2259.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10608
+# Number of entries: 10607
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -1448,7 +1448,6 @@ local=/btcminer.website/
 local=/btcoinpro.com/
 local=/btcswing.com/
 local=/btop24.de/
-local=/btvtransport.com/
 local=/buceplantde.shop/
 local=/buchholzs.de/
 local=/buchverlag-scholz.de/

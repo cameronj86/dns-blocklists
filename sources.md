@@ -6,6 +6,17 @@ https://abpvn.com/android/abpvn.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://azorult-tracker.net/api/list/domain?format=plain
+https://badblock.celenity.dev/abp/adobe.txt
+https://badblock.celenity.dev/abp/brave.txt
+https://badblock.celenity.dev/abp/huawei.txt
+https://badblock.celenity.dev/abp/lg.txt
+https://badblock.celenity.dev/abp/matomo.txt
+https://badblock.celenity.dev/abp/mozilla.txt
+https://badblock.celenity.dev/abp/nvidia.txt
+https://badblock.celenity.dev/abp/plausible.txt
+https://badblock.celenity.dev/abp/sentry.txt
+https://badblock.celenity.dev/abp/unity.txt
+https://badblock.celenity.dev/abp/xiaomi.txt
 https://bl.ossmalta.eu/malta.txt
 https://botvrij.eu/data/ioclist.domain
 https://botvrij.eu/data/ioclist.hostname
@@ -37,6 +48,10 @@ https://easylist-downloads.adblockplus.org/latvianlist.txt
 https://easylist-downloads.adblockplus.org/Liste_AR.txt
 https://easylist-downloads.adblockplus.org/liste_fr.txt
 https://easylist-downloads.adblockplus.org/ruadlist.txt
+https://energized.pro/antipopads-re/adblock.txt
+https://energized.pro/blu/adblock.txt
+https://energized.pro/spark/adblock.txt
+https://energized.pro/ultimate/adblock.txt
 https://filters.adavoid.org/ultimate-ad-filter.txt
 https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://gamingcommission.be/en/gaming-commission/illegal-games-of-chance/list-of-illegal-gambling-sites
@@ -50,6 +65,7 @@ https://github.com/MikhailKasimov/validin-phish-feed
 https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://hblock.molinero.dev/hosts_adblock.txt
 https://hole.cert.pl/domains/domains.txt
 https://hole.cert.pl/domains/v2/domains.txt
 https://hostfiles.frogeye.fr/firstparty-trackers.txt
@@ -181,6 +197,7 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_ips.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
+https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/nsfw.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams_light.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/refs/heads/main/config/wildcards.txt
@@ -240,8 +257,13 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Adult
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Shock
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
+https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_nsfw.txt
+https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt
+https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_small.txt
 https://raw.githubusercontent.com/SM443/BDIX-Piracy-Blocklist/main/bdix_piracy_websites_only-domains.txt
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
@@ -256,6 +278,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspici
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/free_web_hosting.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/onion.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/port_proxy.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
 https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
@@ -322,6 +345,7 @@ https://www.binarydefense.com/banlist.txt
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.domcop.com/files/top/top10milliondomains.csv.zip
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.globalantiscam.org/scam-websites
 https://www.i-dont-care-about-cookies.eu/abp/
 https://www.spamhaus.org/drop/drop.txt
