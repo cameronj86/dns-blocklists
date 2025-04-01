@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Apr 2025 03:55 UTC
-# Version: 2025.0401.0355.46
+# Last modified: 01 Apr 2025 16:17 UTC
+# Version: 2025.0401.1617.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3919
+# Number of entries: 3917
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -41,7 +41,6 @@ local=/123me.net/
 local=/123music.app/
 local=/123mymusic.net/
 local=/123proxy.app/
-local=/123proxy.biz/
 local=/123proxy.cool/
 local=/123proxy.me/
 local=/123proxyx.com/
@@ -2705,7 +2704,6 @@ local=/psiphon3.com/
 local=/dns.psociety.de/
 local=/ptoserver.com/
 local=/publicdnsserver.com/
-local=/pukanuragan.ru/
 local=/dns.pumpkinvrar.com/
 local=/pupilproxy.com/
 local=/puredns.org/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743479700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743524220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Apr 2025 03:55 UTC
-; Version: 2025.0401.0355.46
+; Last modified: 01 Apr 2025 16:17 UTC
+; Version: 2025.0401.1617.45
 ; Syntax: RPZ
-; Number of entries: 7838
+; Number of entries: 7834
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -166,8 +166,6 @@ vpns.best CNAME .
 *.vpns.best CNAME .
 webproxy.best CNAME .
 *.webproxy.best CNAME .
-123proxy.biz CNAME .
-*.123proxy.biz CNAME .
 anonymurl.biz CNAME .
 *.anonymurl.biz CNAME .
 anonyproxy.biz CNAME .
@@ -6896,8 +6894,6 @@ dns.petqa.ru CNAME .
 *.dns.petqa.ru CNAME .
 proxybox.ru CNAME .
 *.proxybox.ru CNAME .
-pukanuragan.ru CNAME .
-*.pukanuragan.ru CNAME .
 dns.ronc.ru CNAME .
 *.dns.ronc.ru CNAME .
 roskomnadzorgorivadu.ru CNAME .

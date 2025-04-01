@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743478740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743523260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Apr 2025 03:39 UTC
-; Version: 2025.0401.0339.15
+; Last modified: 01 Apr 2025 16:01 UTC
+; Version: 2025.0401.1601.00
 ; Syntax: RPZ
-; Number of entries: 20674
+; Number of entries: 20672
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2243,8 +2243,6 @@ tracker.0x7c0.com CNAME .
 *.147job.com CNAME .
 107.182.30.76.16clouds.com CNAME .
 *.107.182.30.76.16clouds.com CNAME .
-1clickdown.com CNAME .
-*.1clickdown.com CNAME .
 1fichier.com CNAME .
 *.1fichier.com CNAME .
 1kif.com CNAME .
@@ -2253,14 +2251,10 @@ tracker.0x7c0.com CNAME .
 *.1movieshd.com CNAME .
 1movietv.com CNAME .
 *.1movietv.com CNAME .
-1shows.com CNAME .
-*.1shows.com CNAME .
 1xstream.com CNAME .
 *.1xstream.com CNAME .
 20links.com CNAME .
 *.20links.com CNAME .
-24-download.com CNAME .
-*.24-download.com CNAME .
 24-downloads.com CNAME .
 *.24-downloads.com CNAME .
 24urban.com CNAME .
@@ -7351,6 +7345,8 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
+videocop.com CNAME .
+*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -7925,8 +7921,6 @@ xcine.cx CNAME .
 *.xcine.cx CNAME .
 123moviesc.cyou CNAME .
 *.123moviesc.cyou CNAME .
-123movieshub.cyou CNAME .
-*.123movieshub.cyou CNAME .
 afdah2.cyou CNAME .
 *.afdah2.cyou CNAME .
 cineblog01.cyou CNAME .
@@ -12471,6 +12465,8 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
+gamezlinks.net CNAME .
+*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -20615,6 +20611,8 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
+xstress.xyz CNAME .
+*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

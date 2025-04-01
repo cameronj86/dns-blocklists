@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Apr 2025 03:54 UTC
-# Version: 2025.0401.0354.26
+# Last modified: 01 Apr 2025 16:16 UTC
+# Version: 2025.0401.1616.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1635
+# Number of entries: 1633
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -1306,8 +1306,6 @@
 0.0.0.0 dns.propheci.xyz
 0.0.0.0 dns.psociety.de
 0.0.0.0 publicdnsserver.com
-0.0.0.0 pukanuragan.ru
-0.0.0.0 www.pukanuragan.ru
 0.0.0.0 dns.pumpkinvrar.com
 0.0.0.0 puredns.org
 0.0.0.0 family.puredns.org
