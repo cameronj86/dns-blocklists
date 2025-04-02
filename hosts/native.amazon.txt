@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Mar 2025 17:43 UTC
-# Version: 2025.0331.1743.31
+# Last modified: 01 Apr 2025 23:17 UTC
+# Version: 2025.0401.2317.27
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 597
+# Number of entries: 607
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -210,10 +210,14 @@
 0.0.0.0 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
@@ -312,6 +316,8 @@
 0.0.0.0 global-2.telemetry.insights.video.a2z.com
 0.0.0.0 global-3.telemetry.insights.video.a2z.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
+0.0.0.0 iad.pg.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 iad.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 identity.browserapps.amazon.de
 0.0.0.0 imdb.amazon-adsystem.com
 0.0.0.0 ipv6.unagi-na.amazon.com
@@ -375,11 +381,9 @@
 0.0.0.0 monitoring.il-central-1.amazonaws.com
 0.0.0.0 monitoring.me-central-1.amazonaws.com
 0.0.0.0 monitoring.me-south-1.amazonaws.com
-0.0.0.0 monitoring.prod.cloudwatch.amazonaws.com
 0.0.0.0 monitoring.sa-east-1.amazonaws.com
 0.0.0.0 monitoring.us-east-1.amazonaws.com
 0.0.0.0 monitoring.us-east-2.amazonaws.com
-0.0.0.0 monitoring.us-gov-east-1.amazonaws.com
 0.0.0.0 monitoring.us-gov-west-1.amazonaws.com
 0.0.0.0 monitoring.us-west-1.amazonaws.com
 0.0.0.0 monitoring.us-west-2.amazonaws.com
@@ -407,6 +411,10 @@
 0.0.0.0 ott.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 ott.us-west.aps.axp.amazon-adsystem.com
 0.0.0.0 paa-reporting-advertising.amazon
+0.0.0.0 pdx.pg.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 pdx.pg.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 pg.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 pri1-3ps.amazon-adsystem.com
 0.0.0.0 pri1-id-eu.amazon-adsystem.com
@@ -444,6 +452,8 @@
 0.0.0.0 rum.us-west-1.amazonaws.com
 0.0.0.0 rum.us-west-2.amazonaws.com
 0.0.0.0 s2.paa-reporting-advertising.amazon
+0.0.0.0 s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 s2s.stv.bid-na.ads.aps.amazon-adsystem.com

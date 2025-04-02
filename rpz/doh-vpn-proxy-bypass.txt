@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743524220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743546300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Apr 2025 16:17 UTC
-; Version: 2025.0401.1617.45
+; Last modified: 01 Apr 2025 22:25 UTC
+; Version: 2025.0401.2225.20
 ; Syntax: RPZ
-; Number of entries: 7834
+; Number of entries: 7832
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -610,8 +610,6 @@ dns.13evl.com CNAME .
 *.233py.com CNAME .
 24tunnel.com CNAME .
 *.24tunnel.com CNAME .
-28383829.com CNAME .
-*.28383829.com CNAME .
 2a87.com CNAME .
 *.2a87.com CNAME .
 2fastsurfer.com CNAME .
@@ -2554,12 +2552,16 @@ browse.startpage.com CNAME .
 *.browse.startpage.com CNAME .
 eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
+eu1-browse.startpage.com CNAME .
+*.eu1-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
 error.proxy.startpage.com CNAME .
 *.error.proxy.startpage.com CNAME .
 proxy1.startpage.com CNAME .
 *.proxy1.startpage.com CNAME .
+proxy2.startpage.com CNAME .
+*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -4520,8 +4522,6 @@ polisitogel.living CNAME .
 *.polisitogel.living CNAME .
 unblocked.llc CNAME .
 *.unblocked.llc CNAME .
-5963anrue.lol CNAME .
-*.5963anrue.lol CNAME .
 abouts.lol CNAME .
 *.abouts.lol CNAME .
 artclass.lol CNAME .
@@ -6978,8 +6978,6 @@ privacydns.go6lab.si CNAME .
 *.privacydns.go6lab.si CNAME .
 adguard.marto.si CNAME .
 *.adguard.marto.si CNAME .
-28383829.site CNAME .
-*.28383829.site CNAME .
 artclass.site CNAME .
 *.artclass.site CNAME .
 booomblaastfs.site CNAME .

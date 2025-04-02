@@ -6,17 +6,8 @@ https://abpvn.com/android/abpvn.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://azorult-tracker.net/api/list/domain?format=plain
-https://badblock.celenity.dev/abp/adobe.txt
-https://badblock.celenity.dev/abp/brave.txt
 https://badblock.celenity.dev/abp/huawei.txt
 https://badblock.celenity.dev/abp/lg.txt
-https://badblock.celenity.dev/abp/matomo.txt
-https://badblock.celenity.dev/abp/mozilla.txt
-https://badblock.celenity.dev/abp/nvidia.txt
-https://badblock.celenity.dev/abp/plausible.txt
-https://badblock.celenity.dev/abp/sentry.txt
-https://badblock.celenity.dev/abp/unity.txt
-https://badblock.celenity.dev/abp/xiaomi.txt
 https://bl.ossmalta.eu/malta.txt
 https://botvrij.eu/data/ioclist.domain
 https://botvrij.eu/data/ioclist.hostname
@@ -269,7 +260,6 @@ https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torre
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
-https://raw.githubusercontent.com/stamparm/aux/refs/heads/master/maltrail-static-trails.txt
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/anonymous_web_proxy.txt

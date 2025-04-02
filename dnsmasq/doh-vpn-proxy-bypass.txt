@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Apr 2025 16:17 UTC
-# Version: 2025.0401.1617.45
+# Last modified: 01 Apr 2025 22:25 UTC
+# Version: 2025.0401.2225.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3917
+# Number of entries: 3916
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -66,8 +66,6 @@ local=/233py.com/
 local=/dns.240527.xyz/
 local=/24tunnel.com/
 local=/doh003.280blocker.net/
-local=/28383829.com/
-local=/28383829.site/
 local=/2a87.com/
 local=/proxy.2d.su/
 local=/2fastsurfer.com/
@@ -101,7 +99,6 @@ local=/dns.52306.org/
 local=/vpn.52oupa.com/
 local=/www-vpn.52oupa.com/
 local=/57824.com/
-local=/5963anrue.lol/
 local=/family.5ososea.com/
 local=/kids.5ososea.com/
 local=/dns.688447.xyz/
@@ -3073,9 +3070,11 @@ local=/ams1.startpage.com/
 local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
+local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/error.proxy.startpage.com/
 local=/proxy1.startpage.com/
+local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us-browse.startpage.com/

@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 Mar 2025 22:35 UTC
-! Version: 2025.0330.2235.35
+! Last modified: 01 Apr 2025 21:55 UTC
+! Version: 2025.0401.2155.57
 ! Syntax: AdBlock
-! Number of entries: 789
+! Number of entries: 779
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -66,13 +66,15 @@
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
 @@||aax-eu.amazon.pl^
-@@||aax-fe.amazon.sg^
+@@||aax-eu.amazon.sa^
+@@||aax-eu.amazon.se^
 @@||aax-fe-pdx-direct.amazon.com^
 @@||aax-us-east-retail-direct.amazon.com^
 @@||aax-us-iad.amazon.com^
 @@||aax-dtb-cf.amazon-adsystem.amazon.com^
 @@||aax-dtb-mobile-geo.amazon-adsystem.amazon.com^
 @@||aax-ott.amazon-adsystem.amazon.com^
+@@||aax-ott-sdk.amazon-adsystem.amazon.com^
 @@||aax-us.amazon-adsystem.amazon.com^
 @@||aax-us-ott.amazon-adsystem.amazon.com^
 @@||assoc-redirect.amazon.com^
@@ -135,7 +137,6 @@
 @@||tracking.cashkaro.com^
 @@||cc-dt.com^
 @@||cse3.chausport.com^
-@@||mkto-trk.cisco.com^
 @@||cj.com^
 @@||clck.ru^
 @@||api.cleverpush.com^
@@ -179,7 +180,6 @@
 @@||adservice.google.com.br^
 @@||adservice.google.com.cl^
 @@||adservice.google.com.co^
-@@||adservice.google.com.ec^
 @@||adservice.google.com.eg^
 @@||adservice.google.com.gt^
 @@||adservice.google.com.hk^
@@ -227,6 +227,7 @@
 @@||postsign.docusign.com^
 @@||klclick.dollarshaveclub.com^
 @@||c2827.dotomi.com^
+@@||c2990.dotomi.com^
 @@||casale-match.dotomi.com^
 @@||cj.dotomi.com^
 @@||cpe.dotomi.com^
@@ -255,11 +256,12 @@
 @@||suite24.emarsys.net^
 @@||suite27.emarsys.net^
 @@||suite29.emarsys.net^
-@@||suite32.emarsys.net^
 @@||suite33.emarsys.net^
 @@||suite38.emarsys.net^
 @@||suite40.emarsys.net^
+@@||suite40-cf.emarsys.net^
 @@||suite45.emarsys.net^
+@@||suite47-cf.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
@@ -268,6 +270,7 @@
 @@||suite63.emarsys.net^
 @@||suite67-cf.emarsys.net^
 @@||suite7.emarsys.net^
+@@||suite8.emarsys.net^
 @@||suite9.emarsys.net^
 @@||emjcd.com^
 @@||t.en25.com^
@@ -280,9 +283,6 @@
 @@||evyy.net^
 @@||m.exactag.com^
 @@||tp-emea.exactag.com^
-@@||s10.login.exacttarget.com^
-@@||s11.login.exacttarget.com^
-@@||s12.login.exacttarget.com^
 @@||s1.exacttarget.com^
 @@||s10.exacttarget.com^
 @@||s11.exacttarget.com^
@@ -432,91 +432,84 @@
 @@||email.microsoft.com^
 @@||go.microsoft.com^
 @@||target.microsoft.com^
-@@||email.microsoftemail.com^
+@@||click.email.microsoftemail.com^
+@@||image.email.microsoftemail.com^
+@@||view.email.microsoftemail.com^
 @@||email.microsoftonline.com^
 @@||links.mkt41.net^
 @@||mkto-a0095.com^
-@@||mkto-ab010169.com^
-@@||mkto-ab020242.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
 @@||mkto-ab060085.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
-@@||mkto-ab160143.com^
 @@||mkto-ab200065.com^
 @@||mkto-ab210094.com^
 @@||mkto-ab210104.com^
 @@||mkto-ab220178.com^
 @@||mkto-ab220193.com^
-@@||mkto-ab240112.com^
 @@||mkto-ab250105.com^
-@@||mkto-ab280126.com^
+@@||mkto-ab280191.com^
+@@||mkto-ab290022.com^
 @@||mkto-ab300154.com^
 @@||mkto-ab310115.com^
 @@||mkto-ab330197.com^
+@@||mkto-ab340022.com^
 @@||mkto-ab340124.com^
 @@||mkto-ab420081.com^
 @@||mkto-ab470148.com^
 @@||mkto-ab480047.com^
+@@||mkto-ab520004.com^
 @@||mkto-ab530057.com^
-@@||mkto-ab540059.com^
 @@||mkto-ab540186.com^
 @@||mkto-ab550140.com^
 @@||mkto-ab550168.com^
 @@||mkto-ab560068.com^
+@@||mkto-ab570013.com^
 @@||mkto-ab570110.com^
 @@||mkto-ab570148.com^
 @@||mkto-ab580004.com^
-@@||mkto-ab640150.com^
+@@||mkto-ab630144.com^
 @@||mkto-ab650006.com^
 @@||mkto-ab650097.com^
 @@||mkto-ab650145.com^
 @@||mkto-ab660121.com^
+@@||mkto-ab690019.com^
 @@||mkto-ab690180.com^
 @@||mkto-abj0022.com^
-@@||mkto-abm0229.com^
 @@||mkto-d0097.com^
 @@||mkto-d0170.com^
-@@||mkto-d0177.com^
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
 @@||mkto-g0180.com^
-@@||mkto-h0125.com^
 @@||mkto-k0071.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040152.com^
-@@||mkto-lon090082.com^
 @@||mkto-n0199.com^
-@@||mkto-nld1030007.com^
 @@||mkto-nld1040060.com^
 @@||mkto-nld1040186.com^
 @@||mkto-o0153.com^
 @@||mkto-sj010104.com^
 @@||mkto-sj030214.com^
-@@||mkto-sj040017.com^
 @@||mkto-sj040252.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
 @@||mkto-sj090132.com^
-@@||mkto-sj140007.com^
+@@||mkto-sj100029.com^
 @@||mkto-sj140146.com^
 @@||mkto-sj160210.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
-@@||mkto-sj190237.com^
 @@||mkto-sj200192.com^
-@@||mkto-sj210107.com^
 @@||mkto-sj230006.com^
 @@||mkto-sj240014.com^
 @@||mkto-sj240021.com^
+@@||mkto-sj250062.com^
 @@||mkto-sj270080.com^
 @@||mkto-sj310061.com^
 @@||mkto-sj320047.com^
 @@||mkto-sj330006.com^
-@@||mkto-sj340004.com^
-@@||mkto-sj360142.com^
-@@||mkto-sj370181.com^
+@@||mkto-sj390067.com^
 @@||mkto-test.com^
 @@||mktoweb.com^
 @@||mkto-lp.mlinc.com^
@@ -615,11 +608,8 @@
 @@||r4gh8tuab.cc.rs6.net^
 @@||r4ofs8cab.cc.rs6.net^
 @@||r5waxhbbb.cc.rs6.net^
-@@||r6hquldab.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^
-@@||rdbpgc7ab.cc.rs6.net^
-@@||reaplmcab.cc.rs6.net^
 @@||rgkkzvdab.cc.rs6.net^
 @@||rjpz4ucab.cc.rs6.net^
 @@||rq6agxabb.cc.rs6.net^

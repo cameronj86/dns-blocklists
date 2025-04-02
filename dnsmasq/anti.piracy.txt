@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Apr 2025 16:01 UTC
-# Version: 2025.0401.1601.00
+# Last modified: 01 Apr 2025 22:29 UTC
+# Version: 2025.0401.2229.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10336
+# Number of entries: 10332
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -311,7 +311,6 @@ local=/4players.org/
 local=/4realtorrentz.com/
 local=/4shared.com/
 local=/4stream.gg/
-local=/4watch.net/
 local=/18kara.50webs.com/
 local=/tracker1.520.jp/
 local=/tracker2.520.jp/
@@ -320,7 +319,6 @@ local=/tracker.52pt.site/
 local=/admin.52ywp.com/
 local=/54new.com/
 local=/5movierulz.vc/
-local=/5movies.buzz/
 local=/5movies.cloud/
 local=/5movies.fm/
 local=/5movies.live/
@@ -3918,7 +3916,6 @@ local=/gamestorrents.io/
 local=/gamestorrents.nu/
 local=/gametechwiki.com/
 local=/bt-tracker.gamexp.ru/
-local=/gamezlinks.net/
 local=/gamingbeasts.com/
 local=/gaoqing.fm/
 local=/garageforum.org/
@@ -10071,7 +10068,6 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
-local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/
