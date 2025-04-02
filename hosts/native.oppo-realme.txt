@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Mar 2025 04:36 UTC
-# Version: 2025.0328.0436.14
+# Last modified: 02 Apr 2025 12:56 UTC
+# Version: 2025.0402.1256.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 425
+# Number of entries: 441
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -92,6 +92,15 @@
 0.0.0.0 zen-core-in.allawnos.com
 0.0.0.0 zen-core-sg.allawnos.com
 0.0.0.0 zen-core-us.allawnos.com
+0.0.0.0 conn-service-cn-01.allawntech.com
+0.0.0.0 conn-service-cn-03.allawntech.com
+0.0.0.0 conn-service-cn-04.allawntech.com
+0.0.0.0 conn-service-cn-05.allawntech.com
+0.0.0.0 conn-service-cn-07.allawntech.com
+0.0.0.0 conn-service-cn-08.allawntech.com
+0.0.0.0 conn-service-gl-01.allawntech.com
+0.0.0.0 conn-service-gl-03.allawntech.com
+0.0.0.0 conn-service-gl-04.allawntech.com
 0.0.0.0 smartcard.apps.coloros.com
 0.0.0.0 smartcardf.apps.coloros.com
 0.0.0.0 smartcardf-eu.apps.coloros.com
@@ -267,6 +276,9 @@
 0.0.0.0 api-cn.cdo.heytapmobi.com
 0.0.0.0 api-gl.cdo.heytapmobi.com
 0.0.0.0 epoch-id.cdo.heytapmobi.com
+0.0.0.0 dragate-cn.dc.heytapmobi.com
+0.0.0.0 dragate-in.dc.heytapmobi.com
+0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 obus-cn.dc.heytapmobi.com
 0.0.0.0 api-id.game.heytapmobi.com
 0.0.0.0 iot-earbuds-cn.heytapmobi.com
@@ -429,6 +441,10 @@
 0.0.0.0 sms.ads.oppomobile.com
 0.0.0.0 wifi.ads.oppomobile.com
 0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 dragate.dc.oppomobile.com
+0.0.0.0 dragate-br.dc.oppomobile.com
+0.0.0.0 dragate-sg.dc.oppomobile.com
+0.0.0.0 predragate.dc.oppomobile.com
 0.0.0.0 dhfs-id.oppomobile.com
 0.0.0.0 dhfs-in.oppomobile.com
 0.0.0.0 dhfs-th.oppomobile.com

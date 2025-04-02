@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Mar 2025 12:11 UTC
-# Version: 2025.0327.1211.54
+# Last modified: 02 Apr 2025 11:07 UTC
+# Version: 2025.0402.1107.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2155
+# Number of entries: 2154
 #
 local=/000a.de/
 local=/000space.com/
@@ -318,7 +318,6 @@ local=/bigthomas.shop/
 local=/bikashfancyclothing.shop/
 local=/bilder.lc/
 local=/billblett.com/
-local=/biproplw.top/
 local=/biz.ly/
 local=/biz.ps/
 local=/biz.tc/

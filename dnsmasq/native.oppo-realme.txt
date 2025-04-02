@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Mar 2025 04:36 UTC
-# Version: 2025.0328.0436.14
+# Last modified: 02 Apr 2025 12:56 UTC
+# Version: 2025.0402.1256.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 334
+# Number of entries: 350
 #
 local=/calculator-api-fr.allawnos.com/
 local=/calculator-api-in.allawnos.com/
@@ -92,6 +92,15 @@ local=/zen-core-fr.allawnos.com/
 local=/zen-core-in.allawnos.com/
 local=/zen-core-sg.allawnos.com/
 local=/zen-core-us.allawnos.com/
+local=/conn-service-cn-01.allawntech.com/
+local=/conn-service-cn-03.allawntech.com/
+local=/conn-service-cn-04.allawntech.com/
+local=/conn-service-cn-05.allawntech.com/
+local=/conn-service-cn-07.allawntech.com/
+local=/conn-service-cn-08.allawntech.com/
+local=/conn-service-gl-01.allawntech.com/
+local=/conn-service-gl-03.allawntech.com/
+local=/conn-service-gl-04.allawntech.com/
 local=/smartcard.apps.coloros.com/
 local=/smartcardf.apps.coloros.com/
 local=/smartcardf-eu.apps.coloros.com/
@@ -237,6 +246,9 @@ local=/stat.browser.heytapmobi.com/
 local=/api-cn.cdo.heytapmobi.com/
 local=/api-gl.cdo.heytapmobi.com/
 local=/epoch-id.cdo.heytapmobi.com/
+local=/dragate-cn.dc.heytapmobi.com/
+local=/dragate-in.dc.heytapmobi.com/
+local=/dragate-sg.dc.heytapmobi.com/
 local=/obus-cn.dc.heytapmobi.com/
 local=/api-id.game.heytapmobi.com/
 local=/iot-earbuds-cn.heytapmobi.com/
@@ -338,6 +350,10 @@ local=/report-sg.uc.heytapmobile.com/
 local=/hizonetech.com/
 local=/ads.oppomobile.com/
 local=/adsfs.oppomobile.com/
+local=/dragate.dc.oppomobile.com/
+local=/dragate-br.dc.oppomobile.com/
+local=/dragate-sg.dc.oppomobile.com/
+local=/predragate.dc.oppomobile.com/
 local=/dhfs-id.oppomobile.com/
 local=/dhfs-in.oppomobile.com/
 local=/dhfs-th.oppomobile.com/
