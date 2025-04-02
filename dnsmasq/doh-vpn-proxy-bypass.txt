@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Apr 2025 22:25 UTC
-# Version: 2025.0401.2225.20
+# Last modified: 02 Apr 2025 07:49 UTC
+# Version: 2025.0402.0749.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3916
+# Number of entries: 3915
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -179,12 +179,9 @@ local=/blitz-setup.ahadns.com/
 local=/ahoj.email/
 local=/airdns.org/
 local=/airvpn.org/
-local=/apple-relay.akamaized.net/
 local=/akunssh.net/
 local=/dns.albony.xyz/
 local=/aldhaferi.store/
-local=/dnsnl.alekberg.net/
-local=/dnsse.alekberg.net/
 local=/alhapi.com/
 local=/alhvp.com/
 local=/alidns.com/
@@ -255,10 +252,14 @@ local=/anyip.io/
 local=/ad.anym0re.ru/
 local=/doh.apad.pro/
 local=/ag.apollohct.com/
-local=/apple-relay.apple.com/
 local=/doh.dns.apple.com/
 local=/mask-api.fe2.apple-dns.net/
-local=/mask.apple-dns.net/
+local=/canary.mask.apple-dns.net/
+local=/africa-mask.wrr.mask.apple-dns.net/
+local=/apac-mask.wrr.mask.apple-dns.net/
+local=/emea-mask.wrr.mask.apple-dns.net/
+local=/north-america-mask.wrr.mask.apple-dns.net/
+local=/south-america-mask.wrr.mask.apple-dns.net/
 local=/appleproxy.com/
 local=/dns.applewebkit.dev/
 local=/doh.applied-privacy.net/
@@ -547,9 +548,7 @@ local=/cloaker.ca/
 local=/cloaker.us/
 local=/cloakvpn.com/
 local=/cloudbenders.fun/
-local=/apple-relay.cloudfare.com/
 local=/dns.cloudfiction.eu/
-local=/apple-relay.cloudflare.com/
 local=/dns.233py.com.cdn.cloudflare.net/
 local=/dns.cloudflare.com/
 local=/cloudflare-dns.com/
@@ -1167,7 +1166,6 @@ local=/fastestvpn.com/
 local=/fastestvpn.info/
 local=/fastfoxvpn.com/
 local=/fastfreeproxy.info/
-local=/apple-relay.fastly-edge.com/
 local=/fastp.org/
 local=/fastpro.info/
 local=/fastproxy.nl/
@@ -2643,6 +2641,7 @@ local=/proxyhub.in/
 local=/proxyist.com/
 local=/proxyium.com/
 local=/proxyium.org/
+local=/www-cdn.proxyiumi.com/
 local=/proxylister.com/
 local=/proxylistpro.com/
 local=/proxyload.net/

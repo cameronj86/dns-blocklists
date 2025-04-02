@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Apr 2025 16:16 UTC
-# Version: 2025.0401.1616.24
+# Last modified: 02 Apr 2025 07:46 UTC
+# Version: 2025.0402.0746.46
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1633
+# Number of entries: 1615
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -109,10 +109,7 @@
 0.0.0.0 doh.pl.ahadns.net
 0.0.0.0 dot.pl.ahadns.net
 0.0.0.0 ahoj.email
-0.0.0.0 apple-relay.akamaized.net
 0.0.0.0 dns.albony.xyz
-0.0.0.0 dnsnl.alekberg.net
-0.0.0.0 dnsse.alekberg.net
 0.0.0.0 alidns.com
 0.0.0.0 dns.alidns.com
 0.0.0.0 doh.alidns.com
@@ -136,17 +133,7 @@
 0.0.0.0 ad.anym0re.ru
 0.0.0.0 doh.apad.pro
 0.0.0.0 ag.apollohct.com
-0.0.0.0 apple-relay.apple.com
 0.0.0.0 doh.dns.apple.com
-0.0.0.0 mask-api.fe2.apple-dns.net
-0.0.0.0 mask.apple-dns.net
-0.0.0.0 apple-relay.mask.apple-dns.net
-0.0.0.0 canary.mask.apple-dns.net
-0.0.0.0 africa-mask.wrr.mask.apple-dns.net
-0.0.0.0 apac-mask.wrr.mask.apple-dns.net
-0.0.0.0 emea-mask.wrr.mask.apple-dns.net
-0.0.0.0 north-america-mask.wrr.mask.apple-dns.net
-0.0.0.0 south-america-mask.wrr.mask.apple-dns.net
 0.0.0.0 dns.applewebkit.dev
 0.0.0.0 doh.applied-privacy.net
 0.0.0.0 dot1.applied-privacy.net
@@ -293,9 +280,7 @@
 0.0.0.0 family-filter-dns.cleanbrowsing.org
 0.0.0.0 security-filter-dns.cleanbrowsing.org
 0.0.0.0 cloudbenders.fun
-0.0.0.0 apple-relay.cloudfare.com
 0.0.0.0 dns.cloudfiction.eu
-0.0.0.0 apple-relay.cloudflare.com
 0.0.0.0 dns.233py.com.cdn.cloudflare.net
 0.0.0.0 dns.cloudflare.com
 0.0.0.0 cloudflare-dns.com
@@ -676,7 +661,6 @@
 0.0.0.0 dns.fancyorg.at
 0.0.0.0 farewellkou.click
 0.0.0.0 dns.farshidhakimy.de
-0.0.0.0 apple-relay.fastly-edge.com
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
 0.0.0.0 dns.fehlsprache.de
@@ -797,8 +781,6 @@
 0.0.0.0 dns.iamninja.ru
 0.0.0.0 mask.icloud.com
 0.0.0.0 mask-api.icloud.com
-0.0.0.0 mask-boot.icloud.com
-0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 tienpham.id.vn
 0.0.0.0 adguard.shuting.idv.tw

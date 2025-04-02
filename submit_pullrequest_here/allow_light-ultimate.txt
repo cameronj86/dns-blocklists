@@ -1,6 +1,15 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# Apple Intelligence, Siri
+# https://github.com/hagezi/dns-blocklists/issues/5737#issuecomment-2771431741
+apple-relay.akamaized.net
+apple-relay.apple.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
+# CNAME for apple-relay.apple.com
+apple-relay.mask.apple-dns.net
+
 # https://github.com/hagezi/dns-blocklists/issues/5676
 iot-earbuds-sg.allawnos.com
 iot-earbuds-*.allawnos.com

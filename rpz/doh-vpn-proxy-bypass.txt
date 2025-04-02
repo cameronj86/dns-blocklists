@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743546300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743580140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Apr 2025 22:25 UTC
-; Version: 2025.0401.2225.20
+; Last modified: 02 Apr 2025 07:49 UTC
+; Version: 2025.0402.0749.25
 ; Syntax: RPZ
-; Number of entries: 7832
+; Number of entries: 7830
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -750,8 +750,6 @@ antpeak.com CNAME .
 *.antpeak.com CNAME .
 ag.apollohct.com CNAME .
 *.ag.apollohct.com CNAME .
-apple-relay.apple.com CNAME .
-*.apple-relay.apple.com CNAME .
 doh.dns.apple.com CNAME .
 *.doh.dns.apple.com CNAME .
 appleproxy.com CNAME .
@@ -1006,10 +1004,6 @@ clickwork7secure.com CNAME .
 *.clickwork7secure.com CNAME .
 cloakvpn.com CNAME .
 *.cloakvpn.com CNAME .
-apple-relay.cloudfare.com CNAME .
-*.apple-relay.cloudfare.com CNAME .
-apple-relay.cloudflare.com CNAME .
-*.apple-relay.cloudflare.com CNAME .
 dns.cloudflare.com CNAME .
 *.dns.cloudflare.com CNAME .
 cloudflare-dns.com CNAME .
@@ -1244,8 +1238,6 @@ fastestvpn.com CNAME .
 *.fastestvpn.com CNAME .
 fastfoxvpn.com CNAME .
 *.fastfoxvpn.com CNAME .
-apple-relay.fastly-edge.com CNAME .
-*.apple-relay.fastly-edge.com CNAME .
 fastproxynetwork.com CNAME .
 *.fastproxynetwork.com CNAME .
 fastssh.com CNAME .
@@ -2248,6 +2240,8 @@ proxyist.com CNAME .
 *.proxyist.com CNAME .
 proxyium.com CNAME .
 *.proxyium.com CNAME .
+www-cdn.proxyiumi.com CNAME .
+*.www-cdn.proxyiumi.com CNAME .
 proxylister.com CNAME .
 *.proxylister.com CNAME .
 proxylistpro.com CNAME .
@@ -4868,14 +4862,8 @@ affcdn.net CNAME .
 *.affcdn.net CNAME .
 ahadns.net CNAME .
 *.ahadns.net CNAME .
-apple-relay.akamaized.net CNAME .
-*.apple-relay.akamaized.net CNAME .
 akunssh.net CNAME .
 *.akunssh.net CNAME .
-dnsnl.alekberg.net CNAME .
-*.dnsnl.alekberg.net CNAME .
-dnsse.alekberg.net CNAME .
-*.dnsse.alekberg.net CNAME .
 doh.amonsul.net CNAME .
 *.doh.amonsul.net CNAME .
 anchorfree.net CNAME .
@@ -4892,8 +4880,18 @@ anonymox.net CNAME .
 *.anonymox.net CNAME .
 mask-api.fe2.apple-dns.net CNAME .
 *.mask-api.fe2.apple-dns.net CNAME .
-mask.apple-dns.net CNAME .
-*.mask.apple-dns.net CNAME .
+canary.mask.apple-dns.net CNAME .
+*.canary.mask.apple-dns.net CNAME .
+africa-mask.wrr.mask.apple-dns.net CNAME .
+*.africa-mask.wrr.mask.apple-dns.net CNAME .
+apac-mask.wrr.mask.apple-dns.net CNAME .
+*.apac-mask.wrr.mask.apple-dns.net CNAME .
+emea-mask.wrr.mask.apple-dns.net CNAME .
+*.emea-mask.wrr.mask.apple-dns.net CNAME .
+north-america-mask.wrr.mask.apple-dns.net CNAME .
+*.north-america-mask.wrr.mask.apple-dns.net CNAME .
+south-america-mask.wrr.mask.apple-dns.net CNAME .
+*.south-america-mask.wrr.mask.apple-dns.net CNAME .
 doh.applied-privacy.net CNAME .
 *.doh.applied-privacy.net CNAME .
 dot1.applied-privacy.net CNAME .
