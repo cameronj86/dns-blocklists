@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Apr 2025 22:36 UTC
-# Version: 2025.0402.2236.30
+# Last modified: 03 Apr 2025 15:28 UTC
+# Version: 2025.0403.1528.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10273
+# Number of entries: 10269
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2168,7 +2168,6 @@ local=/crackedpc.org/
 local=/crackedreal.com/
 local=/crackedstream.tv/
 local=/crackedversion.com/
-local=/crackevo.com/
 local=/crackfind.com/
 local=/crackhash.org/
 local=/crackhell.com/
@@ -2448,7 +2447,6 @@ local=/open-tracker.demonoid.ch/
 local=/open-v6.demonoid.ch/
 local=/public.demonoid.ch/
 local=/demons-eye.me/
-local=/demons-eye.org/
 local=/demozoo.org/
 local=/dendox.org/
 local=/azn-project.depthstrike.com/
@@ -2482,7 +2480,6 @@ local=/em.dfnbd.net/
 local=/tube.dfnbd.net/
 local=/dfox.it/
 local=/mixes.dfx.at/
-local=/tracker-zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
 local=/dhakaftp.com/
 local=/dhakaiptv.com/
@@ -2514,7 +2511,6 @@ local=/dilandau.com/
 local=/dilll.com/
 local=/dimeadozen.org/
 local=/dimitrology.com/
-local=/dinostreaming.arab/
 local=/dinostreaming.com/
 local=/dinostreaming.fm/
 local=/dinostreaming.vg/
@@ -2590,7 +2586,6 @@ local=/dokumen.pub/
 local=/dokumentalne.net/
 local=/dolyitcorner.net/
 local=/domdata.ru/
-local=/donevideo.com/
 local=/donkey.to/
 local=/dontorrent.org/
 local=/dontorrents.com/
@@ -2598,7 +2593,6 @@ local=/dontorrents.org/
 local=/dood.la/
 local=/dood.re/
 local=/dood.to/
-local=/doodcdn.co/
 local=/doodcdn.com/
 local=/doodstream.com/
 local=/tr.doogh.club/
@@ -3857,6 +3851,7 @@ local=/gamestorrents.io/
 local=/gamestorrents.nu/
 local=/gametechwiki.com/
 local=/bt-tracker.gamexp.ru/
+local=/gamezlinks.net/
 local=/gamingbeasts.com/
 local=/gaoqing.fm/
 local=/garageforum.org/
@@ -10009,6 +10004,7 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
+local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/

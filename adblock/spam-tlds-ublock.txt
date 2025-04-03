@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 03 Apr 2025 07:42 UTC
-! Version: 2025.0403.0742.48
+! Last modified: 03 Apr 2025 15:46 UTC
+! Version: 2025.0403.1546.31
 ! Syntax: uBlock
 ! Number of latin TLDs: 235 - non-latin TLDs: 151
 !
@@ -32,7 +32,7 @@
 ||bid^$doc
 ||bike^$doc,domain=~lime.bike|~rapido.bike
 ||bingo^$doc
-||biz^$doc,domain=~anonymurl.biz|~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~epson.biz|~ette.biz|~gamesindustry.biz|~gimmeporn.biz|~hb.biz|~iimwf.biz|~knuddels.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~notebookcheck.biz|~panasonic.biz|~slussen.biz|~volvocars.biz|~wiz.biz|~wyborcza.biz|~yoox.biz
+||biz^$doc,domain=~anonymurl.biz|~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~dailyinnovation.biz|~epson.biz|~ette.biz|~gamesindustry.biz|~gimmeporn.biz|~hb.biz|~iimwf.biz|~knuddels.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~notebookcheck.biz|~panasonic.biz|~slussen.biz|~volvocars.biz|~wiz.biz|~wyborcza.biz|~yoox.biz
 ||black^$doc
 ||blue^$doc
 ||boats^$doc
@@ -132,7 +132,7 @@
 ||loan^$doc
 ||loans^$doc
 ||locker^$doc
-||lol^$doc,domain=~adsb.lol|~ags.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~hubcloud.lol|~io.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~vcloud.lol|~weblog.lol|~wpp.lol
+||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~hubcloud.lol|~io.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~vcloud.lol|~weblog.lol|~wpp.lol
 ||london^$doc
 ||love^$doc
 ||ltd^$doc,domain=~homebrew.ltd|~picsee.ltd|~swizzin.ltd

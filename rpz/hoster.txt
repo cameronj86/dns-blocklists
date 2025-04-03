@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743592020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743677520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Apr 2025 11:07 UTC
-; Version: 2025.0402.1107.45
+; Last modified: 03 Apr 2025 10:52 UTC
+; Version: 2025.0403.1052.10
 ; Syntax: RPZ
-; Number of entries: 4308
+; Number of entries: 4304
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -3755,8 +3755,6 @@ webservis.ru CNAME .
 *.webservis.ru CNAME .
 pancake.run CNAME .
 *.pancake.run CNAME .
-dicninson.sbs CNAME .
-*.dicninson.sbs CNAME .
 watsica.sbs CNAME .
 *.watsica.sbs CNAME .
 blogg.se CNAME .
@@ -4121,8 +4119,6 @@ artsold.top CNAME .
 *.artsold.top CNAME .
 datesize.top CNAME .
 *.datesize.top CNAME .
-djuanlian.top CNAME .
-*.djuanlian.top CNAME .
 doctorfew.top CNAME .
 *.doctorfew.top CNAME .
 ecmx.top CNAME .

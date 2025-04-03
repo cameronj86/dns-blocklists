@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743633360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743694080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Apr 2025 22:36 UTC
-; Version: 2025.0402.2236.30
+; Last modified: 03 Apr 2025 15:28 UTC
+; Version: 2025.0403.1528.04
 ; Syntax: RPZ
-; Number of entries: 20546
+; Number of entries: 20538
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -273,8 +273,6 @@ tracker.frontalweb.com.ar CNAME .
 *.tracker.frontalweb.com.ar CNAME .
 trackerx.com.ar CNAME .
 *.trackerx.com.ar CNAME .
-dinostreaming.arab CNAME .
-*.dinostreaming.arab CNAME .
 eurostreaming.arab CNAME .
 *.eurostreaming.arab CNAME .
 film-streaming-ita.arab CNAME .
@@ -1871,8 +1869,6 @@ darkino.co CNAME .
 *.darkino.co CNAME .
 databasegdriveplayer.co CNAME .
 *.databasegdriveplayer.co CNAME .
-doodcdn.co CNAME .
-*.doodcdn.co CNAME .
 downloads-anymovies.co CNAME .
 *.downloads-anymovies.co CNAME .
 duboku.co CNAME .
@@ -3331,8 +3327,6 @@ crackedreal.com CNAME .
 *.crackedreal.com CNAME .
 crackedversion.com CNAME .
 *.crackedversion.com CNAME .
-crackevo.com CNAME .
-*.crackevo.com CNAME .
 crackfind.com CNAME .
 *.crackfind.com CNAME .
 crackhell.com CNAME .
@@ -3653,8 +3647,6 @@ doctawarez.com CNAME .
 *.doctawarez.com CNAME .
 dodear.com CNAME .
 *.dodear.com CNAME .
-donevideo.com CNAME .
-*.donevideo.com CNAME .
 dontorrents.com CNAME .
 *.dontorrents.com CNAME .
 doodcdn.com CNAME .
@@ -9053,8 +9045,6 @@ altadefinizione01.icu CNAME .
 *.altadefinizione01.icu CNAME .
 willow.arlen.icu CNAME .
 *.willow.arlen.icu CNAME .
-tracker-zhuqiy.dgj055.icu CNAME .
-*.tracker-zhuqiy.dgj055.icu CNAME .
 ilgeniodellostreaming.icu CNAME .
 *.ilgeniodellostreaming.icu CNAME .
 tracker.imgoingto.icu CNAME .
@@ -12369,6 +12359,8 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
+gamezlinks.net CNAME .
+*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -14389,8 +14381,6 @@ bttracker.debian.org CNAME .
 *.bttracker.debian.org CNAME .
 deluge-torrent.org CNAME .
 *.deluge-torrent.org CNAME .
-demons-eye.org CNAME .
-*.demons-eye.org CNAME .
 demozoo.org CNAME .
 *.demozoo.org CNAME .
 dendox.org CNAME .
@@ -20487,6 +20477,8 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
+xstress.xyz CNAME .
+*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

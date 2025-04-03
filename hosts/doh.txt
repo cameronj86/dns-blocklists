@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Apr 2025 07:46 UTC
-# Version: 2025.0402.0746.46
+# Last modified: 03 Apr 2025 15:43 UTC
+# Version: 2025.0403.1543.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1615
+# Number of entries: 1614
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -149,10 +149,10 @@
 0.0.0.0 dns.ashleyjackson.net
 0.0.0.0 dns.asterimoon.com
 0.0.0.0 dandelionsprout.asuscomm.com
-0.0.0.0 dns.asysec.com
 0.0.0.0 adguardhome.atakorah.com
 0.0.0.0 atris.cyou
 0.0.0.0 dohtrial.att.net
+0.0.0.0 dns.auapi.fun
 0.0.0.0 africa.avastdns.com
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
@@ -511,7 +511,6 @@
 0.0.0.0 rdu01.dnscry.pt
 0.0.0.0 sea01.dnscry.pt
 0.0.0.0 sgn01.dnscry.pt
-0.0.0.0 sin01.dnscry.pt
 0.0.0.0 sin02.dnscry.pt
 0.0.0.0 sin03.dnscry.pt
 0.0.0.0 sjc01.dnscry.pt
