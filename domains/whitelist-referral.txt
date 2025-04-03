@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Apr 2025 21:55 UTC
-# Version: 2025.0401.2155.57
+# Last modified: 02 Apr 2025 22:01 UTC
+# Version: 2025.0402.2201.59
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 967
+# Number of entries: 980
 #
 l.1mp.ru
 t.1und1.de
@@ -65,9 +65,9 @@ aax-eu.amazon.fr
 aax-eu.amazon.in
 aax-eu.amazon.it
 aax-eu.amazon.nl
-aax-eu.amazon.pl
 aax-eu.amazon.sa
 aax-eu.amazon.se
+aax-fe.amazon.sg
 aax-fe-pdx-direct.amazon.com
 aax-us-east-retail-direct.amazon.com
 aax-us-iad.amazon.com
@@ -137,6 +137,7 @@ track.canva.com
 tracking.cashkaro.com
 cc-dt.com
 cse3.chausport.com
+mkto-trk.cisco.com
 cj.com
 clck.ru
 api.cleverpush.com
@@ -208,6 +209,7 @@ adservice.google.com.au
 adservice.google.com.br
 adservice.google.com.cl
 adservice.google.com.co
+adservice.google.com.ec
 adservice.google.com.eg
 adservice.google.com.gt
 adservice.google.com.hk
@@ -253,7 +255,6 @@ referrer.disqus.com
 click.dji.com
 email.docker.com
 postsign.docusign.com
-klclick.dollarshaveclub.com
 c2827.dotomi.com
 c2990.dotomi.com
 casale-match.dotomi.com
@@ -287,7 +288,6 @@ hs.eloqua.com
 list-unsubscribe.eservice.emarsys.net
 redirector.eservice.emarsys.net
 suite-dashboard.gservice.emarsys.net
-suite.emarsys.net
 suite10.emarsys.net
 suite11.emarsys.net
 suite16.emarsys.net
@@ -302,6 +302,7 @@ suite40.emarsys.net
 suite40-cf.emarsys.net
 suite45.emarsys.net
 suite47-cf.emarsys.net
+suite52.emarsys.net
 suite54.emarsys.net
 suite56.emarsys.net
 suite57.emarsys.net
@@ -310,7 +311,6 @@ suite59.emarsys.net
 suite63.emarsys.net
 suite67-cf.emarsys.net
 suite7.emarsys.net
-suite8.emarsys.net
 suite9.emarsys.net
 emjcd.com
 t.en25.com
@@ -323,6 +323,8 @@ secure.everyaction.com
 evyy.net
 m.exactag.com
 tp-emea.exactag.com
+s10.login.exacttarget.com
+s11.login.exacttarget.com
 s1.exacttarget.com
 inbound.s1.exacttarget.com
 pub.s1.exacttarget.com
@@ -364,6 +366,7 @@ click.virt.s13.exacttarget.com
 s4.exacttarget.com
 etappx.s4.exacttarget.com
 inbound.s4.exacttarget.com
+mc.s4.exacttarget.com
 members.s4.exacttarget.com
 pages.s4.exacttarget.com
 pub.s4.exacttarget.com
@@ -383,6 +386,7 @@ s6.exacttarget.com
 etappx.s6.exacttarget.com
 image.s6.exacttarget.com
 inbound.s6.exacttarget.com
+inbound-reply.s6.exacttarget.com
 mc.s6.exacttarget.com
 members.s6.exacttarget.com
 pages.s6.exacttarget.com
@@ -392,6 +396,7 @@ virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
 bounce.s7.exacttarget.com
+click.s7.exacttarget.com
 etappx.s7.exacttarget.com
 ftp.s7.exacttarget.com
 image.s7.exacttarget.com
@@ -413,6 +418,7 @@ cdn.eu1.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.network.exponea.com
 ozon-cdn.exponea.com
+pan-cdn.exponea.com
 ri-cdn.exponea.com
 cdn.uk.exponea.com
 cdn.us1.exponea.com
@@ -456,6 +462,7 @@ adservice.google.ro
 adservice.google.ru
 adservice.google.se
 adservice.google.vg
+www.adservice.google.com
 www.googleadservices.com
 gopjn.com
 gotrackier.com
@@ -603,9 +610,9 @@ mention-me.com
 action.metaffiliation.com
 micpn.com
 email.microsoft.com
-bounce5.email.microsoft.com
 go.microsoft.com
 target.microsoft.com
+email.microsoftemail.com
 click.email.microsoftemail.com
 image.email.microsoftemail.com
 view.email.microsoftemail.com
@@ -634,11 +641,13 @@ mkto-ab310115.com
 mkto-ab330197.com
 mkto-ab340022.com
 mkto-ab340124.com
+mkto-ab350042.com
 mkto-ab420081.com
 mkto-ab470148.com
 mkto-ab480047.com
 mkto-ab520004.com
 mkto-ab530057.com
+mkto-ab540059.com
 mkto-ab540186.com
 mkto-ab550140.com
 mkto-ab550168.com
@@ -662,6 +671,7 @@ mkto-g0030.com
 mkto-g0180.com
 mkto-k0071.com
 mkto-lon030291.com
+mkto-lon040102.com
 mkto-lon040152.com
 mkto-n0199.com
 mkto-nld1040060.com
@@ -669,6 +679,7 @@ mkto-nld1040186.com
 mkto-o0153.com
 mkto-sj010104.com
 mkto-sj030214.com
+mkto-sj040136.com
 mkto-sj040252.com
 mkto-sj070214.com
 mkto-sj070259.com
@@ -687,6 +698,7 @@ mkto-sj270080.com
 mkto-sj310061.com
 mkto-sj320047.com
 mkto-sj330006.com
+mkto-sj360142.com
 mkto-sj390067.com
 mkto-test.com
 mktoweb.com
@@ -791,6 +803,7 @@ r7avxrcab.cc.rs6.net
 rgkkzvdab.cc.rs6.net
 rjpz4ucab.cc.rs6.net
 rq6agxabb.cc.rs6.net
+rrd9h64ab.cc.rs6.net
 rxfc49ebb.cc.rs6.net
 rz6dkreab.cc.rs6.net
 r20.rs6.net

@@ -1275,6 +1275,13 @@
       }
     },
     {
+      "PK": "inference-app-gateway.eastus2.cloudapp.azure.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "inference-app-gateway.koreacentral.cloudapp.azure.com",
       "action": {
         "do": 0,

@@ -1583,6 +1583,13 @@
       }
     },
     {
+      "PK": "monitoring.us-gov-east-1.amazonaws.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "monitoring.us-gov-west-1.amazonaws.com",
       "action": {
         "do": 0,

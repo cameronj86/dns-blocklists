@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743580140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743633120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Apr 2025 07:49 UTC
-; Version: 2025.0402.0749.25
+; Last modified: 02 Apr 2025 22:32 UTC
+; Version: 2025.0402.2232.19
 ; Syntax: RPZ
-; Number of entries: 7830
+; Number of entries: 7824
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2546,8 +2546,6 @@ browse.startpage.com CNAME .
 *.browse.startpage.com CNAME .
 eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
-eu1-browse.startpage.com CNAME .
-*.eu1-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
 error.proxy.startpage.com CNAME .
@@ -4486,8 +4484,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 eth.link CNAME .
 *.eth.link CNAME .
 freeconnect.link CNAME .
@@ -4812,8 +4808,6 @@ crusty.motorcycles CNAME .
 *.crusty.motorcycles CNAME .
 www-p.reaper.mx CNAME .
 *.www-p.reaper.mx CNAME .
-checkmate.my CNAME .
-*.checkmate.my CNAME .
 hidemy.name CNAME .
 *.hidemy.name CNAME .
 dns.reckoningslug.name CNAME .

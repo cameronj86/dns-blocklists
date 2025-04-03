@@ -6,8 +6,6 @@ https://abpvn.com/android/abpvn.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://azorult-tracker.net/api/list/domain?format=plain
-https://badblock.celenity.dev/abp/huawei.txt
-https://badblock.celenity.dev/abp/lg.txt
 https://bl.ossmalta.eu/malta.txt
 https://botvrij.eu/data/ioclist.domain
 https://botvrij.eu/data/ioclist.hostname
@@ -144,6 +142,17 @@ https://raw.githubusercontent.com/cbuijs/ut1/master/stalkerware/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/warez/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/adobe.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/brave.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/huawei.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/lg.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/matomo.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/mozilla.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/nvidia.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/plausible.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/sentry.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/unity.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/xiaomi.txt
 https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
