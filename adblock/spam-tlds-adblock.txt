@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Apr 2025 22:05 UTC
-! Version: 2025.0402.2205.30
+! Last modified: 03 Apr 2025 07:39 UTC
+! Version: 2025.0403.0739.02
 ! Syntax: AdBlock
-! Number of latin TLDs: 117/228
+! Number of latin TLDs: 130/241
 !
 ||actor^
 ||auction^
@@ -38,18 +38,23 @@
 ||casino^
 ||ceo^
 ||charity^
+||cheap^
 ||christmas^
 ||claims^
 ||clothing^
 ||college^
+||contact^
 ||coupons^
 ||cymru^
 ||dance^
 ||day^
 ||delivery^
 ||dental^
+||direct^
 ||diy^
 ||dog^
+||engineer^
+||faith^
 ||fashion^
 ||finance^
 ||financial^
@@ -57,9 +62,11 @@
 ||fitness^
 ||forsale^
 ||fund^
+||gay^
 ||gent^
 ||gives^
 ||giving^
+||gmbh^
 ||gold^
 ||golf^
 ||gratis^
@@ -76,6 +83,7 @@
 ||loan^
 ||loans^
 ||locker^
+||london^
 ||love^
 ||luxe^
 ||management^
@@ -87,6 +95,7 @@
 ||motorcycles^
 ||name^
 ||navy^
+||ninja^
 ||non^
 ||okinawa^
 ||ong^
@@ -95,6 +104,7 @@
 ||pink^
 ||poker^
 ||post^
+||press^
 ||promo^
 ||qpon^
 ||realtor^
@@ -111,7 +121,9 @@
 ||schule^
 ||sew^
 ||shopping^
+||soy^
 ||sport^
+||srl^
 ||studio^
 ||sydney^
 ||tattoo^
@@ -128,6 +140,7 @@
 ||vlaanderen^
 ||voto^
 ||wang^
+||watch^
 ||webcam^
 ||wedding^
 ||xin^

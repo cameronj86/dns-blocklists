@@ -267,6 +267,13 @@
       }
     },
     {
+      "PK": "*.cheap",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.christmas",
       "action": {
         "do": 0,
@@ -324,6 +331,13 @@
     },
     {
       "PK": "*.computer",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.contact",
       "action": {
         "do": 0,
         "status": 1
@@ -428,6 +442,13 @@
       }
     },
     {
+      "PK": "*.direct",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.directory",
       "action": {
         "do": 0,
@@ -470,6 +491,13 @@
       }
     },
     {
+      "PK": "*.engineer",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.esq",
       "action": {
         "do": 0,
@@ -485,6 +513,13 @@
     },
     {
       "PK": "*.expert",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.faith",
       "action": {
         "do": 0,
         "status": 1
@@ -575,6 +610,13 @@
       }
     },
     {
+      "PK": "*.gay",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.gdn",
       "action": {
         "do": 0,
@@ -611,6 +653,13 @@
     },
     {
       "PK": "*.glass",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.gmbh",
       "action": {
         "do": 0,
         "status": 1
@@ -806,6 +855,13 @@
       }
     },
     {
+      "PK": "*.london",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.love",
       "action": {
         "do": 0,
@@ -953,6 +1009,13 @@
       }
     },
     {
+      "PK": "*.ninja",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.non",
       "action": {
         "do": 0,
@@ -1087,6 +1150,13 @@
     },
     {
       "PK": "*.post",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.press",
       "action": {
         "do": 0,
         "status": 1
@@ -1303,6 +1373,13 @@
       }
     },
     {
+      "PK": "*.soy",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.space",
       "action": {
         "do": 0,
@@ -1311,6 +1388,13 @@
     },
     {
       "PK": "*.sport",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.srl",
       "action": {
         "do": 0,
         "status": 1
@@ -1507,6 +1591,13 @@
     },
     {
       "PK": "*.wang",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.watch",
       "action": {
         "do": 0,
         "status": 1

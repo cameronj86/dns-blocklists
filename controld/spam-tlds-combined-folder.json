@@ -651,6 +651,13 @@
       }
     },
     {
+      "PK": "*.cheap",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "chessvibes.shop",
       "action": {
         "do": 1,
@@ -820,6 +827,13 @@
     },
     {
       "PK": "*.computer",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.contact",
       "action": {
         "do": 0,
         "status": 1
@@ -1036,6 +1050,13 @@
       }
     },
     {
+      "PK": "*.direct",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.directory",
       "action": {
         "do": 0,
@@ -1190,6 +1211,13 @@
       }
     },
     {
+      "PK": "*.engineer",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "epg.best",
       "action": {
         "do": 1,
@@ -1247,6 +1275,13 @@
     },
     {
       "PK": "*.expert",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.faith",
       "action": {
         "do": 0,
         "status": 1
@@ -1484,6 +1519,13 @@
       }
     },
     {
+      "PK": "*.gay",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "gdflix.dad",
       "action": {
         "do": 1,
@@ -1583,6 +1625,13 @@
     },
     {
       "PK": "*.glass",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.gmbh",
       "action": {
         "do": 0,
         "status": 1
@@ -2310,6 +2359,13 @@
       }
     },
     {
+      "PK": "*.london",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.love",
       "action": {
         "do": 0,
@@ -2765,6 +2821,13 @@
       }
     },
     {
+      "PK": "*.ninja",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "nixos.wiki",
       "action": {
         "do": 1,
@@ -3209,6 +3272,13 @@
       "PK": "precure.ml",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.press",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -3815,6 +3885,13 @@
       }
     },
     {
+      "PK": "*.soy",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.space",
       "action": {
         "do": 0,
@@ -3846,6 +3923,13 @@
       "PK": "spotim.market",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.srl",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -4483,6 +4567,13 @@
       "PK": "warframe.market",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.watch",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
