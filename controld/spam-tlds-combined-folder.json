@@ -833,13 +833,6 @@
       }
     },
     {
-      "PK": "*.contact",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.cool",
       "action": {
         "do": 0,
@@ -1046,13 +1039,6 @@
       "PK": "digitalcitizen.life",
       "action": {
         "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.direct",
-      "action": {
-        "do": 0,
         "status": 1
       }
     },
@@ -1519,13 +1505,6 @@
       }
     },
     {
-      "PK": "*.gay",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "gdflix.dad",
       "action": {
         "do": 1,
@@ -1625,13 +1604,6 @@
     },
     {
       "PK": "*.glass",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.gmbh",
       "action": {
         "do": 0,
         "status": 1
@@ -3276,13 +3248,6 @@
       }
     },
     {
-      "PK": "*.press",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "pridegym.fit",
       "action": {
         "do": 1,
@@ -4567,13 +4532,6 @@
       "PK": "warframe.market",
       "action": {
         "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.watch",
-      "action": {
-        "do": 0,
         "status": 1
       }
     },

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743665940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743666120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs - Aggressive
@@ -13,10 +13,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Apr 2025 07:39 UTC
-; Version: 2025.0403.0739.02
+; Last modified: 03 Apr 2025 07:42 UTC
+; Version: 2025.0403.0742.48
 ; Syntax: RPZ
-; Number of latin TLDs: 241
+; Number of latin TLDs: 235
 ;
 *.actor CNAME .
 *.africa CNAME .
@@ -65,7 +65,6 @@ $TTL 300
 *.club CNAME .
 *.college CNAME .
 *.computer CNAME .
-*.contact CNAME .
 *.cool CNAME .
 *.coupons CNAME .
 *.cymru CNAME .
@@ -80,7 +79,6 @@ $TTL 300
 *.delivery CNAME .
 *.dental CNAME .
 *.desi CNAME .
-*.direct CNAME .
 *.directory CNAME .
 *.discount CNAME .
 *.diy CNAME .
@@ -104,14 +102,12 @@ $TTL 300
 *.foundation CNAME .
 *.fund CNAME .
 *.fyi CNAME .
-*.gay CNAME .
 *.gdn CNAME .
 *.gent CNAME .
 *.gift CNAME .
 *.gives CNAME .
 *.giving CNAME .
 *.glass CNAME .
-*.gmbh CNAME .
 *.gold CNAME .
 *.golf CNAME .
 *.gratis CNAME .
@@ -182,7 +178,6 @@ $TTL 300
 *.plus CNAME .
 *.poker CNAME .
 *.post CNAME .
-*.press CNAME .
 *.prof CNAME .
 *.promo CNAME .
 *.pub CNAME .
@@ -245,7 +240,6 @@ $TTL 300
 *.vote CNAME .
 *.voto CNAME .
 *.wang CNAME .
-*.watch CNAME .
 *.webcam CNAME .
 *.website CNAME .
 *.wedding CNAME .
