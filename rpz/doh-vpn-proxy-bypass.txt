@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743718260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743782100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Apr 2025 22:11 UTC
-; Version: 2025.0403.2211.36
+; Last modified: 04 Apr 2025 15:55 UTC
+; Version: 2025.0404.1555.08
 ; Syntax: RPZ
-; Number of entries: 7820
+; Number of entries: 7806
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -302,8 +302,6 @@ dns.flymc.cc CNAME .
 *.dns.flymc.cc CNAME .
 www-proxy.formen.cc CNAME .
 *.www-proxy.formen.cc CNAME .
-h0w.cc CNAME .
-*.h0w.cc CNAME .
 us-ny-alula.heliumcloud.cc CNAME .
 *.us-ny-alula.heliumcloud.cc CNAME .
 dns.interhub.cc CNAME .
@@ -1474,8 +1472,6 @@ harbaletsstudy.com CNAME .
 *.harbaletsstudy.com CNAME .
 resolver-eu.haringstad.com CNAME .
 *.resolver-eu.haringstad.com CNAME .
-heiwanotameno.com CNAME .
-*.heiwanotameno.com CNAME .
 dns.hellozhao.com CNAME .
 *.dns.hellozhao.com CNAME .
 betternet-backend.herokuapp.com CNAME .
@@ -1530,8 +1526,6 @@ holavpnextension.com CNAME .
 *.holavpnextension.com CNAME .
 holavpnrussia.com CNAME .
 *.holavpnrussia.com CNAME .
-holyubvpn.com CNAME .
-*.holyubvpn.com CNAME .
 homeproxy.com CNAME .
 *.homeproxy.com CNAME .
 dns.hoody.com CNAME .
@@ -1600,8 +1594,6 @@ dns.inclusioproject.com CNAME .
 *.dns.inclusioproject.com CNAME .
 indo-ssh.com CNAME .
 *.indo-ssh.com CNAME .
-dns.indybanipal.com CNAME .
-*.dns.indybanipal.com CNAME .
 dns.inforlogia.com CNAME .
 *.dns.inforlogia.com CNAME .
 infvpn.com CNAME .
@@ -4648,8 +4640,6 @@ freeproxy.me CNAME .
 *.freeproxy.me CNAME .
 freevpn.me CNAME .
 *.freevpn.me CNAME .
-dns.futuredns.me CNAME .
-*.dns.futuredns.me CNAME .
 adg.geili.me CNAME .
 *.adg.geili.me CNAME .
 getproton.me CNAME .
@@ -5882,8 +5872,6 @@ dns.ginovs.nl CNAME .
 *.dns.ginovs.nl CNAME .
 gratisproxy.nl CNAME .
 *.gratisproxy.nl CNAME .
-ikhebdorst.nl CNAME .
-*.ikhebdorst.nl CNAME .
 doh.jeroenhd.nl CNAME .
 *.doh.jeroenhd.nl CNAME .
 dns.joey01245.nl CNAME .
@@ -6188,8 +6176,6 @@ goingthere.org CNAME .
 *.goingthere.org CNAME .
 dns.goldplate.org CNAME .
 *.dns.goldplate.org CNAME .
-gumm.org CNAME .
-*.gumm.org CNAME .
 h-vpn.org CNAME .
 *.h-vpn.org CNAME .
 hide-me.org CNAME .
@@ -7072,6 +7058,8 @@ fun4school.store CNAME .
 *.fun4school.store CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
+knowurcson.store CNAME .
+*.knowurcson.store CNAME .
 minilla.store CNAME .
 *.minilla.store CNAME .
 polarvoid.store CNAME .
@@ -7226,8 +7214,6 @@ agh.xinfeng16m.top CNAME .
 *.agh.xinfeng16m.top CNAME .
 zburger.top CNAME .
 *.zburger.top CNAME .
-mnrv.trade CNAME .
-*.mnrv.trade CNAME .
 unblocked.tube CNAME .
 *.unblocked.tube CNAME .
 doh.funtopia.tv CNAME .

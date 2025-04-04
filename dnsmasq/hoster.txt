@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Apr 2025 22:14 UTC
-# Version: 2025.0403.2214.26
+# Last modified: 04 Apr 2025 10:41 UTC
+# Version: 2025.0404.1041.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2148
+# Number of entries: 2146
 #
 local=/000a.de/
 local=/000space.com/
@@ -913,6 +913,7 @@ local=/ez-sites.ws/
 local=/ezblogz.com/
 local=/ezyro.com/
 local=/f11.us/
+local=/facepl.com/
 local=/faithflairboutique.shop/
 local=/faithweb.com/
 local=/familylobby.com/
@@ -1023,7 +1024,6 @@ local=/freeoda.com/
 local=/freepe.com/
 local=/freeservers.com/
 local=/freesite.org/
-local=/freetheme.top/
 local=/freetzi.com/
 local=/freevar.com/
 local=/freeweb.hu/
@@ -1121,7 +1121,6 @@ local=/gymshark-france.fr/
 local=/gymsharkitaliaofficial.it/
 local=/gynoblog.com/
 local=/h.gp/
-local=/halloweencp.com/
 local=/hanefra7bikiemta.com/
 local=/happy-couple.com/
 local=/harise.shop/
@@ -1221,7 +1220,6 @@ local=/info4.de/
 local=/infos.cx/
 local=/infos.lc/
 local=/infos.st/
-local=/infplm.top/
 local=/inicioseguridad-cliente.com/
 local=/insanejournal.com/
 local=/instantfreesite.com/
