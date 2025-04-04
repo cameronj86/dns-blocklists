@@ -16,7 +16,7 @@ body:
           required: true
         - label: Disabling these lists resolves the issue.
           required: true
-        - label: I do not utilize a dedicated block page or a block mode that returns a custom IP for blocked domains. In my environment, blocked domains return a zero/null IP (0.0.0.0 for A, :: for AAAA), or result in status NXDOMAIN or REFUSED for DNS resolutions.  
+        - label: I do not utilize a dedicated block page or a block mode that returns a custom IP for blocked domains. In my environment, blocked domains return a zero/null IP, or result in status NXDOMAIN or REFUSED for DNS resolutions.
           required: true
  
   - type: dropdown
