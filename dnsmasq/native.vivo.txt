@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Feb 2025 08:42 UTC
-# Version: 2025.0215.0842.06
+# Last modified: 04 Apr 2025 18:16 UTC
+# Version: 2025.0404.1816.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 97
+# Number of entries: 108
 #
 local=/asia-ad-mkt-vivofs.vivoglobal.com/
 local=/asia-adlog.vivoglobal.com/
@@ -42,6 +42,8 @@ local=/co-stsdk.vivoglobal.com/
 local=/err-up.vivoglobal.com/
 local=/eu-errup.vivoglobal.com/
 local=/eu-pnrt-stsdk.vivoglobal.com/
+local=/ex-adreq-asia.vivoglobal.com/
+local=/ex-adreq-in.vivoglobal.com/
 local=/id-analyzer-appstore.vivoglobal.com/
 local=/in-adlog.vivoglobal.com/
 local=/in-adreq.vivoglobal.com/
@@ -99,10 +101,19 @@ local=/ru-pnrt-stsdk.vivoglobal.com/
 local=/ru-prt-stsdk.vivoglobal.com/
 local=/ru-stsdk.vivoglobal.com/
 local=/stsdk.vivoglobal.com/
+local=/tr-cota.vivoglobal.com/
 local=/tr-domaincfg.vivoglobal.com/
+local=/tr-onrt-stsdk.vivoglobal.com/
+local=/tr-ort-stsdk.vivoglobal.com/
+local=/tr-p.vivoglobal.com/
 local=/tr-romsp-unifyconfig.vivoglobal.com/
 local=/tr-st-sl.vivoglobal.com/
+local=/tr-st-sysupgrade.vivoglobal.com/
+local=/tr-sysupgrade-api.vivoglobal.com/
 local=/tr-timesync.vivoglobal.com/
 local=/tr-vcode-api.vivoglobal.com/
 local=/tr-vcode-od.vivoglobal.com/
+local=/tr-vcode-or.vivoglobal.com/
+local=/tr-weather.vivoglobal.com/
 local=/err.up.vivoglobal.com/
+local=/xn-ex-adreq-asa-c5b.vivoglobal.com/
