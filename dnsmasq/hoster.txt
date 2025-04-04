@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Apr 2025 10:52 UTC
-# Version: 2025.0403.1052.10
+# Last modified: 03 Apr 2025 22:14 UTC
+# Version: 2025.0403.2214.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2152
+# Number of entries: 2148
 #
 local=/000a.de/
 local=/000space.com/
@@ -842,7 +842,6 @@ local=/eblogmall.com/
 local=/ebuykind.shop/
 local=/ec.gp/
 local=/eclub.lv/
-local=/ecmx.top/
 local=/ecomplanet.com/
 local=/ecrater.com/
 local=/editboard.com/
@@ -884,7 +883,6 @@ local=/eshop-ya.life/
 local=/estate-blog.com/
 local=/esthersresaleshop.shop/
 local=/estranky.cz/
-local=/ethergases.org/
 local=/etribes.com/
 local=/eu.cm/
 local=/eu.cr/
@@ -915,7 +913,6 @@ local=/ez-sites.ws/
 local=/ezblogz.com/
 local=/ezyro.com/
 local=/f11.us/
-local=/facepl.com/
 local=/faithflairboutique.shop/
 local=/faithweb.com/
 local=/familylobby.com/
@@ -938,7 +935,6 @@ local=/ferreracademy.com/
 local=/fileave.com/
 local=/filme.lc/
 local=/financecryptoworld.com/
-local=/financial-offer.com/
 local=/finassalonboutique.shop/
 local=/findarea.shop/
 local=/finlandway.shop/

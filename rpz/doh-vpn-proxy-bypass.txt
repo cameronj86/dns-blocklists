@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743695040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743718260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Apr 2025 15:44 UTC
-; Version: 2025.0403.1544.55
+; Last modified: 03 Apr 2025 22:11 UTC
+; Version: 2025.0403.2211.36
 ; Syntax: RPZ
-; Number of entries: 7828
+; Number of entries: 7820
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1208,8 +1208,6 @@ dns.ellichua.com CNAME .
 *.dns.ellichua.com CNAME .
 emban-networks.com CNAME .
 *.emban-networks.com CNAME .
-dns.emiliyan.com CNAME .
-*.dns.emiliyan.com CNAME .
 endente.com CNAME .
 *.endente.com CNAME .
 enproxy.com CNAME .
@@ -1232,8 +1230,6 @@ expressvpn.com CNAME .
 *.expressvpn.com CNAME .
 f4fp.com CNAME .
 *.f4fp.com CNAME .
-fast-receive.com CNAME .
-*.fast-receive.com CNAME .
 fastestvpn.com CNAME .
 *.fastestvpn.com CNAME .
 fastfoxvpn.com CNAME .
@@ -2546,6 +2542,8 @@ browse.startpage.com CNAME .
 *.browse.startpage.com CNAME .
 eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
+eu1-browse.startpage.com CNAME .
+*.eu1-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
 error.proxy.startpage.com CNAME .
@@ -7042,8 +7040,6 @@ dns.b33.space CNAME .
 *.dns.b33.space CNAME .
 cosmohacker.space CNAME .
 *.cosmohacker.space CNAME .
-edpuzzle.space CNAME .
-*.edpuzzle.space CNAME .
 adguard.neon0404.space CNAME .
 *.adguard.neon0404.space CNAME .
 openproxy.space CNAME .
@@ -7186,8 +7182,6 @@ droyd.top CNAME .
 *.droyd.top CNAME .
 fidelius.top CNAME .
 *.fidelius.top CNAME .
-francis-proxy.top CNAME .
-*.francis-proxy.top CNAME .
 freeproxy.top CNAME .
 *.freeproxy.top CNAME .
 gibblets.top CNAME .
@@ -7576,8 +7570,6 @@ bypassed.wtf CNAME .
 *.bypassed.wtf CNAME .
 creatine.wtf CNAME .
 *.creatine.wtf CNAME .
-eazy.wtf CNAME .
-*.eazy.wtf CNAME .
 proxy.facil.wtf CNAME .
 *.proxy.facil.wtf CNAME .
 www-proxy.facil.wtf CNAME .

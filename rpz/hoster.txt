@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743677520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743718440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Apr 2025 10:52 UTC
-; Version: 2025.0403.1052.10
+; Last modified: 03 Apr 2025 22:14 UTC
+; Version: 2025.0403.2214.26
 ; Syntax: RPZ
-; Number of entries: 4304
+; Number of entries: 4296
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1033,8 +1033,6 @@ ezblogz.com CNAME .
 *.ezblogz.com CNAME .
 ezyro.com CNAME .
 *.ezyro.com CNAME .
-facepl.com CNAME .
-*.facepl.com CNAME .
 faithweb.com CNAME .
 *.faithweb.com CNAME .
 familylobby.com CNAME .
@@ -1061,8 +1059,6 @@ fileave.com CNAME .
 *.fileave.com CNAME .
 financecryptoworld.com CNAME .
 *.financecryptoworld.com CNAME .
-financial-offer.com CNAME .
-*.financial-offer.com CNAME .
 firearms.com CNAME .
 *.firearms.com CNAME .
 fireblogz.com CNAME .
@@ -3469,8 +3465,6 @@ dreamwidth.org CNAME .
 *.dreamwidth.org CNAME .
 edublogs.org CNAME .
 *.edublogs.org CNAME .
-ethergases.org CNAME .
-*.ethergases.org CNAME .
 eu3.org CNAME .
 *.eu3.org CNAME .
 eu5.org CNAME .
@@ -4121,8 +4115,6 @@ datesize.top CNAME .
 *.datesize.top CNAME .
 doctorfew.top CNAME .
 *.doctorfew.top CNAME .
-ecmx.top CNAME .
-*.ecmx.top CNAME .
 freetheme.top CNAME .
 *.freetheme.top CNAME .
 funcurrent.top CNAME .
