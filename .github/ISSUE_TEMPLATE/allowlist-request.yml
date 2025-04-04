@@ -16,7 +16,9 @@ body:
           required: true
         - label: Disabling these lists resolves the issue.
           required: true
-  
+        - label: I do not utilize a dedicated block page or a block mode that returns a custom IP for blocked domains. In my environment, blocked domains return a zero/null IP (0.0.0.0 for A, :: for AAAA), or result in status NXDOMAIN or REFUSED for DNS resolutions.  
+          required: true
+ 
   - type: dropdown
     id: devicetype
     attributes:
@@ -119,24 +121,7 @@ body:
         If you selected Other, please enter the name here.
     validations:
       required: false
-      
-  - type: checkboxes
-    attributes:
-      label: ControlD users
-      description: |
-        If you are using ControlD, make sure the Block Response in the profile settings is not set to Custom or Branded to rule out this feature as the cause of the issue.
-      options:
-        - label: IMPORTANT - I confirm that the Block Response is not set to Custom or Branded, and the issue persists.
-          required: false
-  - type: checkboxes
-    attributes:
-      label: NextDNS users
-      description: |
-        If you are using NextDNS, make sure the block page is disabled in the settings to rule out this feature as the cause of the issue.
-      options:
-        - label: IMPORTANT - I confirm that the bock page is disabled, and the issue persists.
-          required: false
-  
+ 
   - type: dropdown
     id: blocklists
     attributes:
