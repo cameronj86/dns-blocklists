@@ -673,7 +673,6 @@ DNS blockers offer good protection of privacy by blocking tracking, metrics and 
 Therefore, I **additionally** recommend the use of a browser content blocker such as [AdGuard](https://adguard.com), [uBlock Origin](https://ublockorigin.com) or [Ghostery](https://www.ghostery.com/).
 
 Check out Yokoffing's [Recommended Filters for uBlock Origin](https://github.com/yokoffing/filterlists) for content blocker filter lists.
-For a browser recommendation see also Yokoffing's [I need a browser with ad blocking. Which one should I choose?](https://github.com/yokoffing/NextDNS-Config#i-need-a-browser-with-ad-blocking-which-one-should-i-choose)
 
 > [!TIP]
 > :information_desk_person: [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
@@ -690,11 +689,10 @@ If you don't run your own DNS server on your home network or if you are looking 
 | :----- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | AdGuard<br>DNS         | :x:            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   |
 | ControlD            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square:  | :yellow_square:  | :notebook:            | :notebook:            | :yellow_square:  | :yellow_square:  |
-| NextDNS             | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :x:            | :yellow_square:              | :x:              | :x:            | :x:            | :x:              | :x:              |
 | Rethink<br>DNS          | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :x:              | :green_circle:   | :green_circle: | :x:            | :x:              | :x:              |
 | DNS<br>warden           | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :x:              | :x:              | :x:            | :x:            | :x:              | :x:              |
 
-:yellow_square: Are included in the ControlD/NextDNS native lists of the respective category.                        
+:yellow_square: Are included in the ControlD native lists of the respective category.                        
 :notebook: Available as [ControlD folder](https://github.com/hagezi/dns-blocklists/tree/main/controld).
 
 #### :department_store: **AdGuardDNS - limited free/paid** <a name="adguarddns"></a>
@@ -719,12 +717,6 @@ In [ControlD](https://controld.com) you can use my Light, Normal, Pro, Pro++, Ul
 **Paid:**
 
 Check out Yokoffing's [ControlD Config Guide](https://github.com/yokoffing/Control-D-Config) for recommended [ControlD](https://controld.com) configuration settings.
-
-#### :department_store: **NextDNS - limited free/paid** <a name="nextdns"></a>
-
-In [NextDNS](https://nextdns.io) you can use my Light, Normal, Pro, Pro++ and Ultimate lists.
-
-Check out Yokoffing's [NextDNS Config Guide](https://github.com/yokoffing/NextDNS-Config) ([discontinued](https://www.reddit.com/r/nextdns/comments/1jmru7b/config_guide_update/)) for recommended [NextDNS](https://nextdns.io) configuration settings.
 
 #### :department_store: **RethinkDNS - free** <a name="rethinkdns"></a>
 
