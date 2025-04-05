@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743763260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743807720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Apr 2025 10:41 UTC
-; Version: 2025.0404.1041.21
+; Last modified: 04 Apr 2025 23:02 UTC
+; Version: 2025.0404.2302.20
 ; Syntax: RPZ
 ; Number of entries: 4292
 ;
@@ -1033,8 +1033,6 @@ ezblogz.com CNAME .
 *.ezblogz.com CNAME .
 ezyro.com CNAME .
 *.ezyro.com CNAME .
-facepl.com CNAME .
-*.facepl.com CNAME .
 faithweb.com CNAME .
 *.faithweb.com CNAME .
 familylobby.com CNAME .
@@ -4121,6 +4119,8 @@ godxdess.top CNAME .
 *.godxdess.top CNAME .
 holcom.top CNAME .
 *.holcom.top CNAME .
+infplm.top CNAME .
+*.infplm.top CNAME .
 jtexpressr.top CNAME .
 *.jtexpressr.top CNAME .
 laexchange.top CNAME .

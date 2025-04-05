@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743762720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743812400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Apr 2025 10:32 UTC
-; Version: 2025.0404.1032.47
+; Last modified: 05 Apr 2025 00:20 UTC
+; Version: 2025.0405.0020.05
 ; Syntax: RPZ
-; Number of entries: 23956
+; Number of entries: 23830
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -6959,8 +6959,6 @@ iq-online-test.com CNAME .
 *.iq-online-test.com CNAME .
 iqtradeoptions.com CNAME .
 *.iqtradeoptions.com CNAME .
-irene-karin.com CNAME .
-*.irene-karin.com CNAME .
 ireneackerson.com CNAME .
 *.ireneackerson.com CNAME .
 irisbb.com CNAME .
@@ -7041,8 +7039,6 @@ jellycat-speichern.com CNAME .
 *.jellycat-speichern.com CNAME .
 jellycatde.com CNAME .
 *.jellycatde.com CNAME .
-jena-baumarkt.com CNAME .
-*.jena-baumarkt.com CNAME .
 jenniferschoot.com CNAME .
 *.jenniferschoot.com CNAME .
 jerseydiscounter.com CNAME .
@@ -7081,12 +7077,8 @@ jobanfrage.com CNAME .
 *.jobanfrage.com CNAME .
 jobhorizonpro-deu.com CNAME .
 *.jobhorizonpro-deu.com CNAME .
-jobschmiede.com CNAME .
-*.jobschmiede.com CNAME .
 jobscoutde.com CNAME .
 *.jobscoutde.com CNAME .
-jogsneakerdiscovery.com CNAME .
-*.jogsneakerdiscovery.com CNAME .
 johnallcyclesbike.com CNAME .
 *.johnallcyclesbike.com CNAME .
 joinsdaily.com CNAME .
@@ -7141,8 +7133,6 @@ jtssr.com CNAME .
 *.jtssr.com CNAME .
 juergenmenzel.com CNAME .
 *.juergenmenzel.com CNAME .
-juicydesigner.com CNAME .
-*.juicydesigner.com CNAME .
 jumbokicks.com CNAME .
 *.jumbokicks.com CNAME .
 jumigoods.com CNAME .
@@ -7181,8 +7171,6 @@ kaffee-kult.com CNAME .
 *.kaffee-kult.com CNAME .
 kaffee-teeshopde.com CNAME .
 *.kaffee-teeshopde.com CNAME .
-kaffee-tek.com CNAME .
-*.kaffee-tek.com CNAME .
 kaffee-volt.com CNAME .
 *.kaffee-volt.com CNAME .
 kaffeeangebote.com CNAME .
@@ -7253,16 +7241,12 @@ kathewohlfahrt-de.com CNAME .
 *.kathewohlfahrt-de.com CNAME .
 katjapolzer.com CNAME .
 *.katjapolzer.com CNAME .
-katrinawcares.com CNAME .
-*.katrinawcares.com CNAME .
 katzeonline.com CNAME .
 *.katzeonline.com CNAME .
 kauf-motorroller.com CNAME .
 *.kauf-motorroller.com CNAME .
 kaufdefahrrad.com CNAME .
 *.kaufdefahrrad.com CNAME .
-kaufen-motorrad.com CNAME .
-*.kaufen-motorrad.com CNAME .
 kaufen-shop.com CNAME .
 *.kaufen-shop.com CNAME .
 kaufenbrennholz.com CNAME .
@@ -7311,16 +7295,12 @@ kedssuomi.com CNAME .
 *.kedssuomi.com CNAME .
 kedssuomishop.com CNAME .
 *.kedssuomishop.com CNAME .
-keenireland.com CNAME .
-*.keenireland.com CNAME .
 kellybridgetann.com CNAME .
 *.kellybridgetann.com CNAME .
 keltygear.com CNAME .
 *.keltygear.com CNAME .
 kenjinew.com CNAME .
 *.kenjinew.com CNAME .
-kenzoindonesia.com CNAME .
-*.kenzoindonesia.com CNAME .
 at.ketonaktiv.com CNAME .
 *.at.ketonaktiv.com CNAME .
 at9.ketonaktiv.com CNAME .
@@ -7351,8 +7331,6 @@ kidebro.com CNAME .
 *.kidebro.com CNAME .
 kids-premium.com CNAME .
 *.kids-premium.com CNAME .
-kidstriderite.com CNAME .
-*.kidstriderite.com CNAME .
 killenclinical.com CNAME .
 *.killenclinical.com CNAME .
 kindermobelre.com CNAME .
@@ -7593,10 +7571,6 @@ ladexlogistic.com CNAME .
 *.ladexlogistic.com CNAME .
 ladiesswimwearnew.com CNAME .
 *.ladiesswimwearnew.com CNAME .
-lady-underwear.com CNAME .
-*.lady-underwear.com CNAME .
-ladyninewest.com CNAME .
-*.ladyninewest.com CNAME .
 ladyrunclothing.com CNAME .
 *.ladyrunclothing.com CNAME .
 laegi.com CNAME .
@@ -7679,8 +7653,6 @@ layssard.com CNAME .
 *.layssard.com CNAME .
 lazyslaw.com CNAME .
 *.lazyslaw.com CNAME .
-lbrandsale.com CNAME .
-*.lbrandsale.com CNAME .
 lcg.com CNAME .
 *.lcg.com CNAME .
 ld-machines.com CNAME .
@@ -7749,8 +7721,6 @@ lekarnaslo.com CNAME .
 *.lekarnaslo.com CNAME .
 leladeverkauf.com CNAME .
 *.leladeverkauf.com CNAME .
-lembrege-capital.com CNAME .
-*.lembrege-capital.com CNAME .
 lempirecrypto.com CNAME .
 *.lempirecrypto.com CNAME .
 lemsdeutschland.com CNAME .
@@ -7797,8 +7767,6 @@ liebeskindberlinblog.com CNAME .
 *.liebeskindberlinblog.com CNAME .
 liewoodsales.com CNAME .
 *.liewoodsales.com CNAME .
-liewoodshop.com CNAME .
-*.liewoodshop.com CNAME .
 lifeaccessoriessupply.com CNAME .
 *.lifeaccessoriessupply.com CNAME .
 lifebeautyme.com CNAME .
@@ -7811,8 +7779,6 @@ lightcanarm.com CNAME .
 *.lightcanarm.com CNAME .
 lightingmastersupply.com CNAME .
 *.lightingmastersupply.com CNAME .
-lightingoxygen.com CNAME .
-*.lightingoxygen.com CNAME .
 lightsaber.com CNAME .
 *.lightsaber.com CNAME .
 lightsofgermany.com CNAME .
@@ -7933,8 +7899,6 @@ losungschnell.com CNAME .
 *.losungschnell.com CNAME .
 lotsfx.com CNAME .
 *.lotsfx.com CNAME .
-lottoschweiz.com CNAME .
-*.lottoschweiz.com CNAME .
 lotz-container.com CNAME .
 *.lotz-container.com CNAME .
 louboutin-finland.com CNAME .
@@ -16877,8 +16841,6 @@ iphone16-refurbed.de CNAME .
 *.iphone16-refurbed.de CNAME .
 iqfleet.de CNAME .
 *.iqfleet.de CNAME .
-irishteddy.de CNAME .
-*.irishteddy.de CNAME .
 isinwheel.de CNAME .
 *.isinwheel.de CNAME .
 isosmart.de CNAME .
@@ -16923,8 +16885,6 @@ jobs-consulting.de CNAME .
 *.jobs-consulting.de CNAME .
 jochen-finanzen.de CNAME .
 *.jochen-finanzen.de CNAME .
-jogala24.de CNAME .
-*.jogala24.de CNAME .
 johanns-stiefel.de CNAME .
 *.johanns-stiefel.de CNAME .
 josefs-sport.de CNAME .
@@ -16957,8 +16917,6 @@ kadiwo.de CNAME .
 *.kadiwo.de CNAME .
 kafelia.de CNAME .
 *.kafelia.de CNAME .
-kaffe4du.de CNAME .
-*.kaffe4du.de CNAME .
 kaffee-aus-leidenschaft.de CNAME .
 *.kaffee-aus-leidenschaft.de CNAME .
 kaffee-held24.de CNAME .
@@ -17013,16 +16971,12 @@ karawane-handel24.de CNAME .
 *.karawane-handel24.de CNAME .
 karenmillendeutschland.de CNAME .
 *.karenmillendeutschland.de CNAME .
-karinannawelpen.de CNAME .
-*.karinannawelpen.de CNAME .
 karismalabel.de CNAME .
 *.karismalabel.de CNAME .
 karriere-von-zuhause.de CNAME .
 *.karriere-von-zuhause.de CNAME .
 karrierevonzuhause.de CNAME .
 *.karrierevonzuhause.de CNAME .
-kartal-mobilfunk.de CNAME .
-*.kartal-mobilfunk.de CNAME .
 katawaz.de CNAME .
 *.katawaz.de CNAME .
 katzende.de CNAME .
@@ -17121,8 +17075,6 @@ klaus-ziegert.de CNAME .
 *.klaus-ziegert.de CNAME .
 klax24.de CNAME .
 *.klax24.de CNAME .
-kleidungliebe.de CNAME .
-*.kleidungliebe.de CNAME .
 klgm-eiche.de CNAME .
 *.klgm-eiche.de CNAME .
 klyden.de CNAME .
@@ -17205,14 +17157,10 @@ kryptographen.de CNAME .
 *.kryptographen.de CNAME .
 ktl-consulting.de CNAME .
 *.ktl-consulting.de CNAME .
-kuch-gala24.de CNAME .
-*.kuch-gala24.de CNAME .
 kucheninseln.de CNAME .
 *.kucheninseln.de CNAME .
 kuhlecke.de CNAME .
 *.kuhlecke.de CNAME .
-kuky-tech.de CNAME .
-*.kuky-tech.de CNAME .
 kuland24.de CNAME .
 *.kuland24.de CNAME .
 kumiko-kauf.de CNAME .
@@ -17227,8 +17175,6 @@ kurundu.de CNAME .
 *.kurundu.de CNAME .
 kynubeauty.de CNAME .
 *.kynubeauty.de CNAME .
-laboitenomade.de CNAME .
-*.laboitenomade.de CNAME .
 lacker-sagewerk.de CNAME .
 *.lacker-sagewerk.de CNAME .
 lacostes.de CNAME .
@@ -17251,8 +17197,6 @@ laneberg.de CNAME .
 *.laneberg.de CNAME .
 lantana-handel.de CNAME .
 *.lantana-handel.de CNAME .
-laribe-handel.de CNAME .
-*.laribe-handel.de CNAME .
 lasern-statt-bohren.de CNAME .
 *.lasern-statt-bohren.de CNAME .
 laserpointeronline.de CNAME .
@@ -17271,8 +17215,6 @@ lazarus24.de CNAME .
 *.lazarus24.de CNAME .
 lazys-marketing.de CNAME .
 *.lazys-marketing.de CNAME .
-lebensmittelgetranke.de CNAME .
-*.lebensmittelgetranke.de CNAME .
 leboutique24.de CNAME .
 *.leboutique24.de CNAME .
 lecker-box.de CNAME .
@@ -17403,8 +17345,6 @@ lululemonsale.de CNAME .
 *.lululemonsale.de CNAME .
 lumenz24.de CNAME .
 *.lumenz24.de CNAME .
-luminaclassic.de CNAME .
-*.luminaclassic.de CNAME .
 lunvia.de CNAME .
 *.lunvia.de CNAME .
 lusto.de CNAME .
@@ -17415,8 +17355,6 @@ luvelle.de CNAME .
 *.luvelle.de CNAME .
 luxde.de CNAME .
 *.luxde.de CNAME .
-luxeberlin.de CNAME .
-*.luxeberlin.de CNAME .
 luxfewo.de CNAME .
 *.luxfewo.de CNAME .
 luxnoo.de CNAME .
@@ -20795,24 +20733,16 @@ web.lotradecoin.net CNAME .
 *.web.lotradecoin.net CNAME .
 lottoargentina.net CNAME .
 *.lottoargentina.net CNAME .
-lottobelgium.net CNAME .
-*.lottobelgium.net CNAME .
 lottocolombia.net CNAME .
 *.lottocolombia.net CNAME .
 lottodanmark.net CNAME .
 *.lottodanmark.net CNAME .
-lottoireland.net CNAME .
-*.lottoireland.net CNAME .
 lottonorway.net CNAME .
 *.lottonorway.net CNAME .
 lottoportugal.net CNAME .
 *.lottoportugal.net CNAME .
-lottosouthafrica.net CNAME .
-*.lottosouthafrica.net CNAME .
 lottosuomi.net CNAME .
 *.lottosuomi.net CNAME .
-lottouruguay.net CNAME .
-*.lottouruguay.net CNAME .
 lowabootsaustralia.net CNAME .
 *.lowabootsaustralia.net CNAME .
 lowaisrael.net CNAME .
@@ -21355,8 +21285,6 @@ indiafacts.org CNAME .
 *.indiafacts.org CNAME .
 itpruefer.org CNAME .
 *.itpruefer.org CNAME .
-jambutme.org CNAME .
-*.jambutme.org CNAME .
 jodoma-agentur.org CNAME .
 *.jodoma-agentur.org CNAME .
 jordan-1.org CNAME .
@@ -21369,18 +21297,8 @@ lottoaustralia.org CNAME .
 *.lottoaustralia.org CNAME .
 lottobulgaria.org CNAME .
 *.lottobulgaria.org CNAME .
-lottohungary.org CNAME .
-*.lottohungary.org CNAME .
 lottokuwait.org CNAME .
 *.lottokuwait.org CNAME .
-lottolithuania.org CNAME .
-*.lottolithuania.org CNAME .
-lottomexico.org CNAME .
-*.lottomexico.org CNAME .
-lottoserbia.org CNAME .
-*.lottoserbia.org CNAME .
-luckymind.org CNAME .
-*.luckymind.org CNAME .
 maxuptrade.org CNAME .
 *.maxuptrade.org CNAME .
 metaversesworld.org CNAME .
@@ -22253,18 +22171,8 @@ impulsa.shop CNAME .
 *.impulsa.shop CNAME .
 incomgamng.shop CNAME .
 *.incomgamng.shop CNAME .
-inno-gialuron-official.shop CNAME .
-*.inno-gialuron-official.shop CNAME .
-integritybotanicade.shop CNAME .
-*.integritybotanicade.shop CNAME .
 isabellefrancois.shop CNAME .
 *.isabellefrancois.shop CNAME .
-isabellegracejewde.shop CNAME .
-*.isabellegracejewde.shop CNAME .
-istomde.shop CNAME .
-*.istomde.shop CNAME .
-italianbarberde.shop CNAME .
-*.italianbarberde.shop CNAME .
 jacksbeautyline.shop CNAME .
 *.jacksbeautyline.shop CNAME .
 jako-eu.shop CNAME .
@@ -22277,8 +22185,6 @@ jennychurchill.shop CNAME .
 *.jennychurchill.shop CNAME .
 jessiccccy.shop CNAME .
 *.jessiccccy.shop CNAME .
-jet-setter.shop CNAME .
-*.jet-setter.shop CNAME .
 jggli26v.shop CNAME .
 *.jggli26v.shop CNAME .
 jinbeideutschland.shop CNAME .
@@ -22297,8 +22203,6 @@ jolomotode.shop CNAME .
 *.jolomotode.shop CNAME .
 josettevia.shop CNAME .
 *.josettevia.shop CNAME .
-julia-hufnagel.shop CNAME .
-*.julia-hufnagel.shop CNAME .
 juliahufnagel.shop CNAME .
 *.juliahufnagel.shop CNAME .
 juliakrakowiak.shop CNAME .
@@ -22307,10 +22211,6 @@ kaffegut.shop CNAME .
 *.kaffegut.shop CNAME .
 kahlaporzellan.shop CNAME .
 *.kahlaporzellan.shop CNAME .
-kaminholz-derichs.shop CNAME .
-*.kaminholz-derichs.shop CNAME .
-kaminholz-sternal.shop CNAME .
-*.kaminholz-sternal.shop CNAME .
 kaminholzrhein.shop CNAME .
 *.kaminholzrhein.shop CNAME .
 kaotikofire.shop CNAME .
@@ -22321,10 +22221,6 @@ karineaubry.shop CNAME .
 *.karineaubry.shop CNAME .
 karlkani.shop CNAME .
 *.karlkani.shop CNAME .
-karmakissde.shop CNAME .
-*.karmakissde.shop CNAME .
-karsten-burkhardt.shop CNAME .
-*.karsten-burkhardt.shop CNAME .
 kateve.shop CNAME .
 *.kateve.shop CNAME .
 kathydouba.shop CNAME .
@@ -22347,16 +22243,12 @@ kimcreem.shop CNAME .
 *.kimcreem.shop CNAME .
 kindgesund.shop CNAME .
 *.kindgesund.shop CNAME .
-kingbabystudide.shop CNAME .
-*.kingbabystudide.shop CNAME .
 kippiede.shop CNAME .
 *.kippiede.shop CNAME .
 klenertcheap.shop CNAME .
 *.klenertcheap.shop CNAME .
 kluthbaustoffe.shop CNAME .
 *.kluthbaustoffe.shop CNAME .
-knockknockstude.shop CNAME .
-*.knockknockstude.shop CNAME .
 knottenwollede.shop CNAME .
 *.knottenwollede.shop CNAME .
 koffeniso.shop CNAME .
@@ -22365,8 +22257,6 @@ kohessen.shop CNAME .
 *.kohessen.shop CNAME .
 koneporn.shop CNAME .
 *.koneporn.shop CNAME .
-koodakde.shop CNAME .
-*.koodakde.shop CNAME .
 kopkde.shop CNAME .
 *.kopkde.shop CNAME .
 korte-baustoffe.shop CNAME .
@@ -22385,14 +22275,8 @@ lafeebeauty.shop CNAME .
 *.lafeebeauty.shop CNAME .
 lagalanade.shop CNAME .
 *.lagalanade.shop CNAME .
-lalalandshopde.shop CNAME .
-*.lalalandshopde.shop CNAME .
 landluftde.shop CNAME .
 *.landluftde.shop CNAME .
-landoverprtcanada.shop CNAME .
-*.landoverprtcanada.shop CNAME .
-langston-motorsporde.shop CNAME .
-*.langston-motorsporde.shop CNAME .
 latahalcom.shop CNAME .
 *.latahalcom.shop CNAME .
 lauweichenshop.shop CNAME .
@@ -22437,12 +22321,8 @@ littledutchev.shop CNAME .
 *.littledutchev.shop CNAME .
 littlefoxxde.shop CNAME .
 *.littlefoxxde.shop CNAME .
-littlemde.shop CNAME .
-*.littlemde.shop CNAME .
 livishomeoutlet.shop CNAME .
 *.livishomeoutlet.shop CNAME .
-ljaircooledenginde.shop CNAME .
-*.ljaircooledenginde.shop CNAME .
 localmieuxquedesfleurs.shop CNAME .
 *.localmieuxquedesfleurs.shop CNAME .
 lockenbar.shop CNAME .
@@ -22453,10 +22333,6 @@ lourdesocampoe.shop CNAME .
 *.lourdesocampoe.shop CNAME .
 lovemaxet.shop CNAME .
 *.lovemaxet.shop CNAME .
-lovemedobabyde.shop CNAME .
-*.lovemedobabyde.shop CNAME .
-lrisy.shop CNAME .
-*.lrisy.shop CNAME .
 luamddfaya.shop CNAME .
 *.luamddfaya.shop CNAME .
 luiliebe.shop CNAME .
@@ -23639,8 +23515,6 @@ kinoion.top CNAME .
 *.kinoion.top CNAME .
 lasylife.top CNAME .
 *.lasylife.top CNAME .
-ldondada.top CNAME .
-*.ldondada.top CNAME .
 liaopo.top CNAME .
 *.liaopo.top CNAME .
 gemoni.livexis.top CNAME .

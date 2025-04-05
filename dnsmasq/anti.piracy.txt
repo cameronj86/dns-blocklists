@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Apr 2025 15:38 UTC
-# Version: 2025.0404.1538.10
+# Last modified: 04 Apr 2025 23:03 UTC
+# Version: 2025.0404.2303.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10220
+# Number of entries: 10207
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -170,6 +170,7 @@ local=/1flix.to/
 local=/1gabba.net/
 local=/1gabba.pw/
 local=/1hd.to/
+local=/1jour1film.online/
 local=/1jour1film.website/
 local=/1kif.com/
 local=/1load.sx/
@@ -3828,7 +3829,6 @@ local=/gamestorrents.io/
 local=/gamestorrents.nu/
 local=/gametechwiki.com/
 local=/bt-tracker.gamexp.ru/
-local=/gamezlinks.net/
 local=/gamingbeasts.com/
 local=/gaoqing.fm/
 local=/garageforum.org/
@@ -4581,7 +4581,6 @@ local=/interviewfor.red/
 local=/intilo.com/
 local=/intrepidbd.com/
 local=/invalid.pw/
-local=/watch.inzi.dev/
 local=/ionbooter.com/
 local=/app.iosgods.com/
 local=/iosmirror.cc/
@@ -4610,7 +4609,6 @@ local=/ipstress.in/
 local=/ipstresser.co/
 local=/ipstresser.com/
 local=/ipstresser.wtf/
-local=/ipstresstest.com/
 local=/iptorrents.com/
 local=/iptvcanarias.tv/
 local=/iptvonly.tv/
@@ -4657,7 +4655,6 @@ local=/istream-it.com/
 local=/istream2watch.com/
 local=/isubsmovies.com/
 local=/isuggeriti.it/
-local=/italia-film.arab/
 local=/italia-film.cc/
 local=/italia-film.click/
 local=/italia-film.co/
@@ -4676,7 +4673,6 @@ local=/italia-film.vg/
 local=/italia-film.ws/
 local=/italiafilm.fun/
 local=/italiaserie.cc/
-local=/itbasebd.net/
 local=/itcnbd.com/
 local=/itera.bz/
 local=/itmn.org/
@@ -4748,9 +4744,7 @@ local=/tracker.jordan.im/
 local=/journeyman.tv/
 local=/transkaroo.joustasie.net/
 local=/retracker.joxnet.ru/
-local=/tracker.joybomb.tw/
 local=/joytorrent.com/
-local=/jpmangas.co/
 local=/jpopsuki.eu/
 local=/js-dt.com/
 local=/jsb.by/
@@ -4803,7 +4797,6 @@ local=/karanpc.com/
 local=/karsannet.com/
 local=/kastatus.com/
 local=/kat.am/
-local=/kat.li/
 local=/kat.ph/
 local=/kat.rip/
 local=/kat.to/
@@ -4861,7 +4854,6 @@ local=/kickass2.top/
 local=/kickass2.xyz/
 local=/kickassanime.mx/
 local=/kickassanime.rs/
-local=/kickassto.cc/
 local=/kickassto.co/
 local=/kickasstorrent.bid/
 local=/kickasstorrent.cr/
@@ -5014,7 +5006,6 @@ local=/korsar.tv/
 local=/home.kray.pw/
 local=/kraytracker.com/
 local=/bt.ktkj.com/
-local=/ktorrents.com/
 local=/bt.ktrackers.com/
 local=/kualda.com/
 local=/kubalibre.com/
@@ -5163,7 +5154,6 @@ local=/openwrt.lingyurouqing.xyz/
 local=/link-base.org/
 local=/linkbucks.com/
 local=/linkgalleries.net/
-local=/linkinnet.net/
 local=/linkomanija.net/
 local=/tracker.linkomanija.org/
 local=/linkr.top/
@@ -5171,7 +5161,6 @@ local=/linksbox.net/
 local=/tracker.lintk.me/
 local=/linux23.com/
 local=/linuxmafia.net/
-local=/torrents.linuxmint.com/
 local=/linuxtracker.org/
 local=/tracker.linvk.com/
 local=/linxdown.com/
@@ -5181,7 +5170,6 @@ local=/live-kooora.com/
 local=/live-kooora-tv.com/
 local=/live-kooora-tv.net/
 local=/live-koora.online/
-local=/kora.live-koora.live/
 local=/live-nfl.stream/
 local=/live-sport-tv.it/
 local=/live-stream.tv/
@@ -9955,7 +9943,6 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
-local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/

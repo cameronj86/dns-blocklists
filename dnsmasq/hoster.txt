@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Apr 2025 10:41 UTC
-# Version: 2025.0404.1041.21
+# Last modified: 04 Apr 2025 23:02 UTC
+# Version: 2025.0404.2302.20
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 2146
 #
@@ -913,7 +913,6 @@ local=/ez-sites.ws/
 local=/ezblogz.com/
 local=/ezyro.com/
 local=/f11.us/
-local=/facepl.com/
 local=/faithflairboutique.shop/
 local=/faithweb.com/
 local=/familylobby.com/
@@ -1220,6 +1219,7 @@ local=/info4.de/
 local=/infos.cx/
 local=/infos.lc/
 local=/infos.st/
+local=/infplm.top/
 local=/inicioseguridad-cliente.com/
 local=/insanejournal.com/
 local=/instantfreesite.com/

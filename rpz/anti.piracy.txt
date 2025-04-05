@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743781080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743807780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Apr 2025 15:38 UTC
-; Version: 2025.0404.1538.10
+; Last modified: 04 Apr 2025 23:03 UTC
+; Version: 2025.0404.2303.42
 ; Syntax: RPZ
-; Number of entries: 20440
+; Number of entries: 20414
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -273,8 +273,6 @@ tracker.frontalweb.com.ar CNAME .
 *.tracker.frontalweb.com.ar CNAME .
 trackerx.com.ar CNAME .
 *.trackerx.com.ar CNAME .
-italia-film.arab CNAME .
-*.italia-film.arab CNAME .
 streamingcommunity.arab CNAME .
 *.streamingcommunity.arab CNAME .
 tantifilm.arab CNAME .
@@ -1123,8 +1121,6 @@ jetanime.cc CNAME .
 *.jetanime.cc CNAME .
 torrent.jiwang.cc CNAME .
 *.torrent.jiwang.cc CNAME .
-kickassto.cc CNAME .
-*.kickassto.cc CNAME .
 kinoking.cc CNAME .
 *.kinoking.cc CNAME .
 kinokrad.cc CNAME .
@@ -1903,8 +1899,6 @@ ipstresser.co CNAME .
 *.ipstresser.co CNAME .
 italia-film.co CNAME .
 *.italia-film.co CNAME .
-jpmangas.co CNAME .
-*.jpmangas.co CNAME .
 juraganfilm.co CNAME .
 *.juraganfilm.co CNAME .
 katcr.co CNAME .
@@ -4585,8 +4579,6 @@ ipmart-forum.com CNAME .
 *.ipmart-forum.com CNAME .
 ipstresser.com CNAME .
 *.ipstresser.com CNAME .
-ipstresstest.com CNAME .
-*.ipstresstest.com CNAME .
 iptorrents.com CNAME .
 *.iptorrents.com CNAME .
 iptvprova.com CNAME .
@@ -4785,8 +4777,6 @@ kraytracker.com CNAME .
 *.kraytracker.com CNAME .
 bt.ktkj.com CNAME .
 *.bt.ktkj.com CNAME .
-ktorrents.com CNAME .
-*.ktorrents.com CNAME .
 bt.ktrackers.com CNAME .
 *.bt.ktrackers.com CNAME .
 kualda.com CNAME .
@@ -4867,8 +4857,6 @@ linkbucks.com CNAME .
 *.linkbucks.com CNAME .
 linux23.com CNAME .
 *.linux23.com CNAME .
-torrents.linuxmint.com CNAME .
-*.torrents.linuxmint.com CNAME .
 tracker.linvk.com CNAME .
 *.tracker.linvk.com CNAME .
 linxdown.com CNAME .
@@ -8015,8 +8003,6 @@ eurostreaming.dev CNAME .
 *.eurostreaming.dev CNAME .
 ftuapps.dev CNAME .
 *.ftuapps.dev CNAME .
-watch.inzi.dev CNAME .
-*.watch.inzi.dev CNAME .
 film.kace.dev CNAME .
 *.film.kace.dev CNAME .
 massgrave.dev CNAME .
@@ -10157,8 +10143,6 @@ crichd.li CNAME .
 *.crichd.li CNAME .
 filmpertutti.li CNAME .
 *.filmpertutti.li CNAME .
-kat.li CNAME .
-*.kat.li CNAME .
 movieuniverse.li CNAME .
 *.movieuniverse.li CNAME .
 mp3.li CNAME .
@@ -10363,8 +10347,6 @@ khulnatv.live CNAME .
 *.khulnatv.live CNAME .
 kinokiste.live CNAME .
 *.kinokiste.live CNAME .
-kora.live-koora.live CNAME .
-*.kora.live-koora.live CNAME .
 losmovies.live CNAME .
 *.losmovies.live CNAME .
 maxserie.live CNAME .
@@ -12295,8 +12277,6 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
-gamezlinks.net CNAME .
-*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -12431,8 +12411,6 @@ isohunts.net CNAME .
 *.isohunts.net CNAME .
 isrbx.net CNAME .
 *.isrbx.net CNAME .
-itbasebd.net CNAME .
-*.itbasebd.net CNAME .
 javccdd.net CNAME .
 *.javccdd.net CNAME .
 jetload.net CNAME .
@@ -12511,8 +12489,6 @@ ipstresser.lidamorgenstein.net CNAME .
 *.ipstresser.lidamorgenstein.net CNAME .
 linkgalleries.net CNAME .
 *.linkgalleries.net CNAME .
-linkinnet.net CNAME .
-*.linkinnet.net CNAME .
 linkomanija.net CNAME .
 *.linkomanija.net CNAME .
 linksbox.net CNAME .
@@ -13859,6 +13835,8 @@ newalbumreleases.unblockit.onl CNAME .
 *.123movies.online CNAME .
 123moviesme.online CNAME .
 *.123moviesme.online CNAME .
+1jour1film.online CNAME .
+*.1jour1film.online CNAME .
 altadefinizione.online CNAME .
 *.altadefinizione.online CNAME .
 altadefinizione-originale.online CNAME .
@@ -19147,8 +19125,6 @@ burningseries.tw CNAME .
 *.burningseries.tw CNAME .
 hd.club.tw CNAME .
 *.hd.club.tw CNAME .
-tracker.joybomb.tw CNAME .
-*.tracker.joybomb.tw CNAME .
 mayi.tw CNAME .
 *.mayi.tw CNAME .
 rarbg.tw CNAME .
@@ -20379,8 +20355,6 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
-xstress.xyz CNAME .
-*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

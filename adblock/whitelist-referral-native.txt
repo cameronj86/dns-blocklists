@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 03 Apr 2025 21:42 UTC
-! Version: 2025.0403.2142.05
+! Last modified: 04 Apr 2025 22:28 UTC
+! Version: 2025.0404.2228.41
 ! Syntax: AdBlock
-! Number of entries: 785
+! Number of entries: 787
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -179,6 +179,7 @@
 @@||adservice.google.com.br^
 @@||adservice.google.com.cl^
 @@||adservice.google.com.co^
+@@||adservice.google.com.ec^
 @@||adservice.google.com.eg^
 @@||adservice.google.com.gt^
 @@||adservice.google.com.hk^
@@ -224,8 +225,8 @@
 @@||click.dji.com^
 @@||email.docker.com^
 @@||postsign.docusign.com^
+@@||klclick.dollarshaveclub.com^
 @@||c2827.dotomi.com^
-@@||c2990.dotomi.com^
 @@||casale-match.dotomi.com^
 @@||cj.dotomi.com^
 @@||cpe.dotomi.com^
@@ -244,7 +245,6 @@
 @@||hs.eloqua.com^
 @@||list-unsubscribe.eservice.emarsys.net^
 @@||redirector.eservice.emarsys.net^
-@@||suite-dashboard.gservice.emarsys.net^
 @@||suite10.emarsys.net^
 @@||suite11.emarsys.net^
 @@||suite16.emarsys.net^
@@ -260,7 +260,6 @@
 @@||suite40.emarsys.net^
 @@||suite40-cf.emarsys.net^
 @@||suite45.emarsys.net^
-@@||suite47-cf.emarsys.net^
 @@||suite54.emarsys.net^
 @@||suite56.emarsys.net^
 @@||suite57.emarsys.net^
@@ -433,7 +432,9 @@
 @@||email.microsoft.com^
 @@||go.microsoft.com^
 @@||target.microsoft.com^
-@@||email.microsoftemail.com^
+@@||click.email.microsoftemail.com^
+@@||image.email.microsoftemail.com^
+@@||view.email.microsoftemail.com^
 @@||email.microsoftonline.com^
 @@||links.mkt41.net^
 @@||mkto-a0095.com^
@@ -451,6 +452,7 @@
 @@||mkto-ab220193.com^
 @@||mkto-ab250105.com^
 @@||mkto-ab250167.com^
+@@||mkto-ab280067.com^
 @@||mkto-ab280191.com^
 @@||mkto-ab290022.com^
 @@||mkto-ab300154.com^
@@ -459,16 +461,17 @@
 @@||mkto-ab330197.com^
 @@||mkto-ab340022.com^
 @@||mkto-ab340124.com^
-@@||mkto-ab350042.com^
-@@||mkto-ab400127.com^
 @@||mkto-ab420081.com^
+@@||mkto-ab440098.com^
 @@||mkto-ab470148.com^
 @@||mkto-ab480047.com^
+@@||mkto-ab500174.com^
+@@||mkto-ab520004.com^
 @@||mkto-ab530057.com^
-@@||mkto-ab540059.com^
 @@||mkto-ab540186.com^
 @@||mkto-ab550140.com^
 @@||mkto-ab550168.com^
+@@||mkto-ab550184.com^
 @@||mkto-ab560068.com^
 @@||mkto-ab570013.com^
 @@||mkto-ab570110.com^
@@ -489,7 +492,6 @@
 @@||mkto-g0180.com^
 @@||mkto-k0071.com^
 @@||mkto-lon030291.com^
-@@||mkto-lon040102.com^
 @@||mkto-lon040152.com^
 @@||mkto-n0199.com^
 @@||mkto-nld1040060.com^
@@ -497,7 +499,6 @@
 @@||mkto-o0153.com^
 @@||mkto-sj010104.com^
 @@||mkto-sj030214.com^
-@@||mkto-sj040136.com^
 @@||mkto-sj040252.com^
 @@||mkto-sj070214.com^
 @@||mkto-sj070259.com^
@@ -612,6 +613,7 @@
 @@||adorama.rfvk.net^
 @@||click.royalcaribbeanmarketing.com^
 @@||r4gh8tuab.cc.rs6.net^
+@@||r4ofs8cab.cc.rs6.net^
 @@||r5waxhbbb.cc.rs6.net^
 @@||r6lccqnab.cc.rs6.net^
 @@||r7avxrcab.cc.rs6.net^

@@ -414,6 +414,13 @@
       }
     },
     {
+      "PK": "bingadsedgeextension-prod.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "bingads.microsoft.com",
       "action": {
         "do": 0,
@@ -583,6 +590,13 @@
     },
     {
       "PK": "c.gr.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "chc-visio-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1

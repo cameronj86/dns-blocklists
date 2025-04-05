@@ -994,13 +994,6 @@
       }
     },
     {
-      "PK": "dear.dad",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.degree",
       "action": {
         "do": 0,
@@ -4375,13 +4368,6 @@
       }
     },
     {
-      "PK": "url.zip",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "usenet.agency",
       "action": {
         "do": 1,
@@ -4698,6 +4684,13 @@
     },
     {
       "PK": "ws.agency",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wspay.biz",
       "action": {
         "do": 1,
         "status": 1

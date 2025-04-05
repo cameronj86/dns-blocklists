@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 03 Apr 2025 15:46 UTC
-! Version: 2025.0403.1546.31
+! Last modified: 05 Apr 2025 02:28 UTC
+! Version: 2025.0405.0228.13
 ! Syntax: uBlock
 ! Number of latin TLDs: 235 - non-latin TLDs: 151
 !
@@ -32,7 +32,7 @@
 ||bid^$doc
 ||bike^$doc,domain=~lime.bike|~rapido.bike
 ||bingo^$doc
-||biz^$doc,domain=~anonymurl.biz|~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~dailyinnovation.biz|~epson.biz|~ette.biz|~gamesindustry.biz|~gimmeporn.biz|~hb.biz|~iimwf.biz|~knuddels.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~notebookcheck.biz|~panasonic.biz|~slussen.biz|~volvocars.biz|~wiz.biz|~wyborcza.biz|~yoox.biz
+||biz^$doc,domain=~anonymurl.biz|~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~dailyinnovation.biz|~epson.biz|~ette.biz|~gamesindustry.biz|~gimmeporn.biz|~hb.biz|~iimwf.biz|~knuddels.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~notebookcheck.biz|~panasonic.biz|~slussen.biz|~volvocars.biz|~wiz.biz|~wspay.biz|~wyborcza.biz|~yoox.biz
 ||black^$doc
 ||blue^$doc
 ||boats^$doc
@@ -67,7 +67,7 @@
 ||coupons^$doc
 ||cymru^$doc
 ||cyou^$doc,domain=~hammertime.cyou
-||dad^$doc,domain=~classic.dad|~daily.dad|~dear.dad|~gdflix.dad|~gdtot.dad|~rad.dad
+||dad^$doc,domain=~classic.dad|~daily.dad|~gdflix.dad|~gdtot.dad|~rad.dad
 ||dance^$doc
 ||date^$doc,domain=~endoflife.date
 ||dating^$doc,domain=~boo.dating|~gaudi.dating
@@ -250,7 +250,7 @@
 ||xin^$doc
 ||yachts^$doc,domain=~sinking.yachts
 ||you^$doc
-||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~uploaded-files.zip|~url.zip
+||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~uploaded-files.zip
 ||рус^$doc
 ||कॉम^$doc
 ||セール^$doc
