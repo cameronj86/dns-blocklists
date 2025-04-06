@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743913020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743953580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Apr 2025 04:17 UTC
-; Version: 2025.0406.0417.55
+; Last modified: 06 Apr 2025 15:33 UTC
+; Version: 2025.0406.1533.11
 ; Syntax: RPZ
-; Number of entries: 7794
+; Number of entries: 7790
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -538,8 +538,6 @@ piratebayproxy.co CNAME .
 *.piratebayproxy.co CNAME .
 repocket.co CNAME .
 *.repocket.co CNAME .
-schoolproxy.co CNAME .
-*.schoolproxy.co CNAME .
 securevpn.co CNAME .
 *.securevpn.co CNAME .
 skyssh.co CNAME .
@@ -888,8 +886,6 @@ blockless.com CNAME .
 *.blockless.com CNAME .
 new-proxy-sites.blogspot.com CNAME .
 *.new-proxy-sites.blogspot.com CNAME .
-adguard.blogssl.com CNAME .
-*.adguard.blogssl.com CNAME .
 bluesnap.com CNAME .
 *.bluesnap.com CNAME .
 blufvpn.com CNAME .
@@ -2878,8 +2874,6 @@ untracer.com CNAME .
 *.untracer.com CNAME .
 updatedproxies.com CNAME .
 *.updatedproxies.com CNAME .
-dns.uplenk.com CNAME .
-*.dns.uplenk.com CNAME .
 ur-browser.com CNAME .
 *.ur-browser.com CNAME .
 urban-vpn.com CNAME .
@@ -3576,6 +3570,8 @@ ultrasurf.es CNAME .
 *.3dns.eu CNAME .
 dns.almir1904.eu CNAME .
 *.dns.almir1904.eu CNAME .
+anonproxy.eu CNAME .
+*.anonproxy.eu CNAME .
 dns.bermeitinger.eu CNAME .
 *.dns.bermeitinger.eu CNAME .
 adguard.bonsirven.eu CNAME .
@@ -4308,8 +4304,6 @@ doh.safesurfer.io CNAME .
 *.doh.safesurfer.io CNAME .
 safing.io CNAME .
 *.safing.io CNAME .
-vps4.scho.io CNAME .
-*.vps4.scho.io CNAME .
 2.dnscrypt-cert.dns.seby.io CNAME .
 *.2.dnscrypt-cert.dns.seby.io CNAME .
 doh.seby.io CNAME .
@@ -4452,6 +4446,8 @@ njal.la CNAME .
 *.njal.la CNAME .
 proxify.la CNAME .
 *.proxify.la CNAME .
+xmr.land CNAME .
+*.xmr.land CNAME .
 vpn.lat CNAME .
 *.vpn.lat CNAME .
 doh.li CNAME .
@@ -6500,6 +6496,8 @@ bdns.pro CNAME .
 *.bdns.pro CNAME .
 dns.burgas.pro CNAME .
 *.dns.burgas.pro CNAME .
+dns.dynx.pro CNAME .
+*.dns.dynx.pro CNAME .
 g-a-y.pro CNAME .
 *.g-a-y.pro CNAME .
 hustlersuniversity.pro CNAME .
@@ -7048,8 +7046,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 knowurcson.store CNAME .
 *.knowurcson.store CNAME .
-minilla.store CNAME .
-*.minilla.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
 dns.fizz.studio CNAME .
@@ -7240,6 +7236,8 @@ zxcvb.pp.ua CNAME .
 *.zxcvb.pp.ua CNAME .
 10bestvpn.co.uk CNAME .
 *.10bestvpn.co.uk CNAME .
+adguard.aa4.co.uk CNAME .
+*.adguard.aa4.co.uk CNAME .
 binhexsolutions.co.uk CNAME .
 *.binhexsolutions.co.uk CNAME .
 clearvpn.co.uk CNAME .
@@ -7504,8 +7502,6 @@ doh.ntu.ssooss.win CNAME .
 *.doh.ntu.ssooss.win CNAME .
 dns.superstefan.win CNAME .
 *.dns.superstefan.win CNAME .
-dns.trust404.win CNAME .
-*.dns.trust404.win CNAME .
 unblockproxy.win CNAME .
 *.unblockproxy.win CNAME .
 worldwideproxy4u.win CNAME .

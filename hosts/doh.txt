@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Apr 2025 04:16 UTC
-# Version: 2025.0406.0416.31
+# Last modified: 06 Apr 2025 15:31 UTC
+# Version: 2025.0406.1531.49
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1609
+# Number of entries: 1608
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -205,7 +205,6 @@
 0.0.0.0 us1.blissdns.net
 0.0.0.0 doh.blockerdns.com
 0.0.0.0 example.doh.blockerdns.com
-0.0.0.0 adguard.blogssl.com
 0.0.0.0 dns.blokada.org
 0.0.0.0 rfree1.blue-shield.at
 0.0.0.0 rfree2.blue-shield.at
@@ -306,6 +305,7 @@
 0.0.0.0 ca.doh.cloudveil.org
 0.0.0.0 us.doh.cloudveil.org
 0.0.0.0 dns.cmrg.net
+0.0.0.0 adguard.aa4.co.uk
 0.0.0.0 pihole.datamatter.co.za
 0.0.0.0 dns.gayanalysing.co.uk
 0.0.0.0 dns.gi.co.id
@@ -613,6 +613,7 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
+0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
 0.0.0.0 easyhandshake.com
@@ -977,7 +978,6 @@
 0.0.0.0 dns.mihanentalpo.me
 0.0.0.0 dns.mikeliu.org
 0.0.0.0 mikezhang.xyz
-0.0.0.0 minilla.store
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 doh.mmmalia.com
 0.0.0.0 dns.mnet-online.de
@@ -1507,7 +1507,6 @@
 0.0.0.0 asia.tri-dns.net
 0.0.0.0 eu.tri-dns.net
 0.0.0.0 tributh.net
-0.0.0.0 dns.trust404.win
 0.0.0.0 truta.org
 0.0.0.0 dns.tryk.app
 0.0.0.0 doh.ibr.cs.tu-bs.de
@@ -1535,7 +1534,6 @@
 0.0.0.0 galileo.math.unipd.it
 0.0.0.0 resolver.unstoppable.io
 0.0.0.0 dns.unx.io
-0.0.0.0 dns.uplenk.com
 0.0.0.0 urology.wiki
 0.0.0.0 dns.koala.us.to
 0.0.0.0 adfree.usableprivacy.net
@@ -1582,6 +1580,7 @@
 0.0.0.0 xholgm.top
 0.0.0.0 agh.xinfeng16m.top
 0.0.0.0 dns.xlion.tw
+0.0.0.0 xmr.land
 0.0.0.0 xn--durhre-yxa.de
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com

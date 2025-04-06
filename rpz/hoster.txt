@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743894360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743935700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Apr 2025 23:06 UTC
-; Version: 2025.0405.2306.44
+; Last modified: 06 Apr 2025 10:35 UTC
+; Version: 2025.0406.1035.49
 ; Syntax: RPZ
-; Number of entries: 4282
+; Number of entries: 4274
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -267,8 +267,6 @@ pressname.club CNAME .
 *.pressname.club CNAME .
 radiola.club CNAME .
 *.radiola.club CNAME .
-salesnote.club CNAME .
-*.salesnote.club CNAME .
 soundtrue.club CNAME .
 *.soundtrue.club CNAME .
 ussource.club CNAME .
@@ -1031,8 +1029,6 @@ ezblogz.com CNAME .
 *.ezblogz.com CNAME .
 ezyro.com CNAME .
 *.ezyro.com CNAME .
-facepl.com CNAME .
-*.facepl.com CNAME .
 faithweb.com CNAME .
 *.faithweb.com CNAME .
 familylobby.com CNAME .
@@ -1691,8 +1687,6 @@ techionblog.com CNAME .
 *.techionblog.com CNAME .
 tek-blogs.com CNAME .
 *.tek-blogs.com CNAME .
-telegrameyg.com CNAME .
-*.telegrameyg.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
 terapad.com CNAME .
@@ -3081,6 +3075,8 @@ clan.mn CNAME .
 *.clan.mn CNAME .
 muf.mobi CNAME .
 *.muf.mobi CNAME .
+blogspot.mr CNAME .
+*.blogspot.mr CNAME .
 blogspot.com.mt CNAME .
 *.blogspot.com.mt CNAME .
 24.mu CNAME .
@@ -3727,8 +3723,6 @@ qipim.ru CNAME .
 *.qipim.ru CNAME .
 regruhosting.ru CNAME .
 *.regruhosting.ru CNAME .
-seilodown.ru CNAME .
-*.seilodown.ru CNAME .
 seite.ru CNAME .
 *.seite.ru CNAME .
 tehno-politen.ru CNAME .
@@ -4115,6 +4109,8 @@ godxdess.top CNAME .
 *.godxdess.top CNAME .
 holcom.top CNAME .
 *.holcom.top CNAME .
+infplm.top CNAME .
+*.infplm.top CNAME .
 jtexpressr.top CNAME .
 *.jtexpressr.top CNAME .
 laexchange.top CNAME .
@@ -4141,8 +4137,6 @@ proginfortrad.top CNAME .
 *.proginfortrad.top CNAME .
 safwhatsapp.top CNAME .
 *.safwhatsapp.top CNAME .
-sjuyouhui.top CNAME .
-*.sjuyouhui.top CNAME .
 spaceplay.top CNAME .
 *.spaceplay.top CNAME .
 sv-whatsapp.top CNAME .
@@ -4287,8 +4281,6 @@ hkearth.xyz CNAME .
 *.hkearth.xyz CNAME .
 pwttr.xyz CNAME .
 *.pwttr.xyz CNAME .
-sekigu.xyz CNAME .
-*.sekigu.xyz CNAME .
 wapka.xyz CNAME .
 *.wapka.xyz CNAME .
 blogspot.co.za CNAME .

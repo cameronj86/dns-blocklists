@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Apr 2025 22:58 UTC
-! Version: 2025.0405.2258.04
+! Last modified: 06 Apr 2025 10:27 UTC
+! Version: 2025.0406.1027.23
 ! Syntax: AdBlock
-! Number of entries: 11792
+! Number of entries: 11704
 !
 ||01crypto.com^
 ||1-stud.net^
@@ -482,6 +482,7 @@
 ||annebarot.com^
 ||annelieholmen.com^
 ||annelore.shop^
+||annen.store^
 ||annenowakwelpen.de^
 ||anneschilk.com^
 ||anneshop24.de^
@@ -529,6 +530,7 @@
 ||apothekeeuropa.de^
 ||apothekehilfe.com^
 ||apothekemedicament.com^
+||apotheken-sicher.at^
 ||apoversand24.com^
 ||app-analyse.de^
 ||app-trader.biz^
@@ -588,7 +590,9 @@
 ||ardesign.at^
 ||area-fashion.com^
 ||areatrading.io^
+||arem.shop^
 ||arena-jeux.com^
+||arenaswimstore.com^
 ||aresc.de^
 ||aretephoenix.com^
 ||ariana-markt.de^
@@ -620,6 +624,7 @@
 ||arsuperet.live^
 ||art-impulse.fr^
 ||art-portrait.de^
+||artcollectibles.xyz^
 ||artdupatrimoine.com^
 ||artemondo.eu^
 ||artestaes.shop^
@@ -731,6 +736,7 @@
 ||autmaxx.com^
 ||autoabdeckungsfabrik.com^
 ||autobodynowde.shop^
+||autochromatic.com^
 ||autocolourbankde.shop^
 ||autocryptooptions.online^
 ||autodailyreport.com^
@@ -761,12 +767,14 @@
 ||av-shopping.shop^
 ||avanturagmbh.de^
 ||avaxmarkets.com^
+||avelu.de^
 ||avenado-home.de^
 ||avenaprime.com^
 ||avenexco.com^
 ||avengeapollo.com^
 ||avl-fahrraeder.com^
 ||avorino.com^
+||awayad.com^
 ||awc-of-berlin.de^
 ||awccanadianpharmacy.org^
 ||awirer.com^
@@ -785,6 +793,7 @@
 ||ayanan.shop^
 ||ayasalemar.best^
 ||aybl.at^
+||aybl.pl^
 ||aynosa.de^
 ||az-directy.com^
 ||az-motora.de^
@@ -8667,19 +8676,16 @@
 ||royalparfumde.com^
 ||rozafinanzen.com^
 ||rphlg.top^
-||rpmsxsde.shop^
 ||rra-time.com^
 ||rsc-handel23.de^
 ||rsf-services.de^
 ||rsnonline.de^
 ||rspasian.com^
-||rtf-bikepartsd.shop^
 ||rtmsril.com^
 ||rub-energie.de^
 ||rub-energy.de^
 ||rub-guben.de^
 ||rubberweekly.com^
-||rubenpellets.com^
 ||rubis-patrimoine.biz^
 ||rubis-patrimoine.fr^
 ||rucksackgo.shop^
@@ -8692,9 +8698,7 @@
 ||runcloudshoe.com^
 ||runge-energie.de^
 ||runons.club^
-||runwaysupplyde.shop^
 ||rusinski-handel.de^
-||russellbromleydeutschland.com^
 ||russellnbromleycanada.com^
 ||russmohl.de^
 ||rusty-surf.com^
@@ -8715,7 +8719,6 @@
 ||rxmanreturn.com^
 ||rxsale365.net^
 ||ryaneve.com^
-||rydalde.shop^
 ||ryderwearjapan.com^
 ||ryderwearjapann.com^
 ||s-f-invest.at^
@@ -8724,7 +8727,6 @@
 ||saarland-honorarfinanz.de^
 ||saatmod.com^
 ||sabine-becker.de^
-||sachinandbabde.shop^
 ||sachsen-pellet.de^
 ||saddlebags-shop.com^
 ||sadela.de^
@@ -8746,7 +8748,6 @@
 ||sakimo.net^
 ||salanza-berlin.de^
 ||sale-ersatzteile.com^
-||sale-hawaii.com^
 ||sale-homedecor.com^
 ||sale-pils.com^
 ||saleasics.de^
@@ -8762,19 +8763,13 @@
 ||saleelectrical.com^
 ||saleforoutdoor.com^
 ||salegermaniatools.com^
-||salehandmade.com^
 ||salehomeus.com^
-||saleiceclimbing.com^
 ||salejerseysshop.com^
 ||saleknitwear.com^
 ||saleladyfad.com^
 ||saleladywear.com^
-||salelampshade.com^
 ||salelanawelpen.de^
-||salelighters.com^
 ||salemaeet.pics^
-||salenewshop.com^
-||saleoutdoorgear.com^
 ||salercsite.com^
 ||snipes.sales-eu.com^
 ||salesaddle.com^
@@ -8808,7 +8803,6 @@
 ||salmingchile.com^
 ||salmingcolombia.com^
 ||salmingsuomi.com^
-||salnomososterreich.com^
 ||salomon-deutschland.de^
 ||salomon-osterreich.at^
 ||salomon-speedcross.com^
@@ -8823,7 +8817,6 @@
 ||salomonoutletireland.com^
 ||salomonoutletstoresusa.com^
 ||salomonphilippinestore.com^
-||salomonpraha.com^
 ||salomonschuhesale.de^
 ||salomonshoesbulgaria.com^
 ||salomonstoreosterreich.at^
@@ -8860,12 +8853,9 @@
 ||sarahmo.de^
 ||sarahravengb.com^
 ||saraleneumann.com^
-||sarasarade.shop^
-||sarreidhome.com^
 ||sashop.xyz^
 ||saskiaschneider.shop^
 ||sastre-kauf.de^
-||satincrystals.shop^
 ||satis-beauty-store.de^
 ||satona.de^
 ||satorisandeutschland.com^
@@ -8886,13 +8876,11 @@
 ||sbhholzhaus.com^
 ||sbikeparts.com^
 ||sbontemps.com^
-||scanbesten.de^
 ||scandinavanorth.shop^
 ||scarpaschuhewien.at^
 ||scarpejoya.com^
 ||sccottdiscount.com^
 ||scd-invest.com^
-||scentaustraliahode.shop^
 ||scentuelle.de^
 ||schacht-shopping.com^
 ||schaefer-handel.com^
@@ -8901,7 +8889,6 @@
 ||scharfemesser.de^
 ||scharfeprofession.com^
 ||sche.de^
-||schedule73parts.shop^
 ||schellkredit.com^
 ||schemanngruppe.com^
 ||scherenrabatt.com^
@@ -8913,7 +8900,6 @@
 ||schlagerwolf.de^
 ||schlagschrauberfive.com^
 ||schloss-pichler.at^
-||schlosserservice.at^
 ||schlossrettung-24.at^
 ||schluchsee-ferienwohnung.de^
 ||schluesseldienst.at^
@@ -8963,9 +8949,7 @@
 ||schrankede.com^
 ||schreibundstilonline.shop^
 ||schroeer23.de^
-||schubert-handel.de^
 ||schubertmaterialien.com^
-||schuhcenter-de.shop^
 ||schuhechoice.com^
 ||schuhegunstignice.de^
 ||schuhehoka.de^
@@ -8974,7 +8958,6 @@
 ||schuhescarpa.de^
 ||schuhewienshoponline.com^
 ||schuhheimat.com^
-||schuhheld.com^
 ||schuhschritte.com^
 ||schuster-wien.at^
 ||schwanhaus.de^
@@ -8984,13 +8967,11 @@
 ||schweibenprofi.com^
 ||scooterduck.de^
 ||scopesaccessories.com^
-||scouttechde.shop^
 ||scpi-gouv.fr^
 ||screenacy.co^
 ||screenwithenvy.de^
 ||scuffersosterreich.at^
 ||sdk-transport.com^
-||se-former-au-trading.com^
 ||se-handel24.de^
 ||seaarks.com^
 ||seafollyosterreich.at^
@@ -9045,7 +9026,6 @@
 ||sendrabootsosterreich.com^
 ||sendrasuomi.net^
 ||sendrawien.at^
-||seniorseniors.org^
 ||senna-shop.nl^
 ||sensuawear.com^
 ||senthiln.top^
@@ -9063,7 +9043,6 @@
 ||serpellini.de^
 ||servescaped.shop^
 ||service-dathe.de^
-||service-rezeptfrei.de^
 ||service-rundfunkbeitrag.de^
 ||service-standesamt.de^
 ||service-thermenwartung.at^
@@ -9072,7 +9051,6 @@
 ||servkre.com^
 ||setfahrradtrikot.com^
 ||seufert-garten.de^
-||sevenhorizonsde.shop^
 ||seveninter.com^
 ||seydo-handel.de^
 ||sfswimheaven.com^
@@ -9099,10 +9077,8 @@
 ||shiloo.net^
 ||shimanofahrrad.com^
 ||shimanopart.com^
-||shimanoschuhedeutschland.de^
 ||shimmeringjewelry.com^
 ||shinelampenshop.com^
-||shineonde.shop^
 ||shingekishop.com^
 ||shingirl.de^
 ||shipfreefurniture.com^
@@ -9117,7 +9093,6 @@
 ||shoeathletics.com^
 ||shoeegolovers.com^
 ||shoefrancosarto.com^
-||shoeninewest.com^
 ||shoeprohandpick.com^
 ||shoesall-round.com^
 ||shoesfabrik.com^
@@ -9156,11 +9131,9 @@
 ||shopathleticshoe.com^
 ||shopazo.net^
 ||shopbagwallet.com^
-||shopbeautydepotde.shop^
 ||shopbikeclothes.com^
 ||shopbootsdeutschland.top^
 ||shopbusinessshirt.com^
-||shopcampinghiking.com^
 ||shopcdy.online^
 ||shop.shopcider.com^
 ||shopdapperkicks.com^
@@ -9184,14 +9157,11 @@
 ||shopjbweld.com^
 ||shopkamagra.org^
 ||shopkrone.de^
-||shoplacademie.com^
 ||shoplazo.com^
 ||shopleo.de^
-||shoplostfounde.shop^
 ||shoplyt.store^
 ||shopmallknives.com^
 ||shopmarkt.net^
-||shopmascde.shop^
 ||shopmatrixx.com^
 ||shopmax2000.com^
 ||shopmaxxs.com^
@@ -9204,7 +9174,6 @@
 ||shoppawsclaws.com^
 ||shoppedonline.com^
 ||shopperiumx.com^
-||shoppigmentde.shop^
 ||shopping-mag.de^
 ||shopping-paradise.net^
 ||shoppingharmonie.de^
@@ -9256,11 +9225,9 @@
 ||siko-handel.de^
 ||silimex24.de^
 ||silkbers.com^
-||silkelagnere.com^
 ||silkstocking.de^
 ||silux.shop^
 ||silverfleetcapital.pro^
-||simaholz.com^
 ||simpledancing.com^
 ||simplejuicing.net^
 ||simplemerit.de^
@@ -9270,7 +9237,6 @@
 ||sinhala.de^
 ||oud.sint-janscollege.be^
 ||siouxshoe.com^
-||sipsbyde.shop^
 ||site-outdoor.com^
 ||site-shoes.com^
 ||www.5fdb2331d9d15.site123.me^
@@ -9289,7 +9255,6 @@
 ||skateboardhandpick.com^
 ||skateboardingscooter.de^
 ||skatedeluxesale.shop^
-||skateshoesale.com^
 ||skecheroutlets.shop^
 ||skechersaustria.at^
 ||skechersshop.at^
@@ -9303,20 +9268,17 @@
 ||skiingskilful.com^
 ||skill-path-way-de.works^
 ||skillcraftifypro-deu.com^
-||skilllinktalent-deu.com^
 ||skillpulseifyway.com^
 ||skims.at^
 ||skims-deutschland.com^
 ||skims-suomi.com^
 ||skinnycaps.com^
-||skinsociety.shop^
 ||skiracedepartment.com^
 ||skirtbest.com^
 ||skisnowboardsale.com^
 ||skispeichern.com^
 ||skitnicemk.best^
 ||skrum.at^
-||skuxsde.shop^
 ||skyquaddrone.com^
 ||skyvek.de^
 ||sl-handel24.de^
@@ -9330,10 +9292,8 @@
 ||slovenijalekarna24.com^
 ||slovenvs.best^
 ||slowtidestore.com^
-||sls-advisors.net^
 ||slu-handel.de^
 ||slu-handel.net^
-||small-folkde.shop^
 ||smart-ai-etf.de^
 ||smart-aktien.com^
 ||smart-chatgpt.de^
@@ -9348,19 +9308,15 @@
 ||smart0trade.com^
 ||smartausrustung.com^
 ||smartbotfx.com^
-||smartconnectpro.online^
 ||smarte-aktien.de^
-||smarter-fit24.de^
 ||smarthome4u.shop^
 ||smarthomerabatt.de^
 ||smartinvestsas.com^
 ||smartisan24.de^
 ||smartlightingshop.com^
-||smartmarket26.com^
 ||smartmoney-deal-now.com^
 ||smartrasenmaher.com^
 ||smartsteamershop.com^
-||smarttvzone.de^
 ||smartwerkzeug.com^
 ||smeg-de.com^
 ||smgoodset.best^
@@ -9371,7 +9327,6 @@
 ||smokingwares.com^
 ||smtgarden.com^
 ||snacksundschnaps.com^
-||snapparts.shop^
 ||sneakernews79.top^
 ||sneakers-welt.com^
 ||sneakers4you.eu^
@@ -9392,12 +9347,9 @@
 ||snownew.com^
 ||snowsportsboard.com^
 ||snowsuitschic.com^
-||so-avangarde.shop^
-||soapandmore.shop^
 ||sobipack-tech.de^
 ||societesibois.com^
 ||sockestore.com^
-||sode-company.com^
 ||soelker.de^
 ||sofasundsessel.com^
 ||sofort-kreditt.com^
@@ -9455,10 +9407,8 @@
 ||sommeraufdemland.de^
 ||sonaxverkauf.com^
 ||sonerly.com^
-||sonicly.de^
 ||sonnenlit.de^
 ||sonnesucht.de^
-||sonossph.de^
 ||sony-ir.com^
 ||sonypictures-rankings.top^
 ||sonyshouhou.com^
@@ -9495,7 +9445,6 @@
 ||sparweltzone.de^
 ||spd-mossautal.de^
 ||specialmdassortment.com^
-||specialtyperfode.shop^
 ||specialtytraderssale.shop^
 ||speed-gaming.com^
 ||speelgoed-outlet.com^
@@ -9523,8 +9472,6 @@
 ||spiritofliebs.shop^
 ||spirits-official.com^
 ||spiritualsalt.co^
-||spitfiregirl.shop^
-||online.spk-de.net^
 ||splendris-pharmaceuticals.de^
 ||sport-athletics.de^
 ||sport-base.eu^
@@ -9558,7 +9505,6 @@
 ||sportschuheshop.com^
 ||sportsfabrik.net^
 ||sportsgolfsale.com^
-||sportsstore-us.com^
 ||sportsvital.de^
 ||sportswearpaired.com^
 ||sportswearverkauf.com^
@@ -9569,12 +9515,9 @@
 ||sprachgenie.at^
 ||sprayitonyou.com^
 ||spreewaldkiste.shop^
-||springergarde.shop^
-||springstepshoesde.shop^
 ||sptlego.de^
 ||spuelenprofide.com^
 ||spuitcoatings.com^
-||spyderde.shop^
 ||spydersale.de^
 ||spyshop.at^
 ||spyxe.com^
@@ -9602,10 +9545,8 @@
 ||standardschuhe.com^
 ||standpellet.de^
 ||standpellets.de^
-||eu.stanlaystore.com^
 ||stanley-cups.at^
 ||stanleycupdeutschland.com^
-||eur.stanly-eshop.com^
 ||stanlys-eshop.com^
 ||stanlysbottle.com^
 ||star-apotheke.org^
@@ -9614,7 +9555,6 @@
 ||stargatev.com^
 ||starkfahrrad.com^
 ||starsignsynergy.com^
-||starsshop-eu.com^
 ||start-developing.de^
 ||startmarkets.com^
 ||startoptions.com^
@@ -9629,7 +9569,6 @@
 ||staubsaugerrabatt.de^
 ||staubzon.de^
 ||stclik.com^
-||stefaniparfumerie.shop^
 ||stehaufe.de^
 ||stehaufede.shop^
 ||steidl-versand-24.com^
@@ -9675,12 +9614,10 @@
 ||stockbestus.com^
 ||stockcamping.com^
 ||stockcyclist.com^
-||stockerandsonsde.shop^
 ||stockinfernopro.com^
 ||stocks-views.com^
 ||stockskate.com^
 ||stoffbiotop.com^
-||stonearmoryde.shop^
 ||stoneislandjapan.com^
 ||stoneislandlietuva.com^
 ||stoneislandsuisse.com^
@@ -9691,7 +9628,6 @@
 ||store-awnings.com^
 ||store-bonds.com^
 ||store-cycle.com^
-||store-dvd.com^
 ||store-farmranch.com^
 ||store-furnishing.com^
 ||store-specialty.com^
@@ -9701,12 +9637,10 @@
 ||storeautoparts.com^
 ||storebathrooms.com^
 ||storebeauty.net^
-||storebedding.com^
 ||storebicyclesaddles.com^
 ||storebikeaccessory.com^
 ||storebikeequip.com^
 ||storecartruck.com^
-||storecollectable.com^
 ||storecompressors.com^
 ||storedining.com^
 ||storeespadrilles.com^
@@ -9720,7 +9654,6 @@
 ||storeladywear.com^
 ||storeoatey.com^
 ||storeova.com^
-||storepocketknife.com^
 ||storereifen.com^
 ||storesmarthome.com^
 ||storesnowsports.com^
@@ -9795,9 +9728,6 @@
 ||style-berlin.de^
 ||style-curtain.com^
 ||style-lighting.com^
-||style-parks.com^
-||styleathletic.com^
-||stylebalenciaga.com^
 ||stylebedsupply.com^
 ||stylefatface.com^
 ||stylehighheel.com^
@@ -9815,7 +9745,6 @@
 ||success-broker.com^
 ||sucheskateboard.com^
 ||sucm.com^
-||suedaniels.shop^
 ||suedstrandbonn.shop^
 ||suekoppel.com^
 ||sueperstore.shop^
@@ -9835,7 +9764,6 @@
 ||sunglowshade.com^
 ||sunmorrison.com^
 ||sunny-kids.de^
-||sunnyboy-beardies.de^
 ||sunnydesignshome.com^
 ||sunsavy.shop^
 ||super-discount-farma.com^
@@ -9845,11 +9773,9 @@
 ||super-pharma-fr.com^
 ||superdeal-store.com^
 ||superdrywien.at^
-||superether.io^
 ||supereuroshop.online^
 ||superfaditem.com^
 ||superfahrrad.com^
-||superfitat-outlet.shop^
 ||superfitnl.com^
 ||superfitnorge.com^
 ||superfitnz.com^
@@ -9864,7 +9790,6 @@
 ||superiorwilderdog.com^
 ||supermarktdeutschland.com^
 ||supermarkteonline.com^
-||supermeds24.com^
 ||supermoto4fun.shop^
 ||superoptions.com^
 ||superretailstore.com^
@@ -9872,7 +9797,6 @@
 ||supervivarade.com^
 ||suppenmarkt.com^
 ||suppenterrinenshop.com^
-||supplies-fishing.com^
 ||suppliesgolf.com^
 ||supply-shoes.com^
 ||supply-swim.com^
@@ -9909,17 +9833,13 @@
 ||surfoceanearth.de^
 ||surfpersonality.com^
 ||surfrabatt.de^
-||surfwaveriders.com^
 ||surly-bike.com^
 ||susanbretfeld.shop^
-||susiecapaldi.com^
-||sustainablesuppde.shop^
 ||suszy.shop^
 ||sv-blaschke.de^
 ||svenska-mediciner.com^
 ||jako-o.svip-de.shop^
 ||svmudb.shop^
-||swaddledesignsde.shop^
 ||swagpflege.de^
 ||swapalrex.com^
 ||swarajyamag.com^
@@ -9933,7 +9853,6 @@
 ||sweetbeds.eu^
 ||sweetsaltysale.com^
 ||sweetsf.online^
-||sweetsparklde.shop^
 ||sweetusa.shop^
 ||swimgearnew.com^
 ||swimsuitfield.com^
@@ -9969,13 +9888,11 @@
 ||systv-racks.de^
 ||sztuka-handel.de^
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^
-||tabernas-tech.de^
 ||tableteonline.com^
 ||tabletopdeo.de^
 ||tablets-today.org^
 ||tablets-world.com^
 ||tablewaredeal.com^
-||tabsshopnet.com^
 ||tacocood.com^
 ||tacooutdooropt.com^
 ||tacticalknifedepot.com^
@@ -10009,13 +9926,11 @@
 ||tangent-capital.pro^
 ||tangobonn.de^
 ||tanjanoll.shop^
-||taotaopartsdirect.shop^
 ||tapetenweltde.com^
 ||tapmaguiremark.com^
 ||taptapmath.com^
 ||target-solar.de^
 ||target-speichern.de^
-||tasakisinternet.com^
 ||tascheaktion.shop^
 ||taschenmesser-de.com^
 ||taschenmesserde.com^
@@ -10031,7 +9946,6 @@
 ||tavolini.shop^
 ||taxoflex.de^
 ||tbbodega.com^
-||tbclacrosse.com^
 ||tbdress.com^
 ||tbyyf.com^
 ||tcgsonlineshop.com^
@@ -10068,7 +9982,6 @@
 ||technopers.com^
 ||techswap.de^
 ||techtaskforcede.works^
-||techtrfl.com^
 ||techtronic24.de^
 ||techviy.com^
 ||ted-bakerdeutschland.de^
@@ -10088,7 +10001,6 @@
 ||teichmann-fashion.de^
 ||teichwunder.com^
 ||teixeiraers.de^
-||tekstnet.com^
 ||telapros.de^
 ||tele-mag.de^
 ||telefoonshop.net^

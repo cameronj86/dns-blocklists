@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743912960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743953460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Apr 2025 04:16 UTC
-; Version: 2025.0406.0416.31
+; Last modified: 06 Apr 2025 15:31 UTC
+; Version: 2025.0406.1531.49
 ; Syntax: RPZ
-; Number of entries: 2896
+; Number of entries: 2894
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -342,8 +342,6 @@ dot-sg.blahdns.com CNAME .
 *.dot-sg.blahdns.com CNAME .
 doh.blockerdns.com CNAME .
 *.doh.blockerdns.com CNAME .
-adguard.blogssl.com CNAME .
-*.adguard.blogssl.com CNAME .
 dns.bmwhocking.com CNAME .
 *.dns.bmwhocking.com CNAME .
 dns.bobstrecansky.com CNAME .
@@ -796,8 +794,6 @@ dns.umbrella.com CNAME .
 *.dns.umbrella.com CNAME .
 doh.umbrella.com CNAME .
 *.doh.umbrella.com CNAME .
-dns.uplenk.com CNAME .
-*.dns.uplenk.com CNAME .
 doh.valscosmos.com CNAME .
 *.doh.valscosmos.com CNAME .
 dns.vishalk.com CNAME .
@@ -1434,6 +1430,8 @@ dns.nako.kr CNAME .
 *.dns.nako.kr CNAME .
 dns.njal.la CNAME .
 *.dns.njal.la CNAME .
+xmr.land CNAME .
+*.xmr.land CNAME .
 doh.li CNAME .
 *.doh.li CNAME .
 tor.vasi.li CNAME .
@@ -2248,6 +2246,8 @@ doh.apad.pro CNAME .
 *.doh.apad.pro CNAME .
 dns.burgas.pro CNAME .
 *.dns.burgas.pro CNAME .
+dns.dynx.pro CNAME .
+*.dns.dynx.pro CNAME .
 ntwrkh.pro CNAME .
 *.ntwrkh.pro CNAME .
 dns.swin.pro CNAME .
@@ -2578,8 +2578,6 @@ dns.sy.st CNAME .
 *.dns.sy.st CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
-minilla.store CNAME .
-*.minilla.store CNAME .
 dns.fizz.studio CNAME .
 *.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
@@ -2692,6 +2690,8 @@ virga.pp.ua CNAME .
 *.virga.pp.ua CNAME .
 zxcvb.pp.ua CNAME .
 *.zxcvb.pp.ua CNAME .
+adguard.aa4.co.uk CNAME .
+*.adguard.aa4.co.uk CNAME .
 dns.gayanalysing.co.uk CNAME .
 *.dns.gayanalysing.co.uk CNAME .
 dns.neilzone.co.uk CNAME .
@@ -2768,8 +2768,6 @@ doh.ntu.ssooss.win CNAME .
 *.doh.ntu.ssooss.win CNAME .
 dns.superstefan.win CNAME .
 *.dns.superstefan.win CNAME .
-dns.trust404.win CNAME .
-*.dns.trust404.win CNAME .
 dns.huseynov.work CNAME .
 *.dns.huseynov.work CNAME .
 dns.brahma.world CNAME .

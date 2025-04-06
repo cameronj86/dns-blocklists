@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Apr 2025 04:17 UTC
-# Version: 2025.0406.0417.55
+# Last modified: 06 Apr 2025 15:33 UTC
+# Version: 2025.0406.1533.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3897
+# Number of entries: 3895
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -225,6 +225,7 @@ local=/animeproxy.net/
 local=/aniscartujo.com/
 local=/dns.anon.no/
 local=/anonine.com/
+local=/anonproxy.eu/
 local=/anonproxy.org/
 local=/anonvpn.io/
 local=/anonwebproxy.com/
@@ -413,7 +414,6 @@ local=/doh.blockerdns.com/
 local=/blockless.com/
 local=/new-proxy-sites.blogspot.com/
 local=/ukvpns.blogspot.ru/
-local=/adguard.blogssl.com/
 local=/dns.blokada.org/
 local=/bloquer.fr/
 local=/rfree1.blue-shield.at/
@@ -658,6 +658,7 @@ local=/ca.doh.cloudveil.org/
 local=/us.doh.cloudveil.org/
 local=/dns.cmrg.net/
 local=/10bestvpn.co.uk/
+local=/adguard.aa4.co.uk/
 local=/akashiro.co.id/
 local=/antidnsvpn.co.cc/
 local=/binhexsolutions.co.uk/
@@ -1064,6 +1065,7 @@ local=/dutchproxy.nl/
 local=/dvprovider.icu/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
+local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/
 local=/dnscache.e-utp.net/
@@ -1966,7 +1968,6 @@ local=/www-proxy.migastep.com/
 local=/dns.mihanentalpo.me/
 local=/dns.mikeliu.org/
 local=/mikezhang.xyz/
-local=/minilla.store/
 local=/miniprox.com/
 local=/miniprox.info/
 local=/netcup.mismat.ch/
@@ -2853,14 +2854,12 @@ local=/dns.scapetical.com/
 local=/dns.scarx.net/
 local=/proxy.schel.li/
 local=/dns.schlagheck.berlin/
-local=/vps4.scho.io/
 local=/school-websites.us/
 local=/schoolnewsletter.us/
 local=/schoology.college/
 local=/schoology.help/
 local=/schoology123.org/
 local=/schoolooks.com/
-local=/schoolproxy.co/
 local=/schooxy.com/
 local=/schoprox.com/
 local=/sciencesimplified.pro/
@@ -3316,7 +3315,6 @@ local=/trickbyte.com/
 local=/trilightzone.org/
 local=/trueproxy.com/
 local=/trust.zone/
-local=/dns.trust404.win/
 local=/trustedproxies.com/
 local=/truta.org/
 local=/dns.tryk.app/
@@ -3539,7 +3537,6 @@ local=/untraceable.us/
 local=/untracer.com/
 local=/dns.unx.io/
 local=/updatedproxies.com/
-local=/dns.uplenk.com/
 local=/uproxy.online/
 local=/ur-browser.com/
 local=/urban-vpn.com/
@@ -3821,6 +3818,7 @@ local=/xitenow.com/
 local=/xitesite.com/
 local=/xjumper.com/
 local=/dns.xlion.tw/
+local=/xmr.land/
 local=/xn--durhre-yxa.de/
 local=/xperienc.com/
 local=/xsfwow.com/

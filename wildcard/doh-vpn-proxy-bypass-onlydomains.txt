@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Apr 2025 04:17 UTC
-# Version: 2025.0406.0417.55
+# Last modified: 06 Apr 2025 15:33 UTC
+# Version: 2025.0406.1533.11
 # Syntax: Domains (without subdomains)
-# Number of entries: 3897
+# Number of entries: 3895
 #
 003153.xyz
 ns.00dani.me
@@ -225,6 +225,7 @@ animeproxy.net
 aniscartujo.com
 dns.anon.no
 anonine.com
+anonproxy.eu
 anonproxy.org
 anonvpn.io
 anonwebproxy.com
@@ -413,7 +414,6 @@ doh.blockerdns.com
 blockless.com
 new-proxy-sites.blogspot.com
 ukvpns.blogspot.ru
-adguard.blogssl.com
 dns.blokada.org
 bloquer.fr
 rfree1.blue-shield.at
@@ -658,6 +658,7 @@ ca.doh.cloudveil.org
 us.doh.cloudveil.org
 dns.cmrg.net
 10bestvpn.co.uk
+adguard.aa4.co.uk
 akashiro.co.id
 antidnsvpn.co.cc
 binhexsolutions.co.uk
@@ -1064,6 +1065,7 @@ dutchproxy.nl
 dvprovider.icu
 dns.dyn1.de
 ueni.dyndns.org
+dns.dynx.pro
 vpn.dzarlax.dev
 dzhot.us
 dnscache.e-utp.net
@@ -1966,7 +1968,6 @@ www-proxy.migastep.com
 dns.mihanentalpo.me
 dns.mikeliu.org
 mikezhang.xyz
-minilla.store
 miniprox.com
 miniprox.info
 netcup.mismat.ch
@@ -2853,14 +2854,12 @@ dns.scapetical.com
 dns.scarx.net
 proxy.schel.li
 dns.schlagheck.berlin
-vps4.scho.io
 school-websites.us
 schoolnewsletter.us
 schoology.college
 schoology.help
 schoology123.org
 schoolooks.com
-schoolproxy.co
 schooxy.com
 schoprox.com
 sciencesimplified.pro
@@ -3316,7 +3315,6 @@ trickbyte.com
 trilightzone.org
 trueproxy.com
 trust.zone
-dns.trust404.win
 trustedproxies.com
 truta.org
 dns.tryk.app
@@ -3539,7 +3537,6 @@ untraceable.us
 untracer.com
 dns.unx.io
 updatedproxies.com
-dns.uplenk.com
 uproxy.online
 ur-browser.com
 urban-vpn.com
@@ -3821,6 +3818,7 @@ xitenow.com
 xitesite.com
 xjumper.com
 dns.xlion.tw
+xmr.land
 xn--durhre-yxa.de
 xperienc.com
 xsfwow.com

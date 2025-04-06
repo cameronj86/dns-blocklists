@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Apr 2025 23:06 UTC
-# Version: 2025.0405.2306.44
+# Last modified: 06 Apr 2025 10:35 UTC
+# Version: 2025.0406.1035.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2141
+# Number of entries: 2137
 #
 local=/000a.de/
 local=/000space.com/
@@ -507,6 +507,7 @@ local=/blogspot.lt/
 local=/blogspot.lu/
 local=/blogspot.md/
 local=/blogspot.mk/
+local=/blogspot.mr/
 local=/blogspot.mx/
 local=/blogspot.my/
 local=/blogspot.net/
@@ -913,7 +914,6 @@ local=/ez-sites.ws/
 local=/ezblogz.com/
 local=/ezyro.com/
 local=/f11.us/
-local=/facepl.com/
 local=/faithflairboutique.shop/
 local=/faithweb.com/
 local=/familylobby.com/
@@ -1220,6 +1220,7 @@ local=/info4.de/
 local=/infos.cx/
 local=/infos.lc/
 local=/infos.st/
+local=/infplm.top/
 local=/inicioseguridad-cliente.com/
 local=/insanejournal.com/
 local=/instantfreesite.com/
@@ -1672,7 +1673,6 @@ local=/regentcoin.sa.com/
 local=/safe-girogate.com/
 local=/safe-ws.de/
 local=/safwhatsapp.top/
-local=/salesnote.club/
 local=/sapabayeshops.shop/
 local=/sblog.cz/
 local=/schmust.de/
@@ -1686,13 +1686,11 @@ local=/secaraa.online/
 local=/secureonline.store/
 local=/seesaa.net/
 local=/dcr.sehlat.io/
-local=/seilodown.ru/
 local=/seite.com/
 local=/seite.info/
 local=/seite.ru/
 local=/seite24.eu/
 local=/seite77.de/
-local=/sekigu.xyz/
 local=/serpgold.com/
 local=/serv00.net/
 local=/server.gg/
@@ -1730,7 +1728,6 @@ local=/sitew.ca/
 local=/sitew.com/
 local=/sitew.fr/
 local=/sitowebfaidate.it/
-local=/sjuyouhui.top/
 local=/skul.de/
 local=/skyblog.com/
 local=/skyblog.fr/
@@ -1808,7 +1805,6 @@ local=/techionblog.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/tek-blogs.com/
-local=/telegrameyg.com/
 local=/telekom.at/
 local=/telepacific.net/
 local=/teleporthq.app/

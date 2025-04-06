@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Apr 2025 04:16 UTC
-# Version: 2025.0406.0416.31
+# Last modified: 06 Apr 2025 15:31 UTC
+# Version: 2025.0406.1531.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1448
+# Number of entries: 1447
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -173,7 +173,6 @@ local=/dot-sg.blahdns.com/
 local=/dns.blaumer.dev/
 local=/us1.blissdns.net/
 local=/doh.blockerdns.com/
-local=/adguard.blogssl.com/
 local=/dns.blokada.org/
 local=/rfree1.blue-shield.at/
 local=/rfree2.blue-shield.at/
@@ -251,6 +250,7 @@ local=/dns.cloudtrust.solutions/
 local=/ca.doh.cloudveil.org/
 local=/us.doh.cloudveil.org/
 local=/dns.cmrg.net/
+local=/adguard.aa4.co.uk/
 local=/pihole.datamatter.co.za/
 local=/dns.gayanalysing.co.uk/
 local=/dns.gi.co.id/
@@ -505,6 +505,7 @@ local=/tungdnsne.duckdns.org/
 local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
+local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
 local=/easyhandshake.com/
@@ -863,7 +864,6 @@ local=/doh.micronets.in/
 local=/dns.mihanentalpo.me/
 local=/dns.mikeliu.org/
 local=/mikezhang.xyz/
-local=/minilla.store/
 local=/netcup.mismat.ch/
 local=/doh.mmmalia.com/
 local=/dns.mnet-online.de/
@@ -1359,7 +1359,6 @@ local=/resolv3.trash.net/
 local=/ns.trcnet.fi/
 local=/tri-dns.net/
 local=/tributh.net/
-local=/dns.trust404.win/
 local=/truta.org/
 local=/dns.tryk.app/
 local=/doh.ibr.cs.tu-bs.de/
@@ -1380,7 +1379,6 @@ local=/ines.zfn.uni-bremen.de/
 local=/galileo.math.unipd.it/
 local=/resolver.unstoppable.io/
 local=/dns.unx.io/
-local=/dns.uplenk.com/
 local=/urology.wiki/
 local=/dns.koala.us.to/
 local=/adfree.usableprivacy.net/
@@ -1427,6 +1425,7 @@ local=/doh2.gslb2.xfinity.com/
 local=/xholgm.top/
 local=/agh.xinfeng16m.top/
 local=/dns.xlion.tw/
+local=/xmr.land/
 local=/xn--durhre-yxa.de/
 local=/dns.xuming.studio/
 local=/dns.xusqui.com/
