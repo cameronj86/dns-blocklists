@@ -17,9 +17,9 @@
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |      18% |   0% |     82% | Native Tracker TikTok (Fingerprinting)
   9 |      31% |   0% |     69% | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      69% |  13% |     18% | Denylist Base
+ 10 |      70% |  12% |     18% | Denylist Base
  11 |      99% |   0% |      1% | Basic Extension
- 12 |      87% |   9% |      4% | Denylist Community non-Aggressive
+ 12 |      88% |   8% |      4% | Denylist Community non-Aggressive
  13 |      85% |   7% |      8% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  14 |      78% |  10% |     12% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      94% |   4% |      2% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)

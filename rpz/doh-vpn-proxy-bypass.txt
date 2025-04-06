@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743807540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743913020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Apr 2025 22:59 UTC
-; Version: 2025.0404.2259.31
+; Last modified: 06 Apr 2025 04:17 UTC
+; Version: 2025.0406.0417.55
 ; Syntax: RPZ
-; Number of entries: 7800
+; Number of entries: 7794
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -356,8 +356,6 @@ dns.chenu.ch CNAME .
 *.dns.chenu.ch CNAME .
 c.cicitt.ch CNAME .
 *.c.cicitt.ch CNAME .
-doh.datacore.ch CNAME .
-*.doh.datacore.ch CNAME .
 dns.digitale-gesellschaft.ch CNAME .
 *.dns.digitale-gesellschaft.ch CNAME .
 dns1.digitale-gesellschaft.ch CNAME .
@@ -720,6 +718,8 @@ i4frgxs0s5.execute-api.us-east-1.amazonaws.com CNAME .
 *.i4frgxs0s5.execute-api.us-east-1.amazonaws.com CNAME .
 dsl-app.s3.us-east-2.amazonaws.com CNAME .
 *.dsl-app.s3.us-east-2.amazonaws.com CNAME .
+american-proxy.com CNAME .
+*.american-proxy.com CNAME .
 ananoos.com CNAME .
 *.ananoos.com CNAME .
 androvpn.com CNAME .
@@ -1354,8 +1354,6 @@ gamers-nor.com CNAME .
 *.gamers-nor.com CNAME .
 gamingssh.com CNAME .
 *.gamingssh.com CNAME .
-gclouddns.com CNAME .
-*.gclouddns.com CNAME .
 geekproxy.com CNAME .
 *.geekproxy.com CNAME .
 genmirror.com CNAME .
@@ -2306,8 +2304,6 @@ quicksilvervpn.com CNAME .
 *.quicksilvervpn.com CNAME .
 quintex.com CNAME .
 *.quintex.com CNAME .
-quotivatehub.com CNAME .
-*.quotivatehub.com CNAME .
 r1bnc.com CNAME .
 *.r1bnc.com CNAME .
 ra4wvpn.com CNAME .
@@ -3618,8 +3614,6 @@ adguard.leadseason.eu CNAME .
 *.adguard.leadseason.eu CNAME .
 n0.eu CNAME .
 *.n0.eu CNAME .
-nenam.eu CNAME .
-*.nenam.eu CNAME .
 ninjaproxy.eu CNAME .
 *.ninjaproxy.eu CNAME .
 onlineproxy.eu CNAME .
@@ -3754,6 +3748,10 @@ adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
 dns.auapi.fun CNAME .
 *.dns.auapi.fun CNAME .
+axaxa.fun CNAME .
+*.axaxa.fun CNAME .
+ag.brianlee.fun CNAME .
+*.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -3978,6 +3976,8 @@ dns.alloxr.info CNAME .
 *.dns.alloxr.info CNAME .
 vps.alloxr.info CNAME .
 *.vps.alloxr.info CNAME .
+americaproxy.info CNAME .
+*.americaproxy.info CNAME .
 anonymousblog.info CNAME .
 *.anonymousblog.info CNAME .
 anonymousvpn.info CNAME .
@@ -4074,8 +4074,6 @@ testaghome.meshkov.info CNAME .
 *.testaghome.meshkov.info CNAME .
 miniprox.info CNAME .
 *.miniprox.info CNAME .
-monro-stom-plus.info CNAME .
-*.monro-stom-plus.info CNAME .
 mybestvpn.info CNAME .
 *.mybestvpn.info CNAME .
 myhidden.info CNAME .
@@ -5146,8 +5144,6 @@ dohdot.coxlab.net CNAME .
 *.dohdot.coxlab.net CNAME .
 createssh.net CNAME .
 *.createssh.net CNAME .
-dns.criena.net CNAME .
-*.dns.criena.net CNAME .
 croxyproxy.net CNAME .
 *.croxyproxy.net CNAME .
 dns.crystalyx.net CNAME .
@@ -5984,8 +5980,6 @@ rnblyatclub.online CNAME .
 *.rnblyatclub.online CNAME .
 rocketube.online CNAME .
 *.rocketube.online CNAME .
-roundrockisd.online CNAME .
-*.roundrockisd.online CNAME .
 shazamio.online CNAME .
 *.shazamio.online CNAME .
 speedproxy.online CNAME .
@@ -7056,8 +7050,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 minilla.store CNAME .
 *.minilla.store CNAME .
-polarvoid.store CNAME .
-*.polarvoid.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
 dns.fizz.studio CNAME .
@@ -7492,6 +7484,8 @@ rhehrbrb.wiki CNAME .
 *.rhehrbrb.wiki CNAME .
 urology.wiki CNAME .
 *.urology.wiki CNAME .
+adg.yybyy.wiki CNAME .
+*.adg.yybyy.wiki CNAME .
 dns.4-the.win CNAME .
 *.dns.4-the.win CNAME .
 dns.dotnet.win CNAME .

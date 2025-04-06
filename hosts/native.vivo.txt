@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Apr 2025 18:16 UTC
-# Version: 2025.0404.1816.03
+# Last modified: 05 Apr 2025 16:32 UTC
+# Version: 2025.0405.1632.46
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 112
+# Number of entries: 113
 #
 0.0.0.0 asia-ad-mkt-vivofs.vivoglobal.com
 0.0.0.0 asia-adlog.vivoglobal.com
@@ -113,6 +113,7 @@
 0.0.0.0 tr-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com
 0.0.0.0 tr-st-sysupgrade.vivoglobal.com
+0.0.0.0 tr-stsdk.vivoglobal.com
 0.0.0.0 tr-sysupgrade-api.vivoglobal.com
 0.0.0.0 tr-timesync.vivoglobal.com
 0.0.0.0 tr-vcode-api.vivoglobal.com

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Apr 2025 23:02 UTC
-# Version: 2025.0404.2302.20
+# Last modified: 05 Apr 2025 23:06 UTC
+# Version: 2025.0405.2306.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2146
+# Number of entries: 2141
 #
 local=/000a.de/
 local=/000space.com/
@@ -913,6 +913,7 @@ local=/ez-sites.ws/
 local=/ezblogz.com/
 local=/ezyro.com/
 local=/f11.us/
+local=/facepl.com/
 local=/faithflairboutique.shop/
 local=/faithweb.com/
 local=/familylobby.com/
@@ -1219,7 +1220,6 @@ local=/info4.de/
 local=/infos.cx/
 local=/infos.lc/
 local=/infos.st/
-local=/infplm.top/
 local=/inicioseguridad-cliente.com/
 local=/insanejournal.com/
 local=/instantfreesite.com/
@@ -1396,7 +1396,6 @@ local=/monoblog.ir/
 local=/mozello.com/
 local=/mp3.cr/
 local=/mpeblog.com/
-local=/mtradi.top/
 local=/muf.mobi/
 local=/multiblog.com/
 local=/musik.cx/
@@ -1507,7 +1506,6 @@ local=/on.gp/
 local=/on.lc/
 local=/on-air.de/
 local=/onbloglist.com/
-local=/one-move.top/
 local=/onepage.website/
 local=/onesmablog.com/
 local=/onlc.fr/
@@ -1599,7 +1597,6 @@ local=/portfoliopen.com/
 local=/post-blogs.com/
 local=/postbit.com/
 local=/posterous.com/
-local=/postmanall.site/
 local=/power-heberg.com/
 local=/pressname.club/
 local=/preview-domain.com/
@@ -1844,9 +1841,7 @@ local=/thisistap.com/
 local=/tianyablog.com/
 local=/tie.cl/
 local=/tiiny.host/
-local=/tilda.cc/
 local=/tilda.ws/
-local=/tildacdn.com/
 local=/timeblog.net/
 local=/timeforchangecounselling.com/
 local=/tinyblogging.com/

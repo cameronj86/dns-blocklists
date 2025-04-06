@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Apr 2025 23:03 UTC
-# Version: 2025.0404.2303.42
+# Last modified: 06 Apr 2025 04:00 UTC
+# Version: 2025.0406.0400.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10207
+# Number of entries: 10189
 #
 *.0123456789nonexistent.com
 *.0123movie.net
@@ -233,6 +233,7 @@
 *.3dmgame.com
 *.warezanet.3dn.ru
 *.3dsdb.com
+*.3dsiso.com
 *.3dsroms.org
 *.bt.3kb.xyz
 *.tracker.3moredays.com
@@ -437,6 +438,7 @@
 *.aerotwitter.com
 *.aerowa.cc
 *.afdah.com
+*.afdah.info
 *.afdah.live
 *.afdah.org
 *.afdah.to
@@ -530,6 +532,7 @@
 *.alpharatio.cc
 *.alphastress.com
 *.alphatron.tv
+*.alt-torrent.com
 *.altadefinizione.ac
 *.altadefinizione.agency
 *.altadefinizione.al
@@ -558,6 +561,7 @@
 *.altadefinizione.cx
 *.altadefinizione.dance
 *.altadefinizione.date
+*.altadefinizione.dating
 *.altadefinizione.day
 *.altadefinizione.de
 *.altadefinizione.desi
@@ -649,6 +653,7 @@
 *.altadefinizione01.site
 *.altadefinizione01.taxi
 *.altadefinizione01.tel
+*.altadefinizione01.top
 *.altadefinizione01.vg
 *.altadefinizione01.video
 *.altadefinizione01.ws
@@ -3829,6 +3834,7 @@
 *.gamestorrents.nu
 *.gametechwiki.com
 *.bt-tracker.gamexp.ru
+*.gamezlinks.net
 *.gamingbeasts.com
 *.gaoqing.fm
 *.garageforum.org
@@ -5301,7 +5307,6 @@
 *.macbff.com
 *.macdrop.net
 *.macfiles.org
-*.macgamesland.com
 *.macgamesworld.com
 *.macgamez-download.com
 *.macintoshgarden.org
@@ -5478,7 +5483,6 @@
 *.mes-ddl.com
 *.mes-meilleurs-films.fr
 *.mesfichiers.org
-*.metadownload.org
 *.tracker.metal-torrents.com
 *.metal-tracker.com
 *.metalarea.org
@@ -5564,7 +5568,6 @@
 *.mobilism.org
 *.mobiplanet4m.com
 *.mobtvseries.net
-*.mod-yolo.com
 *.modapkcloud.com
 *.modapkdown.com
 *.modapp.org
@@ -5602,7 +5605,6 @@
 *.mojaloss.net
 *.mojaloss.stream
 *.mojblink.com
-*.mojobb.com
 *.mokmobi.ovh
 *.mokmobi.site
 *.moneybag.me
@@ -5686,7 +5688,6 @@
 *.movienyt.net
 *.movieorca.com
 *.movieparadise.org
-*.moviepoka.com
 *.movieroom.is
 *.movierot.com
 *.movierr.online
@@ -5798,9 +5799,7 @@
 *.mp3juices.tech
 *.mp3juices.to
 *.mp3juices.today
-*.mp3juices3.cc
 *.mp3juicestv.com
-*.mp3menu.com
 *.mp3menu.net
 *.torrent.mp3quran.net
 *.mp3rally.com
@@ -5841,7 +5840,6 @@
 *.muchshare.net
 *.muhammadniaz.net
 *.multi-torrent.ru
-*.multiapkclub.com
 *.multicanais.cl
 *.multicanais.com
 *.multicanais.fans
@@ -5885,7 +5883,6 @@
 *.mybite.org
 *.mybittorrent.com
 *.myboerse.bz
-*.linux.mybookmarkmanager.com
 *.mycricketlive.live
 *.mycujoo.tv
 *.mycybernest.com
@@ -6040,7 +6037,6 @@
 *.netonlinebd.com
 *.netplayz.ru
 *.netplusbd.com
-*.netspoof.com
 *.netstress.org
 *.nettv-premium.com
 *.netu.tv
@@ -6334,7 +6330,6 @@
 *.oleoo.com
 *.olevod.com
 *.olevod.eu
-*.ologyyvidss.com
 *.ololo.to
 *.ololo.ws
 *.tracker.ololosh.space
@@ -6379,7 +6374,6 @@
 *.online24fullmovies.com
 *.onlinecricketvideo.com
 *.onlineflix.stream
-*.onlybestmovie.com
 *.onlytorrents.com
 *.onnosomoy.com
 *.nyaaapi.onrender.com
@@ -6469,7 +6463,6 @@
 *.ns389251.ovh.net
 *.vps-dd0a0715.vps.ovh.net
 *.ovh-booter.com
-*.oxtorrent.bz
 *.oxtorrent.cc
 *.oxtorrent.co
 *.oxtorrent.com
@@ -6521,13 +6514,11 @@
 *.pantherabits.com
 *.nyaa.pantsu.cat
 *.sukebei.pantsu.cat
-*.pantsubase.tv
 *.papadustream.co
 *.papflix.com
 *.papystreaming.com
 *.papystreaming.onl
 *.papystreaming.stream
-*.papystreaming.wiki
 *.parag.rs
 *.paranetinfo.com
 *.parliamentlive.tv
@@ -6595,7 +6586,6 @@
 *.pianosheets.org
 *.picktorrent.com
 *.picotorrent.org
-*.tracker.picotorrent.one
 *.picturesetc.net
 *.pie321.tv
 *.piecejointe.net
@@ -6629,7 +6619,6 @@
 *.piratebay.org
 *.piratebay.party
 *.piratebay.red
-*.piratebay.surf
 *.piratebay.tech
 *.piratebay.to
 *.piratebay.tv
@@ -6643,7 +6632,6 @@
 *.piratebay1.info
 *.piratebay1.live
 *.piratebay1.xyz
-*.piratebayblocked.com
 *.piratebaylive.com
 *.piratebaylive.online
 *.piratebaymirror.eu
@@ -6665,7 +6653,6 @@
 *.piratebayz.top
 *.piratebits.org
 *.piratebrowser.com
-*.piratecity.net
 *.pirateclub.hu
 *.pirateday.net
 *.pirateiro.com
@@ -6738,7 +6725,6 @@
 *.playit.pk
 *.playmods.app
 *.playmods.net
-*.playseries.club
 *.playturk.tv
 *.playtvgo.com
 *.playurbano.com
@@ -6820,7 +6806,6 @@
 *.powerstresser.com
 *.powertracker.org
 *.forum.ppcwarez.org
-*.ppv.land
 *.predb.de
 *.predb.eu
 *.predb.live
@@ -6853,7 +6838,6 @@
 *.privatemoviez.beauty
 *.privatemoviez.help
 *.privatemoviez.mom
-*.privatemoviez.rent
 *.tracker.privateseedbox.xyz
 *.region.nl1.privex.cc
 *.privtracker.com
@@ -7012,7 +6996,6 @@
 *.putlockers.is
 *.putlockers.la
 *.putlockers.mn
-*.putlockers.movie
 *.putlockers.net
 *.putlockers.plus
 *.putlockers.sh
@@ -7100,7 +7083,6 @@
 *.rapidstresser.com
 *.rapload.org
 *.rarbg.buzz
-*.rarbg.cc
 *.rarbg.club
 *.rarbg.com
 *.rarbg.gg
@@ -7288,7 +7270,6 @@
 *.rojadirecta.me
 *.rojadirecta.top
 *.rojadirecta.video
-*.rojadirecta.watch
 *.rojadirectaenvivo.club
 *.rojadirectaes.org
 *.rojadirectahd.online
@@ -9943,6 +9924,7 @@
 *.xrshellbooter.com
 *.xspeeds.eu
 *.xstreaming.rip
+*.xstress.xyz
 *.torrentkris.xt.pl
 *.xt7.pl
 *.xteve.de

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743807720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743894360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Apr 2025 23:02 UTC
-; Version: 2025.0404.2302.20
+; Last modified: 05 Apr 2025 23:06 UTC
+; Version: 2025.0405.2306.44
 ; Syntax: RPZ
-; Number of entries: 4292
+; Number of entries: 4282
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -211,8 +211,6 @@ jugem.cc CNAME .
 *.jugem.cc CNAME .
 nut.cc CNAME .
 *.nut.cc CNAME .
-tilda.cc CNAME .
-*.tilda.cc CNAME .
 tld.cc CNAME .
 *.tld.cc CNAME .
 wox.cc CNAME .
@@ -1033,6 +1031,8 @@ ezblogz.com CNAME .
 *.ezblogz.com CNAME .
 ezyro.com CNAME .
 *.ezyro.com CNAME .
+facepl.com CNAME .
+*.facepl.com CNAME .
 faithweb.com CNAME .
 *.faithweb.com CNAME .
 familylobby.com CNAME .
@@ -1729,8 +1729,6 @@ thisistap.com CNAME .
 *.thisistap.com CNAME .
 tianyablog.com CNAME .
 *.tianyablog.com CNAME .
-tildacdn.com CNAME .
-*.tildacdn.com CNAME .
 timeforchangecounselling.com CNAME .
 *.timeforchangecounselling.com CNAME .
 tinyblogging.com CNAME .
@@ -4017,8 +4015,6 @@ canva.site CNAME .
 *.canva.site CNAME .
 mizum.site CNAME .
 *.mizum.site CNAME .
-postmanall.site CNAME .
-*.postmanall.site CNAME .
 temporary-demo.site CNAME .
 *.temporary-demo.site CNAME .
 turbo.site CNAME .
@@ -4119,8 +4115,6 @@ godxdess.top CNAME .
 *.godxdess.top CNAME .
 holcom.top CNAME .
 *.holcom.top CNAME .
-infplm.top CNAME .
-*.infplm.top CNAME .
 jtexpressr.top CNAME .
 *.jtexpressr.top CNAME .
 laexchange.top CNAME .
@@ -4135,12 +4129,8 @@ moneyash.top CNAME .
 *.moneyash.top CNAME .
 moneylower.top CNAME .
 *.moneylower.top CNAME .
-mtradi.top CNAME .
-*.mtradi.top CNAME .
 oki-store.top CNAME .
 *.oki-store.top CNAME .
-one-move.top CNAME .
-*.one-move.top CNAME .
 parisgrocery.top CNAME .
 *.parisgrocery.top CNAME .
 pl-oferta-id2387942371.top CNAME .

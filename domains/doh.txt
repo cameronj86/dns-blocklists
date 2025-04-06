@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Apr 2025 15:53 UTC
-# Version: 2025.0404.1553.48
+# Last modified: 06 Apr 2025 04:16 UTC
+# Version: 2025.0406.0416.31
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1610
+# Number of entries: 1609
 #
 003153.xyz
 ns.00dani.me
@@ -156,6 +156,7 @@ dns.auapi.fun
 africa.avastdns.com
 secure.avastdns.com
 adguard.avdkishore.dev
+axaxa.fun
 doh.azoris.ovh
 dns.azsopro.net
 doh1.b-cdn.net
@@ -223,6 +224,7 @@ bravedns.com
 basic.bravedns.com
 free.bravedns.com
 dns.brembeck.cloud
+ag.brianlee.fun
 dns.brono.cloud
 doh.bt.com
 goose.buckyfan.net
@@ -348,7 +350,6 @@ doh.cornes.me
 doh.cox.net
 dot.cox.net
 dohdot.coxlab.net
-dns.criena.net
 crypto.sx
 doh.crypto.sx
 doh-ipv6.crypto.sx
@@ -375,7 +376,6 @@ dns.home.daniil.it
 adguard.dantynes.cyou
 mail.data.haus
 ns.data.haus
-doh.datacore.ch
 doh.datahata.by
 dns.datenquark.de
 dns.david888.com
@@ -697,7 +697,6 @@ cluster-1.gac.edu
 dns.gamban.com
 adguard.gambini.org
 dns.beta.gandi.net
-gclouddns.com
 adg.geili.me
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -1073,7 +1072,6 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neeb.it
-nenam.eu
 adguard.neon0404.space
 dns.neowutran.ovh
 dns.aa.net.uk
@@ -1608,6 +1606,7 @@ your-dns.run
 yovbak.com
 dns.yuu-g.net
 yuvelirtut.website
+adg.yybyy.wiki
 dns.daemon.za.net
 adguard.zachitect.com
 zakaria.website

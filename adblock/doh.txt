@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Apr 2025 15:53 UTC
-! Version: 2025.0404.1553.48
+! Last modified: 06 Apr 2025 04:16 UTC
+! Version: 2025.0406.0416.31
 ! Syntax: AdBlock
-! Number of entries: 1449
+! Number of entries: 1448
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -126,6 +126,7 @@
 ||africa.avastdns.com^
 ||secure.avastdns.com^
 ||adguard.avdkishore.dev^
+||axaxa.fun^
 ||doh.azoris.ovh^
 ||dns.azsopro.net^
 ||doh1.b-cdn.net^
@@ -190,6 +191,7 @@
 ||dns.brahma.world^
 ||bravedns.com^
 ||dns.brembeck.cloud^
+||ag.brianlee.fun^
 ||dns.brono.cloud^
 ||doh.bt.com^
 ||goose.buckyfan.net^
@@ -286,7 +288,6 @@
 ||doh.cox.net^
 ||dot.cox.net^
 ||dohdot.coxlab.net^
-||dns.criena.net^
 ||crypto.sx^
 ||dns.cryptomize.com^
 ||dotdns.cryptroute.com^
@@ -310,7 +311,6 @@
 ||adguard.dantynes.cyou^
 ||mail.data.haus^
 ||ns.data.haus^
-||doh.datacore.ch^
 ||doh.datahata.by^
 ||dns.datenquark.de^
 ||dns.david888.com^
@@ -590,7 +590,6 @@
 ||dns.gamban.com^
 ||adguard.gambini.org^
 ||dns.beta.gandi.net^
-||gclouddns.com^
 ||adg.geili.me^
 ||geshido.vpn.geshido.ru^
 ||getdnsapi.net^
@@ -952,7 +951,6 @@
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
 ||dns.neeb.it^
-||nenam.eu^
 ||adguard.neon0404.space^
 ||dns.neowutran.ovh^
 ||dns.aa.net.uk^
@@ -1449,6 +1447,7 @@
 ||yovbak.com^
 ||dns.yuu-g.net^
 ||yuvelirtut.website^
+||adg.yybyy.wiki^
 ||dns.daemon.za.net^
 ||adguard.zachitect.com^
 ||zakaria.website^

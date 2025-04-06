@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Apr 2025 22:59 UTC
-# Version: 2025.0404.2259.31
+# Last modified: 06 Apr 2025 04:17 UTC
+# Version: 2025.0406.0417.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3900
+# Number of entries: 3897
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -208,6 +208,8 @@ local=/outsideproxy-2-9f1b1809ba7c1b7a.elb.us-east-1.amazonaws.com/
 local=/37er19htfd.execute-api.us-east-1.amazonaws.com/
 local=/i4frgxs0s5.execute-api.us-east-1.amazonaws.com/
 local=/dsl-app.s3.us-east-2.amazonaws.com/
+local=/american-proxy.com/
+local=/americaproxy.info/
 local=/amirabbasmousavi.news/
 local=/mailer.amlegion.org/
 local=/ammmae150.news/
@@ -310,6 +312,7 @@ local=/awabo.com/
 local=/award-vpn.com/
 local=/awebproxy.com/
 local=/awhoer.net/
+local=/axaxa.fun/
 local=/azirevpn.com/
 local=/doh.azoris.ovh/
 local=/dns.azsopro.net/
@@ -446,6 +449,7 @@ local=/brazilproxy.com/
 local=/brazilproxy.info/
 local=/breakwall.net/
 local=/dns.brembeck.cloud/
+local=/ag.brianlee.fun/
 local=/bright4good.eco/
 local=/brightvpn.com/
 local=/britishproxy.com/
@@ -773,7 +777,6 @@ local=/createssh.com/
 local=/createssh.net/
 local=/creatine.wtf/
 local=/criarssh.com/
-local=/dns.criena.net/
 local=/crownproxy.com/
 local=/croxy.com/
 local=/croxy.network/
@@ -827,7 +830,6 @@ local=/darknet.to/
 local=/proxy.darkvpn.com/
 local=/mail.data.haus/
 local=/ns.data.haus/
-local=/doh.datacore.ch/
 local=/doh.datahata.by/
 local=/datatech.icu/
 local=/dns.datenquark.de/
@@ -1330,7 +1332,6 @@ local=/gamers-nor.com/
 local=/gamingssh.com/
 local=/dns.beta.gandi.net/
 local=/gatcha.org/
-local=/gclouddns.com/
 local=/gecko.fun/
 local=/geckovpn.xyz/
 local=/geekproxy.com/
@@ -1989,7 +1990,6 @@ local=/dns.molinero.dev/
 local=/naganohara-yoimiya.momokko.moe/
 local=/dns.momou.ch/
 local=/monoprivacy.io/
-local=/monro-stom-plus.info/
 local=/monthlyssh.net/
 local=/monvpn.com/
 local=/zrh1-ns01.monzoon.net/
@@ -2109,7 +2109,6 @@ local=/ne1.ca/
 local=/dns.neeb.it/
 local=/needunblock.com/
 local=/nekoray.org/
-local=/nenam.eu/
 local=/adguard.neon0404.space/
 local=/neonos.me/
 local=/dns.neowutran.ovh/
@@ -2443,7 +2442,6 @@ local=/pointtoserver.com/
 local=/polandgrows.com/
 local=/polargrizzly.com/
 local=/polaris.cx/
-local=/polarvoid.store/
 local=/polisitogel.accountant/
 local=/polisitogel.beauty/
 local=/polisitogel.builders/
@@ -2724,7 +2722,6 @@ local=/quickproxies.com/
 local=/quicksilvervpn.com/
 local=/dns.quiet.rocks/
 local=/quintex.com/
-local=/quotivatehub.com/
 local=/ant.dns.qwer.pw/
 local=/dog.dns.qwer.pw/
 local=/frog.dns.qwer.pw/
@@ -2803,7 +2800,6 @@ local=/roonyx.com/
 local=/dns.rootlab.top/
 local=/roskomnadzorgorivadu.ru/
 local=/dns.rotunneling.net/
-local=/roundrockisd.online/
 local=/o.rsaikat.com/
 local=/au.rslvr.eu/
 local=/bg.rslvr.eu/
@@ -3874,6 +3870,7 @@ local=/yuvelirtut.website/
 local=/yuyuproxy.com/
 local=/yuyuproxy.online/
 local=/yxorproxy.com/
+local=/adg.yybyy.wiki/
 local=/dns.daemon.za.net/
 local=/zacebookpk.com/
 local=/adguard.zachitect.com/

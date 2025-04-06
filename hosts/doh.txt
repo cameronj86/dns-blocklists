@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Apr 2025 15:53 UTC
-# Version: 2025.0404.1553.48
+# Last modified: 06 Apr 2025 04:16 UTC
+# Version: 2025.0406.0416.31
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1610
+# Number of entries: 1609
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -156,6 +156,7 @@
 0.0.0.0 africa.avastdns.com
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
+0.0.0.0 axaxa.fun
 0.0.0.0 doh.azoris.ovh
 0.0.0.0 dns.azsopro.net
 0.0.0.0 doh1.b-cdn.net
@@ -223,6 +224,7 @@
 0.0.0.0 basic.bravedns.com
 0.0.0.0 free.bravedns.com
 0.0.0.0 dns.brembeck.cloud
+0.0.0.0 ag.brianlee.fun
 0.0.0.0 dns.brono.cloud
 0.0.0.0 doh.bt.com
 0.0.0.0 goose.buckyfan.net
@@ -348,7 +350,6 @@
 0.0.0.0 doh.cox.net
 0.0.0.0 dot.cox.net
 0.0.0.0 dohdot.coxlab.net
-0.0.0.0 dns.criena.net
 0.0.0.0 crypto.sx
 0.0.0.0 doh.crypto.sx
 0.0.0.0 doh-ipv6.crypto.sx
@@ -375,7 +376,6 @@
 0.0.0.0 adguard.dantynes.cyou
 0.0.0.0 mail.data.haus
 0.0.0.0 ns.data.haus
-0.0.0.0 doh.datacore.ch
 0.0.0.0 doh.datahata.by
 0.0.0.0 dns.datenquark.de
 0.0.0.0 dns.david888.com
@@ -697,7 +697,6 @@
 0.0.0.0 dns.gamban.com
 0.0.0.0 adguard.gambini.org
 0.0.0.0 dns.beta.gandi.net
-0.0.0.0 gclouddns.com
 0.0.0.0 adg.geili.me
 0.0.0.0 geshido.vpn.geshido.ru
 0.0.0.0 getdnsapi.net
@@ -1073,7 +1072,6 @@
 0.0.0.0 us-saj-w-f-1.nashkan.net
 0.0.0.0 us-saj-w-p-1.nashkan.net
 0.0.0.0 dns.neeb.it
-0.0.0.0 nenam.eu
 0.0.0.0 adguard.neon0404.space
 0.0.0.0 dns.neowutran.ovh
 0.0.0.0 dns.aa.net.uk
@@ -1608,6 +1606,7 @@
 0.0.0.0 yovbak.com
 0.0.0.0 dns.yuu-g.net
 0.0.0.0 yuvelirtut.website
+0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 adguard.zachitect.com
 0.0.0.0 zakaria.website
