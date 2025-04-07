@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Apr 2025 15:33 UTC
-# Version: 2025.0406.1533.11
+# Last modified: 07 Apr 2025 03:27 UTC
+# Version: 2025.0407.0327.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3895
+# Number of entries: 3894
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -297,6 +297,7 @@ local=/atris.cyou/
 local=/dohtrial.att.net/
 local=/atvsh.ir/
 local=/dns.auapi.fun/
+local=/aurora-softworks.xyz/
 local=/auto-aufladen.de/
 local=/avanquestusa.com/
 local=/vanheim.ff.avast.com/
@@ -359,6 +360,7 @@ local=/bestfreevpn.com/
 local=/bestproxy.xyz/
 local=/bestssh.net/
 local=/bestukvpn.com/
+local=/bestvideoproxy.com/
 local=/bestvpn.org/
 local=/bestvpnprovider.info/
 local=/bestvpnrating.com/
@@ -387,6 +389,7 @@ local=/tky-dns.bitdefender.net/
 local=/bitping.com/
 local=/dns.bitservices.io/
 local=/dns-tls.bitwiseshift.net/
+local=/bizfast.info/
 local=/blacklogic.com/
 local=/blackvpn.com/
 local=/2.dnscrypt-cert.blahdns.com/
@@ -1213,7 +1216,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -3258,7 +3260,6 @@ local=/dns.tls-data.de/
 local=/tlsext.com/
 local=/tlz.asia/
 local=/tmhhd.tk/
-local=/tnvpn.com/
 local=/d.toairs.com/
 local=/tokit.site/
 local=/tonvpn.com/
@@ -3275,7 +3276,6 @@ local=/topvpn.cc/
 local=/topvpnguides.com/
 local=/tor-gateways.de/
 local=/tor2web.fi/
-local=/tor2web.in/
 local=/tor2web.io/
 local=/tor2web.it/
 local=/tor2web.org/
@@ -3489,7 +3489,6 @@ local=/unblockproxy.us/
 local=/unblockproxy.win/
 local=/unblocks.net/
 local=/unblocksite.biz/
-local=/unblocksite.ch/
 local=/unblocksite.fun/
 local=/unblocksite.id/
 local=/unblocksite.org/

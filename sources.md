@@ -58,6 +58,7 @@ https://hblock.molinero.dev/hosts_adblock.txt
 https://hole.cert.pl/domains/domains.txt
 https://hole.cert.pl/domains/v2/domains.txt
 https://hostfiles.frogeye.fr/firstparty-trackers.txt
+https://hostfiles.frogeye.fr/multiparty-trackers.txt
 https://hosts.tweedge.net/malicious.txt
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/greensnow.ipset
@@ -197,6 +198,7 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_ips.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
+https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/refs/heads/main/pihole.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/nsfw.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams_light.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt

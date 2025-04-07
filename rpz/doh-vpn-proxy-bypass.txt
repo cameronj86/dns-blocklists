@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743953580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1743996420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Apr 2025 15:33 UTC
-; Version: 2025.0406.1533.11
+; Last modified: 07 Apr 2025 03:27 UTC
+; Version: 2025.0407.0327.17
 ; Syntax: RPZ
-; Number of entries: 7790
+; Number of entries: 7788
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -388,8 +388,6 @@ surfshark.ch CNAME .
 *.surfshark.ch CNAME .
 switch.ch CNAME .
 *.switch.ch CNAME .
-unblocksite.ch CNAME .
-*.unblocksite.ch CNAME .
 doh.battle.christmas CNAME .
 *.doh.battle.christmas CNAME .
 familyfirst.church CNAME .
@@ -828,6 +826,8 @@ bestfreevpn.com CNAME .
 *.bestfreevpn.com CNAME .
 bestukvpn.com CNAME .
 *.bestukvpn.com CNAME .
+bestvideoproxy.com CNAME .
+*.bestvideoproxy.com CNAME .
 bestvpnrating.com CNAME .
 *.bestvpnrating.com CNAME .
 bestvpnserver.com CNAME .
@@ -2692,8 +2692,6 @@ timurpoyraz.com CNAME .
 *.timurpoyraz.com CNAME .
 tlsext.com CNAME .
 *.tlsext.com CNAME .
-tnvpn.com CNAME .
-*.tnvpn.com CNAME .
 d.toairs.com CNAME .
 *.d.toairs.com CNAME .
 tonvpn.com CNAME .
@@ -3948,8 +3946,6 @@ dns.skrep.in CNAME .
 *.dns.skrep.in CNAME .
 doh.technochat.in CNAME .
 *.doh.technochat.in CNAME .
-tor2web.in CNAME .
-*.tor2web.in CNAME .
 websurf.in CNAME .
 *.websurf.in CNAME .
 dns.zemows.industries CNAME .
@@ -3984,6 +3980,8 @@ bestvpnprovider.info CNAME .
 *.bestvpnprovider.info CNAME .
 bestyoutubeproxy.info CNAME .
 *.bestyoutubeproxy.info CNAME .
+bizfast.info CNAME .
+*.bizfast.info CNAME .
 brazilproxy.info CNAME .
 *.brazilproxy.info CNAME .
 coinsite.info CNAME .
@@ -7048,8 +7046,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
@@ -7594,6 +7590,8 @@ aluu.xyz CNAME .
 *.aluu.xyz CNAME .
 dns.andrewnw.xyz CNAME .
 *.dns.andrewnw.xyz CNAME .
+aurora-softworks.xyz CNAME .
+*.aurora-softworks.xyz CNAME .
 beecomf.xyz CNAME .
 *.beecomf.xyz CNAME .
 bestproxy.xyz CNAME .

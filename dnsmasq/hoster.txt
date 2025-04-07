@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Apr 2025 10:35 UTC
-# Version: 2025.0406.1035.49
+# Last modified: 06 Apr 2025 22:21 UTC
+# Version: 2025.0406.2221.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2137
+# Number of entries: 2138
 #
 local=/000a.de/
 local=/000space.com/
@@ -469,6 +469,7 @@ local=/blogsidea.com/
 local=/blogsky.com/
 local=/blogsmine.com/
 local=/blogsome.com/
+local=/blogsource.com/
 local=/blogspace.fr/
 local=/blogspirit.com/
 local=/blogsport.de/
@@ -914,6 +915,7 @@ local=/ez-sites.ws/
 local=/ezblogz.com/
 local=/ezyro.com/
 local=/f11.us/
+local=/facepl.com/
 local=/faithflairboutique.shop/
 local=/faithweb.com/
 local=/familylobby.com/
@@ -1220,7 +1222,6 @@ local=/info4.de/
 local=/infos.cx/
 local=/infos.lc/
 local=/infos.st/
-local=/infplm.top/
 local=/inicioseguridad-cliente.com/
 local=/insanejournal.com/
 local=/instantfreesite.com/
@@ -1686,6 +1687,7 @@ local=/secaraa.online/
 local=/secureonline.store/
 local=/seesaa.net/
 local=/dcr.sehlat.io/
+local=/seilodown.ru/
 local=/seite.com/
 local=/seite.info/
 local=/seite.ru/
@@ -1866,7 +1868,6 @@ local=/triadw.top/
 local=/tribalpages.com/
 local=/tribunablog.com/
 local=/tripod.com/
-local=/troove.top/
 local=/truistcooperative.com/
 local=/tsure.shop/
 local=/ttblogs.com/
