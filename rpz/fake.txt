@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743977520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744021080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Apr 2025 22:12 UTC
-; Version: 2025.0406.2212.27
+; Last modified: 07 Apr 2025 10:18 UTC
+; Version: 2025.0407.1018.46
 ; Syntax: RPZ
-; Number of entries: 23278
+; Number of entries: 23240
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -3093,6 +3093,8 @@ canadianpharmacyonline247.com CNAME .
 *.canadianpharmacyonline247.com CNAME .
 canastic.com CNAME .
 *.canastic.com CNAME .
+canbeloutlet.com CNAME .
+*.canbeloutlet.com CNAME .
 candlesselling.com CNAME .
 *.candlesselling.com CNAME .
 candykeysangebotes.com CNAME .
@@ -13515,8 +13517,6 @@ waykitchenette.com CNAME .
 *.waykitchenette.com CNAME .
 wayofwadeshoesuk.com CNAME .
 *.wayofwadeshoesuk.com CNAME .
-wdk-rasenmaher.com CNAME .
-*.wdk-rasenmaher.com CNAME .
 wdwhomedecor.com CNAME .
 *.wdwhomedecor.com CNAME .
 wearablemerch.com CNAME .
@@ -13561,8 +13561,6 @@ wellensteynshopde.com CNAME .
 *.wellensteynshopde.com CNAME .
 wellingtonfundsfr.com CNAME .
 *.wellingtonfundsfr.com CNAME .
-wellness-ostsee.com CNAME .
-*.wellness-ostsee.com CNAME .
 welpen-tierheim.com CNAME .
 *.welpen-tierheim.com CNAME .
 wenked.com CNAME .
@@ -13653,8 +13651,6 @@ wiecel.com CNAME .
 *.wiecel.com CNAME .
 wiitrader.com CNAME .
 *.wiitrader.com CNAME .
-wildcatwork.com CNAME .
-*.wildcatwork.com CNAME .
 wildflowercasesphilippines.com CNAME .
 *.wildflowercasesphilippines.com CNAME .
 wildling-berlin.com CNAME .
@@ -13663,16 +13659,12 @@ wildlingnl.com CNAME .
 *.wildlingnl.com CNAME .
 wildlingshoes-nl.com CNAME .
 *.wildlingshoes-nl.com CNAME .
-wildlingshoesaustralia.com CNAME .
-*.wildlingshoesaustralia.com CNAME .
 wildlingshoescanada.com CNAME .
 *.wildlingshoescanada.com CNAME .
 wildlingshoesfrance.com CNAME .
 *.wildlingshoesfrance.com CNAME .
 wildlingshoesgermany.com CNAME .
 *.wildlingshoesgermany.com CNAME .
-wildlingshoesisrael.com CNAME .
-*.wildlingshoesisrael.com CNAME .
 wildlingshoesnederland.com CNAME .
 *.wildlingshoesnederland.com CNAME .
 wildlingshoesportugal.com CNAME .
@@ -13713,8 +13705,6 @@ winicoin.com CNAME .
 *.winicoin.com CNAME .
 winobin.com CNAME .
 *.winobin.com CNAME .
-winstomtrading.com CNAME .
-*.winstomtrading.com CNAME .
 cfd.winstonmartin.com CNAME .
 *.cfd.winstonmartin.com CNAME .
 wintechfxglobal.com CNAME .
@@ -13755,8 +13745,6 @@ wolf-zart.com CNAME .
 *.wolf-zart.com CNAME .
 wolfgardenshop.com CNAME .
 *.wolfgardenshop.com CNAME .
-wolftoothbike.com CNAME .
-*.wolftoothbike.com CNAME .
 wolverine-berlin.com CNAME .
 *.wolverine-berlin.com CNAME .
 wolverinebootsde.com CNAME .
@@ -13869,8 +13857,6 @@ xn--hellyhansenespaa-lub.com CNAME .
 *.xn--hellyhansenespaa-lub.com CNAME .
 xn--hellyhansenper-yrb.com CNAME .
 *.xn--hellyhansenper-yrb.com CNAME .
-xn--hellyhansentrkiye-e3b.com CNAME .
-*.xn--hellyhansentrkiye-e3b.com CNAME .
 xn--huntergummistvler-d1b.com CNAME .
 *.xn--huntergummistvler-d1b.com CNAME .
 xn--hunterstvler-2jb.com CNAME .
@@ -13935,8 +13921,6 @@ yeezyisrael.com CNAME .
 *.yeezyisrael.com CNAME .
 yeezyuksale.com CNAME .
 *.yeezyuksale.com CNAME .
-yoga-wear-eu.com CNAME .
-*.yoga-wear-eu.com CNAME .
 yomutech.com CNAME .
 *.yomutech.com CNAME .
 yonexdeutschland.com CNAME .
@@ -19197,8 +19181,6 @@ weindorf-lonsheim.de CNAME .
 *.weindorf-lonsheim.de CNAME .
 weinemotionen.de CNAME .
 *.weinemotionen.de CNAME .
-weissweinrabatt.de CNAME .
-*.weissweinrabatt.de CNAME .
 weiter-zum-geld.de CNAME .
 *.weiter-zum-geld.de CNAME .
 welcherweinzu.de CNAME .
@@ -19255,8 +19237,6 @@ winterheizung.de CNAME .
 *.winterheizung.de CNAME .
 winterkraft.de CNAME .
 *.winterkraft.de CNAME .
-wir-sind-goldhandel.de CNAME .
-*.wir-sind-goldhandel.de CNAME .
 wodstand.de CNAME .
 *.wodstand.de CNAME .
 wohlrab-handel.de CNAME .
@@ -19279,8 +19259,6 @@ wolverineschuhes.de CNAME .
 *.wolverineschuhes.de CNAME .
 womma.de CNAME .
 *.womma.de CNAME .
-woodbell.de CNAME .
-*.woodbell.de CNAME .
 woodeu.de CNAME .
 *.woodeu.de CNAME .
 woodlifez.de CNAME .
@@ -19749,6 +19727,8 @@ bitcoinmotion.io CNAME .
 *.bitcoinmotion.io CNAME .
 bvmnetwork.io CNAME .
 *.bvmnetwork.io CNAME .
+cdeen.io CNAME .
+*.cdeen.io CNAME .
 crypteo.io CNAME .
 *.crypteo.io CNAME .
 cryptoneyx.io CNAME .
@@ -20999,8 +20979,6 @@ vaulttrade.org CNAME .
 *.vaulttrade.org CNAME .
 viennaapartments.org CNAME .
 *.viennaapartments.org CNAME .
-weirdtribe.org CNAME .
-*.weirdtribe.org CNAME .
 worldcompanyregister.org CNAME .
 *.worldcompanyregister.org CNAME .
 xcapitalltd.org CNAME .
@@ -22527,16 +22505,12 @@ weram.shop CNAME .
 *.weram.shop CNAME .
 werkzeugangebot.shop CNAME .
 *.werkzeugangebot.shop CNAME .
-werner-reinke.shop CNAME .
-*.werner-reinke.shop CNAME .
 wernerholz.shop CNAME .
 *.wernerholz.shop CNAME .
 wernersweinwelt.shop CNAME .
 *.wernersweinwelt.shop CNAME .
 wheelsupplyusde.shop CNAME .
 *.wheelsupplyusde.shop CNAME .
-wholesaleacsymarket.shop CNAME .
-*.wholesaleacsymarket.shop CNAME .
 wildanimal.shop CNAME .
 *.wildanimal.shop CNAME .
 wildfzlowers.shop CNAME .
@@ -22545,30 +22519,20 @@ wildschytz.shop CNAME .
 *.wildschytz.shop CNAME .
 wilteck.shop CNAME .
 *.wilteck.shop CNAME .
-windowpartscenter.shop CNAME .
-*.windowpartscenter.shop CNAME .
 wohnideebilder.shop CNAME .
 *.wohnideebilder.shop CNAME .
-wolfgang-hagen.shop CNAME .
-*.wolfgang-hagen.shop CNAME .
 wolframsshop.shop CNAME .
 *.wolframsshop.shop CNAME .
-woodheatstoveds.shop CNAME .
-*.woodheatstoveds.shop CNAME .
 woofstuffde.shop CNAME .
 *.woofstuffde.shop CNAME .
 wpgame.shop CNAME .
 *.wpgame.shop CNAME .
 wploverset.shop CNAME .
 *.wploverset.shop CNAME .
-ws-brennholz-gbr.shop CNAME .
-*.ws-brennholz-gbr.shop CNAME .
 wurzelreich.shop CNAME .
 *.wurzelreich.shop CNAME .
 x-water.shop CNAME .
 *.x-water.shop CNAME .
-x1safetyde.shop CNAME .
-*.x1safetyde.shop CNAME .
 xaviercabrita.shop CNAME .
 *.xaviercabrita.shop CNAME .
 xnglckschenkenelbde.shop CNAME .
@@ -22837,8 +22801,6 @@ womensjewelry.store CNAME .
 *.womensjewelry.store CNAME .
 woodiholz.store CNAME .
 *.woodiholz.store CNAME .
-wowlaibs.store CNAME .
-*.wowlaibs.store CNAME .
 zenovaa.store CNAME .
 *.zenovaa.store CNAME .
 amazoncoin.su CNAME .

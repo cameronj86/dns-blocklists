@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Apr 2025 03:27 UTC
-# Version: 2025.0407.0327.17
+# Last modified: 07 Apr 2025 15:38 UTC
+# Version: 2025.0407.1538.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3894
+# Number of entries: 3895
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -476,6 +476,7 @@ local=/dns.busold.ws/
 local=/dns.butterfly87.sbs/
 local=/bvpn.com/
 local=/byewall.com/
+local=/bypass.pw/
 local=/bypassable.com/
 local=/bypassed.wtf/
 local=/bypasser.us/
@@ -492,6 +493,7 @@ local=/dns.cahlen.com/
 local=/calculusproblems.online/
 local=/callies-online.site/
 local=/tor.calyxinstitute.org/
+local=/canadaproxy.info/
 local=/cantblockthis.org/
 local=/cantfindme.org/
 local=/2.dnscrypt-cert.captnemo.in/
@@ -520,6 +522,7 @@ local=/cfdjb.org/
 local=/ibuki.cgnat.net/
 local=/dns.chadeyron.fr/
 local=/changemyip.com/
+local=/changemyip.uk/
 local=/chaos-system.de/
 local=/dns.charraud.eu/
 local=/dns.chenu.ch/
@@ -552,6 +555,7 @@ local=/clearvpn.com/
 local=/clickwork7secure.com/
 local=/cloaker.ca/
 local=/cloaker.us/
+local=/cloakpoint.com/
 local=/cloakvpn.com/
 local=/cloudbenders.fun/
 local=/dns.cloudfiction.eu/
@@ -1092,7 +1096,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/eduacation.lol/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -2021,6 +2024,7 @@ local=/vpnto.bhadrikais.my.id/
 local=/dns.iki.my.id/
 local=/dns.lista.my.id/
 local=/dns.mikrotikrumahan.my.id/
+local=/dns.pnh.my.id/
 local=/dns.repinger.my.id/
 local=/dns.velyn.my.id/
 local=/dns.vmath.my.id/
@@ -2056,7 +2060,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3820,7 +3823,6 @@ local=/dns.xlion.tw/
 local=/xmr.land/
 local=/xn--durhre-yxa.de/
 local=/xperienc.com/
-local=/xsfwow.com/
 local=/dns.xuming.studio/
 local=/dns.xusqui.com/
 local=/xvbelink.com/
@@ -3845,7 +3847,6 @@ local=/ylink.info/
 local=/yogavpn.com/
 local=/youcanhide.net/
 local=/net01.youcef.io/
-local=/youfreeproxytube.com/
 local=/younblocked.com/
 local=/youproxything.com/
 local=/youproxytube.com/

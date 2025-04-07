@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Apr 2025 22:21 UTC
-# Version: 2025.0406.2221.01
+# Last modified: 07 Apr 2025 10:27 UTC
+# Version: 2025.0407.1027.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2138
+# Number of entries: 2134
 #
 local=/000a.de/
 local=/000space.com/
@@ -915,7 +915,6 @@ local=/ez-sites.ws/
 local=/ezblogz.com/
 local=/ezyro.com/
 local=/f11.us/
-local=/facepl.com/
 local=/faithflairboutique.shop/
 local=/faithweb.com/
 local=/familylobby.com/
@@ -1222,6 +1221,7 @@ local=/info4.de/
 local=/infos.cx/
 local=/infos.lc/
 local=/infos.st/
+local=/infplm.top/
 local=/inicioseguridad-cliente.com/
 local=/insanejournal.com/
 local=/instantfreesite.com/
@@ -1687,7 +1687,6 @@ local=/secaraa.online/
 local=/secureonline.store/
 local=/seesaa.net/
 local=/dcr.sehlat.io/
-local=/seilodown.ru/
 local=/seite.com/
 local=/seite.info/
 local=/seite.ru/
@@ -1967,7 +1966,6 @@ local=/wapka.xyz/
 local=/waptrad.top/
 local=/warhead.com/
 local=/warp0.com/
-local=/watsica.sbs/
 local=/web.gg/
 local=/web.pe/
 local=/web-chat.eu/
@@ -2050,7 +2048,6 @@ local=/weeblysite.com/
 local=/welt.tl/
 local=/wentiso.top/
 local=/werite.net/
-local=/whampl.top/
 local=/widblog.com/
 local=/widezone.net/
 local=/wifeo.com/
@@ -2126,7 +2123,6 @@ local=/yourfreehosting.net/
 local=/yourjavascript.com/
 local=/yousher.com/
 local=/yovip.net/
-local=/yuichi.shop/
 local=/yuku.com/
 local=/z.gp/
 local=/za.gp/

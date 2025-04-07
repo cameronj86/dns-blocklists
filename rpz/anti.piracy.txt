@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1743995400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744039260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Apr 2025 03:10 UTC
-; Version: 2025.0407.0310.09
+; Last modified: 07 Apr 2025 15:21 UTC
+; Version: 2025.0407.1521.19
 ; Syntax: RPZ
-; Number of entries: 20326
+; Number of entries: 20320
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1589,6 +1589,8 @@ tracker.btschool.club CNAME .
 *.tracker.btschool.club CNAME .
 cb01.club CNAME .
 *.cb01.club CNAME .
+chouchou.club CNAME .
+*.chouchou.club CNAME .
 cineblog01.club CNAME .
 *.cineblog01.club CNAME .
 cpabien.club CNAME .
@@ -3083,6 +3085,8 @@ csite.bugs3.com CNAME .
 *.csite.bugs3.com CNAME .
 bulkpeers.com CNAME .
 *.bulkpeers.com CNAME .
+bullstresser.com CNAME .
+*.bullstresser.com CNAME .
 tr.burnabyhighstar.com CNAME .
 *.tr.burnabyhighstar.com CNAME .
 bushtorrent.com CNAME .
@@ -7191,8 +7195,6 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
-videocop.com CNAME .
-*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -7555,8 +7557,6 @@ torrents.yourexotic.com CNAME .
 *.torrents.yourexotic.com CNAME .
 yourptflixmovies.com CNAME .
 *.yourptflixmovies.com CNAME .
-yourserie.com CNAME .
-*.yourserie.com CNAME .
 youserials.com CNAME .
 *.youserials.com CNAME .
 youtorrent.com CNAME .
@@ -11975,6 +11975,8 @@ deviloid.net CNAME .
 *.deviloid.net CNAME .
 bm.dfnbd.net CNAME .
 *.bm.dfnbd.net CNAME .
+cm.dfnbd.net CNAME .
+*.cm.dfnbd.net CNAME .
 em.dfnbd.net CNAME .
 *.em.dfnbd.net CNAME .
 tube.dfnbd.net CNAME .
@@ -12219,8 +12221,6 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
-gamezlinks.net CNAME .
-*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -14835,6 +14835,8 @@ hawklord.myftp.org CNAME .
 *.hawklord.myftp.org CNAME .
 turtle55.myftp.org CNAME .
 *.turtle55.myftp.org CNAME .
+ns3109441.mypdns.org CNAME .
+*.ns3109441.mypdns.org CNAME .
 myspleen.org CNAME .
 *.myspleen.org CNAME .
 nattawat.org CNAME .
@@ -15485,14 +15487,10 @@ waz-warez.org CNAME .
 *.waz-warez.org CNAME .
 wiflix.org CNAME .
 *.wiflix.org CNAME .
-wild-bytes.org CNAME .
-*.wild-bytes.org CNAME .
 win7dl.org CNAME .
 *.win7dl.org CNAME .
 worldsrc.org CNAME .
 *.worldsrc.org CNAME .
-wow-movies.org CNAME .
-*.wow-movies.org CNAME .
 wowebook.org CNAME .
 *.wowebook.org CNAME .
 xbins.org CNAME .
@@ -16219,8 +16217,6 @@ thepiratebay-org.proxydude.red CNAME .
 *.thepiratebay-org.proxydude.red CNAME .
 thepiratebay.red CNAME .
 *.thepiratebay.red CNAME .
-wawacity.red CNAME .
-*.wawacity.red CNAME .
 guardaserie.rent CNAME .
 *.guardaserie.rent CNAME .
 streamingcommunity.rent CNAME .
@@ -19295,6 +19291,8 @@ yts.vc CNAME .
 *.yts.vc CNAME .
 altadefinizione.ventures CNAME .
 *.altadefinizione.ventures CNAME .
+cb01.vet CNAME .
+*.cb01.vet CNAME .
 cineblog01.vet CNAME .
 *.cineblog01.vet CNAME .
 pirateproxy.vet CNAME .
@@ -20265,8 +20263,6 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
-xstress.xyz CNAME .
-*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .
@@ -20309,8 +20305,6 @@ redecanais.zip CNAME .
 *.redecanais.zip CNAME .
 redecanaistv.zip CNAME .
 *.redecanaistv.zip CNAME .
-worldfree4u.zip CNAME .
-*.worldfree4u.zip CNAME .
 123-movies.zone CNAME .
 *.123-movies.zone CNAME .
 9anime.zone CNAME .

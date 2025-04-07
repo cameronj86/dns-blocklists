@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Apr 2025 03:10 UTC
-# Version: 2025.0407.0310.09
+# Last modified: 07 Apr 2025 15:21 UTC
+# Version: 2025.0407.1521.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10163
+# Number of entries: 10160
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -1564,6 +1564,7 @@ local=/buffstreams.tv/
 local=/csite.bugs3.com/
 local=/bulextorrent.org/
 local=/bulkpeers.com/
+local=/bullstresser.com/
 local=/bullstresser.net/
 local=/bundesliga-streams.net/
 local=/bunkr.tv/
@@ -1754,6 +1755,7 @@ local=/cb01.training/
 local=/cb01.uno/
 local=/cb01.us/
 local=/cb01.vacations/
+local=/cb01.vet/
 local=/cb01.vg/
 local=/cb01.video/
 local=/cb01.vip/
@@ -1809,6 +1811,7 @@ local=/chinurarete-subs.org/
 local=/choice1ip.tv/
 local=/chomikuj.pl/
 local=/chomskytorrents.org/
+local=/chouchou.club/
 local=/tracker.christianbro.pw/
 local=/tracker2.christianbro.pw/
 local=/christianmovies.eu/
@@ -2493,6 +2496,7 @@ local=/dfast.app/
 local=/dfichiers.com/
 local=/dflix.live/
 local=/bm.dfnbd.net/
+local=/cm.dfnbd.net/
 local=/em.dfnbd.net/
 local=/tube.dfnbd.net/
 local=/dfox.it/
@@ -3845,7 +3849,6 @@ local=/gamestorrents.io/
 local=/gamestorrents.nu/
 local=/gametechwiki.com/
 local=/bt-tracker.gamexp.ru/
-local=/gamezlinks.net/
 local=/gamingbeasts.com/
 local=/gaoqing.fm/
 local=/garageforum.org/
@@ -5939,6 +5942,7 @@ local=/myp2p.biz/
 local=/myp2px.eu/
 local=/mypanlss.store/
 local=/mypartage.com/
+local=/ns3109441.mypdns.org/
 local=/mypiratebay.net/
 local=/mypiratebay.wtf/
 local=/myporn.club/
@@ -9436,7 +9440,6 @@ local=/vidcloud9.com/
 local=/vidclouds.icu/
 local=/vidembed.net/
 local=/videobin.co/
-local=/videocop.com/
 local=/tracker.videodrugproject.com/
 local=/videoelephantbd.com/
 local=/admin.videoenpoche.info/
@@ -9698,7 +9701,6 @@ local=/wawacity.blue/
 local=/wawacity.ec/
 local=/wawacity.ninja/
 local=/wawacity.one/
-local=/wawacity.red/
 local=/wawacity.rsvp/
 local=/wawacity.su/
 local=/wawacity.tech/
@@ -9763,7 +9765,6 @@ local=/wiflix.nl/
 local=/wiflix.org/
 local=/wiflix.pw/
 local=/wiflix.voto/
-local=/wild-bytes.org/
 local=/wilmaa.com/
 local=/win7dl.org/
 local=/win7games.com/
@@ -9801,7 +9802,6 @@ local=/worldbytez.com/
 local=/worldcupfootball.me/
 local=/worldfree4u.moe/
 local=/worldfree4u.pm/
-local=/worldfree4u.zip/
 local=/worldmags.net/
 local=/worldofcracksoft.com/
 local=/worldofp2p.net/
@@ -9814,7 +9814,6 @@ local=/worldwrestlingtorrents.net/
 local=/wotaku.wiki/
 local=/wovietv.com/
 local=/wow-films.com/
-local=/wow-movies.org/
 local=/wowebook.org/
 local=/wowroms.com/
 local=/wpp-fansubs.com/
@@ -9898,7 +9897,6 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
-local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/
@@ -10007,7 +10005,6 @@ local=/youreasyip.tv/
 local=/torrents.yourexotic.com/
 local=/yournetcommunications.net/
 local=/yourptflixmovies.com/
-local=/yourserie.com/
 local=/yoursports.stream/
 local=/youserials.com/
 local=/youtorrent.com/
