@@ -1,5 +1,8 @@
 # Domains to be added only to the pro++ and ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/5820
+bstats.org
+
 # https://github.com/hagezi/dns-blocklists/issues/4900
 js.monitor.azure.com
 js0.cdn.applicationinsights.io
@@ -511,6 +514,8 @@ adsensehost.googleapis.com
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2226927103
 ogads-pa.googleapis.com
 ogads-pa.clients6.google.com
+# https://github.com/hagezi/dns-blocklists/issues/5811
+federatedcompute-pa.googleapis.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2824
 ads-admin.brave.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744040280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744081920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Apr 2025 15:38 UTC
-; Version: 2025.0407.1538.21
+; Last modified: 08 Apr 2025 03:12 UTC
+; Version: 2025.0408.0312.54
 ; Syntax: RPZ
-; Number of entries: 7790
+; Number of entries: 7796
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1040,6 +1040,8 @@ corecloak.com CNAME .
 *.corecloak.com CNAME .
 coverproxy.com CNAME .
 *.coverproxy.com CNAME .
+covertproxy.com CNAME .
+*.covertproxy.com CNAME .
 crawlbase.com CNAME .
 *.crawlbase.com CNAME .
 createssh.com CNAME .
@@ -1196,6 +1198,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 dns.ellichua.com CNAME .
@@ -5998,8 +6002,6 @@ webproxy.online CNAME .
 *.webproxy.online CNAME .
 yuyuproxy.online CNAME .
 *.yuyuproxy.online CNAME .
-zexusdigital.online CNAME .
-*.zexusdigital.online CNAME .
 zpzpzpapapap4d.online CNAME .
 *.zpzpzpapapap4d.online CNAME .
 123-proxy.org CNAME .
@@ -6070,6 +6072,10 @@ dns.colorfreedom.org CNAME .
 *.dns.colorfreedom.org CNAME .
 coolbits.org CNAME .
 *.coolbits.org CNAME .
+coolproxy.org CNAME .
+*.coolproxy.org CNAME .
+crazyproxy.org CNAME .
+*.crazyproxy.org CNAME .
 croxy.org CNAME .
 *.croxy.org CNAME .
 dns.csswg.org CNAME .

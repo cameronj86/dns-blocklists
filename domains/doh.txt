@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Apr 2025 15:37 UTC
-# Version: 2025.0407.1537.01
+# Last modified: 08 Apr 2025 03:11 UTC
+# Version: 2025.0408.0311.35
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 1606
 #
@@ -624,6 +624,7 @@ edgy-dns.com
 dns.editechstudio.com
 dns.tuna.tsinghua.edu.cn
 adguard.ef67daisuki.club
+dns.efficientdocuments.com
 hole.elbschloss.xyz
 dns.elemental.software
 eliatofani.ovh
@@ -1608,7 +1609,6 @@ dns.daemon.za.net
 adguard.zachitect.com
 zakaria.website
 zburger.top
-www.zburger.top
 zdn.ro
 dns.zemows.industries
 adguard-kartoffel.zernico.de
