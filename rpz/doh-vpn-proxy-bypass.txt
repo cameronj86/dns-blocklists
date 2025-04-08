@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744081920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744125840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Apr 2025 03:12 UTC
-; Version: 2025.0408.0312.54
+; Last modified: 08 Apr 2025 15:24 UTC
+; Version: 2025.0408.1524.15
 ; Syntax: RPZ
 ; Number of entries: 7796
 ;
@@ -442,6 +442,8 @@ terraleads.cloud CNAME .
 *.terraleads.cloud CNAME .
 unblocked.cloud CNAME .
 *.unblocked.cloud CNAME .
+dns.wibenson.cloud CNAME .
+*.dns.wibenson.cloud CNAME .
 dns-1.wil.cloud CNAME .
 *.dns-1.wil.cloud CNAME .
 dns-2.wil.cloud CNAME .
@@ -1108,6 +1110,8 @@ dialertoserver.com CNAME .
 *.dialertoserver.com CNAME .
 digibitdesign.com CNAME .
 *.digibitdesign.com CNAME .
+dirtyworkproxy.com CNAME .
+*.dirtyworkproxy.com CNAME .
 districtnewyork.com CNAME .
 *.districtnewyork.com CNAME .
 divalane.com CNAME .
@@ -1198,8 +1202,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 dns.ellichua.com CNAME .
@@ -2526,14 +2528,10 @@ browse.startpage.com CNAME .
 *.browse.startpage.com CNAME .
 eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
-eu1-browse.startpage.com CNAME .
-*.eu1-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
 error.proxy.startpage.com CNAME .
 *.error.proxy.startpage.com CNAME .
-proxy1.startpage.com CNAME .
-*.proxy1.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -4054,8 +4052,6 @@ iblocker.info CNAME .
 *.iblocker.info CNAME .
 interncloud.info CNAME .
 *.interncloud.info CNAME .
-doh.kekew.info CNAME .
-*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .
@@ -4466,6 +4462,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+dns-free.link CNAME .
+*.dns-free.link CNAME .
 eth.link CNAME .
 *.eth.link CNAME .
 freeconnect.link CNAME .
@@ -5908,6 +5906,8 @@ hidester.one CNAME .
 *.hidester.one CNAME .
 dns.karl.one CNAME .
 *.dns.karl.one CNAME .
+dns.milkpie.one CNAME .
+*.dns.milkpie.one CNAME .
 one.one.one.one CNAME .
 *.one.one.one.one CNAME .
 proxysite.one CNAME .

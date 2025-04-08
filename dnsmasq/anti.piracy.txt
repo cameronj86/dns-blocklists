@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Apr 2025 02:55 UTC
-# Version: 2025.0408.0255.52
+# Last modified: 08 Apr 2025 15:07 UTC
+# Version: 2025.0408.1507.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10159
+# Number of entries: 10163
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -646,6 +646,7 @@ local=/altadefinizione01.it/
 local=/altadefinizione01.life/
 local=/altadefinizione01.love/
 local=/altadefinizione01.name/
+local=/altadefinizione01.photo/
 local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.site/
@@ -1594,6 +1595,7 @@ local=/bandito.byterunner.io/
 local=/byxatab.com/
 local=/byxatab.org/
 local=/anti.c.la/
+local=/digitalwarez.c.la/
 local=/c1anime.net/
 local=/c1live.com/
 local=/c1movies.com/
@@ -2360,6 +2362,7 @@ local=/danishbits.org/
 local=/dark-angel.ws/
 local=/darkanime.stream/
 local=/darkarea.pl/
+local=/darkbooter.com/
 local=/darkbox.to/
 local=/darkdata.net/
 local=/darkino.co/
@@ -2396,6 +2399,7 @@ local=/davidkirkevans.com/
 local=/bt.davka.info/
 local=/daxiv.com/
 local=/dbbians.com/
+local=/dbgo.fun/
 local=/dbgt.com/
 local=/dbz-media.nl/
 local=/dbzdivx.com/
@@ -2564,6 +2568,7 @@ local=/tracker.dix.tf/
 local=/dizcompany.ru/
 local=/djconway.com/
 local=/djleak.com/
+local=/dl-more.eu/
 local=/dl4all.biz/
 local=/dl4all.org/
 local=/dl4free.com/
@@ -2571,6 +2576,7 @@ local=/dl4v.com/
 local=/dlandroid.com/
 local=/dldepot.com/
 local=/dle-news.ru/
+local=/dle-shablons.ru/
 local=/dler.org/
 local=/tracker.dler.com/
 local=/tracker2.dler.com/
@@ -3850,7 +3856,6 @@ local=/gamestorrents.io/
 local=/gamestorrents.nu/
 local=/gametechwiki.com/
 local=/bt-tracker.gamexp.ru/
-local=/gamezlinks.net/
 local=/gamingbeasts.com/
 local=/gaoqing.fm/
 local=/garageforum.org/
@@ -9899,7 +9904,6 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
-local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/

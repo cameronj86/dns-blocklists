@@ -747,11 +747,11 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 
 #### :department_store: **DNSBunker (Germany) - free** <a name="schonetdns"></a>
 
-[DNSBunker (Germany)](https://dnsbunker.org/) uses my Multi Pro++ in combination with the TIF blocklist and [@xRuffKez](https://github.com/xRuffKez/NRD) NRD/DGA.
+[DNSBunker (Germany)](https://dnsbunker.org/) uses my Multi Pro++ in combination with the native Tracker lists, TIF blocklist and [@xRuffKez](https://github.com/xRuffKez/NRD) NRD/DGA.
 
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS/QUIC | Legacy DNS |
 |:-----------|:---------------|:------------------|:-----------|
-| Pro plus + TIF + NRD30 Phishing/DGA | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 89.163.255.195<br>2001:4ba0:babe:3734:: |
+| Pro plus + Native Tracker + TIF + NRD30 Phishing/DGA | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 89.163.255.195<br>2001:4ba0:babe:3734:: |
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 

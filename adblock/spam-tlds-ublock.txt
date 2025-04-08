@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Apr 2025 13:14 UTC
-! Version: 2025.0407.1314.45
+! Last modified: 08 Apr 2025 15:25 UTC
+! Version: 2025.0408.1525.51
 ! Syntax: uBlock
 ! Number of latin TLDs: 235 - non-latin TLDs: 151
 !
@@ -242,7 +242,7 @@
 ||website^$doc,domain=~acro.website|~bestmotherfucking.website|~eddie.website|~thatsup.website|~tilde.website|~uphold.website
 ||wedding^$doc
 ||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~datei.wiki|~fallout.wiki|~getindie.wiki|~hacktricks.wiki|~hollowknight.wiki|~kodi.wiki|~kometa.wiki|~libreelec.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~namu.wiki|~nixos.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~severance.wiki|~tajrobe.wiki|~tardis.wiki|~thehomelab.wiki|~usermanual.wiki|~w.wiki|~zeppelin.wiki
-||win^$doc,domain=~activated.win|~communities.win|~patriots.win
+||win^$doc,domain=~activated.win|~communities.win|~patriots.win|~vaultcord.win
 ||wine^$doc,domain=~nostr.wine
 ||work^$doc,domain=~doesmycode.work|~frame.work|~koding.work|~mirror.work
 ||world^$doc,domain=~boo.world|~calckey.world|~camhub.world|~lemmy.world|~mastodon.world|~maxwellcat.world|~shitposter.world|~unidays.world|~userstyles.world|~wetdry.world|~wiz.world

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744080900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744124820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Apr 2025 02:55 UTC
-; Version: 2025.0408.0255.52
+; Last modified: 08 Apr 2025 15:07 UTC
+; Version: 2025.0408.1507.01
 ; Syntax: RPZ
-; Number of entries: 20318
+; Number of entries: 20326
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3413,6 +3413,8 @@ damedesuyo.com CNAME .
 *.damedesuyo.com CNAME .
 danimados.com CNAME .
 *.danimados.com CNAME .
+darkbooter.com CNAME .
+*.darkbooter.com CNAME .
 darkmahou.com CNAME .
 *.darkmahou.com CNAME .
 tpb.dashitz.com CNAME .
@@ -8177,6 +8179,8 @@ comixology.eu CNAME .
 *.comixology.eu CNAME .
 deathlord.eu CNAME .
 *.deathlord.eu CNAME .
+dl-more.eu CNAME .
+*.dl-more.eu CNAME .
 dvdseed.eu CNAME .
 *.dvdseed.eu CNAME .
 edels-stube.eu CNAME .
@@ -8633,6 +8637,8 @@ cb01.fun CNAME .
 *.cb01.fun CNAME .
 cineblog01.fun CNAME .
 *.cineblog01.fun CNAME .
+dbgo.fun CNAME .
+*.dbgo.fun CNAME .
 ddnbd.fun CNAME .
 *.ddnbd.fun CNAME .
 duboku.fun CNAME .
@@ -10013,6 +10019,8 @@ animeflv.la CNAME .
 *.animeflv.la CNAME .
 anti.c.la CNAME .
 *.anti.c.la CNAME .
+digitalwarez.c.la CNAME .
+*.digitalwarez.c.la CNAME .
 calcio.la CNAME .
 *.calcio.la CNAME .
 divxtotal.la CNAME .
@@ -12217,8 +12225,6 @@ gamesdrive.net CNAME .
 *.gamesdrive.net CNAME .
 gameslay.net CNAME .
 *.gameslay.net CNAME .
-gamezlinks.net CNAME .
-*.gamezlinks.net CNAME .
 gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
@@ -15621,6 +15627,8 @@ tantifilm.ph CNAME .
 *.tantifilm.ph CNAME .
 torrent9.ph CNAME .
 *.torrent9.ph CNAME .
+altadefinizione01.photo CNAME .
+*.altadefinizione01.photo CNAME .
 cb01.photos CNAME .
 *.cb01.photos CNAME .
 123movies.pics CNAME .
@@ -16537,6 +16545,8 @@ dizcompany.ru CNAME .
 *.dizcompany.ru CNAME .
 dle-news.ru CNAME .
 *.dle-news.ru CNAME .
+dle-shablons.ru CNAME .
+*.dle-shablons.ru CNAME .
 doc-doc.ru CNAME .
 *.doc-doc.ru CNAME .
 domdata.ru CNAME .
@@ -20259,8 +20269,6 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
-xstress.xyz CNAME .
-*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

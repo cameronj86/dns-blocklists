@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Apr 2025 22:10 UTC
-# Version: 2025.0403.2210.17
+# Last modified: 08 Apr 2025 15:21 UTC
+# Version: 2025.0408.1521.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1399
+# Number of entries: 1400
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -331,6 +331,7 @@ local=/doomdns.org/
 local=/dougtreadwell.com/
 local=/doyleandprendergast.com/
 local=/dp76.com/
+local=/dray-dns.de/
 local=/drayddns.com/
 local=/dropfiles.net/
 local=/drunkensailor.org/

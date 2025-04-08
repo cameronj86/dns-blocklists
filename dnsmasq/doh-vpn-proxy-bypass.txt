@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Apr 2025 03:12 UTC
-# Version: 2025.0408.0312.54
+# Last modified: 08 Apr 2025 15:24 UTC
+# Version: 2025.0408.1524.15
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3898
 #
@@ -880,6 +880,7 @@ local=/dns2.digitale-gesellschaft.ch/
 local=/dns.digitalsize.net/
 local=/diglet.org/
 local=/directoryproxy.info/
+local=/dirtyworkproxy.com/
 local=/disconnect.me/
 local=/doh.disconnect.app/
 local=/fdns1.dismail.de/
@@ -897,6 +898,7 @@ local=/dns.watch/
 local=/dns.dns-53.com/
 local=/dns.dns-53.uk/
 local=/dns.dns-53.us/
+local=/dns-free.link/
 local=/dns1.dns-ga.de/
 local=/dns2.dns-ga.de/
 local=/doh.dns-ga.de/
@@ -1099,7 +1101,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/eduacation.lol/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1758,7 +1759,6 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/kerbeans.com/
@@ -1977,6 +1977,7 @@ local=/www-proxy.migastep.com/
 local=/dns.mihanentalpo.me/
 local=/dns.mikeliu.org/
 local=/mikezhang.xyz/
+local=/dns.milkpie.one/
 local=/miniprox.com/
 local=/miniprox.info/
 local=/netcup.mismat.ch/
@@ -3059,10 +3060,8 @@ local=/ams1.startpage.com/
 local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
-local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/error.proxy.startpage.com/
-local=/proxy1.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us-browse.startpage.com/
@@ -3769,6 +3768,7 @@ local=/whitehatvpn.com/
 local=/whoer.net/
 local=/whoisping.com/
 local=/whyproxy.com/
+local=/dns.wibenson.cloud/
 local=/widevpn.com/
 local=/wikimedia-dns.org/
 local=/wiksa.com/
