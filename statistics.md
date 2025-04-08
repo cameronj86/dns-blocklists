@@ -53,10 +53,10 @@
  17 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  18 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  19 |      70% |  27% |      3% | Analytics/Metrics Extension
- 20 |      95% |   5% |      0% | Balanced Extension
+ 20 |      94% |   6% |      0% | Balanced Extension
  21 |      84% |   8% |      8% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 22 |      94% |   4% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 23 |      86% |   6% |      8% | Advanced Extension
+ 22 |      93% |   5% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 23 |      82% |   9% |      9% | Advanced Extension
  24 |      63% |  24% |     13% | Denylist Community Advanced
 ```
 #### PRO.PLUS
