@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Apr 2025 15:21 UTC
-# Version: 2025.0408.1521.35
+# Last modified: 09 Apr 2025 03:10 UTC
+# Version: 2025.0409.0310.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1400
+# Number of entries: 1401
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -470,6 +470,7 @@ local=/expired-dns.com/
 local=/ez-ip.net/
 local=/ezua.com/
 local=/f-parts.net/
+local=/fairuse.org/
 local=/falcongreen.com/
 local=/fantasyleague.cc/
 local=/faqserv.com/

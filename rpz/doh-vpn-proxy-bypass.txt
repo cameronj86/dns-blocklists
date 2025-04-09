@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744125840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744168320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Apr 2025 15:24 UTC
-; Version: 2025.0408.1524.15
+; Last modified: 09 Apr 2025 03:12 UTC
+; Version: 2025.0409.0312.48
 ; Syntax: RPZ
-; Number of entries: 7796
+; Number of entries: 7806
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1202,6 +1202,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 dns.ellichua.com CNAME .
@@ -1856,6 +1858,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4052,6 +4056,8 @@ iblocker.info CNAME .
 *.iblocker.info CNAME .
 interncloud.info CNAME .
 *.interncloud.info CNAME .
+doh.kekew.info CNAME .
+*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .
@@ -5960,6 +5966,8 @@ inpssh.online CNAME .
 *.inpssh.online CNAME .
 itsayx.online CNAME .
 *.itsayx.online CNAME .
+externalmobiel.lekdijk.online CNAME .
+*.externalmobiel.lekdijk.online CNAME .
 letscomply.online CNAME .
 *.letscomply.online CNAME .
 adsadkjsadjksakldjxx.math-solver.online CNAME .
@@ -7052,6 +7060,8 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .

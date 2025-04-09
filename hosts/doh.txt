@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Apr 2025 15:22 UTC
-# Version: 2025.0408.1522.55
+# Last modified: 09 Apr 2025 03:11 UTC
+# Version: 2025.0409.0311.27
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1607
+# Number of entries: 1612
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -625,6 +625,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -671,6 +672,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -848,6 +850,7 @@
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
 0.0.0.0 dns.keke125.com
+0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
@@ -892,6 +895,7 @@
 0.0.0.0 adblock.leenit.kr
 0.0.0.0 yarp.lefolgoc.net
 0.0.0.0 br.servers.legat.ml
+0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
 0.0.0.0 dns.lermer.nl
@@ -1026,6 +1030,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
