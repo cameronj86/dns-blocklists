@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Apr 2025 03:12 UTC
-# Version: 2025.0409.0312.48
+# Last modified: 09 Apr 2025 15:19 UTC
+# Version: 2025.0409.1519.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3903
+# Number of entries: 3905
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1328,6 +1328,7 @@ local=/frootvpn.com/
 local=/dns.froth.zone/
 local=/fun4school.store/
 local=/doh.funil.de/
+local=/funknetwork.com/
 local=/doh.funtopia.tv/
 local=/dns.furrydns.de/
 local=/doh.futa.app/
@@ -1390,6 +1391,7 @@ local=/ghostpath.com/
 local=/gibblets.top/
 local=/adguard.maison.gifino.fr/
 local=/gifttrees.us/
+local=/gingerbread.design/
 local=/dns.ginovs.nl/
 local=/gipvpn.com/
 local=/dns.girino.org/

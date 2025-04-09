@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744167300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744210920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Apr 2025 02:55 UTC
-; Version: 2025.0409.0255.26
+; Last modified: 09 Apr 2025 15:02 UTC
+; Version: 2025.0409.1502.34
 ; Syntax: RPZ
-; Number of entries: 20338
+; Number of entries: 20350
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3945,6 +3945,8 @@ filmlush.com CNAME .
 *.filmlush.com CNAME .
 filmobo.com CNAME .
 *.filmobo.com CNAME .
+filmoviez.com CNAME .
+*.filmoviez.com CNAME .
 filmpertutti.com CNAME .
 *.filmpertutti.com CNAME .
 filmplusapp.com CNAME .
@@ -4057,6 +4059,8 @@ freedomalternative.com CNAME .
 *.freedomalternative.com CNAME .
 freedomonlinebd.com CNAME .
 *.freedomonlinebd.com CNAME .
+freedownloadbd.com CNAME .
+*.freedownloadbd.com CNAME .
 freeeducationweb.com CNAME .
 *.freeeducationweb.com CNAME .
 freeetextbooks.com CNAME .
@@ -4149,6 +4153,8 @@ fullreleasez.com CNAME .
 *.fullreleasez.com CNAME .
 fullserialkey.com CNAME .
 *.fullserialkey.com CNAME .
+fullsoftversion.com CNAME .
+*.fullsoftversion.com CNAME .
 fullversionfinder.com CNAME .
 *.fullversionfinder.com CNAME .
 fullwarez.com CNAME .
@@ -8495,6 +8501,8 @@ waffles.fm CNAME .
 *.waffles.fm CNAME .
 xmovies8.fm CNAME .
 *.xmovies8.fm CNAME .
+fmovies.fo CNAME .
+*.fmovies.fo CNAME .
 hdfilme.food CNAME .
 *.hdfilme.food CNAME .
 soccerstreams.football CNAME .
@@ -12153,6 +12161,8 @@ findanime.net CNAME .
 *.findanime.net CNAME .
 findnzb.net CNAME .
 *.findnzb.net CNAME .
+firebit.net CNAME .
+*.firebit.net CNAME .
 firstsrows.net CNAME .
 *.firstsrows.net CNAME .
 flenix.net CNAME .
@@ -12493,6 +12503,8 @@ mazedanetworks.net CNAME .
 *.mazedanetworks.net CNAME .
 mazetorrents.net CNAME .
 *.mazetorrents.net CNAME .
+fs1.mebd.net CNAME .
+*.fs1.mebd.net CNAME .
 mediaboxhd.net CNAME .
 *.mediaboxhd.net CNAME .
 medialink24.net CNAME .
@@ -13709,6 +13721,8 @@ eurostreaming.one CNAME .
 *.eurostreaming.one CNAME .
 filmywap.one CNAME .
 *.filmywap.one CNAME .
+fmovies.one CNAME .
+*.fmovies.one CNAME .
 footybite.one CNAME .
 *.footybite.one CNAME .
 gidonline.one CNAME .
@@ -15635,8 +15649,6 @@ tantifilm.ph CNAME .
 *.tantifilm.ph CNAME .
 torrent9.ph CNAME .
 *.torrent9.ph CNAME .
-altadefinizione01.photo CNAME .
-*.altadefinizione01.photo CNAME .
 cb01.photos CNAME .
 *.cb01.photos CNAME .
 123movies.pics CNAME .
@@ -18629,6 +18641,8 @@ filmize.tv CNAME .
 *.filmize.tv CNAME .
 filmon.tv CNAME .
 *.filmon.tv CNAME .
+filmstreaming.tv CNAME .
+*.filmstreaming.tv CNAME .
 filmxy.tv CNAME .
 *.filmxy.tv CNAME .
 filmy-online.tv CNAME .
@@ -20279,8 +20293,6 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
-xstress.xyz CNAME .
-*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

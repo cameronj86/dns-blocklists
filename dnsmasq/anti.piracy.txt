@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Apr 2025 02:55 UTC
-# Version: 2025.0409.0255.26
+# Last modified: 09 Apr 2025 15:02 UTC
+# Version: 2025.0409.1502.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10169
+# Number of entries: 10175
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -646,7 +646,6 @@ local=/altadefinizione01.it/
 local=/altadefinizione01.life/
 local=/altadefinizione01.love/
 local=/altadefinizione01.name/
-local=/altadefinizione01.photo/
 local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.site/
@@ -3316,6 +3315,7 @@ local=/filmoff.net/
 local=/filmoflix.bio/
 local=/filmon.tv/
 local=/filmoteka.cc/
+local=/filmoviez.com/
 local=/filmowo.club/
 local=/filmpalast.to/
 local=/filmpertutti.asia/
@@ -3442,6 +3442,7 @@ local=/filmstreaming.site/
 local=/filmstreaming.space/
 local=/filmstreaming.to/
 local=/filmstreaming.top/
+local=/filmstreaming.tv/
 local=/filmstreaming.uk/
 local=/filmstreaming.us/
 local=/filmstreaming.vg/
@@ -3484,6 +3485,7 @@ local=/findmovies.vip/
 local=/findnzb.net/
 local=/finvip.org/
 local=/nunflix-firebase.firebaseapp.com/
+local=/firebit.net/
 local=/bt.firebit.org/
 local=/fireflix.fun/
 local=/fireget.com/
@@ -3564,8 +3566,10 @@ local=/fmovies.cafe/
 local=/fmovies.co/
 local=/fmovies.coffee/
 local=/fmovies.date/
+local=/fmovies.fo/
 local=/fmovies.hn/
 local=/fmovies.llc/
+local=/fmovies.one/
 local=/fmovies.org/
 local=/fmovies.pub/
 local=/fmovies.rs/
@@ -3678,6 +3682,7 @@ local=/freedisc.pl/
 local=/freedocumentaries.org/
 local=/freedomalternative.com/
 local=/freedomonlinebd.com/
+local=/freedownloadbd.com/
 local=/freeebies.site/
 local=/freeeducationweb.com/
 local=/freeetextbooks.com/
@@ -3775,6 +3780,7 @@ local=/fullpcsoftware.com/
 local=/fullprogramlarindir.com/
 local=/fullreleasez.com/
 local=/fullserialkey.com/
+local=/fullsoftversion.com/
 local=/fullstream.rip/
 local=/fullthrottleip.tv/
 local=/fullversionfinder.com/
@@ -5433,6 +5439,7 @@ local=/mdk.cab/
 local=/cracks.me.uk/
 local=/me-4u.com/
 local=/meawfy.com/
+local=/fs1.mebd.net/
 local=/mechopirate.com/
 local=/medbit.ru/
 local=/media-sharing.com/
@@ -9909,7 +9916,6 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
-local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/
