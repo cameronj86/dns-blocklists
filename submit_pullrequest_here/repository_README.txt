@@ -751,7 +751,7 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS/QUIC | Legacy DNS |
 |:-----------|:---------------|:------------------|:-----------|
-| Pro plus + Native Tracker + TIF + NRD30 Phishing/DGA | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 89.163.255.195<br>2001:4ba0:babe:3734:: |
+| Pro plus + Native Tracker + TIF + NRD30 Phishing/DGA | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 87.106.108.91<br>87.106.32.13<br>2a01:239:295:e800::1<br>2a01:239:290:e700::1 |
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 
