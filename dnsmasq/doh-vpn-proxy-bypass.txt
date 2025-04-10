@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Apr 2025 03:15 UTC
-# Version: 2025.0410.0315.54
+# Last modified: 10 Apr 2025 15:15 UTC
+# Version: 2025.0410.1515.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3908
+# Number of entries: 3910
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1102,6 +1102,7 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/eduacation.lol/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1662,6 +1663,7 @@ local=/intl-alliance.com/
 local=/invisv.com/
 local=/ioxy.de/
 local=/ipbuzz.net/
+local=/ipcamouflage.com/
 local=/ipchanging.com/
 local=/ipfreely.io/
 local=/ipinator.com/
@@ -1671,6 +1673,7 @@ local=/ipredator.se/
 local=/iprivatevpn.com/
 local=/iprovpn.com/
 local=/ipsharkk.com/
+local=/ipstopper.com/
 local=/ipunblock.com/
 local=/ipunblocker.com/
 local=/ipvanish.com/
@@ -1731,7 +1734,6 @@ local=/vps2.jnraptor.net/
 local=/dns.joey01245.nl/
 local=/vpn.jogjacloud.com/
 local=/adguard.johanliebert.top/
-local=/johneldenring.lol/
 local=/johnkellyprivate.com/
 local=/joker81fansbase.site/
 local=/opencdn.jomodns.com/

@@ -1681,13 +1681,6 @@
       }
     },
     {
-      "PK": "mssdk-i18n.tiktok.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "mssdk-i18n.tiktokv.com",
       "action": {
         "do": 0,
@@ -1703,13 +1696,6 @@
     },
     {
       "PK": "mssdk-quic-i18n.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mssdk-quic-sg.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1745,13 +1731,6 @@
     },
     {
       "PK": "mssdk-sg.byteoversea.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mssdk-sg.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1899,6 +1878,13 @@
     },
     {
       "PK": "rtc-logger.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rtc-logger-ttp2.tiktokv.us",
       "action": {
         "do": 0,
         "status": 1

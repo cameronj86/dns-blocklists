@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744254900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744298100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Apr 2025 03:15 UTC
-; Version: 2025.0410.0315.54
+; Last modified: 10 Apr 2025 15:15 UTC
+; Version: 2025.0410.1515.51
 ; Syntax: RPZ
-; Number of entries: 7816
+; Number of entries: 7820
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1202,6 +1202,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 dns.ellichua.com CNAME .
@@ -1618,6 +1620,8 @@ intl-alliance.com CNAME .
 *.intl-alliance.com CNAME .
 invisv.com CNAME .
 *.invisv.com CNAME .
+ipcamouflage.com CNAME .
+*.ipcamouflage.com CNAME .
 ipchanging.com CNAME .
 *.ipchanging.com CNAME .
 ipinator.com CNAME .
@@ -1628,6 +1632,8 @@ iprovpn.com CNAME .
 *.iprovpn.com CNAME .
 ipsharkk.com CNAME .
 *.ipsharkk.com CNAME .
+ipstopper.com CNAME .
+*.ipstopper.com CNAME .
 ipunblock.com CNAME .
 *.ipunblock.com CNAME .
 ipunblocker.com CNAME .
@@ -4524,8 +4530,6 @@ ilysk.lol CNAME .
 *.ilysk.lol CNAME .
 stuffyschicken.isreallycool.lol CNAME .
 *.stuffyschicken.isreallycool.lol CNAME .
-johneldenring.lol CNAME .
-*.johneldenring.lol CNAME .
 kiliclar.lol CNAME .
 *.kiliclar.lol CNAME .
 lewsha.lol CNAME .

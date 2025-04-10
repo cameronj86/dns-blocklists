@@ -260,6 +260,13 @@
       }
     },
     {
+      "PK": "analytics*.trustyou.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics.twitter.com",
       "action": {
         "do": 1,
@@ -2396,6 +2403,13 @@
     },
     {
       "PK": "referrer.disqus.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "restaurant-information.com",
       "action": {
         "do": 1,
         "status": 1

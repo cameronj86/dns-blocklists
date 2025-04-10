@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Apr 2025 02:58 UTC
-# Version: 2025.0410.0258.34
+# Last modified: 10 Apr 2025 14:58 UTC
+# Version: 2025.0410.1458.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10182
+# Number of entries: 10186
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -1595,6 +1595,7 @@ local=/byxatab.com/
 local=/byxatab.org/
 local=/anti.c.la/
 local=/digitalwarez.c.la/
+local=/ignition-board.c.la/
 local=/c1anime.net/
 local=/c1live.com/
 local=/c1movies.com/
@@ -4421,6 +4422,7 @@ local=/hostapk.com/
 local=/v1046920.hosted-by-vdsina.ru/
 local=/webstresser-free.hostthegame.com/
 local=/hotaudiobooks.com/
+local=/hotcamsplays.life/
 local=/hotne.ws/
 local=/retracker.hotplug.ru/
 local=/booter-sales.hourb.com/
@@ -4430,6 +4432,7 @@ local=/howtechismade.com/
 local=/hpav.tv/
 local=/hpjav.tv/
 local=/hq-films.ws/
+local=/hqanime4arab.com/
 local=/hs-scene.to/
 local=/tracker.htp.re/
 local=/httpbd.com/
@@ -4598,6 +4601,7 @@ local=/indietorrents.com/
 local=/tracker2.indowebster.com/
 local=/indoxx1film.me/
 local=/indoxxi.center/
+local=/indoxxi.studio/
 local=/indoxxi.tube/
 local=/indoxxi.tv/
 local=/inetisp.net/
@@ -4662,6 +4666,7 @@ local=/tracker.ipv6tracker.ru/
 local=/download.iq24.pl/
 local=/torrent.iq24.pl/
 local=/upload.iq24.pl/
+local=/iqcrew.net/
 local=/iraniantorrents.com/
 local=/tracker.iriseden.fr/
 local=/tracker.iro.moe/
@@ -9922,7 +9927,6 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
-local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/
