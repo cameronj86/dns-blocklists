@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744210920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744253880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Apr 2025 15:02 UTC
-; Version: 2025.0409.1502.34
+; Last modified: 10 Apr 2025 02:58 UTC
+; Version: 2025.0410.0258.34
 ; Syntax: RPZ
-; Number of entries: 20350
+; Number of entries: 20364
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4393,6 +4393,8 @@ hdhublist.com CNAME .
 *.hdhublist.com CNAME .
 hdlivemovies.com CNAME .
 *.hdlivemovies.com CNAME .
+hdmovie2.com CNAME .
+*.hdmovie2.com CNAME .
 hdmoviearea.com CNAME .
 *.hdmoviearea.com CNAME .
 hdrezka-ua.com CNAME .
@@ -9091,6 +9093,8 @@ filmstreaming.in CNAME .
 *.filmstreaming.in CNAME .
 getmodapks.in CNAME .
 *.getmodapks.in CNAME .
+gogoanime.in CNAME .
+*.gogoanime.in CNAME .
 torrent.hificode.in CNAME .
 *.torrent.hificode.in CNAME .
 ilgeniodellostreaming.in CNAME .
@@ -12271,6 +12275,8 @@ gk-network.net CNAME .
 *.gk-network.net CNAME .
 gm-realm.net CNAME .
 *.gm-realm.net CNAME .
+goldpravda.net CNAME .
+*.goldpravda.net CNAME .
 bittorrent.gongt.net CNAME .
 *.bittorrent.gongt.net CNAME .
 goodolddays.net CNAME .
@@ -14553,6 +14559,8 @@ gmt-max.org CNAME .
 *.gmt-max.org CNAME .
 goem.org CNAME .
 *.goem.org CNAME .
+gomovies-hd.org CNAME .
+*.gomovies-hd.org CNAME .
 greylodge.org CNAME .
 *.greylodge.org CNAME .
 grinderz.org CNAME .
@@ -17917,6 +17925,8 @@ h33t.to CNAME .
 *.h33t.to CNAME .
 hd-source.to CNAME .
 *.hd-source.to CNAME .
+hdm.to CNAME .
+*.hdm.to CNAME .
 hdo.to CNAME .
 *.hdo.to CNAME .
 hdonline.to CNAME .
@@ -18433,6 +18443,8 @@ eurostreaming.trade CNAME .
 *.eurostreaming.trade CNAME .
 ilgeniodellostreaming.trade CNAME .
 *.ilgeniodellostreaming.trade CNAME .
+h4.trakx.nibba.trade CNAME .
+*.h4.trakx.nibba.trade CNAME .
 cb01.training CNAME .
 *.cb01.training CNAME .
 guardaserie.training CNAME .
@@ -20293,6 +20305,8 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
+xstress.xyz CNAME .
+*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

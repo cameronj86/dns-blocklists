@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Apr 2025 15:02 UTC
-# Version: 2025.0409.1502.34
+# Last modified: 10 Apr 2025 02:58 UTC
+# Version: 2025.0410.0258.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10175
+# Number of entries: 10182
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -3994,6 +3994,7 @@ local=/gofilmes.me/
 local=/goflix.io/
 local=/gog-games.to/
 local=/gogo-stream.com/
+local=/gogoanime.in/
 local=/gogoanime.io/
 local=/gogoanime.so/
 local=/gogoanime.vc/
@@ -4012,6 +4013,7 @@ local=/goldesel.sx/
 local=/goldesel.to/
 local=/goldesel.tv/
 local=/goldhiphop.pro/
+local=/goldpravda.net/
 local=/warez.goldzoneweb.info/
 local=/golkoralive.com/
 local=/golkoralive.live/
@@ -4026,6 +4028,7 @@ local=/gomovies.men/
 local=/gomovies.sc/
 local=/gomovies.sx/
 local=/gomovies.uno/
+local=/gomovies-hd.org/
 local=/gomovies-online.com/
 local=/gomovies-online.link/
 local=/gomovies123.fi/
@@ -4276,9 +4279,11 @@ local=/hdfull.lv/
 local=/hdhome.org/
 local=/hdhublist.com/
 local=/hdlivemovies.com/
+local=/hdm.to/
 local=/hdmatch.club/
 local=/hdme.eu/
 local=/hdmovie14.net/
+local=/hdmovie2.com/
 local=/hdmovie2.link/
 local=/hdmovie99.co/
 local=/hdmoviearea.com/
@@ -6143,6 +6148,7 @@ local=/nhlhd.tv/
 local=/nhlstream.net/
 local=/nhlstreams.io/
 local=/nhlstreams.to/
+local=/h4.trakx.nibba.trade/
 local=/nicemoviezion.pro/
 local=/niktu.com/
 local=/nima4k.org/
@@ -9916,6 +9922,7 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
+local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/

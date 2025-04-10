@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Apr 2025 15:19 UTC
-# Version: 2025.0409.1519.41
+# Last modified: 10 Apr 2025 03:15 UTC
+# Version: 2025.0410.0315.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3905
+# Number of entries: 3908
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1077,6 +1077,7 @@ local=/dutchproxy.nl/
 local=/dvprovider.icu/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
+local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/
@@ -1101,7 +1102,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/eduacation.lol/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1455,6 +1455,7 @@ local=/dns.grqu.de/
 local=/vps.grussenmeyer.com/
 local=/gsdkhjgsbgsdsjhvdskjlg.ru/
 local=/dns.guard.io/
+local=/guardian-vpn.com/
 local=/guardianapp.com/
 local=/guardianvpn.net/
 local=/dns.guardmydns.com/
@@ -1507,6 +1508,7 @@ local=/hideip.co/
 local=/hideipvpn.com/
 local=/hideman.net/
 local=/hideme.be/
+local=/hideme101.info/
 local=/hidemebro.com/
 local=/hidemefast.net/
 local=/hidemenow.net/
@@ -1527,6 +1529,7 @@ local=/hidester.one/
 local=/hidesurf.us/
 local=/hidetheinternet.com/
 local=/hidethisip.net/
+local=/hidethistime.com/
 local=/hidevpn.info/
 local=/hideway.eu/
 local=/hideweb.org/

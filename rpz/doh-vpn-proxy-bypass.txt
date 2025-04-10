@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744211940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744254900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Apr 2025 15:19 UTC
-; Version: 2025.0409.1519.41
+; Last modified: 10 Apr 2025 03:15 UTC
+; Version: 2025.0410.0315.54
 ; Syntax: RPZ
-; Number of entries: 7810
+; Number of entries: 7816
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1202,8 +1202,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 dns.ellichua.com CNAME .
@@ -1452,6 +1450,8 @@ greenssh.com CNAME .
 *.greenssh.com CNAME .
 vps.grussenmeyer.com CNAME .
 *.vps.grussenmeyer.com CNAME .
+guardian-vpn.com CNAME .
+*.guardian-vpn.com CNAME .
 guardianapp.com CNAME .
 *.guardianapp.com CNAME .
 dns.guardmydns.com CNAME .
@@ -1514,6 +1514,8 @@ hidester.com CNAME .
 *.hidester.com CNAME .
 hidetheinternet.com CNAME .
 *.hidetheinternet.com CNAME .
+hidethistime.com CNAME .
+*.hidethistime.com CNAME .
 hidexy.com CNAME .
 *.hidexy.com CNAME .
 hidingit.com CNAME .
@@ -4044,6 +4046,8 @@ greenpass.info CNAME .
 *.greenpass.info CNAME .
 hiddendigital.info CNAME .
 *.hiddendigital.info CNAME .
+hideme101.info CNAME .
+*.hideme101.info CNAME .
 hidemyurl.info CNAME .
 *.hidemyurl.info CNAME .
 hidevpn.info CNAME .
@@ -5178,6 +5182,8 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 adguard.easez.net CNAME .
