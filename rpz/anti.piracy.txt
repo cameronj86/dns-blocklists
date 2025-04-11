@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744340100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744383180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Apr 2025 02:55 UTC
-; Version: 2025.0411.0255.12
+; Last modified: 11 Apr 2025 14:53 UTC
+; Version: 2025.0411.1453.16
 ; Syntax: RPZ
-; Number of entries: 20386
+; Number of entries: 20392
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1119,6 +1119,8 @@ laze.cc CNAME .
 *.laze.cc CNAME .
 limetorrent.cc CNAME .
 *.limetorrent.cc CNAME .
+limetorrents.cc CNAME .
+*.limetorrents.cc CNAME .
 limetorrentx.cc CNAME .
 *.limetorrentx.cc CNAME .
 tp.m-team.cc CNAME .
@@ -4897,6 +4899,8 @@ lk21hd.com CNAME .
 *.lk21hd.com CNAME .
 lk21id.com CNAME .
 *.lk21id.com CNAME .
+lk21tv.com CNAME .
+*.lk21tv.com CNAME .
 lmanime.com CNAME .
 *.lmanime.com CNAME .
 loadbaba.com CNAME .
@@ -9333,6 +9337,8 @@ legittorrents.info CNAME .
 *.legittorrents.info CNAME .
 lermangasonline.info CNAME .
 *.lermangasonline.info CNAME .
+limetorrents.info CNAME .
+*.limetorrents.info CNAME .
 lk21official.info CNAME .
 *.lk21official.info CNAME .
 m4ufree.info CNAME .

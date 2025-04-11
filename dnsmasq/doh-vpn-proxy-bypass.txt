@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Apr 2025 03:12 UTC
-# Version: 2025.0411.0312.21
+# Last modified: 11 Apr 2025 15:10 UTC
+# Version: 2025.0411.1510.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3911
+# Number of entries: 3917
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -62,6 +62,7 @@ local=/1and1-dns.de/
 local=/1banproxy.com/
 local=/1clickvpn.com/
 local=/1clickvpn.net/
+local=/dns.23-4.cn/
 local=/233py.com/
 local=/dns.240527.xyz/
 local=/24tunnel.com/
@@ -1102,6 +1103,7 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/eduacation.lol/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1225,6 +1227,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1925,6 +1928,7 @@ local=/mabuktogel.solutions/
 local=/maddw.com/
 local=/mailkyb.co/
 local=/mailproxy.info/
+local=/mainprox.com/
 local=/mainssh.com/
 local=/dns.maitrekuc.fr/
 local=/mallocapp.com/
@@ -2078,6 +2082,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3854,6 +3859,7 @@ local=/family.dot.dns.yandex.net/
 local=/safe.dot.dns.yandex.net/
 local=/yasosy.pro/
 local=/dns.yatima.tv/
+local=/lion.yazilimatolye.com/
 local=/ychen.cf/
 local=/ychen.gq/
 local=/yd6n63ptky.com/

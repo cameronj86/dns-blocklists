@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Apr 2025 03:11 UTC
-# Version: 2025.0411.0311.01
+# Last modified: 11 Apr 2025 15:09 UTC
+# Version: 2025.0411.1509.15
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1610
+# Number of entries: 1613
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -19,6 +19,7 @@
 0.0.0.0 dns.13evl.com
 0.0.0.0 cloud.198.games
 0.0.0.0 1and1-dns.de
+0.0.0.0 dns.23-4.cn
 0.0.0.0 233py.com
 0.0.0.0 dns.240527.xyz
 0.0.0.0 doh003.280blocker.net
@@ -626,6 +627,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -1601,6 +1603,7 @@
 0.0.0.0 secondary.safe.dns.yandex.ru
 0.0.0.0 secondary.dns.yandex.ru
 0.0.0.0 dns.yatima.tv
+0.0.0.0 lion.yazilimatolye.com
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
 0.0.0.0 net01.youcef.io
