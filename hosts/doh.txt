@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Apr 2025 15:14 UTC
-# Version: 2025.0410.1514.31
+# Last modified: 11 Apr 2025 03:11 UTC
+# Version: 2025.0411.0311.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1612
+# Number of entries: 1610
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -626,7 +626,6 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -673,7 +672,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -818,6 +816,7 @@
 0.0.0.0 jackyes.ovh
 0.0.0.0 tj.jamesxue.xyz
 0.0.0.0 dns.janl.eu
+0.0.0.0 jcdns.fun
 0.0.0.0 doh.jeroenhd.nl
 0.0.0.0 adguard.jfchenier.ca
 0.0.0.0 dns.jhangy.us
@@ -1030,7 +1029,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io

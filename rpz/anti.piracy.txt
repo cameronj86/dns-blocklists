@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744297080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744340100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Apr 2025 14:58 UTC
-; Version: 2025.0410.1458.14
+; Last modified: 11 Apr 2025 02:55 UTC
+; Version: 2025.0411.0255.12
 ; Syntax: RPZ
-; Number of entries: 20372
+; Number of entries: 20386
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4665,6 +4665,8 @@ javlibrary.com CNAME .
 *.javlibrary.com CNAME .
 jetanimes.com CNAME .
 *.jetanimes.com CNAME .
+jhalmuri.com CNAME .
+*.jhalmuri.com CNAME .
 jimmyr.com CNAME .
 *.jimmyr.com CNAME .
 jmbsoft.com CNAME .
@@ -4759,6 +4761,8 @@ kinoger.com CNAME .
 *.kinoger.com CNAME .
 kinogo-ua.com CNAME .
 *.kinogo-ua.com CNAME .
+kinomavic.com CNAME .
+*.kinomavic.com CNAME .
 kinomisto.com CNAME .
 *.kinomisto.com CNAME .
 kinomob.com CNAME .
@@ -7893,6 +7897,8 @@ hoerspielprojekt.de CNAME .
 *.hoerspielprojekt.de CNAME .
 ilgeniodellostreaming.de CNAME .
 *.ilgeniodellostreaming.de CNAME .
+kanal-4.de CNAME .
+*.kanal-4.de CNAME .
 max2wwe.kilu.de CNAME .
 *.max2wwe.kilu.de CNAME .
 kinofox.de CNAME .
@@ -14691,6 +14697,8 @@ kinoclub.org CNAME .
 *.kinoclub.org CNAME .
 kinotochka.org CNAME .
 *.kinotochka.org CNAME .
+kinotracker.org CNAME .
+*.kinotracker.org CNAME .
 kinozavr.org CNAME .
 *.kinozavr.org CNAME .
 kisssub.org CNAME .
@@ -17975,6 +17983,8 @@ katz.to CNAME .
 *.katz.to CNAME .
 kickass.to CNAME .
 *.kickass.to CNAME .
+kickasstorrents.to CNAME .
+*.kickasstorrents.to CNAME .
 kickme.to CNAME .
 *.kickme.to CNAME .
 kinomax.to CNAME .
@@ -20135,6 +20145,8 @@ ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
+jhalmuri.xyz CNAME .
+*.jhalmuri.xyz CNAME .
 juraganfilm.xyz CNAME .
 *.juraganfilm.xyz CNAME .
 ben.kerbertools.xyz CNAME .
@@ -20315,6 +20327,8 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
+xstress.xyz CNAME .
+*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

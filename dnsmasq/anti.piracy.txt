@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Apr 2025 14:58 UTC
-# Version: 2025.0410.1458.14
+# Last modified: 11 Apr 2025 02:55 UTC
+# Version: 2025.0411.0255.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10186
+# Number of entries: 10193
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -4767,6 +4767,8 @@ local=/jetanime.cc/
 local=/jetanimes.com/
 local=/jetload.net/
 local=/jhakkas.live/
+local=/jhalmuri.com/
+local=/jhalmuri.xyz/
 local=/tracker.jiesen.life/
 local=/jimmyr.com/
 local=/torrent.jiwang.cc/
@@ -4836,6 +4838,7 @@ local=/kaizoku-fansubs.com/
 local=/tracker.kali.org/
 local=/sub.kamigami.org/
 local=/tracker.kamigami.org/
+local=/kanal-4.de/
 local=/kanjiku.net/
 local=/kannadatorrents.com/
 local=/kaoskrew.org/
@@ -4909,6 +4912,7 @@ local=/kickasstorrent.ph/
 local=/kickasstorrentcr.top/
 local=/kickasstorrents.cr/
 local=/kickasstorrents.pw/
+local=/kickasstorrents.to/
 local=/open.kickasstracker.com/
 local=/kickassunblock.com/
 local=/kickassunblock.info/
@@ -4956,6 +4960,7 @@ local=/kinokrad.fan/
 local=/kinokrad.film/
 local=/kinol.pl/
 local=/kinomall.ru/
+local=/kinomavic.com/
 local=/kinomax.to/
 local=/kinomisto.com/
 local=/kinomix.tv/
@@ -4964,6 +4969,7 @@ local=/kinonadzor.net/
 local=/kinorun.com/
 local=/kinos.to/
 local=/kinotochka.org/
+local=/kinotracker.org/
 local=/kinotron.top/
 local=/kinoua.pro/
 local=/kinoua.tv/
@@ -9927,6 +9933,7 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
+local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/

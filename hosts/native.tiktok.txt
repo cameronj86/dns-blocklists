@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Apr 2025 13:36 UTC
-# Version: 2025.0410.1336.14
+# Last modified: 10 Apr 2025 17:29 UTC
+# Version: 2025.0410.1729.26
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 282
+# Number of entries: 283
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -102,6 +102,7 @@
 0.0.0.0 location.tiktok.com
 0.0.0.0 mcs-i18n.tiktok.com
 0.0.0.0 mcs-va.tiktok.com
+0.0.0.0 mssdk-i18n.tiktok.com
 0.0.0.0 ads.us.tiktok.com
 0.0.0.0 ads-ttp2.us.tiktok.com
 0.0.0.0 analytics.us.tiktok.com

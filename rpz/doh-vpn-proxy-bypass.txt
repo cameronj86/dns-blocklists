@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744298100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744341120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Apr 2025 15:15 UTC
-; Version: 2025.0410.1515.51
+; Last modified: 11 Apr 2025 03:12 UTC
+; Version: 2025.0411.0312.21
 ; Syntax: RPZ
-; Number of entries: 7820
+; Number of entries: 7822
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1202,8 +1202,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 dns.ellichua.com CNAME .
@@ -1652,6 +1650,8 @@ isharkvpn.com CNAME .
 *.isharkvpn.com CNAME .
 dns.islandnet.com CNAME .
 *.dns.islandnet.com CNAME .
+ispban.com CNAME .
+*.ispban.com CNAME .
 ispunblock.com CNAME .
 *.ispunblock.com CNAME .
 ispvpn.com CNAME .
@@ -1722,6 +1722,8 @@ dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 kickassproxy.com CNAME .
 *.kickassproxy.com CNAME .
+kingsurfproxy.com CNAME .
+*.kingsurfproxy.com CNAME .
 klcknerrip.com CNAME .
 *.klcknerrip.com CNAME .
 adguard.konikoni428.com CNAME .
@@ -1868,8 +1870,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -3766,6 +3766,8 @@ dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 gecko.fun CNAME .
 *.gecko.fun CNAME .
+jcdns.fun CNAME .
+*.jcdns.fun CNAME .
 novatech.fun CNAME .
 *.novatech.fun CNAME .
 theproxy.fun CNAME .
@@ -4070,6 +4072,8 @@ iblocker.info CNAME .
 *.iblocker.info CNAME .
 interncloud.info CNAME .
 *.interncloud.info CNAME .
+iweb365.info CNAME .
+*.iweb365.info CNAME .
 doh.kekew.info CNAME .
 *.doh.kekew.info CNAME .
 kilabit.info CNAME .
@@ -7074,8 +7078,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
