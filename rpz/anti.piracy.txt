@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744383180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744409760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Apr 2025 14:53 UTC
-; Version: 2025.0411.1453.16
+; Last modified: 11 Apr 2025 22:16 UTC
+; Version: 2025.0411.2216.56
 ; Syntax: RPZ
-; Number of entries: 20392
+; Number of entries: 20398
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -625,6 +625,8 @@ lolokino.biz CNAME .
 *.lolokino.biz CNAME .
 megakino.biz CNAME .
 *.megakino.biz CNAME .
+mininova.biz CNAME .
+*.mininova.biz CNAME .
 movies-watch.biz CNAME .
 *.movies-watch.biz CNAME .
 moviesb4time.biz CNAME .
@@ -5063,6 +5065,8 @@ megamodapk.com CNAME .
 *.megamodapk.com CNAME .
 megaplexbd.com CNAME .
 *.megaplexbd.com CNAME .
+megaseriehd.com CNAME .
+*.megaseriehd.com CNAME .
 megashara.com CNAME .
 *.megashara.com CNAME .
 megashare.com CNAME .
@@ -14811,6 +14815,8 @@ mesfichiers.org CNAME .
 *.mesfichiers.org CNAME .
 metalarea.org CNAME .
 *.metalarea.org CNAME .
+metalbits.org CNAME .
+*.metalbits.org CNAME .
 mgtracker.org CNAME .
 *.mgtracker.org CNAME .
 mindwarppavilion.org CNAME .
