@@ -325,7 +325,7 @@ A medium version of the Threat Intelligence Feeds list. Designed for Adblockers 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 238799 compressed domains
+**Entries:** 331307 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
