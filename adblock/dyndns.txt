@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 09 Apr 2025 03:10 UTC
-! Version: 2025.0409.0310.08
+! Last modified: 13 Apr 2025 03:06 UTC
+! Version: 2025.0413.0306.18
 ! Syntax: AdBlock
-! Number of entries: 1401
+! Number of entries: 1403
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -919,6 +919,8 @@
 ||musterihizmetleri.com^
 ||mwop.net^
 ||my.to^
+||my-vigor.de^
+||my-wan.de^
 ||my03.com^
 ||myactivedirectory.com^
 ||myaddr.dev^

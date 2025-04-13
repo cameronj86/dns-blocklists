@@ -8,6 +8,20 @@
   },
   "rules": [
     {
+      "PK": "asia-abeacdataonrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "asia-abeacdataort-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "asia-adlog.vivoglobal.com",
       "action": {
         "do": 0,
@@ -71,6 +85,13 @@
       }
     },
     {
+      "PK": "asia-cota.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "asia-err-up.vivoglobal.com",
       "action": {
         "do": 0,
@@ -99,6 +120,13 @@
       }
     },
     {
+      "PK": "asia-news-abroad-backstage-interface.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "asia-onrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -107,6 +135,13 @@
     },
     {
       "PK": "asia-ort-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "asia-os-config-appstore.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -127,6 +162,27 @@
       }
     },
     {
+      "PK": "asia-p.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "asia-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "asia-st-exappupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "asia-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -135,6 +191,34 @@
     },
     {
       "PK": "asia-st-sl.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "asia-st-sysupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "asia-sysupgrade-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "asia-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "asia-vcode-api.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -169,6 +253,48 @@
       }
     },
     {
+      "PK": "asia-weather.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cl-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cl-sysupgrade-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cl-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cl-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cl-weather.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cname-ali-asia-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -177,6 +303,13 @@
     },
     {
       "PK": "cname-asia02-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cname-asia-st-exappupgrade.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -204,6 +337,27 @@
       }
     },
     {
+      "PK": "co-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-onrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-ort-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "co-pnrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -211,7 +365,70 @@
       }
     },
     {
+      "PK": "co-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "co-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-st-sl.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-st-sysupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-sysupgrade-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-vcode-or.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-weather.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -232,6 +449,13 @@
       }
     },
     {
+      "PK": "eu-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eu-errup.vivoglobal.com",
       "action": {
         "do": 0,
@@ -239,7 +463,77 @@
       }
     },
     {
+      "PK": "eu-ort-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eu-pnrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-st-sl.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-st-sysupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-sysupgrade-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-vcode-or.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-weather.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -254,6 +548,13 @@
     },
     {
       "PK": "ex-adreq-in.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ex-romsp-unifyconfig.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -344,6 +645,13 @@
       }
     },
     {
+      "PK": "in-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "in-errup.vivoglobal.com",
       "action": {
         "do": 0,
@@ -400,6 +708,34 @@
       }
     },
     {
+      "PK": "in-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "in-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "in-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "in-vcode-or.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "in-vpushonrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -408,6 +744,13 @@
     },
     {
       "PK": "in-vpushort-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "in-weather.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -463,6 +806,13 @@
       }
     },
     {
+      "PK": "kz-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "kz-st-exappupgrade.vivoglobal.com",
       "action": {
         "do": 0,
@@ -491,6 +841,20 @@
       }
     },
     {
+      "PK": "kz-sysupgrade-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "kz-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "kz-vcode-od.vivoglobal.com",
       "action": {
         "do": 0,
@@ -505,7 +869,49 @@
       }
     },
     {
+      "PK": "kz-weather.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "monitor-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-cota.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-err-up.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-onrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-ort-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -519,7 +925,77 @@
       }
     },
     {
+      "PK": "mx-p.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mx-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-st-sl.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-st-sysupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-sysupgrade-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-vcode-or.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-weather.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -631,6 +1107,13 @@
       }
     },
     {
+      "PK": "ru-os-config-appstore.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ru-pnrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -645,7 +1128,203 @@
       }
     },
     {
+      "PK": "ru-p.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-st-exappupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ru-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-st-sl.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-st-sysupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-sysupgrade-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-vcode-or.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ru-weather.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-err-up.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-onrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-ort-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-pnrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-p.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-st-sl.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-st-sysupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-sysupgrade-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-vcode-or.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sca-weather.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sg-cfg-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
