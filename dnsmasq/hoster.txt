@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Apr 2025 22:15 UTC
-# Version: 2025.0411.2215.34
+# Last modified: 13 Apr 2025 10:17 UTC
+# Version: 2025.0413.1017.16
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 2133
 #
@@ -1201,7 +1201,6 @@ local=/im-internet.eu/
 local=/image-perth.org/
 local=/imblogs.net/
 local=/imess.net/
-local=/imtokne.vip/
 local=/in.gp/
 local=/in24.de/
 local=/inbox24.eu/
@@ -1279,6 +1278,7 @@ local=/kann-helfen.de/
 local=/kataweb.it/
 local=/keepfree.de/
 local=/keetkotoun.com/
+local=/kgcajdibv.best/
 local=/kidnumber.shop/
 local=/kilu.at/
 local=/kilu.biz/
