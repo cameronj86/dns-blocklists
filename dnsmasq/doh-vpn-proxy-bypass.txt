@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Apr 2025 15:07 UTC
-# Version: 2025.0413.1507.35
+# Last modified: 14 Apr 2025 03:08 UTC
+# Version: 2025.0414.0308.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3964
+# Number of entries: 3959
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -180,7 +180,6 @@ local=/agurydog.website/
 local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
-local=/ahoj.email/
 local=/airdns.org/
 local=/airvpn.org/
 local=/akunssh.net/
@@ -1113,7 +1112,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/eduacation.lol/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1243,6 +1241,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1444,6 +1443,7 @@ local=/goingthere.org/
 local=/gointerstellar.app/
 local=/goldenfrog.com/
 local=/dns.goldplate.org/
+local=/gomath.us/
 local=/doh-primary-pool.goodbyegambling.com/
 local=/goodssh.com/
 local=/dns.google.com/
@@ -1799,7 +1799,6 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/kerbeans.com/
@@ -2116,7 +2115,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2552,7 +2550,6 @@ local=/presidentalhistory.wiki/
 local=/dns2.prima-solusindo.com/
 local=/primeproxy23.info/
 local=/dns.princex.net/
-local=/princez.uk/
 local=/agh.printk.info/
 local=/printruns.us/
 local=/printtools.us/
@@ -3073,7 +3070,6 @@ local=/spacevpn.io/
 local=/spanish101.college/
 local=/spanproxy.com/
 local=/sparklabs.com/
-local=/adguard.sparshbajaj.me/
 local=/doh-01.spectrum.com/
 local=/doh-02.spectrum.com/
 local=/speedify.com/
@@ -3943,7 +3939,6 @@ local=/dns.daemon.za.net/
 local=/zacebookpk.com/
 local=/adguard.zachitect.com/
 local=/zagbit.com/
-local=/zakaria.website/
 local=/zalmos.com/
 local=/zburger.top/
 local=/zcoup.com/

@@ -136,7 +136,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 | Domains<br>Subdomains | [GH](lnkgh_d/pro.txt) [GL](lnkgl_d/pro.txt) [CB](lnkjd_d/pro.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [GH](lnkgh_h/pro.txt) [GL](lnkgl_h/pro.txt) [CB](lnkjd_h/pro.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/pro-compressed.txt) [GL](lnkgl_h/pro-compressed.txt) [CB](lnkjd_h/pro-compressed.txt) | Hostfile, Linux, Windows |
-| Adblock | [GH](lnkgh_a/pro.txt) [GL](lnkgl_a/pro.txt) [CB](lnkjd_a/pro.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
+| Adblock | [GH](lnkgh_a/pro.txt) [GL](lnkgl_a/pro.txt) [CB](lnkjd_a/pro.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](lnkgh_m/pro.txt) [GL](lnkgl_m/pro.txt) [CB](lnkjd_m/pro.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [GH](lnkgh_w/pro.txt) [GL](lnkgl_w/pro.txt) [CB](lnkjd_w/pro.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [GH](lnkgh_w/pro-onlydomains.txt) [GL](lnkgl_w/pro-onlydomains.txt) [CB](lnkjd_w/pro-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
