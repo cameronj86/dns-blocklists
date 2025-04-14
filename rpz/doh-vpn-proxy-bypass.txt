@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744600080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744645440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Apr 2025 03:08 UTC
-; Version: 2025.0414.0308.18
+; Last modified: 14 Apr 2025 15:44 UTC
+; Version: 2025.0414.1544.03
 ; Syntax: RPZ
-; Number of entries: 7918
+; Number of entries: 7926
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1216,6 +1216,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 dns.ellichua.com CNAME .
@@ -3602,6 +3604,8 @@ cluster-1.gac.edu CNAME .
 *.cluster-1.gac.edu CNAME .
 dns.cert.ee CNAME .
 *.dns.cert.ee CNAME .
+ahoj.email CNAME .
+*.ahoj.email CNAME .
 mabuktogel.enterprises CNAME .
 *.mabuktogel.enterprises CNAME .
 proxyweb.com.es CNAME .
@@ -4128,6 +4132,8 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
+doh.kekew.info CNAME .
+*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .
@@ -7292,8 +7298,6 @@ lesuo.top CNAME .
 *.lesuo.top CNAME .
 litevpn.top CNAME .
 *.litevpn.top CNAME .
-dns.lsho.top CNAME .
-*.dns.lsho.top CNAME .
 najiakeji.top CNAME .
 *.najiakeji.top CNAME .
 proxypremium.top CNAME .
@@ -7422,6 +7426,8 @@ dns.aa.net.uk CNAME .
 *.dns.aa.net.uk CNAME .
 resolver.dnsprivacy.org.uk CNAME .
 *.resolver.dnsprivacy.org.uk CNAME .
+princez.uk CNAME .
+*.princez.uk CNAME .
 unblockit.uno CNAME .
 *.unblockit.uno CNAME .
 2fastsurfer.us CNAME .
@@ -7598,6 +7604,8 @@ unblocksite.website CNAME .
 *.unblocksite.website CNAME .
 yuvelirtut.website CNAME .
 *.yuvelirtut.website CNAME .
+zakaria.website CNAME .
+*.zakaria.website CNAME .
 www-proxy.bettercallghaith.wiki CNAME .
 *.www-proxy.bettercallghaith.wiki CNAME .
 presidentalhistory.wiki CNAME .
