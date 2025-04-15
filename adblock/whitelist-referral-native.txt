@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Apr 2025 07:14 UTC
-! Version: 2025.0415.0714.13
+! Last modified: 15 Apr 2025 07:33 UTC
+! Version: 2025.0415.0733.53
 ! Syntax: AdBlock
-! Number of entries: 789
+! Number of entries: 767
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -44,14 +44,12 @@
 @@||online.adservicemedia.dk^
 @@||adspeed.net^
 @@||track.adtraction.com^
-@@||guce.advertising.com^
 @@||adzerk.com^
 @@||adzerk.net^
 @@||affiliatefuture.com^
 @@||links-na.afterpay.com^
 @@||d.agkn.com^
 @@||i.airtel.in^
-@@||goto.algolia.com^
 @@||campaign.aliexpress.com^
 @@||click.aliexpress.com^
 @@||alitems.co^
@@ -66,7 +64,6 @@
 @@||aax-eu.amazon.it^
 @@||aax-eu.amazon.nl^
 @@||aax-fe.amazon.sg^
-@@||aax-fe-pdx-direct.amazon.com^
 @@||aax-us-east-retail-direct.amazon.com^
 @@||aax-us-iad.amazon.com^
 @@||aax-dtb-cf.amazon-adsystem.amazon.com^
@@ -76,8 +73,6 @@
 @@||aax-us.amazon-adsystem.amazon.com^
 @@||aax-us-ott.amazon-adsystem.amazon.com^
 @@||assoc-redirect.amazon.com^
-@@||aax-eu-retail-direct.dub.amazon.com^
-@@||aax-us-east-retail-direct.iad.amazon.com^
 @@||aax-eu-retail-direct.amazon-adsystem.com^
 @@||click.member.americanexpress.com^
 @@||anrdoezrs.net^
@@ -95,7 +90,6 @@
 @@||engagements.appsflyer.com^
 @@||tr.apsis.one^
 @@||uns.apsis.one^
-@@||ad.atdmt.com^
 @@||atimaze.com^
 @@||atlassbx.com^
 @@||r.audible.de^
@@ -107,7 +101,6 @@
 @@||aylink.co^
 @@||api.bam-x.com^
 @@||click.emcom.bankofamerica.com^
-@@||analytics.barnebys.sh^
 @@||network.bazaarvoice.com^
 @@||beehiiv.com^
 @@||x.bestcheck.de^
@@ -177,7 +170,6 @@
 @@||adservice.google.com.ar^
 @@||adservice.google.com.au^
 @@||adservice.google.com.br^
-@@||adservice.google.com.cl^
 @@||adservice.google.com.co^
 @@||adservice.google.com.eg^
 @@||adservice.google.com.gt^
@@ -222,7 +214,6 @@
 @@||click.discord.com^
 @@||referrer.disqus.com^
 @@||click.dji.com^
-@@||email.docker.com^
 @@||postsign.docusign.com^
 @@||c2827.dotomi.com^
 @@||casale-match.dotomi.com^
@@ -268,7 +259,6 @@
 @@||suite9.emarsys.net^
 @@||emjcd.com^
 @@||t.en25.com^
-@@||link.epicgames.com^
 @@||ablink.email.etsy.com^
 @@||eulerian.net^
 @@||pixel.everesttech.net^
@@ -297,7 +287,6 @@
 @@||cdn.eu1.exponea.com^
 @@||cdn.ftspecialist.exponea.com^
 @@||cdn.network.exponea.com^
-@@||ozon-cdn.exponea.com^
 @@||ri-cdn.exponea.com^
 @@||cdn.uk.exponea.com^
 @@||cdn.us1.exponea.com^
@@ -311,13 +300,11 @@
 @@||eultech.fnac.com^
 @@||fr135.net^
 @@||link.freshmail.mx^
-@@||ea.galerieslafayette.com^
 @@||tracker.gamesdonequick.com^
 @@||target.georiot.com^
 @@||linksmail.geosolinc.com^
 @@||tag.getdrip.com^
 @@||app.getresponse.com^
-@@||ggopjn.com^
 @@||glnk.io^
 @@||track.glovoapp.com^
 @@||go.link^
@@ -365,7 +352,6 @@
 @@||m.icares.app^
 @@||click.icptrack.com^
 @@||assets.ikhnaie.link^
-@@||ct.impactradius.com^
 @@||customtraffic.impactradius.com^
 @@||t.indeed.com^
 @@||email-tracking.infobip.com^
@@ -404,7 +390,6 @@
 @@||click.s.kohls.com^
 @@||kqzyfj.com^
 @@||click.e.krogermail.com^
-@@||apiservices.krxd.net^
 @@||click.landsend.com^
 @@||lddy.no^
 @@||l.lefigaro.fr^
@@ -436,7 +421,6 @@
 @@||mkto-ab020242.com^
 @@||mkto-ab040115.com^
 @@||mkto-ab040147.com^
-@@||mkto-ab060085.com^
 @@||mkto-ab070017.com^
 @@||mkto-ab080206.com^
 @@||mkto-ab150224.com^
@@ -475,7 +459,6 @@
 @@||mkto-abj0022.com^
 @@||mkto-abm0229.com^
 @@||mkto-d0064.com^
-@@||mkto-d0097.com^
 @@||mkto-d0170.com^
 @@||mkto-f0054.com^
 @@||mkto-g0030.com^
@@ -518,7 +501,6 @@
 @@||mkto-sjh0224.com^
 @@||mkto-test.com^
 @@||mktoweb.com^
-@@||mkto-lp.mlinc.com^
 @@||click.mlsend.com^
 @@||t.mmtrkr.com^
 @@||mmtro.com^
@@ -533,7 +515,6 @@
 @@||mssg.me^
 @@||mtpc.se^
 @@||trk.musvccustom.net^
-@@||t.myvisualiq.net^
 @@||email.namebase.io^
 @@||api.narrativ.com^
 @@||events.release.narrativ.com^
@@ -542,7 +523,6 @@
 @@||l.neqty.net^
 @@||app.adjust.net.in^
 @@||marketing.tr.netsalesmedia.pl^
-@@||click.email.newegg.com^
 @@||newsletter2go.com^
 @@||go.nextiva.com^
 @@||njih.net^
@@ -637,7 +617,6 @@
 @@||click.e.sees.com^
 @@||ct.sendgrid.net^
 @@||app.sephora.com^
-@@||bs.serving-sys.com^
 @@||shareasale.com^
 @@||shareasale-analytics.com^
 @@||shop-links.co^
@@ -787,7 +766,6 @@
 @@||solution.weborama.fr^
 @@||webpower.eu^
 @@||engage.windows.com^
-@@||link.wizzair.com^
 @@||engage.xbox.com^
 @@||t.xfin.me^
 @@||xg4ken.com^

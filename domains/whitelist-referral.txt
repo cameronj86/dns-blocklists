@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Apr 2025 07:14 UTC
-# Version: 2025.0415.0714.13
+# Last modified: 15 Apr 2025 07:33 UTC
+# Version: 2025.0415.0733.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 986
+# Number of entries: 958
 #
 l.1mp.ru
 t.1und1.de
@@ -44,14 +44,12 @@ adscendmedia.com
 online.adservicemedia.dk
 adspeed.net
 track.adtraction.com
-guce.advertising.com
 adzerk.com
 adzerk.net
 affiliatefuture.com
 links-na.afterpay.com
 d.agkn.com
 i.airtel.in
-goto.algolia.com
 campaign.aliexpress.com
 click.aliexpress.com
 alitems.co
@@ -66,7 +64,6 @@ aax-eu.amazon.in
 aax-eu.amazon.it
 aax-eu.amazon.nl
 aax-fe.amazon.sg
-aax-fe-pdx-direct.amazon.com
 aax-us-east-retail-direct.amazon.com
 aax-us-iad.amazon.com
 aax-dtb-cf.amazon-adsystem.amazon.com
@@ -76,8 +73,6 @@ aax-ott-sdk.amazon-adsystem.amazon.com
 aax-us.amazon-adsystem.amazon.com
 aax-us-ott.amazon-adsystem.amazon.com
 assoc-redirect.amazon.com
-aax-eu-retail-direct.dub.amazon.com
-aax-us-east-retail-direct.iad.amazon.com
 aax-eu-retail-direct.amazon-adsystem.com
 click.member.americanexpress.com
 anrdoezrs.net
@@ -95,7 +90,6 @@ customlinks.appsflyer.com
 engagements.appsflyer.com
 tr.apsis.one
 uns.apsis.one
-ad.atdmt.com
 atimaze.com
 atlassbx.com
 r.audible.de
@@ -107,7 +101,6 @@ awstrack.me
 aylink.co
 api.bam-x.com
 click.emcom.bankofamerica.com
-analytics.barnebys.sh
 network.bazaarvoice.com
 beehiiv.com
 x.bestcheck.de
@@ -205,7 +198,6 @@ aax-fe.amazon.com.au
 adservice.google.com.ar
 adservice.google.com.au
 adservice.google.com.br
-adservice.google.com.cl
 adservice.google.com.co
 adservice.google.com.eg
 adservice.google.com.gt
@@ -250,13 +242,11 @@ link.digitaladvisor.dk
 click.discord.com
 referrer.disqus.com
 click.dji.com
-email.docker.com
 postsign.docusign.com
 c2827.dotomi.com
 casale-match.dotomi.com
 cj.dotomi.com
 cpe.dotomi.com
-ad.cpe.dotomi.com
 direct.ad.cpe.dotomi.com
 event.ad.cpe.dotomi.com
 hb.ad.cpe.dotomi.com
@@ -264,7 +254,6 @@ web.hb.ad.cpe.dotomi.com
 proc.ad.cpe.dotomi.com
 ssapi.ad.cpe.dotomi.com
 sync.ad.cpe.dotomi.com
-cookie.sync.ad.cpe.dotomi.com
 match.sync.ad.cpe.dotomi.com
 csd.dotomi.com
 c63063.csd.dotomi.com
@@ -308,7 +297,6 @@ suite7.emarsys.net
 suite9.emarsys.net
 emjcd.com
 t.en25.com
-link.epicgames.com
 ablink.email.etsy.com
 eulerian.net
 pixel.everesttech.net
@@ -359,7 +347,6 @@ reply.s13.exacttarget.com
 virt.s13.exacttarget.com
 click.virt.s13.exacttarget.com
 s4.exacttarget.com
-etappx.s4.exacttarget.com
 inbound.s4.exacttarget.com
 mc.s4.exacttarget.com
 members.s4.exacttarget.com
@@ -380,7 +367,6 @@ bounce.s51.exacttarget.com
 click.s51.exacttarget.com
 mc.s51.exacttarget.com
 s6.exacttarget.com
-etappx.s6.exacttarget.com
 image.s6.exacttarget.com
 inbound.s6.exacttarget.com
 inbound-reply.s6.exacttarget.com
@@ -394,7 +380,6 @@ click.virt.s6.exacttarget.com
 s7.exacttarget.com
 bounce.s7.exacttarget.com
 click.s7.exacttarget.com
-etappx.s7.exacttarget.com
 ftp.s7.exacttarget.com
 image.s7.exacttarget.com
 inbound.s7.exacttarget.com
@@ -414,7 +399,6 @@ cdn.exponea.com
 cdn.eu1.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.network.exponea.com
-ozon-cdn.exponea.com
 ri-cdn.exponea.com
 cdn.uk.exponea.com
 cdn.us1.exponea.com
@@ -428,13 +412,11 @@ go-direct.flx1.com
 eultech.fnac.com
 fr135.net
 link.freshmail.mx
-ea.galerieslafayette.com
 tracker.gamesdonequick.com
 target.georiot.com
 linksmail.geosolinc.com
 tag.getdrip.com
 app.getresponse.com
-ggopjn.com
 glnk.io
 track.glovoapp.com
 go.link
@@ -457,7 +439,6 @@ adservice.google.ro
 adservice.google.ru
 adservice.google.se
 adservice.google.vg
-www.adservice.google.com
 www.googleadservices.com
 gopjn.com
 gotrackier.com
@@ -534,7 +515,6 @@ ssl.hurra.com
 m.icares.app
 click.icptrack.com
 assets.ikhnaie.link
-ct.impactradius.com
 customtraffic.impactradius.com
 t.indeed.com
 email-tracking.infobip.com
@@ -583,7 +563,6 @@ click.chp.kohls.com
 click.s.kohls.com
 kqzyfj.com
 click.e.krogermail.com
-apiservices.krxd.net
 click.landsend.com
 lddy.no
 l.lefigaro.fr
@@ -622,7 +601,6 @@ mkto-a0095.com
 mkto-ab020242.com
 mkto-ab040115.com
 mkto-ab040147.com
-mkto-ab060085.com
 mkto-ab070017.com
 mkto-ab080206.com
 mkto-ab150224.com
@@ -661,7 +639,6 @@ mkto-ab690180.com
 mkto-abj0022.com
 mkto-abm0229.com
 mkto-d0064.com
-mkto-d0097.com
 mkto-d0170.com
 mkto-f0054.com
 mkto-g0030.com
@@ -705,7 +682,6 @@ mkto-sjh0224.com
 mkto-test.com
 sjqe.mkto-test.com
 mktoweb.com
-mkto-lp.mlinc.com
 click.mlsend.com
 t.mmtrkr.com
 mmtro.com
@@ -720,7 +696,6 @@ c.msn.com
 mssg.me
 mtpc.se
 trk.musvccustom.net
-t.myvisualiq.net
 email.namebase.io
 api.narrativ.com
 events.release.narrativ.com
@@ -729,7 +704,6 @@ app.link.nba.com
 l.neqty.net
 app.adjust.net.in
 marketing.tr.netsalesmedia.pl
-click.email.newegg.com
 newsletter2go.com
 go.nextiva.com
 njih.net
@@ -824,7 +798,6 @@ secure-hotel-tracker.com
 click.e.sees.com
 ct.sendgrid.net
 app.sephora.com
-bs.serving-sys.com
 shareasale.com
 shareasale-analytics.com
 shop-links.co
@@ -977,7 +950,6 @@ cdn.track.production.webgains.team
 solution.weborama.fr
 webpower.eu
 engage.windows.com
-link.wizzair.com
 engage.xbox.com
 t.xfin.me
 xg4ken.com
