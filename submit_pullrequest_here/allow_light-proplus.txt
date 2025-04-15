@@ -1,5 +1,8 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/5915
+inference.location.live.net
+
 # https://github.com/hagezi/dns-blocklists/issues/5853
 mssdk-sg.tiktok.com
 mssdk-quic-sg.tiktok.com
