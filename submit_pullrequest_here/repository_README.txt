@@ -26,17 +26,18 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 12. [Safesearch not supported](#safesearch) - Prevent the use of search engines that do not support Safesearch!
 13. [Dynamic DNS](#dyndns) - Protects against the malicious use of dynamic DNS services!
 14. [Badware Hoster](#hoster) - Protects against the malicious use of host services!
-15. [Most Abused TLDs](#tlds) - Protects against known malicious Top Level Domains!
-16. [Anti Piracy](#piracy) - Protects against piracy!
-17. [Gambling](#gambling) - Protects against gambling content! : [Full](#gambling) - [Medium](#gamblingmedium) - [Mini](#gamblingmini)
-18. [NSFW](#nsfw) - Protects against adult content!
-19. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
-20. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
-21. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
-22. [Online DNS Services](#dnsservices)
-23. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
-24. [Statistics](statistics.md) - [Sources](sources.md)
-25. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
+15. [URL Shortener](#urlshortener) - Blocks link/URL shortener!
+16. [Most Abused TLDs](#tlds) - Protects against known malicious Top Level Domains!
+17. [Anti Piracy](#piracy) - Protects against piracy!
+18. [Gambling](#gambling) - Protects against gambling content! : [Full](#gambling) - [Medium](#gamblingmedium) - [Mini](#gamblingmini)
+19. [NSFW](#nsfw) - Protects against adult content!
+20. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
+21. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
+22. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
+23. [Online DNS Services](#dnsservices)
+24. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
+25. [Statistics](statistics.md) - [Sources](sources.md)
+26. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
 
 ### :books: **Multi - Cleans the Internet and protects your privacy!** <a name="overview"></a>
 
@@ -499,6 +500,28 @@ A blocklist for blocking known hosters that also host badware via user content t
 | Wildcard<br>Domains | [GH](lnkgh_w/hoster-onlydomains.txt) [GL](lnkgl_w/hoster-onlydomains.txt) [CB](lnkjd_w/hoster-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [GH](lnkgh_r/hoster.txt) [GL](lnkgl_r/hoster.txt) [CB](lnkjd_r/hoster.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 | ControlD | [GH](https://github.com/hagezi/dns-blocklists/blob/main/controld/badware-hoster-folder.json)| ControlD folder |
+
+---
+
+### :calling: **URL shortener - Blocks link shortener!** <a name="urlshortener"></a>
+
+A blocklist for blocking all known URL/link shortener.
+
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+
+**Entries:** shortener_cp compressed domains
+
+| Format | Links | Should be used for |
+|:-------|:-----|:----------------|
+| Adblock | [GH](lnkgh_a/urlshortener.txt) [GL](lnkgl_a/urlshortener.txt) [CB](lnkjd_a/urlshortener.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
+| DNSMasq | [GH](lnkgh_m/urlshortener.txt) [GL](lnkgl_m/urlshortener.txt) [CB](lnkjd_m/urlshortener.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| Wildcard<br>Asterisk | [GH](lnkgh_w/urlshortener.txt) [GL](lnkgl_w/urlshortener.txt) [CB](lnkjd_w/urlshortener.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
+| Wildcard<br>Domains | [GH](lnkgh_w/urlshortener-onlydomains.txt) [GL](lnkgl_w/urlshortener-onlydomains.txt) [CB](lnkjd_w/urlshortener-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| RPZ | [GH](lnkgh_r/urlshortener.txt) [GL](lnkgl_r/urlshortener.txt) [CB](lnkjd_r/urlshortener.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
 

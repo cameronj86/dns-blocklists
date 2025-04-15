@@ -26,17 +26,18 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 12. [Safesearch not supported](#safesearch) - Prevent the use of search engines that do not support Safesearch!
 13. [Dynamic DNS](#dyndns) - Protects against the malicious use of dynamic DNS services!
 14. [Badware Hoster](#hoster) - Protects against the malicious use of host services!
-15. [Most Abused TLDs](#tlds) - Protects against known malicious Top Level Domains!
-16. [Anti Piracy](#piracy) - Protects against piracy!
-17. [Gambling](#gambling) - Protects against gambling content! : [Full](#gambling) - [Medium](#gamblingmedium) - [Mini](#gamblingmini)
-18. [NSFW](#nsfw) - Protects against adult content!
-19. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
-20. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
-21. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
-22. [Online DNS Services](#dnsservices)
-23. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
-24. [Statistics](statistics.md) - [Sources](sources.md)
-25. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
+15. [URL Shortener](#urlshortener) - Blocks link/URL shortener!
+16. [Most Abused TLDs](#tlds) - Protects against known malicious Top Level Domains!
+17. [Anti Piracy](#piracy) - Protects against piracy!
+18. [Gambling](#gambling) - Protects against gambling content! : [Full](#gambling) - [Medium](#gamblingmedium) - [Mini](#gamblingmini)
+19. [NSFW](#nsfw) - Protects against adult content!
+20. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
+21. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
+22. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
+23. [Online DNS Services](#dnsservices)
+24. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
+25. [Statistics](statistics.md) - [Sources](sources.md)
+26. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
 
 ### :books: **Multi - Cleans the Internet and protects your privacy!** <a name="overview"></a>
 
@@ -499,6 +500,28 @@ A blocklist for blocking known hosters that also host badware via user content t
 | Wildcard<br>Domains | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/hoster-onlydomains.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/hoster-onlydomains.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/wildcard/hoster-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/hoster.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/hoster.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/rpz/hoster.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 | ControlD | [GH](https://github.com/hagezi/dns-blocklists/blob/main/controld/badware-hoster-folder.json)| ControlD folder |
+
+---
+
+### :calling: **URL shortener - Blocks link shortener!** <a name="urlshortener"></a>
+
+A blocklist for blocking all known URL/link shortener.
+
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+
+**Entries:** 5542 compressed domains
+
+| Format | Links | Should be used for |
+|:-------|:-----|:----------------|
+| Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/urlshortener.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/urlshortener.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/urlshortener.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
+| DNSMasq | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/urlshortener.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/urlshortener.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/dnsmasq/urlshortener.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| Wildcard<br>Asterisk | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/urlshortener.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/urlshortener.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/wildcard/urlshortener.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
+| Wildcard<br>Domains | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/urlshortener-onlydomains.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/urlshortener-onlydomains.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/wildcard/urlshortener-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| RPZ | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/urlshortener.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/urlshortener.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/rpz/urlshortener.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
 
