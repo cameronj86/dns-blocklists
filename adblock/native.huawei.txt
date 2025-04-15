@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Mar 2025 07:07 UTC
-! Version: 2025.0312.0707.19
+! Last modified: 15 Apr 2025 18:51 UTC
+! Version: 2025.0415.1851.35
 ! Syntax: AdBlock
-! Number of entries: 93
+! Number of entries: 112
 !
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||ubacollect-drcn.cloud.dbankcloud.cn^
@@ -96,6 +96,25 @@
 ||events-dre.op.hicloud.com^
 ||logservice-dra.platform.hicloud.com^
 ||logservice-dre.platform.hicloud.com^
+||logservice.dt.hihonorcloud.com^
+||logservice-dra.dt.hihonorcloud.com^
+||logservice-drcn.dt.hihonorcloud.com^
+||logservice-dre.dt.hihonorcloud.com^
+||logservice-drru.dt.hihonorcloud.com^
+||metrics.dt.hihonorcloud.com^
+||metrics-ad-drcn.dt.hihonorcloud.com^
+||metrics-appdistribute-drcn.dt.hihonorcloud.com^
+||metrics-basecloud-drcn.dt.hihonorcloud.com^
+||metrics-dra.dt.hihonorcloud.com^
+||metrics-drcn.dt.hihonorcloud.com^
+||metrics-dre.dt.hihonorcloud.com^
+||metrics-drru.dt.hihonorcloud.com^
+||metrics-test-drcn.dt.hihonorcloud.com^
+||ads-drcn.platform.hihonorcloud.com^
+||log-dra.platform.hihonorcloud.com^
+||log-drcn.platform.hihonorcloud.com^
+||log-dre.platform.hihonorcloud.com^
+||log-drru.platform.hihonorcloud.com^
 ||ads.cloud.huawei.com^
 ||ads-drru.cloud.huawei.ru^
 ||rnd-aresocean-commercial.huawei.com^
