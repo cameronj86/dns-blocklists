@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Apr 2025 02:54 UTC
-# Version: 2025.0415.0254.08
+# Last modified: 15 Apr 2025 15:09 UTC
+# Version: 2025.0415.1509.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10243
+# Number of entries: 10258
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -22,6 +22,8 @@ local=/0123moviesfree.org/
 local=/01streaming.click/
 local=/01streaming.stream/
 local=/01streaming.tv/
+local=/037hd.tv/
+local=/037hdmovie.com/
 local=/bt2.080609.xyz/
 local=/0day.ro/
 local=/0daycn.net/
@@ -46,6 +48,7 @@ local=/10drives.com/
 local=/10kol.tv/
 local=/10mbit.com/
 local=/atrack-asia-s1.114913.xyz/
+local=/123-hd.com/
 local=/123-movies.com/
 local=/123-movies.rs/
 local=/123-movies.zone/
@@ -61,6 +64,7 @@ local=/123movie.cc/
 local=/123movie.date/
 local=/123movie.show/
 local=/123movie.win/
+local=/123moviefree.sbs/
 local=/123moviefree4u.com/
 local=/123moviehub.co/
 local=/123movieonline.xyz/
@@ -126,6 +130,7 @@ local=/123moviesonline.biz/
 local=/123moviess.gdn/
 local=/123moviess.net/
 local=/123moviess.ru/
+local=/123moviess.se/
 local=/123moviest.org/
 local=/123moviesto.co/
 local=/123moviesto.pro/
@@ -173,6 +178,7 @@ local=/1hd.to/
 local=/1jour1film.online/
 local=/1jour1film.website/
 local=/1kif.com/
+local=/1l1l.to/
 local=/1load.sx/
 local=/1movies.best/
 local=/1movies.is/
@@ -181,6 +187,8 @@ local=/1movies.nl/
 local=/1movieshd.cc/
 local=/1movieshd.com/
 local=/1movietv.com/
+local=/supaflix.1mt.top/
+local=/supaflix-series.1mt.top/
 local=/1nd.hu/
 local=/1stream.top/
 local=/1street.ru/
@@ -192,9 +200,11 @@ local=/1xstream.com/
 local=/20links.com/
 local=/retracker.211.ru/
 local=/t.213891.xyz/
+local=/22-hd.com/
 local=/tracker.23794.top/
 local=/23movies.xyz/
 local=/24-downloads.com/
+local=/24-hd.com/
 local=/240x320.ru/
 local=/24h.tv/
 local=/24urban.com/
@@ -5066,6 +5076,7 @@ local=/bt.ktrackers.com/
 local=/kualda.com/
 local=/kubalibre.com/
 local=/kubanmedia.org/
+local=/kubhd.com/
 local=/kuiken.co/
 local=/kukaj.io/
 local=/kukaj.si/
@@ -5759,6 +5770,7 @@ local=/movieglide.com/
 local=/moviego.net/
 local=/moviego.site/
 local=/moviehaat.net/
+local=/moviehdfree.net/
 local=/movieheaven.org/
 local=/bt.moviehub.info/
 local=/moviehunterz.cc/
@@ -5781,6 +5793,7 @@ local=/movierr.online/
 local=/movierr.site/
 local=/movierulzhd.gold/
 local=/movies.cab/
+local=/movies-d.com/
 local=/movies-free.net/
 local=/movies-watch.biz/
 local=/movies123.email/
@@ -9611,6 +9624,7 @@ local=/voirseries.com/
 local=/voirseries.life/
 local=/voirseries.rip/
 local=/vww.voirseries.co/
+local=/vojkuhd.com/
 local=/volno.org/
 local=/volokit.com/
 local=/volokit.tv/
@@ -9984,6 +9998,7 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
+local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/

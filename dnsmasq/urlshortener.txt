@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Apr 2025 09:05 UTC
-# Version: 2025.0415.0905.58
+# Last modified: 15 Apr 2025 13:08 UTC
+# Version: 2025.0415.1308.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5542
+# Number of entries: 5541
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1282,7 +1282,6 @@ local=/direct.me/
 local=/directorytechstoragepoint.directory/
 local=/dis.gd/
 local=/dis.tl/
-local=/discord.gg/
 local=/discvr.co/
 local=/disq.us/
 local=/distinct-rp.live/

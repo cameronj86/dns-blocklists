@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744685640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744729740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Apr 2025 02:54 UTC
-; Version: 2025.0415.0254.08
+; Last modified: 15 Apr 2025 15:09 UTC
+; Version: 2025.0415.1509.12
 ; Syntax: RPZ
-; Number of entries: 20486
+; Number of entries: 20516
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2105,6 +2105,8 @@ guardaserie.college CNAME .
 *.0123456789nonexistent.com CNAME .
 0123movies.com CNAME .
 *.0123movies.com CNAME .
+037hdmovie.com CNAME .
+*.037hdmovie.com CNAME .
 0dayddl.com CNAME .
 *.0dayddl.com CNAME .
 0magnet.com CNAME .
@@ -2123,6 +2125,8 @@ tracker.0x7c0.com CNAME .
 *.10drives.com CNAME .
 10mbit.com CNAME .
 *.10mbit.com CNAME .
+123-hd.com CNAME .
+*.123-hd.com CNAME .
 123-movies.com CNAME .
 *.123-movies.com CNAME .
 123hbo.com CNAME .
@@ -2169,8 +2173,12 @@ tracker.0x7c0.com CNAME .
 *.1xstream.com CNAME .
 20links.com CNAME .
 *.20links.com CNAME .
+22-hd.com CNAME .
+*.22-hd.com CNAME .
 24-downloads.com CNAME .
 *.24-downloads.com CNAME .
+24-hd.com CNAME .
+*.24-hd.com CNAME .
 24urban.com CNAME .
 *.24urban.com CNAME .
 2600.com CNAME .
@@ -4807,6 +4815,8 @@ kualda.com CNAME .
 *.kualda.com CNAME .
 kubalibre.com CNAME .
 *.kubalibre.com CNAME .
+kubhd.com CNAME .
+*.kubhd.com CNAME .
 ts.kurtubba.com CNAME .
 *.ts.kurtubba.com CNAME .
 la123movies.com CNAME .
@@ -5221,6 +5231,8 @@ movieorca.com CNAME .
 *.movieorca.com CNAME .
 movierot.com CNAME .
 *.movierot.com CNAME .
+movies-d.com CNAME .
+*.movies-d.com CNAME .
 movies4people.com CNAME .
 *.movies4people.com CNAME .
 moviesbark.com CNAME .
@@ -7259,6 +7271,8 @@ voeunblk.com CNAME .
 *.voeunblk.com CNAME .
 voirseries.com CNAME .
 *.voirseries.com CNAME .
+vojkuhd.com CNAME .
+*.vojkuhd.com CNAME .
 volokit.com CNAME .
 *.volokit.com CNAME .
 vongolafamily.com CNAME .
@@ -12643,6 +12657,8 @@ moviego.net CNAME .
 *.moviego.net CNAME .
 moviehaat.net CNAME .
 *.moviehaat.net CNAME .
+moviehdfree.net CNAME .
+*.moviehdfree.net CNAME .
 movienyt.net CNAME .
 *.movienyt.net CNAME .
 movies-free.net CNAME .
@@ -16999,6 +17015,8 @@ putlocker.sb CNAME .
 *.putlocker.sb CNAME .
 tgx.sb CNAME .
 *.tgx.sb CNAME .
+123moviefree.sbs CNAME .
+*.123moviefree.sbs CNAME .
 cb01.sbs CNAME .
 *.cb01.sbs CNAME .
 eurostreaming.sbs CNAME .
@@ -17037,6 +17055,8 @@ solarmovie.sc CNAME .
 *.solarmovie.sc CNAME .
 cb01.school CNAME .
 *.cb01.school CNAME .
+123moviess.se CNAME .
+*.123moviess.se CNAME .
 1337x.se CNAME .
 *.1337x.se CNAME .
 720pstream.se CNAME .
@@ -17837,6 +17857,8 @@ forja.tn CNAME .
 *.1flix.to CNAME .
 1hd.to CNAME .
 *.1hd.to CNAME .
+1l1l.to CNAME .
+*.1l1l.to CNAME .
 4anime.to CNAME .
 *.4anime.to CNAME .
 4pda.to CNAME .
@@ -18383,6 +18405,10 @@ ddos.tools CNAME .
 *.123movies.top CNAME .
 123movieshd.top CNAME .
 *.123movieshd.top CNAME .
+supaflix.1mt.top CNAME .
+*.supaflix.1mt.top CNAME .
+supaflix-series.1mt.top CNAME .
+*.supaflix-series.1mt.top CNAME .
 1stream.top CNAME .
 *.1stream.top CNAME .
 tracker.23794.top CNAME .
@@ -18587,6 +18613,8 @@ sokrostream.tube CNAME .
 *.sokrostream.tube CNAME .
 01streaming.tv CNAME .
 *.01streaming.tv CNAME .
+037hd.tv CNAME .
+*.037hd.tv CNAME .
 0ffbug.tv CNAME .
 *.0ffbug.tv CNAME .
 10kol.tv CNAME .
@@ -20429,6 +20457,8 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
+xstress.xyz CNAME .
+*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

@@ -484,9 +484,14 @@ A blocklist for blocking dynamic DNS services to protect against malicious use i
 
 A blocklist for blocking known hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
 
-|             | Light | Normal | Pro | Pro++ | Ultimate |
-|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
-| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+> [!IMPORTANT]
+> This list blocks the root domains of all hosting providers that occasionally appear in threat intelligence feeds due to malicious subdomains. Please be aware that this will also block legitimate sites hosted by these providers. Consider this carefully before using the list.
+>                 
+> When using this list, users are responsible for unblocking any required subdomains themselves.
+
+|             | Light | Normal | Pro | Pro++ | Ultimate | TIF |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|:---:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      | :x: |
 
 :green_circle: yes :yellow_square: partially :x: no
 
@@ -503,13 +508,18 @@ A blocklist for blocking known hosters that also host badware via user content t
 
 ---
 
-### :calling: **URL shortener - Blocks link shortener!** <a name="urlshortener"></a>
+### :calling: **URL Shortener - Blocks link shortener!** <a name="urlshortener"></a>
 
 A blocklist for blocking all known URL/link shortener.
 
-|             | Light | Normal | Pro | Pro++ | Ultimate |
-|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
-| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+> [!WARNING]
+> Not suitable for use in standard environments. Blocking all URL shorteners is recommended mainly in highly sensitive environments, as they can hide link destinations and facilitate attacks. In less sensitive settings, monitoring, selective blocking, or user education usually suffice to manage risks.
+>                 
+> When using this list, users are responsible for unblocking any required domains themselves.
+
+|             | Light | Normal | Pro | Pro++ | Ultimate | TIF |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|:---:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      | :x: |
 
 :green_circle: yes :yellow_square: partially :x: no
 

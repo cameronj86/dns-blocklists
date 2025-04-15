@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Apr 2025 03:12 UTC
-# Version: 2025.0415.0312.22
+# Last modified: 15 Apr 2025 15:27 UTC
+# Version: 2025.0415.1527.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3964
+# Number of entries: 3961
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -63,10 +63,12 @@ local=/1banproxy.com/
 local=/1clickvpn.com/
 local=/1clickvpn.net/
 local=/onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com/
+local=/dns.23-4.cn/
 local=/233py.com/
 local=/dns.240527.xyz/
 local=/24tunnel.com/
 local=/doh003.280blocker.net/
+local=/28383829.com/
 local=/2a87.com/
 local=/proxy.2d.su/
 local=/2fastsurfer.com/
@@ -344,7 +346,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.nu/
 local=/bdns.pro/
 local=/beapasswpn.com/
@@ -434,7 +435,6 @@ local=/blufvpn.com/
 local=/bmetrics.org/
 local=/dns.bmwhocking.com/
 local=/dns.bobstrecansky.com/
-local=/d.bod.lol/
 local=/boda-vip.net/
 local=/bodvpn.com/
 local=/dns.bofh.in/
@@ -464,7 +464,6 @@ local=/ag.brianlee.fun/
 local=/bright4good.eco/
 local=/brightvpn.com/
 local=/britishproxy.com/
-local=/dns.brono.cloud/
 local=/brothebro.com/
 local=/brovpn.io/
 local=/browsebridge.com/
@@ -1089,7 +1088,6 @@ local=/dutchproxy.nl/
 local=/dvprovider.icu/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/
@@ -1244,7 +1242,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
