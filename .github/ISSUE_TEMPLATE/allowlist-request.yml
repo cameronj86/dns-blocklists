@@ -153,8 +153,8 @@ body:
         - Gambling
         - NSFW
         - Native Tracker
-        - Allowlist Referral
-        - Allowlist URL shortener
+        - Referral
+        - URL shortener
     validations:
       required: true
 
