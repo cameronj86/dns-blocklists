@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744644300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744685640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Apr 2025 15:25 UTC
-; Version: 2025.0414.1525.48
+; Last modified: 15 Apr 2025 02:54 UTC
+; Version: 2025.0415.0254.08
 ; Syntax: RPZ
-; Number of entries: 20488
+; Number of entries: 20486
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7229,6 +7229,8 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
+videocop.com CNAME .
+*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -11709,8 +11711,6 @@ altbinz.net CNAME .
 *.altbinz.net CNAME .
 altermind.net CNAME .
 *.altermind.net CNAME .
-alternativeto.net CNAME .
-*.alternativeto.net CNAME .
 amaderforum.net CNAME .
 *.amaderforum.net CNAME .
 amaderftp.net CNAME .
@@ -20429,8 +20429,6 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
-xstress.xyz CNAME .
-*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .
