@@ -36,6 +36,13 @@
       }
     },
     {
+      "PK": "ads-drcn.platform.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-drru.cloud.huawei.ru",
       "action": {
         "do": 0,
@@ -477,6 +484,34 @@
       }
     },
     {
+      "PK": "log-dra.platform.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log-drcn.platform.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log-dre.platform.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log-drru.platform.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "logserver.nzxcloud.cn",
       "action": {
         "do": 0,
@@ -498,7 +533,28 @@
       }
     },
     {
+      "PK": "logservice-dra.dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "logservice-dra.platform.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice-drcn.dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice-dre.dt.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -513,6 +569,20 @@
     },
     {
       "PK": "logservice-dre.platform.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice-drru.dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice.dt.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -582,7 +652,42 @@
       }
     },
     {
+      "PK": "metrics-ad-drcn.dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-appdistribute-drcn.dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-basecloud-drcn.dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "metrics-dra.dt.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-dra.dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-drcn.dt.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -603,7 +708,35 @@
       }
     },
     {
+      "PK": "metrics-dre.dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-drru.dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "metrics.dt.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics.dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-test-drcn.dt.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1
