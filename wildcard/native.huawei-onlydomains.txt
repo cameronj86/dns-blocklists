@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Apr 2025 18:51 UTC
-# Version: 2025.0415.1851.35
+# Last modified: 15 Apr 2025 19:36 UTC
+# Version: 2025.0415.1936.31
 # Syntax: Domains (without subdomains)
-# Number of entries: 112
+# Number of entries: 110
 #
 browsercfg-drcn.cloud.dbankcloud.cn
 ubacollect-drcn.cloud.dbankcloud.cn
@@ -20,6 +20,9 @@ datacollector-dra.dt.dbankcloud.cn
 datacollector-drcn.dt.dbankcloud.cn
 datacollector-dre.dt.dbankcloud.cn
 hisearch-dra.dt.dbankcloud.com
+hisearch-drcn.dt.dbankcloud.com
+hisearch-dre.dt.dbankcloud.com
+hisearch-drru.dt.dbankcloud.com
 metrics.dt.dbankcloud.cn
 metrics-dra.dt.dbankcloud.cn
 metrics-dre.dt.dbankcloud.cn
@@ -51,6 +54,7 @@ events-op-hicloud-com-drcn.appacc.dbankedge.net
 grs-dbankcloud-asia-dra.appacc.dbankedge.cn
 grs-dbankcloud-com-dra.appacc.dbankedge.cn
 grs-dbankcloud-com-dre.appacc.dbankedge.cn
+hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
 openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn
 events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn
 events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn
@@ -59,6 +63,7 @@ events-op-hicloud-com-drcn.appacc-region.dbankedge.net
 grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn
 grs-dbankcloud-com-dra.appacc-region.dbankedge.cn
 grs-dbankcloud-com-dre.appacc-region.dbankedge.cn
+hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn
 adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 adx-dra-op-hicloud-com-dra.edge.dbankedge.cn
 events-dra-op-dbankcloud-cn-dra.edge.dbankedge.cn
@@ -66,6 +71,7 @@ events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 events-dra-op-hicloud-com-dra.edge.dbankedge.cn
 grs-dbankcloud-com-dra.edge.dbankedge.cn
 grs-dbankcloud-com-dre.edge.dbankedge.cn
+hisearch-dra-dt-dbankcloud-com-dra.edge.dbankedge.cn
 metrics1-data-hicloud-com.ge.dbankedge.cn
 metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn
@@ -95,21 +101,13 @@ events-dra.op.hicloud.com
 events-dre.op.hicloud.com
 logservice-dra.platform.hicloud.com
 logservice-dre.platform.hicloud.com
-logservice.dt.hihonorcloud.com
-logservice-dra.dt.hihonorcloud.com
-logservice-drcn.dt.hihonorcloud.com
-logservice-dre.dt.hihonorcloud.com
-logservice-drru.dt.hihonorcloud.com
-metrics.dt.hihonorcloud.com
-metrics-ad-drcn.dt.hihonorcloud.com
-metrics-appdistribute-drcn.dt.hihonorcloud.com
-metrics-basecloud-drcn.dt.hihonorcloud.com
-metrics-dra.dt.hihonorcloud.com
-metrics-drcn.dt.hihonorcloud.com
-metrics-dre.dt.hihonorcloud.com
-metrics-drru.dt.hihonorcloud.com
-metrics-test-drcn.dt.hihonorcloud.com
+dt.hihonorcloud.com
+grs.hihonorcloud.com
+honorsearch-dra.hiboard.hihonorcloud.com
+honorsearch-drcn.hiboard.hihonorcloud.com
+honorsearch-dre.hiboard.hihonorcloud.com
 ads-drcn.platform.hihonorcloud.com
+grs-test.platform.hihonorcloud.com
 log-dra.platform.hihonorcloud.com
 log-drcn.platform.hihonorcloud.com
 log-dre.platform.hihonorcloud.com

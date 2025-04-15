@@ -211,6 +211,13 @@
       }
     },
     {
+      "PK": "dt.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn",
       "action": {
         "do": 0,
@@ -463,6 +470,13 @@
       }
     },
     {
+      "PK": "grs.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "grs.platform.dbankcloud.ru",
       "action": {
         "do": 0,
@@ -470,7 +484,77 @@
       }
     },
     {
+      "PK": "grs-test.platform.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "hisearch-dra.dt.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hisearch-dra-dt-dbankcloud-com-dra.edge.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hisearch-drcn.dt.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hisearch-dre.dt.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hisearch-drru.dt.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "honorsearch-dra.hiboard.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "honorsearch-drcn.hiboard.hihonorcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "honorsearch-dre.hiboard.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -533,28 +617,7 @@
       }
     },
     {
-      "PK": "logservice-dra.dt.hihonorcloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "logservice-dra.platform.hicloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "logservice-drcn.dt.hihonorcloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "logservice-dre.dt.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -569,20 +632,6 @@
     },
     {
       "PK": "logservice-dre.platform.hicloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "logservice-drru.dt.hihonorcloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "logservice.dt.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -652,42 +701,7 @@
       }
     },
     {
-      "PK": "metrics-ad-drcn.dt.hihonorcloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "metrics-appdistribute-drcn.dt.hihonorcloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "metrics-basecloud-drcn.dt.hihonorcloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "metrics-dra.dt.dbankcloud.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "metrics-dra.dt.hihonorcloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "metrics-drcn.dt.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1
@@ -708,35 +722,7 @@
       }
     },
     {
-      "PK": "metrics-dre.dt.hihonorcloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "metrics-drru.dt.hihonorcloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "metrics.dt.dbankcloud.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "metrics.dt.hihonorcloud.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "metrics-test-drcn.dt.hihonorcloud.com",
       "action": {
         "do": 0,
         "status": 1

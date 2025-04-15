@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Apr 2025 18:51 UTC
-# Version: 2025.0415.1851.35
+# Last modified: 15 Apr 2025 19:36 UTC
+# Version: 2025.0415.1936.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 112
+# Number of entries: 110
 #
 local=/browsercfg-drcn.cloud.dbankcloud.cn/
 local=/ubacollect-drcn.cloud.dbankcloud.cn/
@@ -20,6 +20,9 @@ local=/datacollector-dra.dt.dbankcloud.cn/
 local=/datacollector-drcn.dt.dbankcloud.cn/
 local=/datacollector-dre.dt.dbankcloud.cn/
 local=/hisearch-dra.dt.dbankcloud.com/
+local=/hisearch-drcn.dt.dbankcloud.com/
+local=/hisearch-dre.dt.dbankcloud.com/
+local=/hisearch-drru.dt.dbankcloud.com/
 local=/metrics.dt.dbankcloud.cn/
 local=/metrics-dra.dt.dbankcloud.cn/
 local=/metrics-dre.dt.dbankcloud.cn/
@@ -51,6 +54,7 @@ local=/events-op-hicloud-com-drcn.appacc.dbankedge.net/
 local=/grs-dbankcloud-asia-dra.appacc.dbankedge.cn/
 local=/grs-dbankcloud-com-dra.appacc.dbankedge.cn/
 local=/grs-dbankcloud-com-dre.appacc.dbankedge.cn/
+local=/hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn/
 local=/openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn/
 local=/events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn/
 local=/events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn/
@@ -59,6 +63,7 @@ local=/events-op-hicloud-com-drcn.appacc-region.dbankedge.net/
 local=/grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn/
 local=/grs-dbankcloud-com-dra.appacc-region.dbankedge.cn/
 local=/grs-dbankcloud-com-dre.appacc-region.dbankedge.cn/
+local=/hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn/
 local=/adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn/
 local=/adx-dra-op-hicloud-com-dra.edge.dbankedge.cn/
 local=/events-dra-op-dbankcloud-cn-dra.edge.dbankedge.cn/
@@ -66,6 +71,7 @@ local=/events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn/
 local=/events-dra-op-hicloud-com-dra.edge.dbankedge.cn/
 local=/grs-dbankcloud-com-dra.edge.dbankedge.cn/
 local=/grs-dbankcloud-com-dre.edge.dbankedge.cn/
+local=/hisearch-dra-dt-dbankcloud-com-dra.edge.dbankedge.cn/
 local=/metrics1-data-hicloud-com.ge.dbankedge.cn/
 local=/metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn/
 local=/0001-metrics1-data-hicloud-com.geac.dbankedge.cn/
@@ -95,21 +101,13 @@ local=/events-dra.op.hicloud.com/
 local=/events-dre.op.hicloud.com/
 local=/logservice-dra.platform.hicloud.com/
 local=/logservice-dre.platform.hicloud.com/
-local=/logservice.dt.hihonorcloud.com/
-local=/logservice-dra.dt.hihonorcloud.com/
-local=/logservice-drcn.dt.hihonorcloud.com/
-local=/logservice-dre.dt.hihonorcloud.com/
-local=/logservice-drru.dt.hihonorcloud.com/
-local=/metrics.dt.hihonorcloud.com/
-local=/metrics-ad-drcn.dt.hihonorcloud.com/
-local=/metrics-appdistribute-drcn.dt.hihonorcloud.com/
-local=/metrics-basecloud-drcn.dt.hihonorcloud.com/
-local=/metrics-dra.dt.hihonorcloud.com/
-local=/metrics-drcn.dt.hihonorcloud.com/
-local=/metrics-dre.dt.hihonorcloud.com/
-local=/metrics-drru.dt.hihonorcloud.com/
-local=/metrics-test-drcn.dt.hihonorcloud.com/
+local=/dt.hihonorcloud.com/
+local=/grs.hihonorcloud.com/
+local=/honorsearch-dra.hiboard.hihonorcloud.com/
+local=/honorsearch-drcn.hiboard.hihonorcloud.com/
+local=/honorsearch-dre.hiboard.hihonorcloud.com/
 local=/ads-drcn.platform.hihonorcloud.com/
+local=/grs-test.platform.hihonorcloud.com/
 local=/log-dra.platform.hihonorcloud.com/
 local=/log-drcn.platform.hihonorcloud.com/
 local=/log-dre.platform.hihonorcloud.com/
