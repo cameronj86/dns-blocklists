@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744729740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744772940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Apr 2025 15:09 UTC
-; Version: 2025.0415.1509.12
+; Last modified: 16 Apr 2025 03:09 UTC
+; Version: 2025.0416.0309.08
 ; Syntax: RPZ
-; Number of entries: 20516
+; Number of entries: 20544
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -513,6 +513,8 @@ softwarez.best CNAME .
 *.softwarez.best CNAME .
 altadefinizione.bet CNAME .
 *.altadefinizione.bet CNAME .
+altadefinizione01.bet CNAME .
+*.altadefinizione01.bet CNAME .
 cineblog01.bet CNAME .
 *.cineblog01.bet CNAME .
 filmpertutti.bet CNAME .
@@ -973,6 +975,8 @@ aerowa.cc CNAME .
 *.aerowa.cc CNAME .
 alpharatio.cc CNAME .
 *.alpharatio.cc CNAME .
+altadefinizione01.cc CNAME .
+*.altadefinizione01.cc CNAME .
 animeflv.cc CNAME .
 *.animeflv.cc CNAME .
 animeid.cc CNAME .
@@ -1525,6 +1529,8 @@ cb01.clothing CNAME .
 *.123movieshub.cloud CNAME .
 5movies.cloud CNAME .
 *.5movies.cloud CNAME .
+altadefinizione01.cloud CNAME .
+*.altadefinizione01.cloud CNAME .
 audiobooks.cloud CNAME .
 *.audiobooks.cloud CNAME .
 bedro.cloud CNAME .
@@ -1669,6 +1675,8 @@ piratetpb.club CNAME .
 *.piratetpb.club CNAME .
 tracker.ptsbao.club CNAME .
 *.tracker.ptsbao.club CNAME .
+old.pubfilms.club CNAME .
+*.old.pubfilms.club CNAME .
 putlocker-free.club CNAME .
 *.putlocker-free.club CNAME .
 rarbg.club CNAME .
@@ -2387,6 +2395,8 @@ alt-torrent.com CNAME .
 *.alt-torrent.com CNAME .
 altadefinizione.com CNAME .
 *.altadefinizione.com CNAME .
+altadefinizione01.com CNAME .
+*.altadefinizione01.com CNAME .
 altadefinizionea.com CNAME .
 *.altadefinizionea.com CNAME .
 alterupload.com CNAME .
@@ -2449,6 +2459,8 @@ animemolecules.com CNAME .
 *.animemolecules.com CNAME .
 animemoviespot.com CNAME .
 *.animemoviespot.com CNAME .
+animencodes.com CNAME .
+*.animencodes.com CNAME .
 animepahe.com CNAME .
 *.animepahe.com CNAME .
 animepill.com CNAME .
@@ -7811,6 +7823,8 @@ xcine.cx CNAME .
 *.123moviesc.cyou CNAME .
 afdah2.cyou CNAME .
 *.afdah2.cyou CNAME .
+altadefinizione.cyou CNAME .
+*.altadefinizione.cyou CNAME .
 cineblog01.cyou CNAME .
 *.cineblog01.cyou CNAME .
 cinevood.cyou CNAME .
@@ -10069,6 +10083,8 @@ megatorrents.kg CNAME .
 *.megatorrents.kg CNAME .
 rapidleech2011.eu.ki CNAME .
 *.rapidleech2011.eu.ki CNAME .
+altadefinizione.kim CNAME .
+*.altadefinizione.kim CNAME .
 gomovies.kim CNAME .
 *.gomovies.kim CNAME .
 megakino.kim CNAME .
@@ -10807,6 +10823,8 @@ shadow.lv CNAME .
 *.shadow.lv CNAME .
 sinister.ly CNAME .
 *.sinister.ly CNAME .
+altadefinizione.ma CNAME .
+*.altadefinizione.ma CNAME .
 burningseries.ma CNAME .
 *.burningseries.ma CNAME .
 megaupload.ma CNAME .
@@ -11747,6 +11765,8 @@ animereborn.net CNAME .
 *.animereborn.net CNAME .
 aninow.net CNAME .
 *.aninow.net CNAME .
+anisource.net CNAME .
+*.anisource.net CNAME .
 ankergames.net CNAME .
 *.ankergames.net CNAME .
 ankeschwarz.net CNAME .
@@ -12783,6 +12803,8 @@ nzbid.net CNAME .
 *.nzbid.net CNAME .
 nzbplanet.net CNAME .
 *.nzbplanet.net CNAME .
+obala-tracker.net CNAME .
+*.obala-tracker.net CNAME .
 oceanofepub.net CNAME .
 *.oceanofepub.net CNAME .
 retracker.ohys.net CNAME .
@@ -17005,6 +17027,8 @@ trackers.run CNAME .
 *.trackers.run CNAME .
 123movies.sale CNAME .
 *.123movies.sale CNAME .
+altadefinizione.sale CNAME .
+*.altadefinizione.sale CNAME .
 cineblog01.sale CNAME .
 *.cineblog01.sale CNAME .
 eurostreaming.sale CNAME .
@@ -17879,6 +17903,8 @@ allmanga.to CNAME .
 *.allmanga.to CNAME .
 anify.to CNAME .
 *.anify.to CNAME .
+anilinkz.to CNAME .
+*.anilinkz.to CNAME .
 animag.to CNAME .
 *.animag.to CNAME .
 animedao.to CNAME .
@@ -18417,6 +18443,10 @@ tracker.23794.top CNAME .
 *.8kun.top CNAME .
 9movies.top CNAME .
 *.9movies.top CNAME .
+qot.abiir.top CNAME .
+*.qot.abiir.top CNAME .
+tr.abiir.top CNAME .
+*.tr.abiir.top CNAME .
 altadefinizione.top CNAME .
 *.altadefinizione.top CNAME .
 altadefinizione01.top CNAME .
@@ -20457,8 +20487,6 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
-xstress.xyz CNAME .
-*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

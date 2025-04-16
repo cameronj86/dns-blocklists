@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744730820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744774020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Apr 2025 15:27 UTC
-; Version: 2025.0415.1527.40
+; Last modified: 16 Apr 2025 03:27 UTC
+; Version: 2025.0416.0327.50
 ; Syntax: RPZ
-; Number of entries: 7922
+; Number of entries: 7932
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3768,6 +3768,8 @@ adguard.maison.gifino.fr CNAME .
 *.adguard.maison.gifino.fr CNAME .
 qlf-doh.inria.fr CNAME .
 *.qlf-doh.inria.fr CNAME .
+itamcorp.fr CNAME .
+*.itamcorp.fr CNAME .
 dns.k3nny.fr CNAME .
 *.dns.k3nny.fr CNAME .
 dns.kebree.fr CNAME .
@@ -4454,6 +4456,8 @@ qpoll.ir CNAME .
 *.qpoll.ir CNAME .
 rcsm.ir CNAME .
 *.rcsm.ir CNAME .
+www-8.shaammy.ir CNAME .
+*.www-8.shaammy.ir CNAME .
 dns.shecan.ir CNAME .
 *.dns.shecan.ir CNAME .
 free.shecan.ir CNAME .
@@ -4548,6 +4552,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+bdns.link CNAME .
+*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5252,6 +5258,8 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 adguard.easez.net CNAME .
@@ -6180,6 +6188,8 @@ jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
 krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
+osefcorp.duckdns.org CNAME .
+*.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
 tuandns.duckdns.org CNAME .

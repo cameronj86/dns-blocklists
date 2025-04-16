@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Apr 2025 15:09 UTC
-# Version: 2025.0415.1509.12
+# Last modified: 16 Apr 2025 03:09 UTC
+# Version: 2025.0416.0309.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10258
+# Number of entries: 10272
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -400,6 +400,8 @@ local=/abcmovies.tv/
 local=/abcmoviesbd.com/
 local=/abcvg.info/
 local=/abibd.com/
+local=/qot.abiir.top/
+local=/tr.abiir.top/
 local=/tr.abir.ga/
 local=/abnctg.net/
 local=/abnzb.com/
@@ -568,6 +570,7 @@ local=/altadefinizione.community/
 local=/altadefinizione.computer/
 local=/altadefinizione.coupons/
 local=/altadefinizione.cx/
+local=/altadefinizione.cyou/
 local=/altadefinizione.dance/
 local=/altadefinizione.date/
 local=/altadefinizione.dating/
@@ -591,6 +594,7 @@ local=/altadefinizione.immo/
 local=/altadefinizione.info/
 local=/altadefinizione.io/
 local=/altadefinizione.it/
+local=/altadefinizione.kim/
 local=/altadefinizione.kitchen/
 local=/altadefinizione.legal/
 local=/altadefinizione.li/
@@ -598,6 +602,7 @@ local=/altadefinizione.life/
 local=/altadefinizione.limo/
 local=/altadefinizione.live/
 local=/altadefinizione.lol/
+local=/altadefinizione.ma/
 local=/altadefinizione.market/
 local=/altadefinizione.me/
 local=/altadefinizione.mov/
@@ -617,6 +622,7 @@ local=/altadefinizione.pl/
 local=/altadefinizione.pro/
 local=/altadefinizione.re/
 local=/altadefinizione.ru/
+local=/altadefinizione.sale/
 local=/altadefinizione.sh/
 local=/altadefinizione.solutions/
 local=/altadefinizione.soy/
@@ -636,11 +642,15 @@ local=/altadefinizione.ws/
 local=/altadefinizione.xyz/
 local=/altadefinizione-nuovo.click/
 local=/altadefinizione-originale.online/
+local=/altadefinizione01.bet/
 local=/altadefinizione01.black/
 local=/altadefinizione01.boo/
 local=/altadefinizione01.boutique/
+local=/altadefinizione01.cc/
 local=/altadefinizione01.click/
+local=/altadefinizione01.cloud/
 local=/altadefinizione01.co/
+local=/altadefinizione01.com/
 local=/altadefinizione01.email/
 local=/altadefinizione01.family/
 local=/altadefinizione01.fm/
@@ -710,6 +720,7 @@ local=/anidex.moe/
 local=/anidub.pro/
 local=/btx.anifilm.tv/
 local=/anify.to/
+local=/anilinkz.to/
 local=/tracker.anima.nz/
 local=/animag.to/
 local=/tracker.animasub.ru/
@@ -771,6 +782,7 @@ local=/animelon.com/
 local=/animemolecules.com/
 local=/animemoviespot.com/
 local=/animemusicvideos.org/
+local=/animencodes.com/
 local=/animenosub.to/
 local=/animeon.club/
 local=/animeout.xyz/
@@ -827,6 +839,7 @@ local=/anipt.com/
 local=/anirena.com/
 local=/anisaishuu.de/
 local=/anisearch.ru/
+local=/anisource.net/
 local=/anistar.org/
 local=/aniwatch.me/
 local=/aniwatcher.com/
@@ -6403,6 +6416,7 @@ local=/oabt06.com/
 local=/oakmovies.com/
 local=/oakvilleorthotics.com/
 local=/obaflix.com/
+local=/obala-tracker.net/
 local=/oboom.io/
 local=/oceanofapk.com/
 local=/oceanofepub.net/
@@ -7034,6 +7048,7 @@ local=/bt.ptlsp.com/
 local=/trackers.ptlsp.com/
 local=/tracker.ptsbao.club/
 local=/pubfilm.one/
+local=/old.pubfilms.club/
 local=/publicdomaintorrents.com/
 local=/publicdomaintorrents.info/
 local=/publichd.se/
@@ -9998,7 +10013,6 @@ local=/xrel.to/
 local=/xrshellbooter.com/
 local=/xspeeds.eu/
 local=/xstreaming.rip/
-local=/xstress.xyz/
 local=/torrentkris.xt.pl/
 local=/xt7.pl/
 local=/xteve.de/

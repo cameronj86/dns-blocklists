@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744722480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744755780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Apr 2025 13:08 UTC
-; Version: 2025.0415.1308.03
+; Last modified: 15 Apr 2025 22:23 UTC
+; Version: 2025.0415.2223.52
 ; Syntax: RPZ
-; Number of entries: 11082
+; Number of entries: 11066
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2010,8 +2010,6 @@ fxqwe.com CNAME .
 *.fxqwe.com CNAME .
 download.fxsound.com CNAME .
 *.download.fxsound.com CNAME .
-gacortangandewa.com CNAME .
-*.gacortangandewa.com CNAME .
 gamegta.com CNAME .
 *.gamegta.com CNAME .
 gamerzchoices.com CNAME .
@@ -3236,8 +3234,6 @@ on.wsj.com CNAME .
 *.on.wsj.com CNAME .
 wurlz.com CNAME .
 *.wurlz.com CNAME .
-wwhts.com CNAME .
-*.wwhts.com CNAME .
 xaddr.com CNAME .
 *.xaddr.com CNAME .
 xb5.com CNAME .
@@ -6062,8 +6058,6 @@ mylovinglife01974.life CNAME .
 *.mylovinglife01974.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
-mytiktok.life CNAME .
-*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6710,8 +6704,6 @@ ichafunddrives.live CNAME .
 *.ichafunddrives.live CNAME .
 igotthejuices.live CNAME .
 *.igotthejuices.live CNAME .
-illuminatiracers.live CNAME .
-*.illuminatiracers.live CNAME .
 inburstcorp.live CNAME .
 *.inburstcorp.live CNAME .
 incl.live CNAME .
@@ -6930,8 +6922,6 @@ smfcx.live CNAME .
 *.smfcx.live CNAME .
 soegyi.live CNAME .
 *.soegyi.live CNAME .
-spotifypigeon.live CNAME .
-*.spotifypigeon.live CNAME .
 srwedding.live CNAME .
 *.srwedding.live CNAME .
 startupperks.live CNAME .
@@ -9108,8 +9098,6 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
-shopeedeals.sale CNAME .
-*.shopeedeals.sale CNAME .
 aplnn.sbs CNAME .
 *.aplnn.sbs CNAME .
 atgqu.sbs CNAME .
@@ -10264,8 +10252,6 @@ sxzlj.top CNAME .
 *.sxzlj.top CNAME .
 syyqk.top CNAME .
 *.syyqk.top CNAME .
-t-short.top CNAME .
-*.t-short.top CNAME .
 tlrsq.top CNAME .
 *.tlrsq.top CNAME .
 tmdv.top CNAME .
@@ -11000,8 +10986,6 @@ bolagroup.xyz CNAME .
 *.bolagroup.xyz CNAME .
 cropped.xyz CNAME .
 *.cropped.xyz CNAME .
-cutturl.xyz CNAME .
-*.cutturl.xyz CNAME .
 docremedio.xyz CNAME .
 *.docremedio.xyz CNAME .
 editricity.xyz CNAME .
