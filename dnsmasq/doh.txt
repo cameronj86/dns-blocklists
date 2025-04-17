@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Apr 2025 03:27 UTC
-# Version: 2025.0417.0327.34
+# Last modified: 17 Apr 2025 15:37 UTC
+# Version: 2025.0417.1537.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1451
+# Number of entries: 1453
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -691,6 +691,7 @@ local=/dns2.in-berlin.de/
 local=/dns.inclusioproject.com/
 local=/adblock.indianets.net/
 local=/dns.indust.me/
+local=/dns.indybanipal.com/
 local=/dns.inforlogia.com/
 local=/doh.infracell.net/
 local=/inpssh.online/
@@ -847,7 +848,6 @@ local=/dns.mathewakhil.online/
 local=/maxfong.cc/
 local=/dns.maybe.icu/
 local=/dns.mbrjun.cn/
-local=/mc-sft.cn/
 local=/adguard.meddy94.de/
 local=/dns.meeo.win/
 local=/testguard.meexx.de/
@@ -1052,7 +1052,6 @@ local=/dns.eu-frankfurt-1.oraclecloud.com/
 local=/dns.uk-london-1.oraclecloud.com/
 local=/dns.us-ashburn-1.oraclecloud.com/
 local=/dns.us-phoenix-1.oraclecloud.com/
-local=/resolver.dnsprivacy.org.uk/
 local=/dns.oryxlabs.com/
 local=/dns.oszx.co/
 local=/dns.ours.luxe/
@@ -1100,6 +1099,7 @@ local=/dns.pizzari.me/
 local=/helios.plan9-dns.com/
 local=/kronos.plan9-dns.com/
 local=/pluton.plan9-dns.com/
+local=/hydra.plan9-ns1.com/
 local=/draco.plan9-ns2.com/
 local=/secure-dns.pleumkungz.com/
 local=/privacy.plumedns.com/
@@ -1388,6 +1388,7 @@ local=/dns.vaioswolke.xyz/
 local=/doh.valscosmos.com/
 local=/tor.vasi.li/
 local=/dns.vault81.de/
+local=/securedns.vendorvista.xyz/
 local=/dns.vinnyp.xyz/
 local=/dns.vinokurov.tk/
 local=/dns.vishalk.com/
@@ -1444,6 +1445,7 @@ local=/dns.yatima.tv/
 local=/lion.yazilimatolye.com/
 local=/ychen.cf/
 local=/ychen.gq/
+local=/sg.yepdns.com/
 local=/net01.youcef.io/
 local=/your-dns.run/
 local=/yovbak.com/
