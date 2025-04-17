@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744816740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744859340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Apr 2025 15:19 UTC
-; Version: 2025.0416.1519.59
+; Last modified: 17 Apr 2025 03:09 UTC
+; Version: 2025.0417.0309.56
 ; Syntax: RPZ
-; Number of entries: 20576
+; Number of entries: 20590
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -865,6 +865,8 @@ unblockit.bz CNAME .
 *.unblockit.bz CNAME .
 digitalmusicians.ca CNAME .
 *.digitalmusicians.ca CNAME .
+tvnihon.dragoneye.ca CNAME .
+*.tvnihon.dragoneye.ca CNAME .
 filmstreaming.ca CNAME .
 *.filmstreaming.ca CNAME .
 r.l5.ca CNAME .
@@ -3449,6 +3451,8 @@ d4download.com CNAME .
 *.d4download.com CNAME .
 dailym3uiptv.com CNAME .
 *.dailym3uiptv.com CNAME .
+daiflix.daitign.com CNAME .
+*.daiflix.daitign.com CNAME .
 damedesuyo.com CNAME .
 *.damedesuyo.com CNAME .
 danimados.com CNAME .
@@ -7837,6 +7841,8 @@ cineblog01.cyou CNAME .
 *.cineblog01.cyou CNAME .
 cinevood.cyou CNAME .
 *.cinevood.cyou CNAME .
+eurostreaming.cyou CNAME .
+*.eurostreaming.cyou CNAME .
 filmpertutti.cyou CNAME .
 *.filmpertutti.cyou CNAME .
 streamingcommunity.cyou CNAME .
@@ -12113,10 +12119,14 @@ deviloid.net CNAME .
 *.deviloid.net CNAME .
 bm.dfnbd.net CNAME .
 *.bm.dfnbd.net CNAME .
+bn.dfnbd.net CNAME .
+*.bn.dfnbd.net CNAME .
 cm.dfnbd.net CNAME .
 *.cm.dfnbd.net CNAME .
 em.dfnbd.net CNAME .
 *.em.dfnbd.net CNAME .
+srl.dfnbd.net CNAME .
+*.srl.dfnbd.net CNAME .
 tube.dfnbd.net CNAME .
 *.tube.dfnbd.net CNAME .
 diakov.net CNAME .
@@ -13749,6 +13759,8 @@ piratenproxy.nl CNAME .
 *.piratenproxy.nl CNAME .
 proxytpb.nl CNAME .
 *.proxytpb.nl CNAME .
+rutracker.nl CNAME .
+*.rutracker.nl CNAME .
 s2dfree.nl CNAME .
 *.s2dfree.nl CNAME .
 seehd.nl CNAME .
@@ -14479,6 +14491,8 @@ draculastream.org CNAME .
 *.draculastream.org CNAME .
 dreamingtree.org CNAME .
 *.dreamingtree.org CNAME .
+cutscloud.duckdns.org CNAME .
+*.cutscloud.duckdns.org CNAME .
 d13bttrck.duckdns.org CNAME .
 *.d13bttrck.duckdns.org CNAME .
 kamikazee.duckdns.org CNAME .
@@ -17239,6 +17253,8 @@ filmpertutti.shop CNAME .
 *.filmpertutti.shop CNAME .
 olamovies.shop CNAME .
 *.olamovies.shop CNAME .
+putlockers.shop CNAME .
+*.putlockers.shop CNAME .
 streamingcommunity.shop CNAME .
 *.streamingcommunity.shop CNAME .
 tantifilm.shop CNAME .
@@ -20517,8 +20533,6 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
-xstress.xyz CNAME .
-*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

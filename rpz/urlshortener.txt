@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744799280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744842180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Apr 2025 10:28 UTC
-; Version: 2025.0416.1028.01
+; Last modified: 16 Apr 2025 22:23 UTC
+; Version: 2025.0416.2223.09
 ; Syntax: RPZ
-; Number of entries: 11076
+; Number of entries: 11094
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4486,6 +4486,8 @@ geti.in CNAME .
 *.geti.in CNAME .
 gigaz.in CNAME .
 *.gigaz.in CNAME .
+gotos.in CNAME .
+*.gotos.in CNAME .
 grpx.in CNAME .
 *.grpx.in CNAME .
 ibest.in CNAME .
@@ -4690,6 +4692,8 @@ bdjk.info CNAME .
 *.bdjk.info CNAME .
 r.bioinfweb.info CNAME .
 *.r.bioinfweb.info CNAME .
+boeo.info CNAME .
+*.boeo.info CNAME .
 bordonet.info CNAME .
 *.bordonet.info CNAME .
 byng.info CNAME .
@@ -4702,6 +4706,8 @@ coinpr.info CNAME .
 *.coinpr.info CNAME .
 cookcenter.info CNAME .
 *.cookcenter.info CNAME .
+cotv.info CNAME .
+*.cotv.info CNAME .
 cupoms.info CNAME .
 *.cupoms.info CNAME .
 cuto.info CNAME .
@@ -4718,6 +4724,8 @@ dntbs.info CNAME .
 *.dntbs.info CNAME .
 dntx.info CNAME .
 *.dntx.info CNAME .
+dxpd.info CNAME .
+*.dxpd.info CNAME .
 ebooktruyen.info CNAME .
 *.ebooktruyen.info CNAME .
 edda-noun-i-145.info CNAME .
@@ -4744,6 +4752,8 @@ gbxb.info CNAME .
 *.gbxb.info CNAME .
 ghalida.info CNAME .
 *.ghalida.info CNAME .
+gtrv.info CNAME .
+*.gtrv.info CNAME .
 halfacamel.info CNAME .
 *.halfacamel.info CNAME .
 hamza-prince-001.info CNAME .
@@ -4800,6 +4810,8 @@ kyaa.info CNAME .
 *.kyaa.info CNAME .
 lameutefrance.info CNAME .
 *.lameutefrance.info CNAME .
+ldgr.info CNAME .
+*.ldgr.info CNAME .
 lihat.info CNAME .
 *.lihat.info CNAME .
 linkgacor33.info CNAME .
@@ -4810,6 +4822,8 @@ llllllllllllllllllllllllllllllllllllllllllllllllllllllls.info CNAME .
 *.llllllllllllllllllllllllllllllllllllllllllllllllllllllls.info CNAME .
 lrrahad200346.info CNAME .
 *.lrrahad200346.info CNAME .
+luzd.info CNAME .
+*.luzd.info CNAME .
 maper.info CNAME .
 *.maper.info CNAME .
 masuk-id.info CNAME .
@@ -4844,6 +4858,8 @@ nftchampions.info CNAME .
 *.nftchampions.info CNAME .
 niit-mts.info CNAME .
 *.niit-mts.info CNAME .
+nulr.info CNAME .
+*.nulr.info CNAME .
 oduarjakujas.info CNAME .
 *.oduarjakujas.info CNAME .
 okachi.info CNAME .
@@ -4856,6 +4872,8 @@ pmcccssa.info CNAME .
 *.pmcccssa.info CNAME .
 prince-0210th-akur.info CNAME .
 *.prince-0210th-akur.info CNAME .
+qdtw.info CNAME .
+*.qdtw.info CNAME .
 rnly.info CNAME .
 *.rnly.info CNAME .
 sdafasf.info CNAME .
@@ -4864,6 +4882,8 @@ shgy.info CNAME .
 *.shgy.info CNAME .
 siakapkeli.info CNAME .
 *.siakapkeli.info CNAME .
+sjev.info CNAME .
+*.sjev.info CNAME .
 sla-tory-a-1116.info CNAME .
 *.sla-tory-a-1116.info CNAME .
 soegyi.info CNAME .
@@ -4906,6 +4926,8 @@ usmfs.info CNAME .
 *.usmfs.info CNAME .
 vip-gacha99.info CNAME .
 *.vip-gacha99.info CNAME .
+vpye.info CNAME .
+*.vpye.info CNAME .
 w-hun-n-9883-gh.info CNAME .
 *.w-hun-n-9883-gh.info CNAME .
 webinfos.info CNAME .
@@ -4918,8 +4940,12 @@ worldcinema.info CNAME .
 *.worldcinema.info CNAME .
 xbig.info CNAME .
 *.xbig.info CNAME .
+xgpb.info CNAME .
+*.xgpb.info CNAME .
 ybhd.info CNAME .
 *.ybhd.info CNAME .
+ykel.info CNAME .
+*.ykel.info CNAME .
 zae-met-rroo.info CNAME .
 *.zae-met-rroo.info CNAME .
 zzu.info CNAME .
@@ -6060,8 +6086,6 @@ mylovinglife01974.life CNAME .
 *.mylovinglife01974.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
-mytiktok.life CNAME .
-*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6708,8 +6732,6 @@ ichafunddrives.live CNAME .
 *.ichafunddrives.live CNAME .
 igotthejuices.live CNAME .
 *.igotthejuices.live CNAME .
-illuminatiracers.live CNAME .
-*.illuminatiracers.live CNAME .
 inburstcorp.live CNAME .
 *.inburstcorp.live CNAME .
 incl.live CNAME .
@@ -6928,8 +6950,6 @@ smfcx.live CNAME .
 *.smfcx.live CNAME .
 soegyi.live CNAME .
 *.soegyi.live CNAME .
-spotifypigeon.live CNAME .
-*.spotifypigeon.live CNAME .
 srwedding.live CNAME .
 *.srwedding.live CNAME .
 startupperks.live CNAME .
@@ -9106,8 +9126,6 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
-shopeedeals.sale CNAME .
-*.shopeedeals.sale CNAME .
 aplnn.sbs CNAME .
 *.aplnn.sbs CNAME .
 atgqu.sbs CNAME .

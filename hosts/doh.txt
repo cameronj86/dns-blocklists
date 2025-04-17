@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Apr 2025 15:37 UTC
-# Version: 2025.0416.1537.26
+# Last modified: 17 Apr 2025 03:27 UTC
+# Version: 2025.0417.0327.34
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1611
 #
@@ -614,6 +614,7 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
+0.0.0.0 resolver2.dyndnsinternetguide.com
 0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
@@ -1029,7 +1030,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
