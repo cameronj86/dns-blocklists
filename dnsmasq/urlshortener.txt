@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Apr 2025 22:23 UTC
-# Version: 2025.0417.2223.32
+# Last modified: 18 Apr 2025 10:24 UTC
+# Version: 2025.0418.1024.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5546
+# Number of entries: 5550
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -756,7 +756,6 @@ local=/bnpam.sbs/
 local=/bo.st/
 local=/boa.la/
 local=/boa5s.life/
-local=/boeo.info/
 local=/bofh.us/
 local=/boi.re/
 local=/boile.rs/
@@ -2120,6 +2119,7 @@ local=/ilinky.info/
 local=/ilix.in/
 local=/ilk.ir/
 local=/illin.is/
+local=/illuminatiracers.live/
 local=/iln.io/
 local=/ilnk.io/
 local=/ilofi.sbs/
@@ -2505,7 +2505,6 @@ local=/lc.cx/
 local=/lc-s.co/
 local=/url.lcisd.net/
 local=/lcut.in/
-local=/ldgr.info/
 local=/learn.to/
 local=/learnit.today/
 local=/lego.build/
@@ -3109,6 +3108,7 @@ local=/myshorturls.com/
 local=/mysp.ac/
 local=/mysurl.com/
 local=/mytd.cc/
+local=/mytiktok.life/
 local=/mytinycheck9.life/
 local=/mytoluwalemi.life/
 local=/mytorus.live/
@@ -3832,6 +3832,7 @@ local=/rnly.info/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
+local=/robloxgroup.life/
 local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
@@ -3949,6 +3950,7 @@ local=/scrb.ly/
 local=/screeee.com/
 local=/scts.in/
 local=/scuf.co/
+local=/scvjj.sbs/
 local=/sdafasf.info/
 local=/sdafasf.life/
 local=/sdafasf.live/
@@ -4029,6 +4031,7 @@ local=/sho-rt.ru/
 local=/shoort.io/
 local=/shop-ify-store-km.life/
 local=/shope.ee/
+local=/shopeedeals.sale/
 local=/shopifie.com/
 local=/shopifystorekms.life/
 local=/shoplarryherndon115.life/
@@ -4328,6 +4331,7 @@ local=/spn.sr/
 local=/spoo.me/
 local=/spoti.fi/
 local=/spotify.link/
+local=/spotifypigeon.live/
 local=/spr.ly/
 local=/spr.tn/
 local=/sproutingdiscipleship.com/

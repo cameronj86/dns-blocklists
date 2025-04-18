@@ -681,6 +681,17 @@ Blocks native broadband tracker from devices, services and operating systems tha
 
 :green_circle: yes :yellow_square: partially :x: no
 
+> [!IMPORTANT]
+> The native tracker lists encompass all trackers used for monitoring user activity, which may also result in certain restrictions. These lists are integrated across the standard tiers—Light, Normal, Pro, Pro++, and Ultimate—each providing different levels of blocking:
+>          
+> - Light to Pro: These lists only block native trackers that do not interfere with functionality, ensuring a smooth experience.
+> - Pro++ (Aggressive): This list blocks additional native trackers that may cause some restrictions or limit certain features.
+> - Ultimate: This list provides the most comprehensive blocking, including all native trackers for maximum privacy.
+>           
+> By choosing a specific list version, you can control how aggressively native trackers are blocked according to your preferences.
+>               
+> When combining native tracker lists with standard lists, you may need to manually unblock certain native trackers as required.
+
 | Device/Service | Domains | Hosts | Adblock | DNSMasq | Wildcard<br>Asterisk | Wildcard<br>Domains | RPZ |
 |:-------|:--------:|:------:|:--------:|:--------:|:---------:|:--------:|:--------:|
 | Amazon (Devices, Shopping, Video) | [GH](lnkgh_d/native.amazon.txt) [GL](lnkgl_d/native.amazon.txt) [CB](lnkjd_d/native.amazon.txt) | [GH](lnkgh_h/native.amazon.txt) [GL](lnkgl_h/native.amazon.txt) [CB](lnkjd_h/native.amazon.txt) | [GH](lnkgh_a/native.amazon.txt) [GL](lnkgl_a/native.amazon.txt) [CB](lnkjd_a/native.amazon.txt) | [GH](lnkgh_m/native.amazon.txt) [GL](lnkgl_m/native.amazon.txt) [CB](lnkjd_m/native.amazon.txt) | [GH](lnkgh_w/native.amazon.txt) [GL](lnkgl_w/native.amazon.txt) [CB](lnkjd_w/native.amazon.txt) | [GH](lnkgh_w/native.amazon-onlydomains.txt) [GL](lnkgl_w/native.amazon-onlydomains.txt) [CB](lnkjd_w/native.amazon-onlydomains.txt) | [GH](lnkgh_r/native.amazon.txt) [GL](lnkgl_r/native.amazon.txt) [CB](lnkjd_r/native.amazon.txt) |

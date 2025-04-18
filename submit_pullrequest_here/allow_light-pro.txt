@@ -1,5 +1,9 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/5943
+variations.brave.com
+variations.bravesoftware.com
+
 # https://github.com/hagezi/dns-blocklists/issues/5625
 delivers.dtignite.com
 
