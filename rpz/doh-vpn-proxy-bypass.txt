@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744904280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744947060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Apr 2025 15:38 UTC
-; Version: 2025.0417.1538.41
+; Last modified: 18 Apr 2025 03:31 UTC
+; Version: 2025.0418.0331.50
 ; Syntax: RPZ
-; Number of entries: 8122
+; Number of entries: 8126
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1212,8 +1212,6 @@ earthvpn.com CNAME .
 *.earthvpn.com CNAME .
 konnnitiha----saiko.easterndns.com CNAME .
 *.konnnitiha----saiko.easterndns.com CNAME .
-koreharannma-heddodesu.easterndns.com CNAME .
-*.koreharannma-heddodesu.easterndns.com CNAME .
 easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 easyvpn.com CNAME .
@@ -1230,8 +1228,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 dns.ellichua.com CNAME .
@@ -1574,6 +1570,8 @@ hidexy.com CNAME .
 *.hidexy.com CNAME .
 hidingit.com CNAME .
 *.hidingit.com CNAME .
+himedns.com CNAME .
+*.himedns.com CNAME .
 hit-proxy.com CNAME .
 *.hit-proxy.com CNAME .
 hmavpn.com CNAME .
@@ -1804,8 +1802,6 @@ dns.kugoapps.com CNAME .
 *.dns.kugoapps.com CNAME .
 kyoheitensai.com CNAME .
 *.kyoheitensai.com CNAME .
-sena-and-jacob-yap-too-much.l0ckd0wn.com CNAME .
-*.sena-and-jacob-yap-too-much.l0ckd0wn.com CNAME .
 lablancer.com CNAME .
 *.lablancer.com CNAME .
 www-proxy.ladifsoftware.com CNAME .
@@ -1950,6 +1946,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -2696,6 +2694,8 @@ surf100.com CNAME .
 *.surf100.com CNAME .
 surfbouncer.com CNAME .
 *.surfbouncer.com CNAME .
+surfcovertly.com CNAME .
+*.surfcovertly.com CNAME .
 surfeasy.com CNAME .
 *.surfeasy.com CNAME .
 surfly.com CNAME .
@@ -4664,6 +4664,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+bdns.link CNAME .
+*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5454,8 +5456,6 @@ freewebproxyserver.net CNAME .
 *.freewebproxyserver.net CNAME .
 freeyoutube.net CNAME .
 *.freeyoutube.net CNAME .
-callllllllllcu.galaxybbs.net CNAME .
-*.callllllllllcu.galaxybbs.net CNAME .
 proxy.gamecove.net CNAME .
 *.proxy.gamecove.net CNAME .
 dns.beta.gandi.net CNAME .
@@ -7252,6 +7252,8 @@ dns.l337.site CNAME .
 *.dns.l337.site CNAME .
 dns.labnekotest.site CNAME .
 *.dns.labnekotest.site CNAME .
+lookingglass.site CNAME .
+*.lookingglass.site CNAME .
 mathhelpnow.site CNAME .
 *.mathhelpnow.site CNAME .
 mycelium.site CNAME .
@@ -7344,6 +7346,8 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
@@ -7598,6 +7602,8 @@ www-pa.linkall.uk CNAME .
 *.www-pa.linkall.uk CNAME .
 dns.aa.net.uk CNAME .
 *.dns.aa.net.uk CNAME .
+resolver.dnsprivacy.org.uk CNAME .
+*.resolver.dnsprivacy.org.uk CNAME .
 princez.uk CNAME .
 *.princez.uk CNAME .
 unblockit.uno CNAME .
@@ -8124,8 +8130,6 @@ pooblet.co.za CNAME .
 *.pooblet.co.za CNAME .
 surfshark.co.za CNAME .
 *.surfshark.co.za CNAME .
-freeflow.math3.vhutambo.co.za CNAME .
-*.freeflow.math3.vhutambo.co.za CNAME .
 paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
 dns.cabbage.zone CNAME .

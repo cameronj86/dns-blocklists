@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Apr 2025 15:37 UTC
-# Version: 2025.0417.1537.20
+# Last modified: 18 Apr 2025 03:30 UTC
+# Version: 2025.0418.0330.30
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1613
+# Number of entries: 1616
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -627,7 +627,6 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -674,6 +673,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -751,6 +751,7 @@
 0.0.0.0 dns.henek.ovh
 0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 hfgx.shop
+0.0.0.0 himedns.com
 0.0.0.0 dns.hinet.net
 0.0.0.0 hitian.me
 0.0.0.0 pihole1.hoerli.net
@@ -1030,6 +1031,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1191,6 +1193,7 @@
 0.0.0.0 dns.uk-london-1.oraclecloud.com
 0.0.0.0 dns.us-ashburn-1.oraclecloud.com
 0.0.0.0 dns.us-phoenix-1.oraclecloud.com
+0.0.0.0 resolver.dnsprivacy.org.uk
 0.0.0.0 dns.oryxlabs.com
 0.0.0.0 dns.oszx.co
 0.0.0.0 dns.ours.luxe

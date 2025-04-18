@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744903140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1744945920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Apr 2025 15:19 UTC
-; Version: 2025.0417.1519.40
+; Last modified: 18 Apr 2025 03:12 UTC
+; Version: 2025.0418.0312.48
 ; Syntax: RPZ
-; Number of entries: 20634
+; Number of entries: 20662
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1251,6 +1251,8 @@ streaminggratuit.cc CNAME .
 *.streaminggratuit.cc CNAME .
 streamz.cc CNAME .
 *.streamz.cc CNAME .
+stresser.cc CNAME .
+*.stresser.cc CNAME .
 tantifilm.cc CNAME .
 *.tantifilm.cc CNAME .
 tinyzonetv.cc CNAME .
@@ -1513,6 +1515,8 @@ serien.click CNAME .
 *.serien.click CNAME .
 starlive.click CNAME .
 *.starlive.click CNAME .
+streamingcommunity.click CNAME .
+*.streamingcommunity.click CNAME .
 tantifilm.click CNAME .
 *.tantifilm.click CNAME .
 terbit21.click CNAME .
@@ -1911,6 +1915,8 @@ ipstresser.co CNAME .
 *.ipstresser.co CNAME .
 italia-film.co CNAME .
 *.italia-film.co CNAME .
+jpmangas.co CNAME .
+*.jpmangas.co CNAME .
 juraganfilm.co CNAME .
 *.juraganfilm.co CNAME .
 katcr.co CNAME .
@@ -4767,6 +4773,8 @@ karsannet.com CNAME .
 *.karsannet.com CNAME .
 kastatus.com CNAME .
 *.kastatus.com CNAME .
+katastrofa.com CNAME .
+*.katastrofa.com CNAME .
 katfile.com CNAME .
 *.katfile.com CNAME .
 katunblock.com CNAME .
@@ -4841,6 +4849,8 @@ kraytracker.com CNAME .
 *.kraytracker.com CNAME .
 bt.ktkj.com CNAME .
 *.bt.ktkj.com CNAME .
+ktorrents.com CNAME .
+*.ktorrents.com CNAME .
 bt.ktrackers.com CNAME .
 *.bt.ktrackers.com CNAME .
 kualda.com CNAME .
@@ -5003,6 +5013,8 @@ macbed.com CNAME .
 *.macbed.com CNAME .
 macbff.com CNAME .
 *.macbff.com CNAME .
+macgamesland.com CNAME .
+*.macgamesland.com CNAME .
 macgamesworld.com CNAME .
 *.macgamesworld.com CNAME .
 macgamez-download.com CNAME .
@@ -6537,6 +6549,8 @@ stigstream.com CNAME .
 *.stigstream.com CNAME .
 storeplayapk.com CNAME .
 *.storeplayapk.com CNAME .
+stream-planet.com CNAME .
+*.stream-planet.com CNAME .
 streamboox.com CNAME .
 *.streamboox.com CNAME .
 streamcomplet.com CNAME .
@@ -7283,8 +7297,6 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
-videocop.com CNAME .
-*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -14027,6 +14039,8 @@ iboxbd.online CNAME .
 *.iboxbd.online CNAME .
 ilovekino.online CNAME .
 *.ilovekino.online CNAME .
+italia-film.online CNAME .
+*.italia-film.online CNAME .
 jkanime.online CNAME .
 *.jkanime.online CNAME .
 kinogo.online CNAME .
@@ -14843,6 +14857,8 @@ jamez.org CNAME .
 *.jamez.org CNAME .
 torrent.janemusic.org CNAME .
 *.torrent.janemusic.org CNAME .
+tracker.jdx3.org CNAME .
+*.tracker.jdx3.org CNAME .
 jokerlivestream.org CNAME .
 *.jokerlivestream.org CNAME .
 justdubs.org CNAME .
@@ -15425,6 +15441,8 @@ spatorrent.org CNAME .
 *.spatorrent.org CNAME .
 trader.speed-share.org CNAME .
 *.trader.speed-share.org CNAME .
+spirit-tracker.org CNAME .
+*.spirit-tracker.org CNAME .
 sportbit.org CNAME .
 *.sportbit.org CNAME .
 sportsbay.org CNAME .
@@ -16325,6 +16343,8 @@ layer7.pw CNAME .
 *.layer7.pw CNAME .
 leechinghell.pw CNAME .
 *.leechinghell.pw CNAME .
+m4ufree.pw CNAME .
+*.m4ufree.pw CNAME .
 megakino.pw CNAME .
 *.megakino.pw CNAME .
 mlwbd.pw CNAME .
@@ -16473,6 +16493,8 @@ filmpertutti.rest CNAME .
 *.filmpertutti.rest CNAME .
 nocensor.rest CNAME .
 *.nocensor.rest CNAME .
+streamingcommunity.rest CNAME .
+*.streamingcommunity.rest CNAME .
 docs.undi.rest CNAME .
 *.docs.undi.rest CNAME .
 guardaserie.restaurant CNAME .
@@ -17263,6 +17285,8 @@ jeremylee.sh CNAME .
 *.jeremylee.sh CNAME .
 kinox.sh CNAME .
 *.kinox.sh CNAME .
+losmovies.sh CNAME .
+*.losmovies.sh CNAME .
 mexa.sh CNAME .
 *.mexa.sh CNAME .
 warezz.now.sh CNAME .
@@ -17595,6 +17619,8 @@ soundpark.space CNAME .
 *.soundpark.space CNAME .
 streamflix.space CNAME .
 *.streamflix.space CNAME .
+streamkiste.space CNAME .
+*.streamkiste.space CNAME .
 tantifilm.space CNAME .
 *.tantifilm.space CNAME .
 tinfoil.space CNAME .
@@ -18227,6 +18253,8 @@ letsupload.to CNAME .
 *.letsupload.to CNAME .
 levidia.to CNAME .
 *.levidia.to CNAME .
+limetorrents.to CNAME .
+*.limetorrents.to CNAME .
 load.to CNAME .
 *.load.to CNAME .
 lookmovie2.to CNAME .
@@ -19549,6 +19577,8 @@ soul-anime.us CNAME .
 *.soul-anime.us CNAME .
 streamingcommunity.us CNAME .
 *.streamingcommunity.us CNAME .
+syria-live.us CNAME .
+*.syria-live.us CNAME .
 thebugs.us CNAME .
 *.thebugs.us CNAME .
 tpbmirror.us CNAME .
@@ -20575,8 +20605,6 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
-xstress.xyz CNAME .
-*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Apr 2025 15:38 UTC
-# Version: 2025.0417.1538.41
+# Last modified: 18 Apr 2025 03:31 UTC
+# Version: 2025.0418.0331.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4061
+# Number of entries: 4063
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -353,6 +353,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.nu/
 local=/bdns.pro/
 local=/beapasswpn.com/
@@ -718,7 +719,6 @@ local=/surfshark.co.za/
 local=/surfvpn.co.cc/
 local=/uk-proxy.co.uk/
 local=/unblocksites.co.uk/
-local=/freeflow.math3.vhutambo.co.za/
 local=/vpn-proxies.co.cc/
 local=/vpn-services.co.cc/
 local=/vpncompare.co.uk/
@@ -1115,7 +1115,6 @@ local=/earnapp.com/
 local=/earthvpn.com/
 local=/adguard.easez.net/
 local=/konnnitiha----saiko.easterndns.com/
-local=/koreharannma-heddodesu.easterndns.com/
 local=/easyhandshake.com/
 local=/easyproxy.tech/
 local=/easyvpn.com/
@@ -1133,7 +1132,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/eduacation.lol/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1271,6 +1269,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1394,7 +1393,6 @@ local=/g-a-y.pro/
 local=/gabstorm.com/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
-local=/callllllllllcu.galaxybbs.net/
 local=/galeben.fr/
 local=/dns.gamban.com/
 local=/adguard.gambini.org/
@@ -1604,6 +1602,7 @@ local=/hidexy.com/
 local=/hidingit.com/
 local=/hidingyour.info/
 local=/hiload.org/
+local=/himedns.com/
 local=/dns.hinet.net/
 local=/hiproxy.net/
 local=/hismanual.ru/
@@ -1908,7 +1907,6 @@ local=/kx-97795-tr.xyz/
 local=/dns.kxy.ink/
 local=/kyoheitensai.com/
 local=/agh.kyusang.win/
-local=/sena-and-jacob-yap-too-much.l0ckd0wn.com/
 local=/dns.l337.site/
 local=/adamz2eso.l5.ca/
 local=/lablancer.com/
@@ -1991,6 +1989,7 @@ local=/doh.phdns2.lonet.org/
 local=/doh.phdns3.lonet.org/
 local=/doh.phdns4.lonet.org/
 local=/doh.phdns5.lonet.org/
+local=/lookingglass.site/
 local=/lopana.com/
 local=/lotofabric.ru/
 local=/loubonde.xyz/
@@ -2181,6 +2180,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2445,6 +2445,7 @@ local=/dns.us-phoenix-1.oraclecloud.com/
 local=/oraclevpn.com/
 local=/orangeproxy.net/
 local=/proxy.ordentlichbreit.de/
+local=/resolver.dnsprivacy.org.uk/
 local=/dns.oryxlabs.com/
 local=/os4work.com/
 local=/ospylac.com/
@@ -3265,6 +3266,7 @@ local=/surf100.com/
 local=/surfall.net/
 local=/surfbouncer.com/
 local=/surfbytes.info/
+local=/surfcovertly.com/
 local=/surfdoge.pro/
 local=/surfeasy.com/
 local=/surfly.com/
