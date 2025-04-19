@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Apr 2025 22:17 UTC
-# Version: 2025.0418.2217.16
+# Last modified: 19 Apr 2025 15:34 UTC
+# Version: 2025.0419.1534.33
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1618
+# Number of entries: 1615
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -19,7 +19,6 @@
 0.0.0.0 dns.13evl.com
 0.0.0.0 cloud.198.games
 0.0.0.0 1and1-dns.de
-0.0.0.0 dns.23-4.cn
 0.0.0.0 233py.com
 0.0.0.0 dns.240527.xyz
 0.0.0.0 doh003.280blocker.net
@@ -885,7 +884,6 @@
 0.0.0.0 dns.kxy.ink
 0.0.0.0 agh.kyusang.win
 0.0.0.0 dns.l337.site
-0.0.0.0 dns.labnekotest.site
 0.0.0.0 doh.lacontrevoie.fr
 0.0.0.0 dns.lars-lehmann.net
 0.0.0.0 dns.lashes-brow.ru
@@ -1589,7 +1587,6 @@
 0.0.0.0 xholgm.top
 0.0.0.0 agh.xinfeng16m.top
 0.0.0.0 dns.xlion.tw
-0.0.0.0 xmr.land
 0.0.0.0 xn--durhre-yxa.de
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com

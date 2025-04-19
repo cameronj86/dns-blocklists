@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745014860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745075760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Apr 2025 22:21 UTC
-; Version: 2025.0418.2221.18
+; Last modified: 19 Apr 2025 15:16 UTC
+; Version: 2025.0419.1516.55
 ; Syntax: RPZ
-; Number of entries: 20748
+; Number of entries: 20760
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -45,6 +45,8 @@ soap2day.ac CNAME .
 *.soap2day.ac CNAME .
 sockshare.ac CNAME .
 *.sockshare.ac CNAME .
+totalsportek.ac CNAME .
+*.totalsportek.ac CNAME .
 tvshows.ac CNAME .
 *.tvshows.ac CNAME .
 watchmovie.ac CNAME .
@@ -6675,6 +6677,8 @@ techanywhere.com CNAME .
 *.techanywhere.com CNAME .
 techbigs.com CNAME .
 *.techbigs.com CNAME .
+techmediatune.com CNAME .
+*.techmediatune.com CNAME .
 techtoroms.com CNAME .
 *.techtoroms.com CNAME .
 teentorrents.com CNAME .
@@ -6863,6 +6867,8 @@ torrent-tracks.com CNAME .
 *.torrent-tracks.com CNAME .
 torrent411.com CNAME .
 *.torrent411.com CNAME .
+torrentazos.com CNAME .
+*.torrentazos.com CNAME .
 torrentbd.com CNAME .
 *.torrentbd.com CNAME .
 torrentbox.com CNAME .
@@ -6879,6 +6885,8 @@ torrentdia103.com CNAME .
 *.torrentdia103.com CNAME .
 torrentdia104.com CNAME .
 *.torrentdia104.com CNAME .
+torrentdia2.com CNAME .
+*.torrentdia2.com CNAME .
 torrentdia94.com CNAME .
 *.torrentdia94.com CNAME .
 torrentdia95.com CNAME .
@@ -7051,6 +7059,8 @@ tpbaysproxy.com CNAME .
 *.tpbaysproxy.com CNAME .
 tpbonion.com CNAME .
 *.tpbonion.com CNAME .
+tpbpiratebayproxy.com CNAME .
+*.tpbpiratebayproxy.com CNAME .
 tpbproxypirate.com CNAME .
 *.tpbproxypirate.com CNAME .
 trackerfix.com CNAME .
@@ -20691,6 +20701,8 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
+xstress.xyz CNAME .
+*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

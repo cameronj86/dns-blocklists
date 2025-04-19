@@ -1,5 +1,9 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/5943
+variations.brave.com
+variations.bravesoftware.com
+
 # https://github.com/hagezi/dns-blocklists/issues/5223
 smetrics.miles-and-more.com
 miles-and-more.com.data.adobedc.net

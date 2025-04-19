@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Apr 2025 22:19 UTC
-# Version: 2025.0418.2219.58
+# Last modified: 19 Apr 2025 10:23 UTC
+# Version: 2025.0419.1023.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5540
+# Number of entries: 5545
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -496,7 +496,6 @@ local=/aporasal.net/
 local=/app.link/
 local=/appbitly.com/
 local=/apple.co/
-local=/apple.news/
 local=/apply-here.live/
 local=/appna.me/
 local=/appsfly.co/
@@ -2118,6 +2117,7 @@ local=/ilinky.info/
 local=/ilix.in/
 local=/ilk.ir/
 local=/illin.is/
+local=/illuminatiracers.live/
 local=/iln.io/
 local=/ilnk.io/
 local=/ilofi.sbs/
@@ -3106,6 +3106,7 @@ local=/myshorturls.com/
 local=/mysp.ac/
 local=/mysurl.com/
 local=/mytd.cc/
+local=/mytiktok.life/
 local=/mytinycheck9.life/
 local=/mytoluwalemi.life/
 local=/mytorus.live/
@@ -3828,6 +3829,7 @@ local=/rnly.info/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
+local=/robloxgroup.life/
 local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
@@ -4026,6 +4028,7 @@ local=/sho-rt.ru/
 local=/shoort.io/
 local=/shop-ify-store-km.life/
 local=/shope.ee/
+local=/shopeedeals.sale/
 local=/shopifie.com/
 local=/shopifystorekms.life/
 local=/shoplarryherndon115.life/
@@ -4273,6 +4276,7 @@ local=/smtvj.com/
 local=/smu.gs/
 local=/smurl.link/
 local=/sn.im/
+local=/snapchats.life/
 local=/snapt.io/
 local=/snar.co/
 local=/snd.sc/
@@ -4324,6 +4328,7 @@ local=/spn.sr/
 local=/spoo.me/
 local=/spoti.fi/
 local=/spotify.link/
+local=/spotifypigeon.live/
 local=/spr.ly/
 local=/spr.tn/
 local=/sproutingdiscipleship.com/

@@ -1624,6 +1624,13 @@
       }
     },
     {
+      "PK": "glitchproductions.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.gold",
       "action": {
         "do": 0,
@@ -3690,6 +3697,13 @@
     },
     {
       "PK": "sentry.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "severance.healthcare",
       "action": {
         "do": 1,
         "status": 1
