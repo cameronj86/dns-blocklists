@@ -15,34 +15,6 @@
       }
     },
     {
-      "PK": "aic.cdpbeacon.lgtvcommon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aic.homeprv.lgtvcommon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aic.nudge.lgtvcommon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aic.wiseconfig.lgtvcommon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "alphonso.tv",
       "action": {
         "do": 0,
@@ -50,14 +22,7 @@
       }
     },
     {
-      "PK": "eic.cdpbeacon.lgtvcommon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "eic.homeprv.lgtvcommon.com",
+      "PK": "cdpbeacon.lgtvcommon.com",
       "action": {
         "do": 0,
         "status": 1
@@ -78,21 +43,7 @@
       }
     },
     {
-      "PK": "eic.nudge.lgtvcommon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "kic.homeprv.lgtvcommon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "kic.nudge.lgtvcommon.com",
+      "PK": "homeprv.lgtvcommon.com",
       "action": {
         "do": 0,
         "status": 1
@@ -100,6 +51,13 @@
     },
     {
       "PK": "lgads.tv",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "nudge.lgtvcommon.com",
       "action": {
         "do": 0,
         "status": 1
@@ -127,20 +85,6 @@
       }
     },
     {
-      "PK": "ruc.homeprv.lgtvcommon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ruc.nudge.lgtvcommon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "us-ad-lgsmartad-com.aws-prd.net",
       "action": {
         "do": 0,
@@ -156,6 +100,13 @@
     },
     {
       "PK": "us.lgsmartad.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wiseconfig.lgtvcommon.com",
       "action": {
         "do": 0,
         "status": 1

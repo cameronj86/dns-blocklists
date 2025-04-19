@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Apr 2025 15:34 UTC
-# Version: 2025.0418.1534.09
+# Last modified: 18 Apr 2025 22:15 UTC
+# Version: 2025.0418.2215.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4065
+# Number of entries: 4073
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -353,6 +353,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.nu/
 local=/bdns.pro/
 local=/beapasswpn.com/
@@ -1268,6 +1269,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -3206,8 +3208,11 @@ local=/ams1.startpage.com/
 local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
+local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/error.proxy.startpage.com/
+local=/proxy1.startpage.com/
+local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us-browse.startpage.com/
@@ -3320,6 +3325,7 @@ local=/tbunet.com/
 local=/tcpvpn.com/
 local=/tecdrive.site/
 local=/dns1.techeasy.org/
+local=/vpn.technicule.info/
 local=/doh.technochat.in/
 local=/technofix.ir/
 local=/dns.technologycage.com/
@@ -3781,6 +3787,7 @@ local=/vpn.sh/
 local=/vpn-account.com/
 local=/vpn-byen.dk/
 local=/vpn-fastest.com/
+local=/vpn-for-test.ru/
 local=/vpn-free.com/
 local=/vpn-free.download/
 local=/vpn-professional.company/
@@ -3866,6 +3873,7 @@ local=/vpnwebsite.com/
 local=/vpnwelt.com/
 local=/antispam.vpsvpn.com/
 local=/go.vrpyourself.online/
+local=/vtcuong.site/
 local=/vyprvpn.com/
 local=/dns.w3ctag.org/
 local=/dns.wahr.top/

@@ -4,16 +4,18 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Apr 2025 06:25 UTC
-# Version: 2025.0412.0625.36
+# Last modified: 18 Apr 2025 23:27 UTC
+# Version: 2025.0418.2327.31
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 210
+# Number of entries: 218
 #
+0.0.0.0 az.appstore.vivo.com.cn
 0.0.0.0 asia-abeacdataonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-abeacdataort-stsdk.vivoglobal.com
 0.0.0.0 asia-ad-mkt-vivofs.vivoglobal.com
 0.0.0.0 asia-adlog.vivoglobal.com
 0.0.0.0 asia-adsjssdk.vivoglobal.com
+0.0.0.0 asia-album-api.vivoglobal.com
 0.0.0.0 asia-analyzer-appstore.vivoglobal.com
 0.0.0.0 asia-commonitor-stsdk.vivoglobal.com
 0.0.0.0 asia-comonrt-stsdk.vivoglobal.com
@@ -38,6 +40,7 @@
 0.0.0.0 asia-st-sysupgrade.vivoglobal.com
 0.0.0.0 asia-stsdk.vivoglobal.com
 0.0.0.0 asia-sysupgrade-api.vivoglobal.com
+0.0.0.0 asia-third-appstore.vivoglobal.com
 0.0.0.0 asia-timesync.vivoglobal.com
 0.0.0.0 asia-vcode-api.vivoglobal.com
 0.0.0.0 asia-vcode-od.vivoglobal.com
@@ -88,6 +91,7 @@
 0.0.0.0 ex-adreq-in.vivoglobal.com
 0.0.0.0 ex-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 id-analyzer-appstore.vivoglobal.com
+0.0.0.0 id-third-appstore.vivoglobal.com
 0.0.0.0 in-adlog.vivoglobal.com
 0.0.0.0 in-adreq.vivoglobal.com
 0.0.0.0 in-adsjssdk.vivoglobal.com
@@ -95,6 +99,7 @@
 0.0.0.0 in-apport-stsdk.vivoglobal.com
 0.0.0.0 in-apppnrt-stsdk.vivoglobal.com
 0.0.0.0 in-appprt-stsdk.vivoglobal.com
+0.0.0.0 in-cota.vivoglobal.com
 0.0.0.0 in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0 in-ctdbort-stsdk.vivoglobal.com
 0.0.0.0 in-ctdbpnrt-stsdk.vivoglobal.com
@@ -108,6 +113,7 @@
 0.0.0.0 in-ort-stsdk.vivoglobal.com
 0.0.0.0 in-os-config-appstore.vivoglobal.com
 0.0.0.0 in-pnrt-stsdk.vivoglobal.com
+0.0.0.0 in-third-appstore.vivoglobal.com
 0.0.0.0 in-timesync.vivoglobal.com
 0.0.0.0 in-vcode-api.vivoglobal.com
 0.0.0.0 in-vcode-od.vivoglobal.com
@@ -175,6 +181,7 @@
 0.0.0.0 ru-st-sysupgrade.vivoglobal.com
 0.0.0.0 ru-stsdk.vivoglobal.com
 0.0.0.0 ru-sysupgrade-api.vivoglobal.com
+0.0.0.0 ru-third-appstore.vivoglobal.com
 0.0.0.0 ru-timesync.vivoglobal.com
 0.0.0.0 ru-vcode-api.vivoglobal.com
 0.0.0.0 ru-vcode-od.vivoglobal.com
@@ -202,6 +209,7 @@
 0.0.0.0 ort.stsdk.vivoglobal.com
 0.0.0.0 pnrt.stsdk.vivoglobal.com
 0.0.0.0 prt.stsdk.vivoglobal.com
+0.0.0.0 tr-album-api.vivoglobal.com
 0.0.0.0 tr-cota.vivoglobal.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
 0.0.0.0 tr-onrt-stsdk.vivoglobal.com

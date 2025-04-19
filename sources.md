@@ -57,9 +57,7 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://hblock.molinero.dev/hosts_adblock.txt
 https://hole.cert.pl/domains/domains.txt
 https://hole.cert.pl/domains/v2/domains.txt
-https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/firstparty-trackers.txt
-https://hostfiles.frogeye.fr/multiparty-trackers.txt
 https://hosts.tweedge.net/malicious.txt
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/greensnow.ipset

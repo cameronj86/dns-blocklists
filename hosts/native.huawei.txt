@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Apr 2025 19:56 UTC
-# Version: 2025.0415.1956.19
+# Last modified: 18 Apr 2025 23:15 UTC
+# Version: 2025.0418.2315.19
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 141
+# Number of entries: 140
 #
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
@@ -138,7 +138,6 @@
 0.0.0.0 honorsearch-drcn.hiboard.hihonorcloud.com
 0.0.0.0 honorsearch-dre.hiboard.hihonorcloud.com
 0.0.0.0 ads-drcn.platform.hihonorcloud.com
-0.0.0.0 grs-test.platform.hihonorcloud.com
 0.0.0.0 log-dra.platform.hihonorcloud.com
 0.0.0.0 log-drcn.platform.hihonorcloud.com
 0.0.0.0 log-dre.platform.hihonorcloud.com

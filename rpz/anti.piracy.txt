@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744989300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745014860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Apr 2025 15:15 UTC
-; Version: 2025.0418.1515.16
+; Last modified: 18 Apr 2025 22:21 UTC
+; Version: 2025.0418.2221.18
 ; Syntax: RPZ
-; Number of entries: 20716
+; Number of entries: 20748
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -691,6 +691,8 @@ vmovie.biz CNAME .
 *.vmovie.biz CNAME .
 voxfilmeonline.biz CNAME .
 *.voxfilmeonline.biz CNAME .
+webstresser.biz CNAME .
+*.webstresser.biz CNAME .
 zdig1.biz CNAME .
 *.zdig1.biz CNAME .
 zetorrents.biz CNAME .
@@ -2059,6 +2061,8 @@ unknownbooter.co CNAME .
 *.unknownbooter.co CNAME .
 tracker.vanitycore.co CNAME .
 *.tracker.vanitycore.co CNAME .
+vdos-s.co CNAME .
+*.vdos-s.co CNAME .
 vidcloud.co CNAME .
 *.vidcloud.co CNAME .
 videobin.co CNAME .
@@ -5803,6 +5807,8 @@ piratebay-mirrors.com CNAME .
 *.piratebay-mirrors.com CNAME .
 piratebay-proxylist.com CNAME .
 *.piratebay-proxylist.com CNAME .
+piratebayblocked.com CNAME .
+*.piratebayblocked.com CNAME .
 piratebaylive.com CNAME .
 *.piratebaylive.com CNAME .
 piratebayproxyz.com CNAME .
@@ -7321,6 +7327,8 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
+videocop.com CNAME .
+*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -7407,8 +7415,12 @@ warezcidayi.com CNAME .
 *.warezcidayi.com CNAME .
 warezcities.com CNAME .
 *.warezcities.com CNAME .
+warezcode.com CNAME .
+*.warezcode.com CNAME .
 warezcore.com CNAME .
 *.warezcore.com CNAME .
+warezfactor.com CNAME .
+*.warezfactor.com CNAME .
 warezfortune.com CNAME .
 *.warezfortune.com CNAME .
 warezforums.com CNAME .
@@ -12997,6 +13009,8 @@ piratebayorg.net CNAME .
 *.piratebayorg.net CNAME .
 piratebayproxy.net CNAME .
 *.piratebayproxy.net CNAME .
+piratecity.net CNAME .
+*.piratecity.net CNAME .
 pirateday.net CNAME .
 *.pirateday.net CNAME .
 piratepiratepirate.net CNAME .
@@ -13961,6 +13975,8 @@ libertyland.one CNAME .
 *.libertyland.one CNAME .
 moviesjoy.one CNAME .
 *.moviesjoy.one CNAME .
+tracker.picotorrent.one CNAME .
+*.tracker.picotorrent.one CNAME .
 piratbaytpb.one CNAME .
 *.piratbaytpb.one CNAME .
 piratebay.one CNAME .
@@ -14139,6 +14155,8 @@ uj3wazyk5u4hnvtk.online CNAME .
 *.uj3wazyk5u4hnvtk.online CNAME .
 unbl0ck.online CNAME .
 *.unbl0ck.online CNAME .
+vostfree.online CNAME .
+*.vostfree.online CNAME .
 wassermann.online CNAME .
 *.wassermann.online CNAME .
 xcine.online CNAME .
@@ -15755,6 +15773,8 @@ warez-bb.org CNAME .
 *.warez-bb.org CNAME .
 warez-ts.org CNAME .
 *.warez-ts.org CNAME .
+warez-world.org CNAME .
+*.warez-world.org CNAME .
 warezhr.org CNAME .
 *.warezhr.org CNAME .
 warezscene.org CNAME .
@@ -17201,6 +17221,8 @@ movies123.sbs CNAME .
 *.movies123.sbs CNAME .
 piratesbay.sbs CNAME .
 *.piratesbay.sbs CNAME .
+ettv.proxybit.sbs CNAME .
+*.ettv.proxybit.sbs CNAME .
 123movies.sc CNAME .
 *.123movies.sc CNAME .
 123movieshub.sc CNAME .
@@ -17545,6 +17567,8 @@ tracker.trojangogogo.site CNAME .
 *.tracker.trojangogogo.site CNAME .
 tvhd.tutvlive.site CNAME .
 *.tvhd.tutvlive.site CNAME .
+vkstream.site CNAME .
+*.vkstream.site CNAME .
 watchstream.site CNAME .
 *.watchstream.site CNAME .
 youplex.site CNAME .
@@ -17839,6 +17863,8 @@ wawacity.su CNAME .
 *.123movies.support CNAME .
 eurostreaming.support CNAME .
 *.eurostreaming.support CNAME .
+piratebay.surf CNAME .
+*.piratebay.surf CNAME .
 tpb.surf CNAME .
 *.tpb.surf CNAME .
 ettv.unblocknow.surf CNAME .
@@ -19349,6 +19375,8 @@ uniongang.tv CNAME .
 *.uniongang.tv CNAME .
 ustv247.tv CNAME .
 *.ustv247.tv CNAME .
+velocinator.tv CNAME .
+*.velocinator.tv CNAME .
 vernaruto.tv CNAME .
 *.vernaruto.tv CNAME .
 verpelisonline.tv CNAME .
@@ -19375,10 +19403,14 @@ vostfree.tv CNAME .
 *.vostfree.tv CNAME .
 vuemedia.tv CNAME .
 *.vuemedia.tv CNAME .
+watch-free.tv CNAME .
+*.watch-free.tv CNAME .
 watchserieshd.tv CNAME .
 *.watchserieshd.tv CNAME .
 watchsomuch.tv CNAME .
 *.watchsomuch.tv CNAME .
+wawacity.tv CNAME .
+*.wawacity.tv CNAME .
 wco.tv CNAME .
 *.wco.tv CNAME .
 wcostream.tv CNAME .
@@ -20539,6 +20571,8 @@ opentracker.xyz CNAME .
 *.opentracker.xyz CNAME .
 piraat.xyz CNAME .
 *.piraat.xyz CNAME .
+pirateaccess.xyz CNAME .
+*.pirateaccess.xyz CNAME .
 piratebay1.xyz CNAME .
 *.piratebay1.xyz CNAME .
 piratenow.xyz CNAME .
@@ -20657,8 +20691,6 @@ tracker.xiaoduola.xyz CNAME .
 *.tracker.xiaoduola.xyz CNAME .
 xoomtv.xyz CNAME .
 *.xoomtv.xyz CNAME .
-xstress.xyz CNAME .
-*.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
 ytstvmovies.xyz CNAME .

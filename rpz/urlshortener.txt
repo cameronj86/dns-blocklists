@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1744971840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745014740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Apr 2025 10:24 UTC
-; Version: 2025.0418.1024.45
+; Last modified: 18 Apr 2025 22:19 UTC
+; Version: 2025.0418.2219.58
 ; Syntax: RPZ
-; Number of entries: 11100
+; Number of entries: 11080
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1026,6 +1026,8 @@ avlr.co CNAME .
 *.avlr.co CNAME .
 avydn.co CNAME .
 *.avydn.co CNAME .
+aylink.co CNAME .
+*.aylink.co CNAME .
 biolinky.co CNAME .
 *.biolinky.co CNAME .
 bittyurl.co CNAME .
@@ -4486,8 +4488,6 @@ geti.in CNAME .
 *.geti.in CNAME .
 gigaz.in CNAME .
 *.gigaz.in CNAME .
-gotos.in CNAME .
-*.gotos.in CNAME .
 grpx.in CNAME .
 *.grpx.in CNAME .
 ibest.in CNAME .
@@ -4746,8 +4746,6 @@ gbxb.info CNAME .
 *.gbxb.info CNAME .
 ghalida.info CNAME .
 *.ghalida.info CNAME .
-gtrv.info CNAME .
-*.gtrv.info CNAME .
 halfacamel.info CNAME .
 *.halfacamel.info CNAME .
 hamza-prince-001.info CNAME .
@@ -4814,8 +4812,6 @@ llllllllllllllllllllllllllllllllllllllllllllllllllllllls.info CNAME .
 *.llllllllllllllllllllllllllllllllllllllllllllllllllllllls.info CNAME .
 lrrahad200346.info CNAME .
 *.lrrahad200346.info CNAME .
-luzd.info CNAME .
-*.luzd.info CNAME .
 maper.info CNAME .
 *.maper.info CNAME .
 masuk-id.info CNAME .
@@ -4850,8 +4846,6 @@ nftchampions.info CNAME .
 *.nftchampions.info CNAME .
 niit-mts.info CNAME .
 *.niit-mts.info CNAME .
-nulr.info CNAME .
-*.nulr.info CNAME .
 oduarjakujas.info CNAME .
 *.oduarjakujas.info CNAME .
 okachi.info CNAME .
@@ -4914,8 +4908,6 @@ usmfs.info CNAME .
 *.usmfs.info CNAME .
 vip-gacha99.info CNAME .
 *.vip-gacha99.info CNAME .
-vpye.info CNAME .
-*.vpye.info CNAME .
 w-hun-n-9883-gh.info CNAME .
 *.w-hun-n-9883-gh.info CNAME .
 webinfos.info CNAME .
@@ -4928,12 +4920,8 @@ worldcinema.info CNAME .
 *.worldcinema.info CNAME .
 xbig.info CNAME .
 *.xbig.info CNAME .
-xgpb.info CNAME .
-*.xgpb.info CNAME .
 ybhd.info CNAME .
 *.ybhd.info CNAME .
-ykel.info CNAME .
-*.ykel.info CNAME .
 zae-met-rroo.info CNAME .
 *.zae-met-rroo.info CNAME .
 zzu.info CNAME .
@@ -6078,8 +6066,6 @@ mylovinglife01974.life CNAME .
 *.mylovinglife01974.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
-mytiktok.life CNAME .
-*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6150,8 +6136,6 @@ rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
 rivera-quinones-luis-manuel-5.life CNAME .
 *.rivera-quinones-luis-manuel-5.life CNAME .
-robloxgroup.life CNAME .
-*.robloxgroup.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -6182,8 +6166,6 @@ siakap.life CNAME .
 *.siakap.life CNAME .
 sibutathemba120.life CNAME .
 *.sibutathemba120.life CNAME .
-snapchats.life CNAME .
-*.snapchats.life CNAME .
 soegyi.life CNAME .
 *.soegyi.life CNAME .
 soulful-transformation-studio.life CNAME .
@@ -6506,6 +6488,8 @@ topurl.link CNAME .
 *.topurl.link CNAME .
 tp90.link CNAME .
 *.tp90.link CNAME .
+tr.link CNAME .
+*.tr.link CNAME .
 trackurl.link CNAME .
 *.trackurl.link CNAME .
 tweetable.link CNAME .
@@ -6726,8 +6710,6 @@ ichafunddrives.live CNAME .
 *.ichafunddrives.live CNAME .
 igotthejuices.live CNAME .
 *.igotthejuices.live CNAME .
-illuminatiracers.live CNAME .
-*.illuminatiracers.live CNAME .
 inburstcorp.live CNAME .
 *.inburstcorp.live CNAME .
 incl.live CNAME .
@@ -6946,8 +6928,6 @@ smfcx.live CNAME .
 *.smfcx.live CNAME .
 soegyi.live CNAME .
 *.soegyi.live CNAME .
-spotifypigeon.live CNAME .
-*.spotifypigeon.live CNAME .
 srwedding.live CNAME .
 *.srwedding.live CNAME .
 startupperks.live CNAME .
@@ -9124,8 +9104,6 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
-shopeedeals.sale CNAME .
-*.shopeedeals.sale CNAME .
 aplnn.sbs CNAME .
 *.aplnn.sbs CNAME .
 atgqu.sbs CNAME .
@@ -10188,6 +10166,8 @@ iikzi.top CNAME .
 *.iikzi.top CNAME .
 iiwap.top CNAME .
 *.iiwap.top CNAME .
+irkc.top CNAME .
+*.irkc.top CNAME .
 irop.top CNAME .
 *.irop.top CNAME .
 itdmusic.top CNAME .

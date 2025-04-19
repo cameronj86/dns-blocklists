@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Mar 2025 00:33 UTC
-# Version: 2025.0322.0033.20
+# Last modified: 18 Apr 2025 23:23 UTC
+# Version: 2025.0418.2323.50
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1160
+# Number of entries: 1164
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 ad-inserter.alphonso.tv
@@ -1155,12 +1155,15 @@
 0.0.0.0 vn.ad.lgsmartad.com
 0.0.0.0 za.ad.lgsmartad.com
 0.0.0.0 us.lgsmartad.com
+0.0.0.0 cdpbeacon.lgtvcommon.com
 0.0.0.0 aic.cdpbeacon.lgtvcommon.com
 0.0.0.0 eic.cdpbeacon.lgtvcommon.com
+0.0.0.0 homeprv.lgtvcommon.com
 0.0.0.0 aic.homeprv.lgtvcommon.com
 0.0.0.0 eic.homeprv.lgtvcommon.com
 0.0.0.0 kic.homeprv.lgtvcommon.com
 0.0.0.0 ruc.homeprv.lgtvcommon.com
+0.0.0.0 nudge.lgtvcommon.com
 0.0.0.0 aic.nudge.lgtvcommon.com
 0.0.0.0 eic.nudge.lgtvcommon.com
 0.0.0.0 kic.nudge.lgtvcommon.com
@@ -1168,4 +1171,5 @@
 0.0.0.0 rdl.lgtvcommon.com
 0.0.0.0 aic.rdl.lgtvcommon.com
 0.0.0.0 kic.rdl.lgtvcommon.com
+0.0.0.0 wiseconfig.lgtvcommon.com
 0.0.0.0 aic.wiseconfig.lgtvcommon.com

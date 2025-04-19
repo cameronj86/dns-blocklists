@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Apr 2025 23:05 UTC
-# Version: 2025.0411.2305.05
+# Last modified: 18 Apr 2025 23:11 UTC
+# Version: 2025.0418.2311.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 346
+# Number of entries: 347
 #
 local=/aan.amazon.co.jp/
 local=/aan.amazon.com/
@@ -231,6 +231,7 @@ local=/monitoring.eu-west-3.amazonaws.com/
 local=/monitoring.il-central-1.amazonaws.com/
 local=/monitoring.me-central-1.amazonaws.com/
 local=/monitoring.me-south-1.amazonaws.com/
+local=/monitoring.prod.cloudwatch.amazonaws.com/
 local=/monitoring.sa-east-1.amazonaws.com/
 local=/monitoring.us-east-1.amazonaws.com/
 local=/monitoring.us-east-2.amazonaws.com/

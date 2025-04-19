@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Apr 2025 23:05 UTC
-# Version: 2025.0411.2305.05
+# Last modified: 18 Apr 2025 23:11 UTC
+# Version: 2025.0418.2311.01
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 605
+# Number of entries: 606
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -47,6 +47,7 @@ aax-eu-ott-events.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
+aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-fe-rtb.amazon-adsystem.com
@@ -217,7 +218,6 @@ cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
-cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
@@ -380,6 +380,7 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
+monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
