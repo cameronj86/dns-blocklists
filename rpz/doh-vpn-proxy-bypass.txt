@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745119860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745162820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Apr 2025 03:31 UTC
-; Version: 2025.0420.0331.02
+; Last modified: 20 Apr 2025 15:27 UTC
+; Version: 2025.0420.1527.18
 ; Syntax: RPZ
 ; Number of entries: 8146
 ;
@@ -4182,6 +4182,8 @@ e.cpfrx.info CNAME .
 *.e.cpfrx.info CNAME .
 www.i.cpfrx.info CNAME .
 *.www.i.cpfrx.info CNAME .
+cracksite.info CNAME .
+*.cracksite.info CNAME .
 crazysurfer.info CNAME .
 *.crazysurfer.info CNAME .
 dns.d96.info CNAME .
@@ -4240,6 +4242,8 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
+doh.kekew.info CNAME .
+*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .
@@ -4676,8 +4680,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -7468,8 +7470,6 @@ alidns.cb1999.top CNAME .
 *.alidns.cb1999.top CNAME .
 alidns2.cb1999.top CNAME .
 *.alidns2.cb1999.top CNAME .
-dns2.cbio.top CNAME .
-*.dns2.cbio.top CNAME .
 dns.chromeina.top CNAME .
 *.dns.chromeina.top CNAME .
 danhcan.top CNAME .

@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Apr 2025 03:31 UTC
-# Version: 2025.0420.0331.02
+# Last modified: 20 Apr 2025 15:27 UTC
+# Version: 2025.0420.1527.18
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 4073
 #
@@ -352,7 +352,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.nu/
 local=/bdns.pro/
 local=/beapasswpn.com/
@@ -524,7 +523,6 @@ local=/catdns.org/
 local=/alidns.cb1999.top/
 local=/alidns2.cb1999.top/
 local=/cbentertainment.online/
-local=/dns2.cbio.top/
 local=/doh.ccb-net.it/
 local=/vpn.ccnt.fr/
 local=/dns.cctld.kg/
@@ -799,6 +797,7 @@ local=/b.cpfrx.info/
 local=/c.cpfrx.info/
 local=/e.cpfrx.info/
 local=/www.i.cpfrx.info/
+local=/cracksite.info/
 local=/crawlbase.com/
 local=/crazyfastrace.lol/
 local=/crazyproxy.org/
@@ -1852,6 +1851,7 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/kerbeans.com/
