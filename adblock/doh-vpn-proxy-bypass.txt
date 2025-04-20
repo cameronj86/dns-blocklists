@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 19 Apr 2025 15:35 UTC
-! Version: 2025.0419.1535.53
+! Last modified: 20 Apr 2025 03:31 UTC
+! Version: 2025.0420.0331.02
 ! Syntax: AdBlock
-! Number of entries: 4069
+! Number of entries: 4073
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -353,6 +353,7 @@
 ||doh.battle.christmas^
 ||bazooki-infra.dev^
 ||bdns.io^
+||bdns.link^
 ||bdns.nu^
 ||bdns.pro^
 ||beapasswpn.com^
@@ -1852,7 +1853,6 @@
 ||keenow.com^
 ||keepanonymous.com^
 ||dns.keke125.com^
-||doh.kekew.info^
 ||doh.kel.pe^
 ||kepard.com^
 ||kerbeans.com^
@@ -2179,6 +2179,7 @@
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
 ||mzhlhrfr8z.info^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
@@ -3755,6 +3756,7 @@
 ||videonew.online^
 ||videoproxy.site^
 ||videounblock.com^
+||videounblocked.com^
 ||videounblocker.net^
 ||vidproxy.com^
 ||viewyoutube.net^
@@ -4023,6 +4025,7 @@
 ||yogavpn.com^
 ||youcanhide.net^
 ||net01.youcef.io^
+||youfreeproxytube.com^
 ||younblocked.com^
 ||youproxything.com^
 ||youproxytube.com^
@@ -4078,5 +4081,6 @@
 ||zproxy.org^
 ||zpzpzpapapap4d.online^
 ||zscalertwo.net^
+||dns.zui.lol^
 ||zwyr157wwiu6eior.com^
 ||dns.zzuhacker.cn^

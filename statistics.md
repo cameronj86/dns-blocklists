@@ -22,7 +22,7 @@
  12 |      88% |   8% |      4% | Denylist Community non-Aggressive
  13 |      87% |   6% |      7% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  14 |      79% |  10% |     11% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 15 |      94% |   4% |      2% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 15 |      95% |   3% |      2% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  17 |      77% |   0% |     23% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  18 |      93% |   0% |      7% | Native Tracker Xiaomi (Devices)
@@ -56,8 +56,8 @@
  20 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  21 |      72% |  27% |      1% | Analytics/Metrics Extension
  22 |      97% |   3% |      0% | Balanced Extension
- 23 |      83% |   9% |      8% | Advanced Extension
- 24 |      62% |  24% |     14% | Denylist Community Advanced
+ 23 |      84% |   8% |      8% | Advanced Extension
+ 24 |      63% |  24% |     13% | Denylist Community Advanced
 ```
 #### PRO.PLUS
 ```
@@ -80,7 +80,7 @@
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
  18 |      97% |   3% |      0% | Balanced Extension
- 19 |      85% |   9% |      6% | Advanced Extension
+ 19 |      86% |   8% |      6% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |      93% |   6% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  22 |      82% |  14% |      4% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -112,7 +112,7 @@
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
  18 |      97% |   3% |      0% | Balanced Extension
- 19 |      85% |   9% |      6% | Advanced Extension
+ 19 |      86% |   8% |      6% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |      93% |   6% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  22 |      82% |  14% |      4% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)

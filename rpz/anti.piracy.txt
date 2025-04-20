@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745075760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745118720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Apr 2025 15:16 UTC
-; Version: 2025.0419.1516.55
+; Last modified: 20 Apr 2025 03:12 UTC
+; Version: 2025.0420.0312.13
 ; Syntax: RPZ
-; Number of entries: 20760
+; Number of entries: 20776
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1223,8 +1223,6 @@ putlocker9.cc CNAME .
 *.putlocker9.cc CNAME .
 radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
-redditsport.cc CNAME .
-*.redditsport.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -2709,6 +2707,8 @@ audiotracer.com CNAME .
 *.audiotracer.com CNAME .
 audiozonetorrents.com CNAME .
 *.audiozonetorrents.com CNAME .
+aurastresser.com CNAME .
+*.aurastresser.com CNAME .
 aurora-raws.com CNAME .
 *.aurora-raws.com CNAME .
 aussietorrents.com CNAME .
@@ -2825,6 +2825,8 @@ bhpt4vip.com CNAME .
 *.bhpt4vip.com CNAME .
 bhuiyan-online.com CNAME .
 *.bhuiyan-online.com CNAME .
+biberona.com CNAME .
+*.biberona.com CNAME .
 bilibt.com CNAME .
 *.bilibt.com CNAME .
 binarylord.com CNAME .
@@ -7681,6 +7683,8 @@ yify-movie.com CNAME .
 *.yify-movie.com CNAME .
 yify-torrents.com CNAME .
 *.yify-torrents.com CNAME .
+yifyhdtorrent.com CNAME .
+*.yifyhdtorrent.com CNAME .
 yifymovietorrent.com CNAME .
 *.yifymovietorrent.com CNAME .
 yifystatus.com CNAME .
@@ -7707,6 +7711,8 @@ torrents.yourexotic.com CNAME .
 *.torrents.yourexotic.com CNAME .
 yourptflixmovies.com CNAME .
 *.yourptflixmovies.com CNAME .
+yourserie.com CNAME .
+*.yourserie.com CNAME .
 youserials.com CNAME .
 *.youserials.com CNAME .
 youtorrent.com CNAME .
@@ -11393,6 +11399,8 @@ worldcupfootball.me CNAME .
 *.worldcupfootball.me CNAME .
 worldwidetorrents.me CNAME .
 *.worldwidetorrents.me CNAME .
+x264.me CNAME .
+*.x264.me CNAME .
 xcine.me CNAME .
 *.xcine.me CNAME .
 yifysubtitles.me CNAME .
@@ -15803,6 +15811,8 @@ waz-warez.org CNAME .
 *.waz-warez.org CNAME .
 wiflix.org CNAME .
 *.wiflix.org CNAME .
+wild-bytes.org CNAME .
+*.wild-bytes.org CNAME .
 win7dl.org CNAME .
 *.win7dl.org CNAME .
 worldsrc.org CNAME .
@@ -16709,6 +16719,8 @@ movi.ucoz.ro CNAME .
 *.movi.ucoz.ro CNAME .
 xcinema.ro CNAME .
 *.xcinema.ro CNAME .
+xlist.ro CNAME .
+*.xlist.ro CNAME .
 xtremezone.ro CNAME .
 *.xtremezone.ro CNAME .
 cb01.rocks CNAME .
@@ -16827,6 +16839,8 @@ appmeter.ru CNAME .
 *.appmeter.ru CNAME .
 appstorrent.ru CNAME .
 *.appstorrent.ru CNAME .
+arenda123.ru CNAME .
+*.arenda123.ru CNAME .
 artkonkurs.ru CNAME .
 *.artkonkurs.ru CNAME .
 astrr.ru CNAME .
@@ -18601,6 +18615,8 @@ ymovies.to CNAME .
 *.ymovies.to CNAME .
 yts.to CNAME .
 *.yts.to CNAME .
+zonetelechargement.to CNAME .
+*.zonetelechargement.to CNAME .
 zorox.to CNAME .
 *.zorox.to CNAME .
 cb01.today CNAME .

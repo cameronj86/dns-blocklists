@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Apr 2025 15:35 UTC
-# Version: 2025.0419.1535.53
+# Last modified: 20 Apr 2025 03:31 UTC
+# Version: 2025.0420.0331.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4069
+# Number of entries: 4073
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -352,6 +352,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.nu/
 local=/bdns.pro/
 local=/beapasswpn.com/
@@ -1851,7 +1852,6 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/kerbeans.com/
@@ -2178,6 +2178,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3754,6 +3755,7 @@ local=/videomy.online/
 local=/videonew.online/
 local=/videoproxy.site/
 local=/videounblock.com/
+local=/videounblocked.com/
 local=/videounblocker.net/
 local=/vidproxy.com/
 local=/viewyoutube.net/
@@ -4022,6 +4024,7 @@ local=/ylink.info/
 local=/yogavpn.com/
 local=/youcanhide.net/
 local=/net01.youcef.io/
+local=/youfreeproxytube.com/
 local=/younblocked.com/
 local=/youproxything.com/
 local=/youproxytube.com/
@@ -4077,5 +4080,6 @@ local=/zproxy.de/
 local=/zproxy.org/
 local=/zpzpzpapapap4d.online/
 local=/zscalertwo.net/
+local=/dns.zui.lol/
 local=/zwyr157wwiu6eior.com/
 local=/dns.zzuhacker.cn/

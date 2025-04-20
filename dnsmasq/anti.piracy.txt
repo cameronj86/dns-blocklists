@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Apr 2025 15:16 UTC
-# Version: 2025.0419.1516.55
+# Last modified: 20 Apr 2025 03:12 UTC
+# Version: 2025.0420.0312.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10380
+# Number of entries: 10388
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -975,6 +975,7 @@ local=/arena-tr.com/
 local=/arenabg.ch/
 local=/arenabg.com/
 local=/arenahd.com/
+local=/arenda123.ru/
 local=/argenteam.net/
 local=/argentinawarez.com/
 local=/arishabd.net/
@@ -1061,6 +1062,7 @@ local=/audiop2p.com/
 local=/audiostuff.ro/
 local=/audiotracer.com/
 local=/audiozonetorrents.com/
+local=/aurastresser.com/
 local=/aurora-raws.com/
 local=/aussietorrents.com/
 local=/autobitx.com/
@@ -1238,6 +1240,7 @@ local=/bhalukabroadband.com/
 local=/bhlegend.com/
 local=/bhpt4vip.com/
 local=/bhuiyan-online.com/
+local=/biberona.com/
 local=/bibliotik.me/
 local=/big-boss-tracker.net/
 local=/bigbbs.eu/
@@ -7348,7 +7351,6 @@ local=/redditnhlstreams.com/
 local=/redditsoccerstreams.org/
 local=/redditsoccerstreams.tv/
 local=/redditsoccerstreams.xyz/
-local=/redditsport.cc/
 local=/redecanais.zip/
 local=/redecanaistv.zip/
 local=/ica1616.redirectme.net/
@@ -9988,6 +9990,7 @@ local=/wiflix.nl/
 local=/wiflix.org/
 local=/wiflix.pw/
 local=/wiflix.voto/
+local=/wild-bytes.org/
 local=/wilmaa.com/
 local=/win7dl.org/
 local=/win7games.com/
@@ -10056,6 +10059,7 @@ local=/x-site.pl/
 local=/x-torrent.net/
 local=/x1337x.eu/
 local=/x1337x.ws/
+local=/x264.me/
 local=/x265movies.cc/
 local=/x265movies.co/
 local=/retracker.x2k.ru/
@@ -10093,6 +10097,7 @@ local=/share.xfsub.com/
 local=/tracker.xiaoduola.xyz/
 local=/xider.hu/
 local=/dyndns.xionxiii.ovh/
+local=/xlist.ro/
 local=/xmovie8.pro/
 local=/xmovies.ws/
 local=/xmovies8.fm/
@@ -10192,6 +10197,7 @@ local=/yify-movies.net/
 local=/yify-torrent.cc/
 local=/yify-torrent.org/
 local=/yify-torrents.com/
+local=/yifyhdtorrent.com/
 local=/yifymovies.xyz/
 local=/yifymovietorrent.com/
 local=/yifystatus.com/
@@ -10229,6 +10235,7 @@ local=/youreasyip.tv/
 local=/torrents.yourexotic.com/
 local=/yournetcommunications.net/
 local=/yourptflixmovies.com/
+local=/yourserie.com/
 local=/yoursports.stream/
 local=/youserials.com/
 local=/youtorrent.com/
@@ -10370,6 +10377,7 @@ local=/1ww.zones-telechargement1.com/
 local=/zonesega.com/
 local=/zonestreaming.info/
 local=/zonestreaming.rip/
+local=/zonetelechargement.to/
 local=/forever-tracker.zooki.xyz/
 local=/free-tracker.zooki.xyz/
 local=/public-tracker.zooki.xyz/
