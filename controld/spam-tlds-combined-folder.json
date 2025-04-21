@@ -1281,6 +1281,13 @@
       }
     },
     {
+      "PK": "faceapp.photo",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.faith",
       "action": {
         "do": 0,
