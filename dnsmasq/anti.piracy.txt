@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Apr 2025 15:08 UTC
-# Version: 2025.0420.1508.18
+# Last modified: 21 Apr 2025 03:08 UTC
+# Version: 2025.0421.0308.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10388
+# Number of entries: 10390
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2825,6 +2825,7 @@ local=/cloudstream-on-fleek-co.ipns.dweb.link/
 local=/dx-team.org/
 local=/tracker.dxdhd.com/
 local=/dylan-park.com/
+local=/dynamic-universe.com/
 local=/irrenhaus.dyndns.dk/
 local=/tracker.dyne.org/
 local=/aam-bt.dyns.cx/
@@ -3712,6 +3713,7 @@ local=/snowice34.free.fr/
 local=/timcityparadize.free.fr/
 local=/warezdownload.free-bb.com/
 local=/free-boot.xyz/
+local=/free-movie-s.com/
 local=/free-movies.to/
 local=/free-mp3-download.net/
 local=/free-proxy.fr/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Apr 2025 15:27 UTC
-# Version: 2025.0420.1527.18
+# Last modified: 21 Apr 2025 03:27 UTC
+# Version: 2025.0421.0327.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4073
+# Number of entries: 4074
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -352,6 +352,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.nu/
 local=/bdns.pro/
 local=/beapasswpn.com/
@@ -523,6 +524,7 @@ local=/catdns.org/
 local=/alidns.cb1999.top/
 local=/alidns2.cb1999.top/
 local=/cbentertainment.online/
+local=/dns2.cbio.top/
 local=/doh.ccb-net.it/
 local=/vpn.ccnt.fr/
 local=/dns.cctld.kg/
@@ -834,6 +836,7 @@ local=/dns.csaonline.de/
 local=/dns.csswg.org/
 local=/ct-vpn.com/
 local=/cubedns.com/
+local=/cubixpvp.net/
 local=/qual.cuprum.ru/
 local=/curd.io/
 local=/cv-unfiltered.xyz/
@@ -1267,7 +1270,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -2178,7 +2180,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
