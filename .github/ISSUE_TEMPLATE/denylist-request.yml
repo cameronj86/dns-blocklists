@@ -4,6 +4,18 @@ labels: ["deny"]
 assignees: 
   - hagezi
 body:
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: Prerequisites
+      description: |
+        To prevent invalid requests, please verify and confirm the following points.
+      options:
+        - label: I use the current version of the lists.
+          required: true
+        - label: I have blocked the domains in my network for several days now, and the blocking has not caused any disruptions or limitations.
+          required: true
+
   - type: dropdown
     id: adblocker
     attributes:
@@ -146,7 +158,9 @@ body:
           required: true
         - label: I have provided sufficient details to justify the need for blocking the domain(s).
           required: true
-  
+        - label: I did not answer truthfully to any of the above checkboxes.
+          required: false
+        
   - type: checkboxes
     id: terms
     attributes:
