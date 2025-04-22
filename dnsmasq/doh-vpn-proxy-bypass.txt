@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Apr 2025 03:28 UTC
-# Version: 2025.0422.0328.58
+# Last modified: 22 Apr 2025 16:33 UTC
+# Version: 2025.0422.1633.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4075
+# Number of entries: 4079
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -352,7 +352,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1111,12 +1110,14 @@ local=/vpn.dzarlax.dev/
 local=/dzhot.us/
 local=/dnscache.e-utp.net/
 local=/earnapp.com/
+local=/earth-vpn.net/
 local=/earthvpn.com/
 local=/adguard.easez.net/
 local=/konnnitiha----saiko.easterndns.com/
 local=/easyhandshake.com/
 local=/easyproxy.tech/
 local=/easyvpn.com/
+local=/easyvpn.zone/
 local=/ebookdz.com/
 local=/ebumna.net/
 local=/ecoweb-network.com/
@@ -1131,7 +1132,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/eduacation.lol/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1268,7 +1268,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1316,7 +1315,9 @@ local=/free-proxyserver.com/
 local=/free-proxysite.com/
 local=/free-signal.com/
 local=/free-vpn.cn/
+local=/free-vpn.pro/
 local=/free-vpn.xyz/
+local=/free-vpnapp.com/
 local=/free-webproxy.com/
 local=/free2surfvpn.com/
 local=/freeanimesonline.com/
@@ -2343,6 +2344,7 @@ local=/ns8469rfvth42.xyz/
 local=/nslookup.io/
 local=/nsv4w.com/
 local=/ntwrkh.pro/
+local=/nucleusvpn.com/
 local=/dns.nullgate.net/
 local=/nullsbrawly.xyz/
 local=/dns.numerus.com/
@@ -2624,6 +2626,7 @@ local=/premiumproxy.net/
 local=/presidentalhistory.wiki/
 local=/dns2.prima-solusindo.com/
 local=/primeproxy23.info/
+local=/primevpn.pro/
 local=/dns.princex.net/
 local=/princez.uk/
 local=/agh.printk.info/
@@ -3692,6 +3695,7 @@ local=/unifiedvpn.com/
 local=/galileo.math.unipd.it/
 local=/unkn0wngb.lol/
 local=/unknownproxy.com/
+local=/unlimitedvpn.net/
 local=/unlimitedvpnapp.com/
 local=/unlocator.com/
 local=/unmoor.com/

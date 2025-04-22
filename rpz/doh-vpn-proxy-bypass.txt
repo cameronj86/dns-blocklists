@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745292480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745339580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Apr 2025 03:28 UTC
-; Version: 2025.0422.0328.58
+; Last modified: 22 Apr 2025 16:33 UTC
+; Version: 2025.0422.1633.24
 ; Syntax: RPZ
-; Number of entries: 8150
+; Number of entries: 8158
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1228,8 +1228,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -1340,6 +1338,8 @@ free-proxysite.com CNAME .
 *.free-proxysite.com CNAME .
 free-signal.com CNAME .
 *.free-signal.com CNAME .
+free-vpnapp.com CNAME .
+*.free-vpnapp.com CNAME .
 free-webproxy.com CNAME .
 *.free-webproxy.com CNAME .
 free2surfvpn.com CNAME .
@@ -2024,6 +2024,8 @@ ns3.com CNAME .
 *.ns3.com CNAME .
 nsv4w.com CNAME .
 *.nsv4w.com CNAME .
+nucleusvpn.com CNAME .
+*.nucleusvpn.com CNAME .
 dns.numerus.com CNAME .
 *.dns.numerus.com CNAME .
 vpn.nvidia.com CNAME .
@@ -4680,8 +4682,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5398,6 +5398,8 @@ duba.net CNAME .
 *.duba.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
+earth-vpn.net CNAME .
+*.earth-vpn.net CNAME .
 adguard.easez.net CNAME .
 *.adguard.easez.net CNAME .
 ebumna.net CNAME .
@@ -5978,6 +5980,8 @@ unblocks.net CNAME .
 *.unblocks.net CNAME .
 unblockyoutubefree.net CNAME .
 *.unblockyoutubefree.net CNAME .
+unlimitedvpn.net CNAME .
+*.unlimitedvpn.net CNAME .
 unrestrictor.net CNAME .
 *.unrestrictor.net CNAME .
 adfree.usableprivacy.net CNAME .
@@ -6786,6 +6790,8 @@ dns.burgas.pro CNAME .
 *.dns.burgas.pro CNAME .
 dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
+free-vpn.pro CNAME .
+*.free-vpn.pro CNAME .
 g-a-y.pro CNAME .
 *.g-a-y.pro CNAME .
 hustlersuniversity.pro CNAME .
@@ -6804,6 +6810,8 @@ ntwrkh.pro CNAME .
 *.ntwrkh.pro CNAME .
 pandavpn.pro CNAME .
 *.pandavpn.pro CNAME .
+primevpn.pro CNAME .
+*.primevpn.pro CNAME .
 proxysite.pro CNAME .
 *.proxysite.pro CNAME .
 sciencesimplified.pro CNAME .
@@ -7368,8 +7376,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
@@ -8158,6 +8164,8 @@ paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
 dns.cabbage.zone CNAME .
 *.dns.cabbage.zone CNAME .
+easyvpn.zone CNAME .
+*.easyvpn.zone CNAME .
 freevpn.zone CNAME .
 *.freevpn.zone CNAME .
 dns.froth.zone CNAME .
