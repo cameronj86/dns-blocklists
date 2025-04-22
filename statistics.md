@@ -29,7 +29,7 @@
  19 |      86% |   0% |     14% | Native Tracker Samsung (Devices)
  20 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  21 |      69% |  27% |      4% | Analytics/Metrics Extension
- 22 |      96% |   3% |      1% | Balanced Extension
+ 22 |      94% |   5% |      1% | Balanced Extension
 ```
 #### PRO
 ```
@@ -55,7 +55,7 @@
  19 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  20 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  21 |      72% |  27% |      1% | Analytics/Metrics Extension
- 22 |      97% |   3% |      0% | Balanced Extension
+ 22 |      95% |   5% |      0% | Balanced Extension
  23 |      84% |   8% |      8% | Advanced Extension
  24 |      63% |  24% |     13% | Denylist Community Advanced
 ```
@@ -79,7 +79,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
- 18 |      97% |   3% |      0% | Balanced Extension
+ 18 |      95% |   5% |      0% | Balanced Extension
  19 |      86% |   8% |      6% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |      93% |   6% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
@@ -111,7 +111,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
- 18 |      97% |   3% |      0% | Balanced Extension
+ 18 |      95% |   5% |      0% | Balanced Extension
  19 |      86% |   8% |      6% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |      93% |   6% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)

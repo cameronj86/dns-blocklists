@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Apr 2025 15:34 UTC
-# Version: 2025.0421.1534.42
+# Last modified: 22 Apr 2025 03:28 UTC
+# Version: 2025.0422.0328.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4073
+# Number of entries: 4075
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -352,6 +352,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1105,7 +1106,6 @@ local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
 local=/im-in-the-thick-of-it-everybody-knows.dynorex.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/
@@ -2179,6 +2179,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3254,6 +3255,7 @@ local=/kadowaki.super-modding.quest/
 local=/super123.org/
 local=/super123proxy.com/
 local=/superbproxy.com/
+local=/supercoolcomputersandstuff.win/
 local=/superfreevpn.com/
 local=/superproxy123.com/
 local=/dns.superstefan.win/
