@@ -1,5 +1,4 @@
 # Domains to be removed from the hoster list.
-*.blob.core.windows.net
 *.comcast.net
 *.dkimwl.org
 *.dynadot.com
@@ -12,6 +11,7 @@
 *.pixnet.net
 *.tistory.com
 *.tumblr.com
+*.windows.net
 *.wp.com
 *.wpengine.com
 *.wpenginepowered.com
@@ -65,6 +65,9 @@ storeblog.jp
 teamblog.jp
 techblog.jp
 tele2.se
+tilda.cc
+tilda.es
+tildacdn.com
 typepad.com
 webflow.com
 weblog.to
@@ -73,6 +76,3 @@ wordpress.com
 x10hosting.com
 xxxblog.jp
 youblog.jp
-tildacdn.com
-tilda.cc
-tilda.es
