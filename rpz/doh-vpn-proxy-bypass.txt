@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745380440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745421420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Apr 2025 03:54 UTC
-; Version: 2025.0423.0354.37
+; Last modified: 23 Apr 2025 15:17 UTC
+; Version: 2025.0423.1517.16
 ; Syntax: RPZ
-; Number of entries: 8162
+; Number of entries: 8166
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -318,6 +318,8 @@ mfho.cc CNAME .
 *.mfho.cc CNAME .
 openvpn.cc CNAME .
 *.openvpn.cc CNAME .
+xcxx.pointed.cc CNAME .
+*.xcxx.pointed.cc CNAME .
 proxify.cc CNAME .
 *.proxify.cc CNAME .
 proxy.cc CNAME .
@@ -1228,6 +1230,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -1946,6 +1950,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4680,8 +4686,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
