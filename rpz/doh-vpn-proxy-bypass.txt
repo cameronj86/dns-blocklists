@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745463240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745512020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Apr 2025 02:54 UTC
-; Version: 2025.0424.0254.51
+; Last modified: 24 Apr 2025 16:27 UTC
+; Version: 2025.0424.1627.54
 ; Syntax: RPZ
-; Number of entries: 8208
+; Number of entries: 8200
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4688,8 +4688,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5408,6 +5406,8 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 earth-vpn.net CNAME .
@@ -6918,8 +6918,6 @@ hkg01.dnscry.pt CNAME .
 *.hkg01.dnscry.pt CNAME .
 hkg02.dnscry.pt CNAME .
 *.hkg02.dnscry.pt CNAME .
-hrk01.dnscry.pt CNAME .
-*.hrk01.dnscry.pt CNAME .
 isb01.dnscry.pt CNAME .
 *.isb01.dnscry.pt CNAME .
 ist01.dnscry.pt CNAME .
@@ -7252,8 +7250,6 @@ vpn-tw.teng.sh CNAME .
 *.vpn-tw.teng.sh CNAME .
 vpn.sh CNAME .
 *.vpn.sh CNAME .
-hfgx.shop CNAME .
-*.hfgx.shop CNAME .
 moamao.shop CNAME .
 *.moamao.shop CNAME .
 osqcsmm.shop CNAME .
@@ -7692,8 +7688,6 @@ dontfilter.us CNAME .
 *.dontfilter.us CNAME .
 dreamvpn.us CNAME .
 *.dreamvpn.us CNAME .
-dress-codes.us CNAME .
-*.dress-codes.us CNAME .
 dzhot.us CNAME .
 *.dzhot.us CNAME .
 educationdean.us CNAME .
@@ -7740,8 +7734,6 @@ metal-masters.us CNAME .
 *.metal-masters.us CNAME .
 metalinjection.us CNAME .
 *.metalinjection.us CNAME .
-name-meaning.us CNAME .
-*.name-meaning.us CNAME .
 netvpn.us CNAME .
 *.netvpn.us CNAME .
 onlineproxy.us CNAME .

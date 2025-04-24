@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Apr 2025 02:53 UTC
-# Version: 2025.0424.0253.29
+# Last modified: 24 Apr 2025 16:26 UTC
+# Version: 2025.0424.1626.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1456
+# Number of entries: 1455
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -390,7 +390,6 @@ local=/han01.dnscry.pt/
 local=/hel01.dnscry.pt/
 local=/hkg01.dnscry.pt/
 local=/hkg02.dnscry.pt/
-local=/hrk01.dnscry.pt/
 local=/isb01.dnscry.pt/
 local=/ist01.dnscry.pt/
 local=/jhb01.dnscry.pt/
@@ -506,6 +505,7 @@ local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
+local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -640,7 +640,6 @@ local=/us-ny-alula.heliumcloud.cc/
 local=/dns.hellozhao.com/
 local=/dns.henek.ovh/
 local=/httpdns-push.heytapmobile.com/
-local=/hfgx.shop/
 local=/himedns.com/
 local=/dns.hinet.net/
 local=/hitian.me/

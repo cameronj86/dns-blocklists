@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Apr 2025 02:53 UTC
-# Version: 2025.0424.0253.29
+# Last modified: 24 Apr 2025 16:26 UTC
+# Version: 2025.0424.1626.31
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1616
+# Number of entries: 1615
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -477,7 +477,6 @@
 0.0.0.0 hel01.dnscry.pt
 0.0.0.0 hkg01.dnscry.pt
 0.0.0.0 hkg02.dnscry.pt
-0.0.0.0 hrk01.dnscry.pt
 0.0.0.0 isb01.dnscry.pt
 0.0.0.0 ist01.dnscry.pt
 0.0.0.0 jhb01.dnscry.pt
@@ -614,6 +613,7 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -748,7 +748,6 @@
 0.0.0.0 dns.hellozhao.com
 0.0.0.0 dns.henek.ovh
 0.0.0.0 httpdns-push.heytapmobile.com
-0.0.0.0 hfgx.shop
 0.0.0.0 himedns.com
 0.0.0.0 dns.hinet.net
 0.0.0.0 hitian.me

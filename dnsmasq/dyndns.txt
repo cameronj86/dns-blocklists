@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Apr 2025 15:32 UTC
-# Version: 2025.0421.1532.02
+# Last modified: 24 Apr 2025 16:25 UTC
+# Version: 2025.0424.1625.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1408
+# Number of entries: 1404
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -332,7 +332,6 @@ local=/doomdns.org/
 local=/dougtreadwell.com/
 local=/doyleandprendergast.com/
 local=/dp76.com/
-local=/dray-dns.de/
 local=/drayddns.com/
 local=/dropfiles.net/
 local=/drunkensailor.org/
@@ -617,7 +616,6 @@ local=/ham.gd/
 local=/ham-radio-op.net/
 local=/hamshack.info/
 local=/happyforever.com/
-local=/happyminecraft.com/
 local=/hatenboer.org/
 local=/hbmc.net/
 local=/health-carereform.com/
@@ -920,8 +918,6 @@ local=/mudchute.com/
 local=/musterihizmetleri.com/
 local=/mwop.net/
 local=/my.to/
-local=/my-vigor.de/
-local=/my-wan.de/
 local=/my03.com/
 local=/myactivedirectory.com/
 local=/myaddr.dev/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745445060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745489820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Apr 2025 21:51 UTC
-; Version: 2025.0423.2151.42
+; Last modified: 24 Apr 2025 10:17 UTC
+; Version: 2025.0424.1017.52
 ; Syntax: RPZ
 ; Number of entries: 4278
 ;
@@ -121,6 +121,8 @@ fanwestdoll.best CNAME .
 *.fanwestdoll.best CNAME .
 hormoud.best CNAME .
 *.hormoud.best CNAME .
+kgcajdibv.best CNAME .
+*.kgcajdibv.best CNAME .
 mkexperiment.best CNAME .
 *.mkexperiment.best CNAME .
 muskacademy.best CNAME .
@@ -1693,6 +1695,8 @@ techionblog.com CNAME .
 *.techionblog.com CNAME .
 tek-blogs.com CNAME .
 *.tek-blogs.com CNAME .
+telegrameyg.com CNAME .
+*.telegrameyg.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
 terapad.com CNAME .
@@ -3087,8 +3091,6 @@ clan.mn CNAME .
 *.clan.mn CNAME .
 muf.mobi CNAME .
 *.muf.mobi CNAME .
-blogspot.mr CNAME .
-*.blogspot.mr CNAME .
 blogspot.com.mt CNAME .
 *.blogspot.com.mt CNAME .
 24.mu CNAME .
@@ -4117,8 +4119,6 @@ godxdess.top CNAME .
 *.godxdess.top CNAME .
 holcom.top CNAME .
 *.holcom.top CNAME .
-jtexpressr.top CNAME .
-*.jtexpressr.top CNAME .
 laexchange.top CNAME .
 *.laexchange.top CNAME .
 leastupdate.top CNAME .

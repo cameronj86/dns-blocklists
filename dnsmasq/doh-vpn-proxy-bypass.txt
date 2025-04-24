@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Apr 2025 02:54 UTC
-# Version: 2025.0424.0254.51
+# Last modified: 24 Apr 2025 16:27 UTC
+# Version: 2025.0424.1627.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4104
+# Number of entries: 4100
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -353,7 +353,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -974,7 +973,6 @@ local=/han01.dnscry.pt/
 local=/hel01.dnscry.pt/
 local=/hkg01.dnscry.pt/
 local=/hkg02.dnscry.pt/
-local=/hrk01.dnscry.pt/
 local=/isb01.dnscry.pt/
 local=/ist01.dnscry.pt/
 local=/jhb01.dnscry.pt/
@@ -1088,7 +1086,6 @@ local=/drablack.tk/
 local=/dragoncgiproxy.online/
 local=/dreamvpn.us/
 local=/dns.dremaxx.de/
-local=/dress-codes.us/
 local=/droidvpn.com/
 local=/droyd.top/
 local=/doh.dscloud.me/
@@ -1113,6 +1110,7 @@ local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
 local=/im-in-the-thick-of-it-everybody-knows.dynorex.com/
+local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/
@@ -1568,7 +1566,6 @@ local=/herbalserver.me/
 local=/betternet-backend.herokuapp.com/
 local=/heroproxy.com/
 local=/httpdns-push.heytapmobile.com/
-local=/hfgx.shop/
 local=/hiddendigital.info/
 local=/hiddenproxy.net/
 local=/hide.me/
@@ -2206,7 +2203,6 @@ local=/najiakeji.top/
 local=/dns.nako.kr/
 local=/www.chungocoai.name.vn/
 local=/adguard.quydang.name.vn/
-local=/name-meaning.us/
 local=/nanoproxy.com/
 local=/napps-1.com/
 local=/napps-2.com/
