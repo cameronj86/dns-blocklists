@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745421420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745463240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Apr 2025 15:17 UTC
-; Version: 2025.0423.1517.16
+; Last modified: 24 Apr 2025 02:54 UTC
+; Version: 2025.0424.0254.51
 ; Syntax: RPZ
-; Number of entries: 8166
+; Number of entries: 8208
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4416,6 +4416,8 @@ brovpn.io CNAME .
 *.brovpn.io CNAME .
 carebuzz.io CNAME .
 *.carebuzz.io CNAME .
+coproxy.io CNAME .
+*.coproxy.io CNAME .
 corsproxy.io CNAME .
 *.corsproxy.io CNAME .
 curd.io CNAME .
@@ -4686,6 +4688,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+bdns.link CNAME .
+*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -4810,6 +4814,8 @@ ns.00dani.me CNAME .
 *.123proxy.me CNAME .
 doh.30x.me CNAME .
 *.doh.30x.me CNAME .
+3bbb.me CNAME .
+*.3bbb.me CNAME .
 dns.a47.me CNAME .
 *.dns.a47.me CNAME .
 dns.aaflalo.me CNAME .
@@ -4980,6 +4986,8 @@ fiberproxy.mobi CNAME .
 *.fiberproxy.mobi CNAME .
 mobilejump.mobi CNAME .
 *.mobilejump.mobi CNAME .
+surfeasy.mobi CNAME .
+*.surfeasy.mobi CNAME .
 xite.mobi CNAME .
 *.xite.mobi CNAME .
 doh.aaaab3n.moe CNAME .
@@ -5400,8 +5408,6 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 earth-vpn.net CNAME .
@@ -6342,6 +6348,8 @@ crazyproxy.org CNAME .
 *.crazyproxy.org CNAME .
 croxy.org CNAME .
 *.croxy.org CNAME .
+croxyproxycom.org CNAME .
+*.croxyproxycom.org CNAME .
 dns.csswg.org CNAME .
 *.dns.csswg.org CNAME .
 diglet.org CNAME .
@@ -6796,6 +6804,8 @@ dns.burgas.pro CNAME .
 *.dns.burgas.pro CNAME .
 dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
+eblan.pro CNAME .
+*.eblan.pro CNAME .
 free-vpn.pro CNAME .
 *.free-vpn.pro CNAME .
 g-a-y.pro CNAME .
@@ -6808,6 +6818,8 @@ smellyal.isreally.pro CNAME .
 *.smellyal.isreally.pro CNAME .
 smellypay.isreally.pro CNAME .
 *.smellypay.isreally.pro CNAME .
+l-am-sigma.pro CNAME .
+*.l-am-sigma.pro CNAME .
 pluhbruh.mctwisted.pro CNAME .
 *.pluhbruh.mctwisted.pro CNAME .
 ngrok.pro CNAME .
@@ -7382,6 +7394,8 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
@@ -7652,10 +7666,14 @@ appshost.us CNAME .
 *.appshost.us CNAME .
 i.am.selling.b33r.us CNAME .
 *.i.am.selling.b33r.us CNAME .
+bluegray.us CNAME .
+*.bluegray.us CNAME .
 igottridentrodinfischop.bowmansarrow.us CNAME .
 *.igottridentrodinfischop.bowmansarrow.us CNAME .
 bypasser.us CNAME .
 *.bypasser.us CNAME .
+classicpen.us CNAME .
+*.classicpen.us CNAME .
 cloaker.us CNAME .
 *.cloaker.us CNAME .
 cloudssh.us CNAME .
@@ -7664,6 +7682,8 @@ coloredwool.us CNAME .
 *.coloredwool.us CNAME .
 defilter.us CNAME .
 *.defilter.us CNAME .
+desertsand.us CNAME .
+*.desertsand.us CNAME .
 dns.dns-53.us CNAME .
 *.dns.dns-53.us CNAME .
 domainownership.us CNAME .
@@ -7672,8 +7692,12 @@ dontfilter.us CNAME .
 *.dontfilter.us CNAME .
 dreamvpn.us CNAME .
 *.dreamvpn.us CNAME .
+dress-codes.us CNAME .
+*.dress-codes.us CNAME .
 dzhot.us CNAME .
 *.dzhot.us CNAME .
+educationdean.us CNAME .
+*.educationdean.us CNAME .
 favoriteshoes.us CNAME .
 *.favoriteshoes.us CNAME .
 fiberprox.us CNAME .
@@ -7694,6 +7718,8 @@ gpreport.us CNAME .
 *.gpreport.us CNAME .
 granules.us CNAME .
 *.granules.us CNAME .
+guestappearance.us CNAME .
+*.guestappearance.us CNAME .
 hidebuzz.us CNAME .
 *.hidebuzz.us CNAME .
 hidesurf.us CNAME .
@@ -7704,18 +7730,26 @@ adg.jnorton.us CNAME .
 *.adg.jnorton.us CNAME .
 legaladvisor.us CNAME .
 *.legaladvisor.us CNAME .
+maintainbrain.us CNAME .
+*.maintainbrain.us CNAME .
+mapspublications.us CNAME .
+*.mapspublications.us CNAME .
 master-clock.us CNAME .
 *.master-clock.us CNAME .
 metal-masters.us CNAME .
 *.metal-masters.us CNAME .
 metalinjection.us CNAME .
 *.metalinjection.us CNAME .
+name-meaning.us CNAME .
+*.name-meaning.us CNAME .
 netvpn.us CNAME .
 *.netvpn.us CNAME .
 onlineproxy.us CNAME .
 *.onlineproxy.us CNAME .
 vps-33e5a7f3.vps.ovh.us CNAME .
 *.vps-33e5a7f3.vps.ovh.us CNAME .
+penrepair.us CNAME .
+*.penrepair.us CNAME .
 printruns.us CNAME .
 *.printruns.us CNAME .
 printtools.us CNAME .
@@ -7734,6 +7768,8 @@ reezus.us CNAME .
 *.reezus.us CNAME .
 restaurantgift.us CNAME .
 *.restaurantgift.us CNAME .
+sandmining.us CNAME .
+*.sandmining.us CNAME .
 sandparticles.us CNAME .
 *.sandparticles.us CNAME .
 school-websites.us CNAME .
@@ -7774,12 +7810,18 @@ unblockproxy.us CNAME .
 *.unblockproxy.us CNAME .
 untraceable.us CNAME .
 *.untraceable.us CNAME .
+valuepremium.us CNAME .
+*.valuepremium.us CNAME .
 videocollage.us CNAME .
 *.videocollage.us CNAME .
 waitfree.us CNAME .
 *.waitfree.us CNAME .
 webproxy.us CNAME .
 *.webproxy.us CNAME .
+wedding-present.us CNAME .
+*.wedding-present.us CNAME .
+woodenclock.us CNAME .
+*.woodenclock.us CNAME .
 leeway.uz CNAME .
 *.leeway.uz CNAME .
 jahyussif.hs.vc CNAME .

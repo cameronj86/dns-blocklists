@@ -29,13 +29,13 @@
  19 |      86% |   0% |     14% | Native Tracker Samsung (Devices)
  20 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  21 |      69% |  27% |      4% | Analytics/Metrics Extension
- 22 |      95% |   4% |      1% | Balanced Extension
+ 22 |      94% |   5% |      1% | Balanced Extension
 ```
 #### PRO
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Normal
-  2 |      78% |  17% |      5% | Denylist Personal
+  2 |      77% |  18% |      5% | Denylist Personal
   3 |      87% |   3% |     10% | Extracted Wildcard Rules
   4 |      59% |   0% |     41% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      92% |   0% |      8% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -63,7 +63,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
-  2 |      80% |  17% |      3% | Denylist Personal
+  2 |      79% |  18% |      3% | Denylist Personal
   3 |      89% |   3% |      8% | Extracted Wildcard Rules
   4 |      60% |   0% |     40% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      98% |   0% |      2% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -95,7 +95,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro++
-  2 |      80% |  17% |      3% | Denylist Personal
+  2 |      79% |  18% |      3% | Denylist Personal
   3 |      90% |   3% |      7% | Extracted Wildcard Rules
   4 |     100% |   0% |      0% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -123,7 +123,7 @@
  27 |     100% |   0% |      0% | Strict Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
  29 |     100% |   0% |      0% | META Graph Tracker (Facebook, Instagram)
- 30 |      89% |   6% |      5% | Ultimate Extension
+ 30 |      87% |   7% |      6% | Ultimate Extension
  31 |      88% |   7% |      5% | Denylist Aggressive
  32 |      69% |  24% |      7% | Denylist Community Ultimate
 ```
