@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Apr 2025 22:05 UTC
-# Version: 2025.0424.2205.12
+# Last modified: 25 Apr 2025 10:08 UTC
+# Version: 2025.0425.1008.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2136
+# Number of entries: 2140
 #
 local=/000a.de/
 local=/000space.com/
@@ -139,6 +139,7 @@ local=/blog.51cto.com/
 local=/530.at/
 local=/59bloggers.com/
 local=/5gbfree.com/
+local=/5mp.eu/
 local=/5on.de/
 local=/5oo.de/
 local=/5v.pl/
@@ -486,6 +487,7 @@ local=/blogspot.ch/
 local=/blogspot.cl/
 local=/blogspot.cm/
 local=/blogspot.co/
+local=/blogspot.com/
 local=/blogspot.cz/
 local=/blogspot.de/
 local=/blogspot.dk/
@@ -573,7 +575,6 @@ local=/bravejournal.net/
 local=/bravenet.com/
 local=/bravepages.com/
 local=/brazilbill.shop/
-local=/bridalgallerymaryville.com/
 local=/bstyledstore.shop/
 local=/bugs3.com/
 local=/builderall.net/
@@ -663,7 +664,6 @@ local=/thamboli.co.za/
 local=/threembb.co.uk/
 local=/ucoz.co.uk/
 local=/webnode.co.uk/
-local=/codm-free.com/
 local=/collectblogs.com/
 local=/com.nu/
 local=/adr.com.ua/
@@ -824,6 +824,7 @@ local=/dreamstation.com/
 local=/dreamwidth.org/
 local=/dreamyblogs.com/
 local=/dreht-auf.de/
+local=/drivehq.com/
 local=/drugpoint.shop/
 local=/dsiblogger.com/
 local=/dslextreme.com/
@@ -920,7 +921,6 @@ local=/familylobby.com/
 local=/fancyjsboutique.shop/
 local=/fannielenterprises.shop/
 local=/fantasyblog.fr/
-local=/fanwestdoll.best/
 local=/fare-blog.com/
 local=/fast-page.org/
 local=/fasthoster.de/
@@ -1278,6 +1278,7 @@ local=/kann-helfen.de/
 local=/kataweb.it/
 local=/keepfree.de/
 local=/keetkotoun.com/
+local=/kgcajdibv.best/
 local=/kidnumber.shop/
 local=/kilu.at/
 local=/kilu.biz/
@@ -1400,6 +1401,7 @@ local=/mp3.cr/
 local=/mpeblog.com/
 local=/muf.mobi/
 local=/multiblog.com/
+local=/multiply.com/
 local=/musik.cx/
 local=/musik.lc/
 local=/muskacademy.best/
@@ -1531,6 +1533,7 @@ local=/opisial.com/
 local=/orangeusa.shop/
 local=/orderedlinks.shop/
 local=/24.org.es/
+local=/orgfree.com/
 local=/orgsites.com/
 local=/osc.pl/
 local=/ourcodeblog.com/
@@ -1808,6 +1811,7 @@ local=/techionblog.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/tek-blogs.com/
+local=/telegrameyg.com/
 local=/telekom.at/
 local=/telepacific.net/
 local=/teleporthq.app/

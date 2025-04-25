@@ -2,14 +2,14 @@
 #### LIGHT
 ```
  Nr | Included | Dead | Removed | URL/File
-  1 |      75% |  17% |      8% | Denylist Personal
+  1 |      74% |  18% |      8% | Denylist Personal
   2 |      99% |   0% |      1% | Basic Extension
 ```
 #### MULTI
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Light
-  2 |      75% |  17% |      8% | Denylist Personal
+  2 |      74% |  18% |      8% | Denylist Personal
   3 |      67% |   3% |     30% | Extracted Wildcard Rules
   4 |      46% |   0% |     54% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      63% |   0% |     37% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -29,7 +29,7 @@
  19 |      85% |   1% |     14% | Native Tracker Samsung (Devices)
  20 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  21 |      69% |  27% |      4% | Analytics/Metrics Extension
- 22 |      94% |   5% |      1% | Balanced Extension
+ 22 |      95% |   4% |      1% | Balanced Extension
 ```
 #### PRO
 ```
@@ -45,7 +45,7 @@
   9 |      62% |   0% |     38% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      76% |  12% |     12% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
- 12 |      89% |  10% |      1% | Denylist Community non-Aggressive
+ 12 |      88% |  11% |      1% | Denylist Community non-Aggressive
  13 |      86% |   7% |      7% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  14 |      80% |  11% |      9% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      94% |   5% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
@@ -55,7 +55,7 @@
  19 |      94% |   1% |      5% | Native Tracker Samsung (Devices)
  20 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  21 |      72% |  27% |      1% | Analytics/Metrics Extension
- 22 |      95% |   5% |      0% | Balanced Extension
+ 22 |      96% |   4% |      0% | Balanced Extension
  23 |      82% |  10% |      8% | Advanced Extension
  24 |      63% |  24% |     13% | Denylist Community Advanced
 ```
@@ -72,14 +72,14 @@
   8 |      91% |   0% |      9% | Native Tracker Microsoft (Windows, Office, MSN)
   9 |      86% |  12% |      2% | Denylist Base
  10 |     100% |   0% |      0% | Basic Extension
- 11 |      90% |  10% |      0% | Denylist Community non-Aggressive
+ 11 |      89% |  11% |      0% | Denylist Community non-Aggressive
  12 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  13 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  14 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
  15 |      99% |   1% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
- 18 |      95% |   5% |      0% | Balanced Extension
+ 18 |      96% |   4% |      0% | Balanced Extension
  19 |      84% |  10% |      6% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |      92% |   7% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
@@ -104,14 +104,14 @@
   8 |     100% |   0% |      0% | Native Tracker Microsoft (Windows, Office, MSN)
   9 |      87% |  12% |      1% | Denylist Base
  10 |     100% |   0% |      0% | Basic Extension
- 11 |      90% |  10% |      0% | Denylist Community non-Aggressive
+ 11 |      89% |  11% |      0% | Denylist Community non-Aggressive
  12 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  13 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  14 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
  15 |      99% |   1% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
- 18 |      95% |   5% |      0% | Balanced Extension
+ 18 |      96% |   4% |      0% | Balanced Extension
  19 |      84% |  10% |      6% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |      92% |   7% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
