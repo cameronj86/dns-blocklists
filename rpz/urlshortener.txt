@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745489940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745532360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Apr 2025 10:19 UTC
-; Version: 2025.0424.1019.20
+; Last modified: 24 Apr 2025 22:06 UTC
+; Version: 2025.0424.2206.35
 ; Syntax: RPZ
-; Number of entries: 11128
+; Number of entries: 11134
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2612,6 +2612,10 @@ jobs.qjobsindia.com CNAME .
 *.jobs.qjobsindia.com CNAME .
 qndjq.com CNAME .
 *.qndjq.com CNAME .
+qossl.com CNAME .
+*.qossl.com CNAME .
+qowrk.com CNAME .
+*.qowrk.com CNAME .
 qr-code-generator.com CNAME .
 *.qr-code-generator.com CNAME .
 qr-in.com CNAME .
@@ -3240,6 +3244,8 @@ on.wsj.com CNAME .
 *.on.wsj.com CNAME .
 wurlz.com CNAME .
 *.wurlz.com CNAME .
+wvvld.com CNAME .
+*.wvvld.com CNAME .
 xaddr.com CNAME .
 *.xaddr.com CNAME .
 xb5.com CNAME .
@@ -6074,8 +6080,6 @@ mylovinglife01974.life CNAME .
 *.mylovinglife01974.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
-mytiktok.life CNAME .
-*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6146,8 +6150,6 @@ rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
 rivera-quinones-luis-manuel-5.life CNAME .
 *.rivera-quinones-luis-manuel-5.life CNAME .
-robloxgroup.life CNAME .
-*.robloxgroup.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -6178,8 +6180,6 @@ siakap.life CNAME .
 *.siakap.life CNAME .
 sibutathemba120.life CNAME .
 *.sibutathemba120.life CNAME .
-snapchats.life CNAME .
-*.snapchats.life CNAME .
 soegyi.life CNAME .
 *.soegyi.life CNAME .
 soulful-transformation-studio.life CNAME .
@@ -6728,8 +6728,6 @@ ichafunddrives.live CNAME .
 *.ichafunddrives.live CNAME .
 igotthejuices.live CNAME .
 *.igotthejuices.live CNAME .
-illuminatiracers.live CNAME .
-*.illuminatiracers.live CNAME .
 inburstcorp.live CNAME .
 *.inburstcorp.live CNAME .
 incl.live CNAME .
@@ -6816,6 +6814,8 @@ my-club.live CNAME .
 *.my-club.live CNAME .
 myautotrading.live CNAME .
 *.myautotrading.live CNAME .
+mysexychat.live CNAME .
+*.mysexychat.live CNAME .
 mytorus.live CNAME .
 *.mytorus.live CNAME .
 ncecs.live CNAME .
@@ -6830,6 +6830,8 @@ newrich.live CNAME .
 *.newrich.live CNAME .
 noelmagada.live CNAME .
 *.noelmagada.live CNAME .
+nofnec.live CNAME .
+*.nofnec.live CNAME .
 noones-apps.live CNAME .
 *.noones-apps.live CNAME .
 noreplyadmin.live CNAME .
@@ -6948,8 +6950,6 @@ smfcx.live CNAME .
 *.smfcx.live CNAME .
 soegyi.live CNAME .
 *.soegyi.live CNAME .
-spotifypigeon.live CNAME .
-*.spotifypigeon.live CNAME .
 srwedding.live CNAME .
 *.srwedding.live CNAME .
 startupperks.live CNAME .
@@ -6994,8 +6994,6 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
-vim-tiktok.live CNAME .
-*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -7008,6 +7006,8 @@ webbrian.live CNAME .
 *.webbrian.live CNAME .
 webprografor.live CNAME .
 *.webprografor.live CNAME .
+webyank4d.live CNAME .
+*.webyank4d.live CNAME .
 whatsapp2g.live CNAME .
 *.whatsapp2g.live CNAME .
 whatsapp3d.live CNAME .
@@ -9136,8 +9136,6 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
-shopeedeals.sale CNAME .
-*.shopeedeals.sale CNAME .
 aplnn.sbs CNAME .
 *.aplnn.sbs CNAME .
 atgqu.sbs CNAME .
@@ -9310,6 +9308,8 @@ pibnf.sbs CNAME .
 *.pibnf.sbs CNAME .
 pjzhz.sbs CNAME .
 *.pjzhz.sbs CNAME .
+pradn.sbs CNAME .
+*.pradn.sbs CNAME .
 prbgt.sbs CNAME .
 *.prbgt.sbs CNAME .
 prcgg.sbs CNAME .
@@ -9380,6 +9380,10 @@ xezlk.sbs CNAME .
 *.xezlk.sbs CNAME .
 xjyus.sbs CNAME .
 *.xjyus.sbs CNAME .
+xvsjt.sbs CNAME .
+*.xvsjt.sbs CNAME .
+xvxcx.sbs CNAME .
+*.xvxcx.sbs CNAME .
 ycvdh.sbs CNAME .
 *.ycvdh.sbs CNAME .
 yhtuw.sbs CNAME .
@@ -11130,6 +11134,8 @@ short.swurl.xyz CNAME .
 *.short.swurl.xyz CNAME .
 tny.xyz CNAME .
 *.tny.xyz CNAME .
+trackpw.xyz CNAME .
+*.trackpw.xyz CNAME .
 trisula88short.xyz CNAME .
 *.trisula88short.xyz CNAME .
 trpd.xyz CNAME .

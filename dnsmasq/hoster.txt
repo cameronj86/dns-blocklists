@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Apr 2025 10:17 UTC
-# Version: 2025.0424.1017.52
+# Last modified: 24 Apr 2025 22:05 UTC
+# Version: 2025.0424.2205.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2139
+# Number of entries: 2136
 #
 local=/000a.de/
 local=/000space.com/
@@ -284,7 +284,6 @@ local=/az.gp/
 local=/azzablog.com/
 local=/b.gp/
 local=/b2b.lc/
-local=/bakoweb.com/
 local=/ballern.de/
 local=/bandu2.com/
 local=/bandungberita.com/
@@ -1279,7 +1278,6 @@ local=/kann-helfen.de/
 local=/kataweb.it/
 local=/keepfree.de/
 local=/keetkotoun.com/
-local=/kgcajdibv.best/
 local=/kidnumber.shop/
 local=/kilu.at/
 local=/kilu.biz/
@@ -1810,7 +1808,6 @@ local=/techionblog.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/tek-blogs.com/
-local=/telegrameyg.com/
 local=/telekom.at/
 local=/telepacific.net/
 local=/teleporthq.app/

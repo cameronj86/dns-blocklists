@@ -9,7 +9,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Light
-  2 |      74% |  18% |      8% | Denylist Personal
+  2 |      75% |  17% |      8% | Denylist Personal
   3 |      67% |   3% |     30% | Extracted Wildcard Rules
   4 |      46% |   0% |     54% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      63% |   0% |     37% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -125,5 +125,5 @@
  29 |     100% |   0% |      0% | META Graph Tracker (Facebook, Instagram)
  30 |      87% |   7% |      6% | Ultimate Extension
  31 |      88% |   7% |      5% | Denylist Aggressive
- 32 |      69% |  24% |      7% | Denylist Community Ultimate
+ 32 |      70% |  23% |      7% | Denylist Community Ultimate
 ```
