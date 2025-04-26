@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Apr 2025 19:51 UTC
-# Version: 2025.0421.1951.35
+# Last modified: 25 Apr 2025 23:13 UTC
+# Version: 2025.0425.2313.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 607
+# Number of entries: 604
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -127,7 +127,6 @@
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 0.0.0.0 alt1-3ps.amazon-adsystem.com
-0.0.0.0 analytics.aps.amazon-adsystem.com
 0.0.0.0 api.eu-west-1.aiv-delivery.net
 0.0.0.0 api.gamma-toolbox.aps.amazon-adsystem.com
 0.0.0.0 api.us-east-1.aiv-delivery.net
@@ -380,7 +379,6 @@
 0.0.0.0 monitoring.il-central-1.amazonaws.com
 0.0.0.0 monitoring.me-central-1.amazonaws.com
 0.0.0.0 monitoring.me-south-1.amazonaws.com
-0.0.0.0 monitoring.prod.cloudwatch.amazonaws.com
 0.0.0.0 monitoring.sa-east-1.amazonaws.com
 0.0.0.0 monitoring.us-east-1.amazonaws.com
 0.0.0.0 monitoring.us-east-2.amazonaws.com
@@ -451,7 +449,6 @@
 0.0.0.0 rum.us-west-1.amazonaws.com
 0.0.0.0 rum.us-west-2.amazonaws.com
 0.0.0.0 s2.paa-reporting-advertising.amazon
-0.0.0.0 s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com

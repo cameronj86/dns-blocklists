@@ -309,13 +309,6 @@
       }
     },
     {
-      "PK": "cl-weather.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "cname-ali-asia-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -484,6 +477,13 @@
       }
     },
     {
+      "PK": "eu-onrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eu-ort-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -639,13 +639,6 @@
     },
     {
       "PK": "in-appprt-stsdk.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "in-cota.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1367,13 +1360,6 @@
     },
     {
       "PK": "sca-weather.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sg-cfg-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1

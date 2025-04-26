@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 25 Apr 2025 10:09 UTC
-! Version: 2025.0425.1009.31
+! Last modified: 25 Apr 2025 22:22 UTC
+! Version: 2025.0425.2222.49
 ! Syntax: AdBlock
-! Number of entries: 5580
+! Number of entries: 5592
 !
 ||0.gp^
 ||00oo.lol^
@@ -93,6 +93,7 @@
 ||1url.it^
 ||1url.vn^
 ||1wrd.org^
+||1z.lc^
 ||1zr.in^
 ||2.gd^
 ||2.gp^
@@ -1181,6 +1182,8 @@
 ||cyb.ec^
 ||cybr.fr^
 ||cybr.rocks^
+||cyhrb.top^
+||cyizs.com^
 ||cyonix.to^
 ||d.pr^
 ||d.to^
@@ -1646,6 +1649,7 @@
 ||forr.com^
 ||fortunium.xyz^
 ||found.ee^
+||fovre.sbs^
 ||fox.tv^
 ||frdm.mobi^
 ||s.free.fr^
@@ -2123,7 +2127,6 @@
 ||ilix.in^
 ||ilk.ir^
 ||illin.is^
-||illuminatiracers.live^
 ||iln.io^
 ||ilnk.io^
 ||ilofi.sbs^
@@ -2416,6 +2419,7 @@
 ||kliks.online^
 ||klmf.ly^
 ||kmi.mobi^
+||kmrrf.com^
 ||knf.md^
 ||knnt.me^
 ||knw.one^
@@ -3069,6 +3073,7 @@
 ||cbnet.my.id^
 ||ilhamgay.my.id^
 ||rcx.my.id^
+||shortpastebin.my.id^
 ||unp.my.id^
 ||my-ab.co^
 ||my-club.live^
@@ -3115,7 +3120,6 @@
 ||mysp.ac^
 ||mysurl.com^
 ||mytd.cc^
-||mytiktok.life^
 ||mytinycheck9.life^
 ||mytoluwalemi.life^
 ||mytorus.live^
@@ -3224,6 +3228,7 @@
 ||noelmagada.live^
 ||noeuz.sbs^
 ||nofnec.live^
+||noicindya.life^
 ||nokia.ly^
 ||noones-apps.live^
 ||nord.click^
@@ -3254,6 +3259,7 @@
 ||nusukservics.life^
 ||nusukservics.live^
 ||nvda.ws^
+||nw5g.com^
 ||nwo-s.top^
 ||nwppr.co^
 ||nwsdy.li^
@@ -3391,6 +3397,7 @@
 ||owy.mn^
 ||oxelt.gl^
 ||oxf.am^
+||oycyi.sbs^
 ||oyn.at^
 ||oyo.net^
 ||ozb.me^
@@ -3848,7 +3855,6 @@
 ||rnm.me^
 ||rntyu.com^
 ||robertdray2.live^
-||robloxgroup.life^
 ||robloxtech.live^
 ||rog.gg^
 ||roge.rs^
@@ -3859,6 +3865,7 @@
 ||ronald-adams-1.life^
 ||rool.ink^
 ||rotf.lol^
+||rotkt.com^
 ||rouletteonline.live^
 ||rounash.com^
 ||roush-jims.live^
@@ -4047,13 +4054,13 @@
 ||shoort.io^
 ||shop-ify-store-km.life^
 ||shope.ee^
-||shopeedeals.sale^
 ||shopifie.com^
 ||shopifystorekms.life^
 ||shoplarryherndon115.life^
 ||shopquoraurl.life^
 ||shopvt.life^
 ||shopwoolworths.live^
+||shorix.ru^
 ||shorl.com^
 ||shorrty.com^
 ||short.bid^
@@ -4092,9 +4099,12 @@
 ||shortenedlinks.com^
 ||shortenedurl.me^
 ||shortener.net^
+||shortenercs.com^
 ||shortenerlink.net^
+||shortenerlink.xyz^
 ||shortenerreviews.com^
 ||shorteners.net^
+||shortenlinkurl.com^
 ||shortenly.net^
 ||shortenme.co^
 ||shortenme.io^
@@ -4106,6 +4116,7 @@
 ||shorter.me^
 ||shorterall.com^
 ||shorterurl.net^
+||shortfake.com^
 ||shorti.me^
 ||shortie.io^
 ||shortify.pro^
@@ -4130,6 +4141,7 @@
 ||shortmds.xyz^
 ||shortme.me^
 ||shortme.work^
+||shortme.xyz^
 ||shortmenu.com^
 ||shortmoneyus.com^
 ||shortna.me^
@@ -4151,6 +4163,7 @@
 ||shorturl.ae^
 ||shorturl.asia^
 ||shorturl.at^
+||shorturl.best^
 ||shorturl.biz^
 ||shorturl.click^
 ||shorturl.com^
@@ -4161,6 +4174,7 @@
 ||shorturl.ru^
 ||shorturl.win^
 ||shorturl.ws^
+||shorturl88.com^
 ||shorturlapp.com^
 ||shorturlbot.com^
 ||shorturls.me^
@@ -4296,7 +4310,6 @@
 ||smu.gs^
 ||smurl.link^
 ||sn.im^
-||snapchats.life^
 ||snapt.io^
 ||snar.co^
 ||snd.sc^
@@ -4348,7 +4361,6 @@
 ||spoo.me^
 ||spoti.fi^
 ||spotify.link^
-||spotifypigeon.live^
 ||spr.ly^
 ||spr.tn^
 ||sproutingdiscipleship.com^
@@ -4850,6 +4862,7 @@
 ||ui8.ru^
 ||uich.cc^
 ||uinw.site^
+||uitve.sbs^
 ||ujootchu.net^
 ||ukf.me^
 ||ukoeln.de^
@@ -5076,7 +5089,6 @@
 ||vid.lu^
 ||videopro.live^
 ||vigilink.com^
-||vim-tiktok.live^
 ||vincenaja46.live^
 ||vineland.dj^
 ||vip-gacha99.info^

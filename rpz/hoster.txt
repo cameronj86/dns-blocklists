@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745575680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745619660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Apr 2025 10:08 UTC
-; Version: 2025.0425.1008.06
+; Last modified: 25 Apr 2025 22:21 UTC
+; Version: 2025.0425.2221.25
 ; Syntax: RPZ
-; Number of entries: 4280
+; Number of entries: 4278
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -117,8 +117,6 @@ tuna.be CNAME .
 *.tuna.be CNAME .
 webnode.be CNAME .
 *.webnode.be CNAME .
-hormoud.best CNAME .
-*.hormoud.best CNAME .
 kgcajdibv.best CNAME .
 *.kgcajdibv.best CNAME .
 mkexperiment.best CNAME .
@@ -545,6 +543,8 @@ awardspace.com CNAME .
 *.awardspace.com CNAME .
 azzablog.com CNAME .
 *.azzablog.com CNAME .
+bakoweb.com CNAME .
+*.bakoweb.com CNAME .
 bandu2.com CNAME .
 *.bandu2.com CNAME .
 bandungberita.com CNAME .
@@ -1695,8 +1695,6 @@ techionblog.com CNAME .
 *.techionblog.com CNAME .
 tek-blogs.com CNAME .
 *.tek-blogs.com CNAME .
-telegrameyg.com CNAME .
-*.telegrameyg.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
 terapad.com CNAME .

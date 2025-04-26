@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745594400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745619480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Apr 2025 15:20 UTC
-; Version: 2025.0425.1520.38
+; Last modified: 25 Apr 2025 22:18 UTC
+; Version: 2025.0425.2218.27
 ; Syntax: RPZ
 ; Number of entries: 8268
 ;
@@ -1238,6 +1238,8 @@ edgedcircles.com CNAME .
 *.edgedcircles.com CNAME .
 edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -2206,8 +2208,6 @@ pixelprivacy.com CNAME .
 *.pixelprivacy.com CNAME .
 pixolium.com CNAME .
 *.pixolium.com CNAME .
-placenetworks.com CNAME .
-*.placenetworks.com CNAME .
 plainproxies.com CNAME .
 *.plainproxies.com CNAME .
 helios.plan9-dns.com CNAME .
@@ -2670,14 +2670,10 @@ browse.startpage.com CNAME .
 *.browse.startpage.com CNAME .
 eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
-eu1-browse.startpage.com CNAME .
-*.eu1-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
 error.proxy.startpage.com CNAME .
 *.error.proxy.startpage.com CNAME .
-proxy1.startpage.com CNAME .
-*.proxy1.startpage.com CNAME .
 proxy2.startpage.com CNAME .
 *.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
@@ -4728,6 +4724,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+bdns.link CNAME .
+*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5170,6 +5168,8 @@ doh2.b-cdn.net CNAME .
 *.doh2.b-cdn.net CNAME .
 freevpnme.b-cdn.net CNAME .
 *.freevpnme.b-cdn.net CNAME .
+hola-client-cdn4.b-cdn.net CNAME .
+*.hola-client-cdn4.b-cdn.net CNAME .
 bestssh.net CNAME .
 *.bestssh.net CNAME .
 betterproxy.net CNAME .
@@ -5528,8 +5528,6 @@ freevpn4you.net CNAME .
 *.freevpn4you.net CNAME .
 freevpnsoftware.net CNAME .
 *.freevpnsoftware.net CNAME .
-freewebproxyserver.net CNAME .
-*.freewebproxyserver.net CNAME .
 freeyoutube.net CNAME .
 *.freeyoutube.net CNAME .
 proxy.gamecove.net CNAME .
@@ -6834,6 +6832,8 @@ doh.kel.pe CNAME .
 *.doh.kel.pe CNAME .
 surfshark.ph CNAME .
 *.surfshark.ph CNAME .
+surprise.pics CNAME .
+*.surprise.pics CNAME .
 unblock.pink CNAME .
 *.unblock.pink CNAME .
 ngrok.pizza CNAME .

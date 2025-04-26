@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745593260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745619840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Apr 2025 15:01 UTC
-; Version: 2025.0425.1501.33
+; Last modified: 25 Apr 2025 22:24 UTC
+; Version: 2025.0425.2224.12
 ; Syntax: RPZ
-; Number of entries: 20746
+; Number of entries: 20744
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1223,8 +1223,6 @@ putlocker9.cc CNAME .
 *.putlocker9.cc CNAME .
 radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
-redditsport.cc CNAME .
-*.redditsport.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -15871,6 +15869,8 @@ guardaserie.parts CNAME .
 *.guardaserie.parts CNAME .
 torrent.parts CNAME .
 *.torrent.parts CNAME .
+tracker.ducks.party CNAME .
+*.tracker.ducks.party CNAME .
 eurostreaming.party CNAME .
 *.eurostreaming.party CNAME .
 ilgeniodellostreaming.party CNAME .
@@ -18301,8 +18301,6 @@ katz.to CNAME .
 *.katz.to CNAME .
 kickass.to CNAME .
 *.kickass.to CNAME .
-kickasstorrents.to CNAME .
-*.kickasstorrents.to CNAME .
 kickme.to CNAME .
 *.kickme.to CNAME .
 kinomax.to CNAME .

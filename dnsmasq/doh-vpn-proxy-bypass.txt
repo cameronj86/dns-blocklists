@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 15:20 UTC
-# Version: 2025.0425.1520.38
+# Last modified: 25 Apr 2025 22:18 UTC
+# Version: 2025.0425.2218.27
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 4134
 #
@@ -339,6 +339,7 @@ local=/401-retsam-swodniw.b-cdn.net/
 local=/doh1.b-cdn.net/
 local=/doh2.b-cdn.net/
 local=/freevpnme.b-cdn.net/
+local=/hola-client-cdn4.b-cdn.net/
 local=/b-dns.se/
 local=/b0xedpr0x.cyou/
 local=/dns.b33.space/
@@ -356,6 +357,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1143,6 +1145,7 @@ local=/eduacation.lol/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1384,7 +1387,6 @@ local=/freevpnapp.org/
 local=/freevpnplanet.com/
 local=/freevpnsoftware.net/
 local=/freewebproxy.eu/
-local=/freewebproxyserver.net/
 local=/www-server.freewebsproxy.com/
 local=/freexite.com/
 local=/freeyouproxytube.com/
@@ -2592,7 +2594,6 @@ local=/pkproxy.info/
 local=/pkrreaperr.me/
 local=/pktriot.net/
 local=/pkw-aufladen.de/
-local=/placenetworks.com/
 local=/plainproxies.com/
 local=/helios.plan9-dns.com/
 local=/kronos.plan9-dns.com/
@@ -3252,10 +3253,8 @@ local=/ams1.startpage.com/
 local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
-local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/error.proxy.startpage.com/
-local=/proxy1.startpage.com/
 local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
@@ -3345,6 +3344,7 @@ local=/surfsneaker.com/
 local=/surfsuark.com/
 local=/surfwebsite.org/
 local=/dns.surobe.com/
+local=/surprise.pics/
 local=/surtshark.com/
 local=/dns.sv-zauner.at/
 local=/dns.svoi.dev/

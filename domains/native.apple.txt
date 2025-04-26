@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Apr 2025 23:03 UTC
-# Version: 2025.0411.2303.11
+# Last modified: 25 Apr 2025 23:11 UTC
+# Version: 2025.0425.2311.59
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 100
+# Number of entries: 99
 #
 cstat.g.aaplimg.com
 diagassets.g.aaplimg.com
@@ -91,7 +91,6 @@ feedbackws.fe2.apple-dns.net
 me.apple-dns.net
 probe.me.apple-dns.net
 applemediaservices.com
-www.applemediaservices.com
 cstat.cdn-apple.com
 feedbackws.icloud.com.cn
 cdn-xp-ingest.edge.apple

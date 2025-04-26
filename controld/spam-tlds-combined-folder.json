@@ -1246,13 +1246,6 @@
       }
     },
     {
-      "PK": "erika.esq",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.esq",
       "action": {
         "do": 0,
@@ -1261,6 +1254,13 @@
     },
     {
       "PK": "ette.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ettoresoftware.store",
       "action": {
         "do": 1,
         "status": 1
