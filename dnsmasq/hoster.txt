@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 22:21 UTC
-# Version: 2025.0425.2221.25
+# Last modified: 26 Apr 2025 10:08 UTC
+# Version: 2025.0426.1008.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2139
+# Number of entries: 2138
 #
 local=/000a.de/
 local=/000space.com/
@@ -1389,7 +1389,6 @@ local=/misoya.shop/
 local=/mit-wenig-geld.de/
 local=/mixh.jp/
 local=/mizum.site/
-local=/mkexperiment.best/
 local=/mobi.ps/
 local=/mobinteg.com/
 local=/mochahost.com/
@@ -1404,7 +1403,6 @@ local=/multiblog.com/
 local=/multiply.com/
 local=/musik.cx/
 local=/musik.lc/
-local=/muskacademy.best/
 local=/mw.hu/
 local=/mx.gp/
 local=/my.gp/
@@ -1811,6 +1809,7 @@ local=/techionblog.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/tek-blogs.com/
+local=/telegrameyg.com/
 local=/telekom.at/
 local=/telepacific.net/
 local=/teleporthq.app/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 22:18 UTC
-# Version: 2025.0425.2218.27
+# Last modified: 26 Apr 2025 15:04 UTC
+# Version: 2025.0426.1504.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4134
+# Number of entries: 4133
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -309,7 +309,6 @@ local=/atozproxy.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
 local=/atvsh.ir/
-local=/dns.auapi.fun/
 local=/aurora-softworks.xyz/
 local=/auto-aufladen.de/
 local=/avanquestusa.com/
@@ -357,7 +356,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1116,7 +1114,6 @@ local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
 local=/im-in-the-thick-of-it-everybody-knows.dynorex.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/
@@ -1140,6 +1137,7 @@ local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/edgedcircles.com/
 local=/edgy-dns.com/
+local=/dns.editechstudio.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/eduacation.lol/
 local=/educationdean.us/
@@ -3322,6 +3320,7 @@ local=/surfeasy.mobi/
 local=/surfly.com/
 local=/surfmenow.com/
 local=/surfmo.com/
+local=/minfort.surfnet.ca.surfnet.ca/
 local=/surfonym.com/
 local=/surfshark.app/
 local=/surfshark.be/
