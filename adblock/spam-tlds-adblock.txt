@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 25 Apr 2025 21:49 UTC
-! Version: 2025.0425.2149.50
+! Last modified: 26 Apr 2025 18:02 UTC
+! Version: 2025.0426.1802.52
 ! Syntax: AdBlock
-! Number of latin TLDs: 120/235
+! Number of latin TLDs: 121/236
 !
 ||actor^
 ||auction^
@@ -134,4 +134,5 @@
 ||webcam^
 ||wedding^
 ||xin^
+||yoga^
 ||you^

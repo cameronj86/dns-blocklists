@@ -6,8 +6,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 26 Apr 2025 15:02 UTC
-! Version: 2025.0426.1502.38
+! Last modified: 27 Apr 2025 03:02 UTC
+! Version: 2025.0427.0302.25
 ! Syntax: AdBlock
 ! Number of entries: 1453
 !
@@ -505,6 +505,7 @@
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
 ||resolver2.dyndnsinternetguide.com^
+||gustamadh.dynv6.net^
 ||dns.dynx.pro^
 ||dnscache.e-utp.net^
 ||adguard.easez.net^
@@ -904,7 +905,6 @@
 ||blackhole.myon.lu^
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
-||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^

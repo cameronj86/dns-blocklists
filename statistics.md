@@ -2,7 +2,7 @@
 #### LIGHT
 ```
  Nr | Included | Dead | Removed | URL/File
-  1 |      74% |  18% |      8% | Denylist Personal
+  1 |      75% |  17% |      8% | Denylist Personal
   2 |      99% |   0% |      1% | Basic Extension
 ```
 #### MULTI
