@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745722980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745766300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Apr 2025 03:03 UTC
-; Version: 2025.0427.0303.47
+; Last modified: 27 Apr 2025 15:05 UTC
+; Version: 2025.0427.1505.46
 ; Syntax: RPZ
-; Number of entries: 8264
+; Number of entries: 8268
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -320,6 +320,8 @@ maxfong.cc CNAME .
 *.maxfong.cc CNAME .
 mfho.cc CNAME .
 *.mfho.cc CNAME .
+openips.cc CNAME .
+*.openips.cc CNAME .
 openvpn.cc CNAME .
 *.openvpn.cc CNAME .
 xcxx.pointed.cc CNAME .
@@ -1956,6 +1958,8 @@ ssl-proxy.my-addr.com CNAME .
 *.ssl-proxy.my-addr.com CNAME .
 my-proxy.com CNAME .
 *.my-proxy.com CNAME .
+my-safe-net.com CNAME .
+*.my-safe-net.com CNAME .
 myiphide.com CNAME .
 *.myiphide.com CNAME .
 myspaceunlock.com CNAME .
@@ -1968,6 +1972,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4722,8 +4728,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5448,8 +5452,6 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 earth-vpn.net CNAME .
@@ -6508,6 +6510,8 @@ fair.hashable.org CNAME .
 *.fair.hashable.org CNAME .
 hide-me.org CNAME .
 *.hide-me.org CNAME .
+hide-my-ip.org CNAME .
+*.hide-my-ip.org CNAME .
 hidenseek.org CNAME .
 *.hidenseek.org CNAME .
 hideweb.org CNAME .

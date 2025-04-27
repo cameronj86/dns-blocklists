@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Apr 2025 03:03 UTC
-# Version: 2025.0427.0303.47
+# Last modified: 27 Apr 2025 15:05 UTC
+# Version: 2025.0427.1505.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4132
+# Number of entries: 4134
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -355,7 +355,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1114,7 +1113,6 @@ local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
 local=/im-in-the-thick-of-it-everybody-knows.dynorex.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/
@@ -1578,6 +1576,7 @@ local=/hide.me/
 local=/hide.mn/
 local=/hide-me.org/
 local=/hide-my-ip.com/
+local=/hide-my-ip.org/
 local=/hideallip.com/
 local=/hideandgo.com/
 local=/hideapplication.com/
@@ -2175,6 +2174,7 @@ local=/dns.velyn.my.id/
 local=/dns.vmath.my.id/
 local=/ssl-proxy.my-addr.com/
 local=/my-proxy.com/
+local=/my-safe-net.com/
 local=/myatris.sbs/
 local=/mybestvpn.info/
 local=/mycelium.site/
@@ -2208,6 +2208,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2456,6 +2457,7 @@ local=/resolver2-fs.opendns.com/
 local=/sandbox.opendns.com/
 local=/opengw.net/
 local=/resolver4.dns.openinternet.io/
+local=/openips.cc/
 local=/ns1.opennameserver.org/
 local=/ns2.opennameserver.org/
 local=/ns3.opennameserver.org/
