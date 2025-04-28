@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 22:17 UTC
-# Version: 2025.0425.2217.06
+# Last modified: 28 Apr 2025 02:59 UTC
+# Version: 2025.0428.0259.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1400
+# Number of entries: 1398
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -1131,11 +1131,9 @@ local=/root64.de/
 local=/roth.ca/
 local=/route64.de/
 local=/rpz.su/
-local=/rr.nu/
 local=/rtam.net/
 local=/rum.si/
 local=/run.place/
-local=/rundis.com/
 local=/ruok.org/
 local=/russkoeumea.com/
 local=/rwbcode.com/

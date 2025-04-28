@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 22:17 UTC
-# Version: 2025.0425.2217.06
+# Last modified: 28 Apr 2025 02:59 UTC
+# Version: 2025.0428.0259.22
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1400
+# Number of entries: 1398
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -1131,11 +1131,9 @@
 *.roth.ca
 *.route64.de
 *.rpz.su
-*.rr.nu
 *.rtam.net
 *.rum.si
 *.run.place
-*.rundis.com
 *.ruok.org
 *.russkoeumea.com
 *.rwbcode.com

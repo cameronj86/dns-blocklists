@@ -133,6 +133,10 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-i
 https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
 https://raw.githubusercontent.com/BrigsLabs/judol/main/judol_domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
+https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
+https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
+https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
+https://raw.githubusercontent.com/cbuijs/ut1/master/warez/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
 https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/adobe.txt
 https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/brave.txt
