@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Apr 2025 10:38 UTC
-# Version: 2025.0428.1038.09
+# Last modified: 28 Apr 2025 22:07 UTC
+# Version: 2025.0428.2207.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5615
+# Number of entries: 5616
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1236,6 +1236,7 @@ local=/dd.ma/
 local=/ddbfx.com/
 local=/ddlsu.com/
 local=/ddw.nu/
+local=/ddwxl.info/
 local=/dealc.me/
 local=/deb.li/
 local=/debbiewestdicksons.life/
@@ -2131,7 +2132,6 @@ local=/ilinky.info/
 local=/ilix.in/
 local=/ilk.ir/
 local=/illin.is/
-local=/illuminatiracers.live/
 local=/iln.io/
 local=/ilnk.io/
 local=/ilofi.sbs/
@@ -3066,6 +3066,7 @@ local=/mttr.io/
 local=/link.mtvrs.it/
 local=/mub.me/
 local=/mufv.info/
+local=/mujlb.com/
 local=/multishorturl.com/
 local=/mumy.me/
 local=/munbyn.biz/
@@ -3129,7 +3130,6 @@ local=/myshorturls.com/
 local=/mysp.ac/
 local=/mysurl.com/
 local=/mytd.cc/
-local=/mytiktok.life/
 local=/mytinycheck9.life/
 local=/mytoluwalemi.life/
 local=/mytorus.live/
@@ -3277,7 +3277,10 @@ local=/nwspprs.com/
 local=/nxb.tw/
 local=/nxc.life/
 local=/nxdr.co/
+local=/nxgtm.com/
 local=/nxm.us/
+local=/nxmpy.top/
+local=/nxpeo.top/
 local=/nxy.in/
 local=/on.ny.gov/
 local=/on.nyc.gov/
@@ -3867,7 +3870,6 @@ local=/rnly.info/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
-local=/robloxgroup.life/
 local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
@@ -3902,6 +3904,7 @@ local=/rsmonkey.com/
 local=/rtube.nl/
 local=/rtvote.com/
 local=/rtxt.co/
+local=/bio.rub3n.io/
 local=/rupilinks.com/
 local=/rusd.in/
 local=/rushgiving.com/
@@ -4068,7 +4071,6 @@ local=/sho-rt.ru/
 local=/shoort.io/
 local=/shop-ify-store-km.life/
 local=/shope.ee/
-local=/shopeedeals.sale/
 local=/shopifie.com/
 local=/shopifystorekms.life/
 local=/shoplarryherndon115.life/
@@ -4325,7 +4327,6 @@ local=/smtvj.com/
 local=/smu.gs/
 local=/smurl.link/
 local=/sn.im/
-local=/snapchats.life/
 local=/snapt.io/
 local=/snar.co/
 local=/snd.sc/
@@ -4377,7 +4378,6 @@ local=/spn.sr/
 local=/spoo.me/
 local=/spoti.fi/
 local=/spotify.link/
-local=/spotifypigeon.live/
 local=/spr.ly/
 local=/spr.tn/
 local=/sproutingdiscipleship.com/
@@ -4886,6 +4886,7 @@ local=/ujootchu.net/
 local=/ukf.me/
 local=/ukoeln.de/
 local=/ukphamacyunited.live/
+local=/ukqf.top/
 local=/ul.rs/
 local=/ul.to/
 local=/s.ul.com/
@@ -5109,7 +5110,6 @@ local=/vibebycalifornia.life/
 local=/vid.lu/
 local=/videopro.live/
 local=/vigilink.com/
-local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/
@@ -5513,6 +5513,7 @@ local=/yourcs.us/
 local=/youris.pro/
 local=/yourl.ir/
 local=/yourls.best/
+local=/yourls.info/
 local=/yourls.org/
 local=/yourmovie.co/
 local=/yourwish.es/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Apr 2025 10:36 UTC
-# Version: 2025.0428.1036.36
+# Last modified: 28 Apr 2025 22:06 UTC
+# Version: 2025.0428.2206.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2133
+# Number of entries: 2132
 #
 local=/000a.de/
 local=/000space.com/
@@ -1805,7 +1805,6 @@ local=/techionblog.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/tek-blogs.com/
-local=/telegrameyg.com/
 local=/telekom.at/
 local=/telepacific.net/
 local=/teleporthq.app/
