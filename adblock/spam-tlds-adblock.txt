@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 28 Apr 2025 03:04 UTC
-! Version: 2025.0428.0304.03
+! Last modified: 29 Apr 2025 15:08 UTC
+! Version: 2025.0429.1508.47
 ! Syntax: AdBlock
-! Number of latin TLDs: 121/236
+! Number of latin TLDs: 139/254
 !
 ||actor^
 ||auction^
@@ -21,6 +21,7 @@
 ||baby^
 ||band^
 ||beauty^
+||beer^
 ||bet^
 ||bid^
 ||bingo^
@@ -37,12 +38,14 @@
 ||cash^
 ||casino^
 ||ceo^
+||channel^
 ||charity^
 ||cheap^
 ||christmas^
 ||claims^
 ||clothing^
 ||college^
+||consulting^
 ||coupons^
 ||cymru^
 ||dance^
@@ -52,15 +55,22 @@
 ||diy^
 ||dog^
 ||engineer^
+||enterprises^
+||equipment^
 ||esq^
+||exchange^
+||exposed^
 ||faith^
+||family^
 ||fashion^
 ||finance^
 ||financial^
 ||fishing^
 ||fitness^
+||forex^
 ||forsale^
 ||fund^
+||games^
 ||gent^
 ||gives^
 ||giving^
@@ -72,6 +82,8 @@
 ||haus^
 ||international^
 ||irish^
+||jewelry^
+||joburg^
 ||kim^
 ||lat^
 ||lifestyle^
@@ -103,11 +115,14 @@
 ||recipes^
 ||rehab^
 ||ren^
+||repair^
 ||restaurant^
 ||review^
+||reviews^
 ||rich^
 ||rodeo^
 ||rugby^
+||ryukyu^
 ||sale^
 ||sbs^
 ||schule^
@@ -120,9 +135,11 @@
 ||tattoo^
 ||tax^
 ||taxi^
+||tienda^
 ||tokyo^
 ||town^
 ||trading^
+||tube^
 ||vacations^
 ||vegas^
 ||ventures^
@@ -130,6 +147,7 @@
 ||vision^
 ||vlaanderen^
 ||voto^
+||wales^
 ||wang^
 ||webcam^
 ||wedding^

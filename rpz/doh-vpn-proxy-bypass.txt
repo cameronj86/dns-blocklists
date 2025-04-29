@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745894940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1745946420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Apr 2025 02:49 UTC
-; Version: 2025.0429.0249.31
+; Last modified: 29 Apr 2025 17:07 UTC
+; Version: 2025.0429.1707.21
 ; Syntax: RPZ
-; Number of entries: 8266
+; Number of entries: 8218
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -174,8 +174,6 @@ anonymurl.biz CNAME .
 *.anonymurl.biz CNAME .
 anonyproxy.biz CNAME .
 *.anonyproxy.biz CNAME .
-bit123.biz CNAME .
-*.bit123.biz CNAME .
 ewon.biz CNAME .
 *.ewon.biz CNAME .
 oneproxy.biz CNAME .
@@ -764,8 +762,6 @@ anonymizer.com CNAME .
 *.anonymizer.com CNAME .
 anonymizing.com CNAME .
 *.anonymizing.com CNAME .
-anonymousengine.com CNAME .
-*.anonymousengine.com CNAME .
 anonymster.com CNAME .
 *.anonymster.com CNAME .
 anonypost.com CNAME .
@@ -1206,8 +1202,6 @@ doh.us.dnswarden.com CNAME .
 *.doh.us.dnswarden.com CNAME .
 dnswebvsn.com CNAME .
 *.dnswebvsn.com CNAME .
-doomshadow.com CNAME .
-*.doomshadow.com CNAME .
 dotvpn.com CNAME .
 *.dotvpn.com CNAME .
 downloadvpnfree.com CNAME .
@@ -1216,8 +1210,6 @@ droidvpn.com CNAME .
 *.droidvpn.com CNAME .
 duapps.com CNAME .
 *.duapps.com CNAME .
-resolver2.dyndnsinternetguide.com CNAME .
-*.resolver2.dyndnsinternetguide.com CNAME .
 im-in-the-thick-of-it-everybody-knows.dynorex.com CNAME .
 *.im-in-the-thick-of-it-everybody-knows.dynorex.com CNAME .
 earnapp.com CNAME .
@@ -1418,8 +1410,6 @@ frootvpn.com CNAME .
 *.frootvpn.com CNAME .
 funknetwork.com CNAME .
 *.funknetwork.com CNAME .
-gabstorm.com CNAME .
-*.gabstorm.com CNAME .
 dns.gamban.com CNAME .
 *.dns.gamban.com CNAME .
 gamers-nor.com CNAME .
@@ -1480,8 +1470,6 @@ global-proxy.com CNAME .
 *.global-proxy.com CNAME .
 globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
-globaltrx.com CNAME .
-*.globaltrx.com CNAME .
 glype.com CNAME .
 *.glype.com CNAME .
 goaslen.com CNAME .
@@ -1972,6 +1960,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -2234,8 +2224,6 @@ privacy.plumedns.com CNAME .
 *.privacy.plumedns.com CNAME .
 pointtoserver.com CNAME .
 *.pointtoserver.com CNAME .
-polandgrows.com CNAME .
-*.polandgrows.com CNAME .
 polargrizzly.com CNAME .
 *.polargrizzly.com CNAME .
 portalssh.com CNAME .
@@ -2624,8 +2612,6 @@ somelikeitproxy.com CNAME .
 *.somelikeitproxy.com CNAME .
 sourceproxy.com CNAME .
 *.sourceproxy.com CNAME .
-spanproxy.com CNAME .
-*.spanproxy.com CNAME .
 sparklabs.com CNAME .
 *.sparklabs.com CNAME .
 doh-01.spectrum.com CNAME .
@@ -3062,8 +3048,6 @@ viatun.com CNAME .
 *.viatun.com CNAME .
 videounblock.com CNAME .
 *.videounblock.com CNAME .
-videounblocked.com CNAME .
-*.videounblocked.com CNAME .
 vidproxy.com CNAME .
 *.vidproxy.com CNAME .
 vikingvpn.com CNAME .
@@ -3270,8 +3254,6 @@ workdigi.com CNAME .
 *.workdigi.com CNAME .
 workingvpn.com CNAME .
 *.workingvpn.com CNAME .
-workstudyplay.com CNAME .
-*.workstudyplay.com CNAME .
 worldgravityapp.com CNAME .
 *.worldgravityapp.com CNAME .
 wossow.com CNAME .
@@ -3340,8 +3322,6 @@ yuyuproxy.com CNAME .
 *.yuyuproxy.com CNAME .
 yxorproxy.com CNAME .
 *.yxorproxy.com CNAME .
-zacebookpk.com CNAME .
-*.zacebookpk.com CNAME .
 adguard.zachitect.com CNAME .
 *.adguard.zachitect.com CNAME .
 zagbit.com CNAME .
@@ -3804,8 +3784,6 @@ omarcreatedthis.linxy.eu CNAME .
 *.omarcreatedthis.linxy.eu CNAME .
 n0.eu CNAME .
 *.n0.eu CNAME .
-ninjaproxy.eu CNAME .
-*.ninjaproxy.eu CNAME .
 onlineproxy.eu CNAME .
 *.onlineproxy.eu CNAME .
 privacyprotector.eu CNAME .
@@ -4248,8 +4226,6 @@ fortniters.info CNAME .
 *.fortniters.info CNAME .
 freeplace.info CNAME .
 *.freeplace.info CNAME .
-globalvpn.info CNAME .
-*.globalvpn.info CNAME .
 dns.api.integration.globuscs.info CNAME .
 *.dns.api.integration.globuscs.info CNAME .
 dns.api.sandbox.globuscs.info CNAME .
@@ -4258,10 +4234,6 @@ dns.api.staging.globuscs.info CNAME .
 *.dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
 *.dns.api.test.globuscs.info CNAME .
-gowork.info CNAME .
-*.gowork.info CNAME .
-greenpass.info CNAME .
-*.greenpass.info CNAME .
 hiddendigital.info CNAME .
 *.hiddendigital.info CNAME .
 hideme101.info CNAME .
@@ -4306,8 +4278,6 @@ myhidden.info CNAME .
 *.myhidden.info CNAME .
 myip-proxy.info CNAME .
 *.myip-proxy.info CNAME .
-myproxy.info CNAME .
-*.myproxy.info CNAME .
 mzhlhrfr8z.info CNAME .
 *.mzhlhrfr8z.info CNAME .
 qwertyabc123.nekros.info CNAME .
@@ -4334,8 +4304,6 @@ prohome.info CNAME .
 *.prohome.info CNAME .
 prointern.info CNAME .
 *.prointern.info CNAME .
-propage.info CNAME .
-*.propage.info CNAME .
 provpn.info CNAME .
 *.provpn.info CNAME .
 proxify.info CNAME .
@@ -4344,8 +4312,6 @@ proxite.info CNAME .
 *.proxite.info CNAME .
 proxy-2015.info CNAME .
 *.proxy-2015.info CNAME .
-proxy-internet.info CNAME .
-*.proxy-internet.info CNAME .
 proxybrowse.info CNAME .
 *.proxybrowse.info CNAME .
 proxyelite.info CNAME .
@@ -4388,16 +4354,12 @@ topsecure.info CNAME .
 *.topsecure.info CNAME .
 tradeadspace.info CNAME .
 *.tradeadspace.info CNAME .
-travelvpn.info CNAME .
-*.travelvpn.info CNAME .
 tvone.info CNAME .
 *.tvone.info CNAME .
 ublocker.info CNAME .
 *.ublocker.info CNAME .
 unblocked2.info CNAME .
 *.unblocked2.info CNAME .
-unblocked9.info CNAME .
-*.unblocked9.info CNAME .
 unblockedproxy.info CNAME .
 *.unblockedproxy.info CNAME .
 unblockedsite.info CNAME .
@@ -4632,8 +4594,6 @@ pro.shecan.ir CNAME .
 *.pro.shecan.ir CNAME .
 studebaker.ir CNAME .
 *.studebaker.ir CNAME .
-technofix.ir CNAME .
-*.technofix.ir CNAME .
 vipturkey.ir CNAME .
 *.vipturkey.ir CNAME .
 webjax.ir CNAME .
@@ -4726,8 +4686,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5450,6 +5408,8 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 earth-vpn.net CNAME .
@@ -5800,8 +5760,6 @@ rpz-public-resolver1.rrdns.pch.net CNAME .
 *.rpz-public-resolver1.rrdns.pch.net CNAME .
 perfectvpn.net CNAME .
 *.perfectvpn.net CNAME .
-dns.pernika.net CNAME .
-*.dns.pernika.net CNAME .
 darya.persiannit.net CNAME .
 *.darya.persiannit.net CNAME .
 dns.phillipjberry.net CNAME .
@@ -5842,8 +5800,6 @@ proxite.net CNAME .
 *.proxite.net CNAME .
 proxy-site.net CNAME .
 *.proxy-site.net CNAME .
-proxy-youtube.net CNAME .
-*.proxy-youtube.net CNAME .
 proxy2014.net CNAME .
 *.proxy2014.net CNAME .
 proxyboost.net CNAME .
@@ -6284,8 +6240,6 @@ externalmobiel.lekdijk.online CNAME .
 *.externalmobiel.lekdijk.online CNAME .
 letscomply.online CNAME .
 *.letscomply.online CNAME .
-adsadkjsadjksakldjxx.math-solver.online CNAME .
-*.adsadkjsadjksakldjxx.math-solver.online CNAME .
 dns.mathewakhil.online CNAME .
 *.dns.mathewakhil.online CNAME .
 myhalo.online CNAME .
@@ -6356,8 +6310,6 @@ mailer.amlegion.org CNAME .
 *.mailer.amlegion.org CNAME .
 amnezia.org CNAME .
 *.amnezia.org CNAME .
-anonproxy.org CNAME .
-*.anonproxy.org CNAME .
 anonymouse.org CNAME .
 *.anonymouse.org CNAME .
 anonymousvpn.org CNAME .

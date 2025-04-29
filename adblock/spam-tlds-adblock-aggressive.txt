@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 28 Apr 2025 03:04 UTC
-! Version: 2025.0428.0304.03
+! Last modified: 29 Apr 2025 15:08 UTC
+! Version: 2025.0429.1508.47
 ! Syntax: AdBlock
-! Number of latin TLDs: 236 - punycode TLDs: 151
+! Number of latin TLDs: 254 - punycode TLDs: 151
 !
 ||actor^
 ||africa^
@@ -26,6 +26,7 @@
 ||band^
 ||bar^
 ||beauty^
+||beer^
 ||best^
 ||bet^
 ||bid^
@@ -51,6 +52,7 @@
 ||center^
 ||ceo^
 ||cfd^
+||channel^
 ||charity^
 ||cheap^
 ||christmas^
@@ -62,6 +64,7 @@
 ||club^
 ||college^
 ||computer^
+||consulting^
 ||cool^
 ||coupons^
 ||cymru^
@@ -83,10 +86,15 @@
 ||download^
 ||eco^
 ||engineer^
+||enterprises^
+||equipment^
 ||esq^
 ||events^
+||exchange^
 ||expert^
+||exposed^
 ||faith^
+||family^
 ||fan^
 ||fashion^
 ||finance^
@@ -95,10 +103,12 @@
 ||fit^
 ||fitness^
 ||foo^
+||forex^
 ||forsale^
 ||foundation^
 ||fund^
 ||fyi^
+||games^
 ||gdn^
 ||gent^
 ||gift^
@@ -121,6 +131,8 @@
 ||ink^
 ||international^
 ||irish^
+||jewelry^
+||joburg^
 ||kim^
 ||lat^
 ||legal^
@@ -186,13 +198,16 @@
 ||rehab^
 ||ren^
 ||rent^
+||repair^
 ||rest^
 ||restaurant^
 ||review^
+||reviews^
 ||rich^
 ||rip^
 ||rodeo^
 ||rugby^
+||ryukyu^
 ||sale^
 ||sbs^
 ||schule^
@@ -219,6 +234,7 @@
 ||tattoo^
 ||tax^
 ||taxi^
+||tienda^
 ||tk^
 ||today^
 ||tokyo^
@@ -226,6 +242,7 @@
 ||town^
 ||trade^
 ||trading^
+||tube^
 ||uno^
 ||vacations^
 ||vegas^
@@ -236,6 +253,7 @@
 ||vlaanderen^
 ||vote^
 ||voto^
+||wales^
 ||wang^
 ||webcam^
 ||website^

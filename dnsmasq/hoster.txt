@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Apr 2025 22:06 UTC
-# Version: 2025.0428.2206.19
+# Last modified: 29 Apr 2025 10:09 UTC
+# Version: 2025.0429.1009.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2132
+# Number of entries: 2124
 #
 local=/000a.de/
 local=/000space.com/
@@ -53,7 +53,6 @@ local=/100webspace.com/
 local=/100webspace.net/
 local=/100ws.com/
 local=/10gbfreehost.com/
-local=/10h.us/
 local=/110mb.com/
 local=/111mb.de/
 local=/114.at/
@@ -236,7 +235,6 @@ local=/an-erster-stelle.de/
 local=/anchor-blog.com/
 local=/and-friends.de/
 local=/and-you.de/
-local=/andharban.com/
 local=/andologin99.com/
 local=/anfliegen.de/
 local=/angelfire.com/
@@ -264,7 +262,6 @@ local=/asiaal.shop/
 local=/asianhotel.shop/
 local=/at.cr/
 local=/at.st/
-local=/atsnx.com/
 local=/atspace.biz/
 local=/atspace.com/
 local=/atspace.org/
@@ -280,7 +277,6 @@ local=/avablog.ir/
 local=/aw3.de/
 local=/awardspace.biz/
 local=/awardspace.com/
-local=/aweys.net/
 local=/az.gp/
 local=/azzablog.com/
 local=/b.gp/
@@ -609,7 +605,6 @@ local=/cbkgardens.com/
 local=/cellnovis.com/
 local=/center.tl/
 local=/centerblog.net/
-local=/cfm-id72049123.com/
 local=/cfolks.pl/
 local=/cfw.me/
 local=/ch.gp/
@@ -1149,7 +1144,6 @@ local=/homepage-konstruktor.ru/
 local=/homestead.com/
 local=/hop.ru/
 local=/host.sk/
-local=/hostami.me/
 local=/hostedforfree.com/
 local=/hostfree.pw/
 local=/hostingas.in/
@@ -1276,7 +1270,6 @@ local=/kann-helfen.de/
 local=/kataweb.it/
 local=/keepfree.de/
 local=/keetkotoun.com/
-local=/kgcajdibv.best/
 local=/kidnumber.shop/
 local=/kilu.at/
 local=/kilu.biz/
@@ -1404,7 +1397,6 @@ local=/musik.lc/
 local=/mw.hu/
 local=/mx.gp/
 local=/my.gp/
-local=/xzf.my.id/
 local=/my-board.org/
 local=/my-free.website/
 local=/my-place.us/
@@ -1608,7 +1600,6 @@ local=/pro.ac/
 local=/pro.vg/
 local=/pro3.de/
 local=/proboards.com/
-local=/prodepl.top/
 local=/profis.info/
 local=/profreehost.com/
 local=/proginfortrad.top/
@@ -1805,6 +1796,7 @@ local=/techionblog.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/tek-blogs.com/
+local=/telegrameyg.com/
 local=/telekom.at/
 local=/telepacific.net/
 local=/teleporthq.app/

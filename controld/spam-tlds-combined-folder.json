@@ -301,6 +301,13 @@
       }
     },
     {
+      "PK": "*.beer",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "beiniz.biz",
       "action": {
         "do": 1,
@@ -665,6 +672,13 @@
       }
     },
     {
+      "PK": "*.channel",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.charity",
       "action": {
         "do": 0,
@@ -841,6 +855,13 @@
     },
     {
       "PK": "*.computer",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.consulting",
       "action": {
         "do": 0,
         "status": 1
@@ -1232,6 +1253,13 @@
       }
     },
     {
+      "PK": "*.enterprises",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "epg.best",
       "action": {
         "do": 1,
@@ -1249,6 +1277,13 @@
       "PK": "epson.biz",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.equipment",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -1288,7 +1323,21 @@
       }
     },
     {
+      "PK": "*.exchange",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.expert",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.exposed",
       "action": {
         "do": 0,
         "status": 1
@@ -1312,6 +1361,13 @@
       "PK": "fallout.wiki",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.family",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -1463,6 +1519,13 @@
       }
     },
     {
+      "PK": "*.forex",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "form.new",
       "action": {
         "do": 1,
@@ -1529,6 +1592,13 @@
       "PK": "gamedev.place",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.games",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -2044,9 +2114,23 @@
       }
     },
     {
+      "PK": "*.jewelry",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "jitsi.support",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.joburg",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -3563,6 +3647,13 @@
       }
     },
     {
+      "PK": "*.repair",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.rest",
       "action": {
         "do": 0,
@@ -3578,6 +3669,13 @@
     },
     {
       "PK": "*.review",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.reviews",
       "action": {
         "do": 0,
         "status": 1
@@ -3650,6 +3748,13 @@
       "PK": "ryde.vip",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.ryukyu",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -4277,6 +4382,13 @@
       }
     },
     {
+      "PK": "*.tienda",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "tigress.wtf",
       "action": {
         "do": 1,
@@ -4371,6 +4483,13 @@
       "PK": "tts.monster",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.tube",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -4609,6 +4728,13 @@
       "PK": "vsdb.top",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.wales",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },

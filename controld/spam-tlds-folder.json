@@ -85,6 +85,13 @@
       }
     },
     {
+      "PK": "*.beer",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.best",
       "action": {
         "do": 0,
@@ -260,6 +267,13 @@
       }
     },
     {
+      "PK": "*.channel",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.charity",
       "action": {
         "do": 0,
@@ -331,6 +345,13 @@
     },
     {
       "PK": "*.computer",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.consulting",
       "action": {
         "do": 0,
         "status": 1
@@ -484,6 +505,20 @@
       }
     },
     {
+      "PK": "*.enterprises",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.equipment",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.esq",
       "action": {
         "do": 0,
@@ -498,6 +533,13 @@
       }
     },
     {
+      "PK": "*.exchange",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.expert",
       "action": {
         "do": 0,
@@ -505,7 +547,21 @@
       }
     },
     {
+      "PK": "*.exposed",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.faith",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.family",
       "action": {
         "do": 0,
         "status": 1
@@ -568,6 +624,13 @@
       }
     },
     {
+      "PK": "*.forex",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.forsale",
       "action": {
         "do": 0,
@@ -590,6 +653,13 @@
     },
     {
       "PK": "*.fyi",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.games",
       "action": {
         "do": 0,
         "status": 1
@@ -744,6 +814,20 @@
     },
     {
       "PK": "*.irish",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.jewelry",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.joburg",
       "action": {
         "do": 0,
         "status": 1
@@ -1205,6 +1289,13 @@
       }
     },
     {
+      "PK": "*.repair",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.rest",
       "action": {
         "do": 0,
@@ -1220,6 +1311,13 @@
     },
     {
       "PK": "*.review",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.reviews",
       "action": {
         "do": 0,
         "status": 1
@@ -1248,6 +1346,13 @@
     },
     {
       "PK": "*.rugby",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.ryukyu",
       "action": {
         "do": 0,
         "status": 1
@@ -1436,6 +1541,13 @@
       }
     },
     {
+      "PK": "*.tienda",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.tk",
       "action": {
         "do": 0,
@@ -1479,6 +1591,13 @@
     },
     {
       "PK": "*.trading",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.tube",
       "action": {
         "do": 0,
         "status": 1
@@ -1549,6 +1668,13 @@
     },
     {
       "PK": "*.voto",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.wales",
       "action": {
         "do": 0,
         "status": 1

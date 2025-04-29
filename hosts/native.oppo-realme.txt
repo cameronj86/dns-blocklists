@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Apr 2025 06:29 UTC
-# Version: 2025.0411.0629.50
+# Last modified: 29 Apr 2025 06:41 UTC
+# Version: 2025.0429.0641.02
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 446
+# Number of entries: 442
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -117,10 +117,6 @@
 0.0.0.0 guif-eu.coloros.com
 0.0.0.0 icosa-sg.coloros.com
 0.0.0.0 icota-eu.coloros.com
-0.0.0.0 ifota.coloros.com
-0.0.0.0 ifota-eu.coloros.com
-0.0.0.0 ifota-in.coloros.com
-0.0.0.0 ifota-term.coloros.com
 0.0.0.0 ifrus.coloros.com
 0.0.0.0 ifrus-eu.coloros.com
 0.0.0.0 ifrus-in.coloros.com

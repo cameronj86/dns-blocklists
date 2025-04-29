@@ -11,10 +11,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 28 Apr 2025 03:04 UTC
-! Version: 2025.0428.0304.03
+! Last modified: 29 Apr 2025 15:08 UTC
+! Version: 2025.0429.1508.47
 ! Syntax: uBlock
-! Number of latin TLDs: 236 - non-latin TLDs: 151
+! Number of latin TLDs: 254 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -27,6 +27,7 @@
 ||band^$doc
 ||bar^$doc,domain=~fap.bar|~strem.bar
 ||beauty^$doc
+||beer^$doc
 ||best^$doc,domain=~epg.best
 ||bet^$doc
 ||bid^$doc
@@ -52,6 +53,7 @@
 ||center^$doc,domain=~priv.center
 ||ceo^$doc
 ||cfd^$doc,domain=~freedium.cfd
+||channel^$doc
 ||charity^$doc
 ||cheap^$doc
 ||christmas^$doc
@@ -63,6 +65,7 @@
 ||club^$doc,domain=~digipres.club|~hd-olimpo.club|~mbcherohub.club|~skin.club|~thelemmy.club
 ||college^$doc
 ||computer^$doc,domain=~libre.computer|~neat.computer|~silly.computer
+||consulting^$doc
 ||cool^$doc,domain=~cnyes.cool|~shirtz.cool|~upbitit.cool
 ||coupons^$doc
 ||cymru^$doc
@@ -84,10 +87,15 @@
 ||download^$doc,domain=~caido.download|~mkvtoolnix.download|~up4ever.download|~upfiles.download
 ||eco^$doc,domain=~elli.eco|~play.eco
 ||engineer^$doc
+||enterprises^$doc
+||equipment^$doc
 ||esq^$doc
 ||events^$doc,domain=~ticketco.events
+||exchange^$doc
 ||expert^$doc,domain=~bahn.expert|~booking.expert|~malware.expert
+||exposed^$doc
 ||faith^$doc
+||family
 ||fan^$doc,domain=~lemmy.fan
 ||fashion^$doc
 ||finance^$doc
@@ -96,10 +104,12 @@
 ||fit^$doc,domain=~appetit.fit|~clubb.fit|~justget.fit|~pridegym.fit|~union.fit
 ||fitness^$doc
 ||foo^$doc,domain=~helloworld.foo
+||forex^$doc
 ||forsale^$doc
 ||foundation^$doc,domain=~e.foundation|~grapheneos.foundation|~jp.foundation|~player.foundation
 ||fund^$doc
 ||fyi^$doc,domain=~apollo.fyi|~better.fyi|~genderdysphoria.fyi|~iusearchlinux.fyi|~levels.fyi|~lunar.fyi|~vercel.fyi
+||games^$doc
 ||gdn^$doc,domain=~cst.gdn
 ||gent^$doc
 ||gift^$doc,domain=~discord.gift
@@ -122,6 +132,8 @@
 ||ink^$doc,domain=~filepress.ink|~ishortn.ink|~next.ink|~rdl.ink|~shrinkme.ink|~sumerian.ink|~work.ink
 ||international^$doc
 ||irish^$doc
+||jewelry^$doc
+||joburg^$doc
 ||kim^$doc
 ||lat^$doc
 ||legal^$doc,domain=~doctolib.legal|~wbs.legal
@@ -187,13 +199,16 @@
 ||rehab^$doc
 ||ren^$doc
 ||rent^$doc,domain=~srv.rent
+||repair^$doc
 ||rest^$doc,domain=~insomnia.rest|~nect.rest
 ||restaurant^$doc
 ||review^$doc
+||reviews^$doc
 ||rich^$doc
 ||rip^$doc,domain=~highquality.rip|~medium.rip|~nest.rip|~scribe.rip
 ||rodeo^$doc
 ||rugby^$doc
+||ryukyu^$doc
 ||sale^$doc
 ||sbs^$doc
 ||schule^$doc
@@ -220,6 +235,7 @@
 ||tattoo^$doc
 ||tax^$doc
 ||taxi^$doc
+||tienda^$doc
 ||tk^$doc,domain=~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
 ||today^$doc,domain=~archive.today|~futurology.today|~lemmy.today|~oldweb.today
 ||tokyo^$doc
@@ -227,6 +243,7 @@
 ||town^$doc
 ||trade^$doc,domain=~composer.trade|~dx.trade|~kite.trade
 ||trading^$doc
+||tube^$doc
 ||uno^$doc,domain=~platform.uno
 ||vacations^$doc
 ||vegas^$doc
@@ -237,6 +254,7 @@
 ||vlaanderen^$doc
 ||vote^$doc,domain=~arizona.vote
 ||voto^$doc
+||wales^$doc
 ||wang^$doc
 ||webcam^$doc
 ||website^$doc,domain=~acro.website|~bestmotherfucking.website|~eddie.website|~thatsup.website|~tilde.website|~uphold.website
