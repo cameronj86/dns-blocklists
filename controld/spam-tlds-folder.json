@@ -1254,6 +1254,13 @@
       }
     },
     {
+      "PK": "*.realty",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.recipes",
       "action": {
         "do": 0,
