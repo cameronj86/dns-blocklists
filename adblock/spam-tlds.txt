@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 29 Apr 2025 15:08 UTC
-! Version: 2025.0429.1508.47
+! Last modified: 29 Apr 2025 18:54 UTC
+! Version: 2025.0429.1854.42
 ! Syntax: AdGuard
 ! Number of latin TLDs: 254 - punycode TLDs: 151
 !
@@ -94,7 +94,7 @@
 ||*.expert^$denyallow=bahn.expert|booking.expert|malware.expert
 ||*.exposed^
 ||*.faith^
-||*.family
+||*.family^
 ||*.fan^$denyallow=lemmy.fan
 ||*.fashion^
 ||*.finance^

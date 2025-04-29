@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 29 Apr 2025 15:08 UTC
-! Version: 2025.0429.1508.47
+! Last modified: 29 Apr 2025 18:54 UTC
+! Version: 2025.0429.1854.42
 ! Syntax: uBlock
 ! Number of latin TLDs: 254 - non-latin TLDs: 151
 !
@@ -95,7 +95,7 @@
 ||expert^$doc,domain=~bahn.expert|~booking.expert|~malware.expert
 ||exposed^$doc
 ||faith^$doc
-||family
+||family^$doc
 ||fan^$doc,domain=~lemmy.fan
 ||fashion^$doc
 ||finance^$doc
