@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Apr 2025 17:07 UTC
-# Version: 2025.0429.1707.21
+# Last modified: 30 Apr 2025 02:52 UTC
+# Version: 2025.0430.0252.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4109
+# Number of entries: 4114
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -352,6 +352,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1625,6 +1626,7 @@ local=/holafreevpn.com/
 local=/holavpn.net/
 local=/holavpnextension.com/
 local=/holavpnrussia.com/
+local=/holavpnworld.com/
 local=/holax.io/
 local=/beta.holyunblocker.org/
 local=/mythica.home.kg/
@@ -2542,6 +2544,7 @@ local=/dns.pesaventofilippo.com/
 local=/pesemes.ir/
 local=/dns.petqa.ru/
 local=/adguard.pggns.de/
+local=/phantompeer.com/
 local=/dns.phillipjberry.net/
 local=/photonsecure.com/
 local=/phpbido.com/
@@ -3449,6 +3452,7 @@ local=/timurpoyraz.com/
 local=/tinfoil-is-ass.xyz/
 local=/dns.tipsy.coffee/
 local=/titaniumnetwork.org/
+local=/titantunnelvpn.com/
 local=/dns.tls-data.de/
 local=/tlsext.com/
 local=/tlz.asia/
@@ -3735,6 +3739,7 @@ local=/unrestrictor.org/
 local=/resolver.unstoppable.io/
 local=/untraceable.us/
 local=/untracer.com/
+local=/unvpn.org/
 local=/dns.unx.io/
 local=/updatedproxies.com/
 local=/uproxy.online/
