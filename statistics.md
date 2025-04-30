@@ -26,7 +26,7 @@
  16 |      86% |   0% |     14% | Native Tracker Samsung (Devices)
  17 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  18 |      69% |  27% |      4% | Analytics/Metrics Extension
- 19 |      85% |   8% |      7% | Balanced Extension
+ 19 |      84% |   8% |      8% | Balanced Extension
 ```
 #### PRO
 ```
@@ -84,7 +84,7 @@
  23 |      92% |   7% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |      82% |   0% |     18% | Native Tracker TikTok Extended (Fingerprinting)
- 26 |      83% |  10% |      7% | Aggressive Extension
+ 26 |      84% |   9% |      7% | Aggressive Extension
  27 |     100% |   0% |      0% | Strict Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
 ```
@@ -116,7 +116,7 @@
  23 |      92% |   7% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
- 26 |      84% |  10% |      6% | Aggressive Extension
+ 26 |      85% |   9% |      6% | Aggressive Extension
  27 |     100% |   0% |      0% | Strict Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
  29 |     100% |   0% |      0% | META Graph Tracker (Facebook, Instagram)

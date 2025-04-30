@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Apr 2025 17:05 UTC
-# Version: 2025.0429.1705.58
+# Last modified: 30 Apr 2025 14:48 UTC
+# Version: 2025.0430.1448.51
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1611
+# Number of entries: 1609
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -610,7 +610,6 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -979,7 +978,6 @@
 0.0.0.0 doh.mmmalia.com
 0.0.0.0 dns.mnet-online.de
 0.0.0.0 dns.mo0on15.com
-0.0.0.0 moamao.shop
 0.0.0.0 dnstls.mobik.com
 0.0.0.0 ps1.modr.club
 0.0.0.0 dns.molinero.dev

@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Apr 2025 22:10 UTC
-# Version: 2025.0429.2210.56
+# Last modified: 30 Apr 2025 10:07 UTC
+# Version: 2025.0430.1007.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5621
+# Number of entries: 5631
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1133,6 +1133,7 @@ local=/crypsante.com/
 local=/cryptoguide.website/
 local=/crzgu.sbs/
 local=/cs.co/
+local=/csgy.info/
 local=/csmo.us/
 local=/cstu.io/
 local=/cstudyd.life/
@@ -1556,6 +1557,7 @@ local=/f5url.com/
 local=/f5yo.com/
 local=/fa.by/
 local=/fa-st.co/
+local=/facebookid.live/
 local=/facebookmarketplace.live/
 local=/facebookvideos.live/
 local=/fadurl.com/
@@ -2136,6 +2138,7 @@ local=/ilinky.info/
 local=/ilix.in/
 local=/ilk.ir/
 local=/illin.is/
+local=/illuminatiracers.live/
 local=/iln.io/
 local=/ilnk.io/
 local=/ilofi.sbs/
@@ -3135,6 +3138,7 @@ local=/myshorturls.com/
 local=/mysp.ac/
 local=/mysurl.com/
 local=/mytd.cc/
+local=/mytiktok.life/
 local=/mytinycheck9.life/
 local=/mytoluwalemi.life/
 local=/mytorus.live/
@@ -3737,6 +3741,7 @@ local=/qzxva.com/
 local=/r-7.co/
 local=/r2c.one/
 local=/r2slotamp.xyz/
+local=/rabde.sbs/
 local=/raceclip.com/
 local=/radly.ir/
 local=/raic.hu/
@@ -3878,6 +3883,7 @@ local=/rnly.info/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
+local=/robloxgroup.life/
 local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
@@ -4077,6 +4083,7 @@ local=/sho-rt.ru/
 local=/shoort.io/
 local=/shop-ify-store-km.life/
 local=/shope.ee/
+local=/shopeedeals.sale/
 local=/shopifie.com/
 local=/shopifystorekms.life/
 local=/shoplarryherndon115.life/
@@ -4333,6 +4340,7 @@ local=/smtvj.com/
 local=/smu.gs/
 local=/smurl.link/
 local=/sn.im/
+local=/snapchats.life/
 local=/snapt.io/
 local=/snar.co/
 local=/snd.sc/
@@ -4384,6 +4392,7 @@ local=/spn.sr/
 local=/spoo.me/
 local=/spoti.fi/
 local=/spotify.link/
+local=/spotifypigeon.live/
 local=/spr.ly/
 local=/spr.tn/
 local=/sproutingdiscipleship.com/
@@ -5116,6 +5125,7 @@ local=/vibebycalifornia.life/
 local=/vid.lu/
 local=/videopro.live/
 local=/vigilink.com/
+local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/

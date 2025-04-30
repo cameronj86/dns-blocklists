@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1745981520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746024600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Apr 2025 02:52 UTC
-; Version: 2025.0430.0252.56
+; Last modified: 30 Apr 2025 14:50 UTC
+; Version: 2025.0430.1450.14
 ; Syntax: RPZ
-; Number of entries: 8228
+; Number of entries: 8222
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4692,8 +4692,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5416,8 +5414,6 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 earth-vpn.net CNAME .
@@ -7274,8 +7270,6 @@ vpn-tw.teng.sh CNAME .
 *.vpn-tw.teng.sh CNAME .
 vpn.sh CNAME .
 *.vpn.sh CNAME .
-moamao.shop CNAME .
-*.moamao.shop CNAME .
 osqcsmm.shop CNAME .
 *.osqcsmm.shop CNAME .
 paradise-human.shop CNAME .
