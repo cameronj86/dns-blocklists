@@ -211,6 +211,13 @@
       }
     },
     {
+      "PK": "analyticsiot-prod-simpad-ehn.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-listener.trafficmanager.net",
       "action": {
         "do": 0,
@@ -323,6 +330,27 @@
       }
     },
     {
+      "PK": "a-ring-fallback.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "a-ring-ipv6only.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "a-ring.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "atm-settingsfe-prod-geo2.trafficmanager.net",
       "action": {
         "do": 0,
@@ -422,6 +450,20 @@
     },
     {
       "PK": "brc-visio-telemetry.officeapps.live.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "b-ring-fallback.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "b-ring.msedge.net",
       "action": {
         "do": 0,
         "status": 1
@@ -631,6 +673,13 @@
       }
     },
     {
+      "PK": "citrixanalyticseh2.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "citrixanalyticseh-alias.servicebus.windows.net",
       "action": {
         "do": 0,
@@ -814,6 +863,20 @@
     },
     {
       "PK": "c.pt.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "c-ring-fallback.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "c-ring.msedge.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1373,7 +1436,35 @@
       }
     },
     {
+      "PK": "k-ring-fallback.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "k-ring.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "legacywatson.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ln-ring-fallback.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ln-ring.msedge.net",
       "action": {
         "do": 0,
         "status": 1
@@ -2157,6 +2248,13 @@
       }
     },
     {
+      "PK": "s-ring-fallback.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "srtb.msn.com",
       "action": {
         "do": 0,
@@ -2347,6 +2445,55 @@
     },
     {
       "PK": "track.notif.careersppe.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "t-ring-fallback.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "t-ring-fallbacks1.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "t-ring-fallback-s2.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "t-ring.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "t-ring-s2.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "t-ring-s.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "t-s1-ring.msedge.net",
       "action": {
         "do": 0,
         "status": 1

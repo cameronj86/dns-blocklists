@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Apr 2025 14:31 UTC
-# Version: 2025.0430.1431.10
+# Last modified: 01 May 2025 14:50 UTC
+# Version: 2025.0501.1450.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10286
+# Number of entries: 10291
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -20,7 +20,6 @@ local=/0123movies.live/
 local=/0123movies.one/
 local=/0123moviesfree.org/
 local=/01streaming.click/
-local=/01streaming.stream/
 local=/01streaming.tv/
 local=/037hd.tv/
 local=/037hdmovie.com/
@@ -193,7 +192,6 @@ local=/1street.ru/
 local=/1techno.org/
 local=/1trance.org/
 local=/1watch-free.cc/
-local=/1watch-free.me/
 local=/1xstream.com/
 local=/20links.com/
 local=/retracker.211.ru/
@@ -466,6 +464,7 @@ local=/aimweb.ru/
 local=/ainiesta.com/
 local=/aiosearch.com/
 local=/aiowares.com/
+local=/airplanechefsmodapk.com/
 local=/aiw.bz/
 local=/retracker.akado-ural.ru/
 local=/akiba-online.com/
@@ -658,6 +657,7 @@ local=/altadefinizione01.it/
 local=/altadefinizione01.life/
 local=/altadefinizione01.love/
 local=/altadefinizione01.name/
+local=/altadefinizione01.photo/
 local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.site/
@@ -857,6 +857,7 @@ local=/tracker.anthelion.me/
 local=/anthousebd.net/
 local=/antsmarching.org/
 local=/anycracks.com/
+local=/anygame.net/
 local=/anytv.live/
 local=/anzaq.com/
 local=/anzfile.net/
@@ -873,6 +874,8 @@ local=/apk4free.org/
 local=/apk4fun.com/
 local=/apkals.com/
 local=/apkaward.com/
+local=/apkbeyond.org/
+local=/apkbigs.com/
 local=/apkcap.org/
 local=/apkcunk.com/
 local=/apkdlmod.com/
@@ -883,6 +886,7 @@ local=/apkgeek.net/
 local=/apkgod.net/
 local=/apkgw.com/
 local=/apkhome.io/
+local=/apkhome.net/
 local=/apkhouse.com/
 local=/apkity.com/
 local=/apklite.me/
@@ -1506,6 +1510,7 @@ local=/braflix.st/
 local=/braflix.video/
 local=/nextcloud.brandonsli.com/
 local=/brasiltvweb.com/
+local=/bravoapk.com/
 local=/breakingsocial.it/
 local=/tracker.breizh.pm/
 local=/broadcasthe.net/

@@ -51,7 +51,7 @@ te.ip-prod.aws-cbc.cloud
 basicattentiontoken.org
 
 # Slow loading of the top images (tiles) in the new Windows 11 App Store
-*.bat.bing.com
+bat.bing.com
 
 # https://github.com/hagezi/dns-blocklists/issues/3621
 api.applicationinsights.io
@@ -62,6 +62,7 @@ footprints-pa.googleapis.com
 
 # Needed for additional Assistant downloads on Android
 geller-pa.googleapis.com
+gellar-pa.googleapis.com
 
 # Google Wallet - breaks adding PKPASS files
 auditrecording-pa.googleapis.com

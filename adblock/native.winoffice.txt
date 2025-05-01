@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 Apr 2025 23:02 UTC
-! Version: 2025.0430.2302.15
+! Last modified: 01 May 2025 09:52 UTC
+! Version: 2025.0501.0952.53
 ! Syntax: AdBlock
-! Number of entries: 359
+! Number of entries: 380
 !
 ||c-bingapis-com.dual-a-0034.a-msedge.net^
 ||measure.office.com.akamaized.net^
@@ -189,7 +189,26 @@
 ||gateway.bingviz.microsoftapp.net^
 ||msads.net^
 ||az667904.vo.msecnd.net^
+||a-ring.msedge.net^
+||a-ring-fallback.msedge.net^
+||a-ring-ipv6only.msedge.net^
+||b-ring.msedge.net^
+||b-ring-fallback.msedge.net^
+||c-ring.msedge.net^
+||c-ring-fallback.msedge.net^
 ||fp.msedge.net^
+||k-ring.msedge.net^
+||k-ring-fallback.msedge.net^
+||ln-ring.msedge.net^
+||ln-ring-fallback.msedge.net^
+||s-ring-fallback.msedge.net^
+||t-ring.msedge.net^
+||t-ring-fallback.msedge.net^
+||t-ring-fallback-s2.msedge.net^
+||t-ring-fallbacks1.msedge.net^
+||t-ring-s.msedge.net^
+||t-ring-s2.msedge.net^
+||t-s1-ring.msedge.net^
 ||win10-trt.msedge.net^
 ||ac2.msn.com^
 ||ac3.msn.com^
@@ -342,10 +361,12 @@
 ||analytics-dev-lleap-events.servicebus.windows.net^
 ||analytics-dev-simpad-events.servicebus.windows.net^
 ||analyticsehnwe.servicebus.windows.net^
+||analyticsiot-prod-simpad-ehn.servicebus.windows.net^
 ||btv-du-dev-eventhub-streamanalytics.servicebus.windows.net^
 ||btv-du-prod-eventhub-streamanalytics.servicebus.windows.net^
 ||citrixanalyticseh.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
+||citrixanalyticseh2.servicebus.windows.net^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^

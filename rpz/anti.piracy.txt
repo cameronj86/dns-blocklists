@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746023460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746111000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Apr 2025 14:31 UTC
-; Version: 2025.0430.1431.10
+; Last modified: 01 May 2025 14:50 UTC
+; Version: 2025.0501.1450.23
 ; Syntax: RPZ
-; Number of entries: 20572
+; Number of entries: 20582
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2307,6 +2307,8 @@ aiosearch.com CNAME .
 *.aiosearch.com CNAME .
 aiowares.com CNAME .
 *.aiowares.com CNAME .
+airplanechefsmodapk.com CNAME .
+*.airplanechefsmodapk.com CNAME .
 akiba-online.com CNAME .
 *.akiba-online.com CNAME .
 akkadukka.com CNAME .
@@ -2475,6 +2477,8 @@ apkals.com CNAME .
 *.apkals.com CNAME .
 apkaward.com CNAME .
 *.apkaward.com CNAME .
+apkbigs.com CNAME .
+*.apkbigs.com CNAME .
 apkcunk.com CNAME .
 *.apkcunk.com CNAME .
 apkdlmod.com CNAME .
@@ -3043,6 +3047,8 @@ nextcloud.brandonsli.com CNAME .
 *.nextcloud.brandonsli.com CNAME .
 brasiltvweb.com CNAME .
 *.brasiltvweb.com CNAME .
+bravoapk.com CNAME .
+*.bravoapk.com CNAME .
 brocoflix.com CNAME .
 *.brocoflix.com CNAME .
 brothersitbd.com CNAME .
@@ -10859,8 +10865,6 @@ megakino.mba CNAME .
 *.123moviesfull.me CNAME .
 123moviestv.me CNAME .
 *.123moviestv.me CNAME .
-1watch-free.me CNAME .
-*.1watch-free.me CNAME .
 6box.me CNAME .
 *.6box.me CNAME .
 720pstream.me CNAME .
@@ -11785,6 +11789,8 @@ antbd.net CNAME .
 *.antbd.net CNAME .
 anthousebd.net CNAME .
 *.anthousebd.net CNAME .
+anygame.net CNAME .
+*.anygame.net CNAME .
 anzfile.net CNAME .
 *.anzfile.net CNAME .
 anzix.net CNAME .
@@ -11797,6 +11803,8 @@ apkgeek.net CNAME .
 *.apkgeek.net CNAME .
 apkgod.net CNAME .
 *.apkgod.net CNAME .
+apkhome.net CNAME .
+*.apkhome.net CNAME .
 apksoul.net CNAME .
 *.apksoul.net CNAME .
 apktoly.net CNAME .
@@ -14153,6 +14161,8 @@ apk-store.org CNAME .
 *.apk-store.org CNAME .
 apk4free.org CNAME .
 *.apk4free.org CNAME .
+apkbeyond.org CNAME .
+*.apkbeyond.org CNAME .
 apkcap.org CNAME .
 *.apkcap.org CNAME .
 apklite.org CNAME .
@@ -15807,6 +15817,8 @@ tantifilm.ph CNAME .
 *.tantifilm.ph CNAME .
 torrent9.ph CNAME .
 *.torrent9.ph CNAME .
+altadefinizione01.photo CNAME .
+*.altadefinizione01.photo CNAME .
 cb01.photos CNAME .
 *.cb01.photos CNAME .
 123movies.pics CNAME .
@@ -17597,8 +17609,6 @@ mypanlss.store CNAME .
 *.mypanlss.store CNAME .
 0123movie.stream CNAME .
 *.0123movie.stream CNAME .
-01streaming.stream CNAME .
-*.01streaming.stream CNAME .
 bdiptv.stream CNAME .
 *.bdiptv.stream CNAME .
 cricfree.stream CNAME .

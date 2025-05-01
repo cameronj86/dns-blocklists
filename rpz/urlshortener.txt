@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746050880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746094200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Apr 2025 22:08 UTC
-; Version: 2025.0430.2208.33
+; Last modified: 01 May 2025 10:10 UTC
+; Version: 2025.0501.1010.32
 ; Syntax: RPZ
-; Number of entries: 11266
+; Number of entries: 11298
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3318,6 +3318,8 @@ xjroy.com CNAME .
 *.xjroy.com CNAME .
 xkvpf.com CNAME .
 *.xkvpf.com CNAME .
+xmekz.com CNAME .
+*.xmekz.com CNAME .
 xortly.com CNAME .
 *.xortly.com CNAME .
 xoxourl.com CNAME .
@@ -3372,6 +3374,8 @@ zipmyurl.com CNAME .
 *.zipmyurl.com CNAME .
 ziturl.com CNAME .
 *.ziturl.com CNAME .
+zkmddn.com CNAME .
+*.zkmddn.com CNAME .
 zlnk.com CNAME .
 *.zlnk.com CNAME .
 zoodl.com CNAME .
@@ -5320,6 +5324,8 @@ wun.io CNAME .
 *.wun.io CNAME .
 ytube.io CNAME .
 *.ytube.io CNAME .
+yu3.io CNAME .
+*.yu3.io CNAME .
 zaya.io CNAME .
 *.zaya.io CNAME .
 zcu.io CNAME .
@@ -5886,6 +5892,8 @@ binancetransactionf077171f1gl1od17ro1asecure.life CNAME .
 *.binancetransactionf077171f1gl1od17ro1asecure.life CNAME .
 boa5s.life CNAME .
 *.boa5s.life CNAME .
+bopvu.life CNAME .
+*.bopvu.life CNAME .
 bose.life CNAME .
 *.bose.life CNAME .
 briidge.life CNAME .
@@ -5926,6 +5934,8 @@ chudaixxx.life CNAME .
 *.chudaixxx.life CNAME .
 chuyenvienming.life CNAME .
 *.chuyenvienming.life CNAME .
+cib-tea.life CNAME .
+*.cib-tea.life CNAME .
 civicagambassi.life CNAME .
 *.civicagambassi.life CNAME .
 coach-robin.life CNAME .
@@ -6154,6 +6164,8 @@ mylovinglife01974.life CNAME .
 *.mylovinglife01974.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
+mytiktok.life CNAME .
+*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6226,6 +6238,8 @@ rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
 rivera-quinones-luis-manuel-5.life CNAME .
 *.rivera-quinones-luis-manuel-5.life CNAME .
+robloxgroup.life CNAME .
+*.robloxgroup.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -6256,6 +6270,8 @@ siakap.life CNAME .
 *.siakap.life CNAME .
 sibutathemba120.life CNAME .
 *.sibutathemba120.life CNAME .
+snapchats.life CNAME .
+*.snapchats.life CNAME .
 soegyi.life CNAME .
 *.soegyi.life CNAME .
 soulful-transformation-studio.life CNAME .
@@ -6812,6 +6828,8 @@ ichafunddrives.live CNAME .
 *.ichafunddrives.live CNAME .
 igotthejuices.live CNAME .
 *.igotthejuices.live CNAME .
+illuminatiracers.live CNAME .
+*.illuminatiracers.live CNAME .
 inburstcorp.live CNAME .
 *.inburstcorp.live CNAME .
 incl.live CNAME .
@@ -7034,6 +7052,8 @@ smfcx.live CNAME .
 *.smfcx.live CNAME .
 soegyi.live CNAME .
 *.soegyi.live CNAME .
+spotifypigeon.live CNAME .
+*.spotifypigeon.live CNAME .
 srwedding.live CNAME .
 *.srwedding.live CNAME .
 startupperks.live CNAME .
@@ -7078,6 +7098,8 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
+vim-tiktok.live CNAME .
+*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -7090,6 +7112,8 @@ webbrian.live CNAME .
 *.webbrian.live CNAME .
 webprografor.live CNAME .
 *.webprografor.live CNAME .
+webprotech.live CNAME .
+*.webprotech.live CNAME .
 webyank4d.live CNAME .
 *.webyank4d.live CNAME .
 whatsapp2g.live CNAME .
@@ -9224,6 +9248,8 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
+shopeedeals.sale CNAME .
+*.shopeedeals.sale CNAME .
 aplnn.sbs CNAME .
 *.aplnn.sbs CNAME .
 atgqu.sbs CNAME .
@@ -9442,6 +9468,8 @@ rjwfd.sbs CNAME .
 *.rjwfd.sbs CNAME .
 rpghg.sbs CNAME .
 *.rpghg.sbs CNAME .
+rwqhh.sbs CNAME .
+*.rwqhh.sbs CNAME .
 scvjj.sbs CNAME .
 *.scvjj.sbs CNAME .
 snvcp.sbs CNAME .
@@ -9478,6 +9506,8 @@ vunvc.sbs CNAME .
 *.vunvc.sbs CNAME .
 vxqst.sbs CNAME .
 *.vxqst.sbs CNAME .
+wuhss.sbs CNAME .
+*.wuhss.sbs CNAME .
 wxdib.sbs CNAME .
 *.wxdib.sbs CNAME .
 xbxti.sbs CNAME .
@@ -10450,6 +10480,8 @@ txdl.top CNAME .
 *.txdl.top CNAME .
 ukqf.top CNAME .
 *.ukqf.top CNAME .
+umnm.top CNAME .
+*.umnm.top CNAME .
 unzp.top CNAME .
 *.unzp.top CNAME .
 uurml.top CNAME .
@@ -10930,8 +10962,8 @@ bcove.video CNAME .
 *.bcove.video CNAME .
 dronescapes.video CNAME .
 *.dronescapes.video CNAME .
-q.2qyq.vip CNAME .
-*.q.2qyq.vip CNAME .
+2qyq.vip CNAME .
+*.2qyq.vip CNAME .
 athena168.vip CNAME .
 *.athena168.vip CNAME .
 bolagroup.vip CNAME .
