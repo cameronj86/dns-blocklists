@@ -211,13 +211,6 @@
       }
     },
     {
-      "PK": "analyticsiot-prod-simpad-ehn.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "analytics-listener.trafficmanager.net",
       "action": {
         "do": 0,
@@ -632,13 +625,6 @@
     },
     {
       "PK": "citrixanalyticseh2-alias.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "citrixanalyticseh2.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1

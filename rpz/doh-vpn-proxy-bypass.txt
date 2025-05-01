@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746024600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746067680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Apr 2025 14:50 UTC
-; Version: 2025.0430.1450.14
+; Last modified: 01 May 2025 02:48 UTC
+; Version: 2025.0501.0248.59
 ; Syntax: RPZ
-; Number of entries: 8222
+; Number of entries: 8208
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1066,6 +1066,8 @@ dns.controld.com CNAME .
 *.dns.controld.com CNAME .
 freedns.controld.com CNAME .
 *.freedns.controld.com CNAME .
+dns.cooluc.com CNAME .
+*.dns.cooluc.com CNAME .
 corecloak.com CNAME .
 *.corecloak.com CNAME .
 coverproxy.com CNAME .
@@ -1632,12 +1634,6 @@ icitek.com CNAME .
 *.icitek.com CNAME .
 mask.icloud.com CNAME .
 *.mask.icloud.com CNAME .
-mask-api.icloud.com CNAME .
-*.mask-api.icloud.com CNAME .
-mask-boot.icloud.com CNAME .
-*.mask-boot.icloud.com CNAME .
-mask-canary.icloud.com CNAME .
-*.mask-canary.icloud.com CNAME .
 mask-h2.icloud.com CNAME .
 *.mask-h2.icloud.com CNAME .
 icpsuawn1zy5amys.com CNAME .
@@ -4692,6 +4688,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+bdns.link CNAME .
+*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5086,20 +5084,6 @@ anonymous-proxy-servers.net CNAME .
 *.anonymous-proxy-servers.net CNAME .
 anonymox.net CNAME .
 *.anonymox.net CNAME .
-mask-api.fe2.apple-dns.net CNAME .
-*.mask-api.fe2.apple-dns.net CNAME .
-canary.mask.apple-dns.net CNAME .
-*.canary.mask.apple-dns.net CNAME .
-africa-mask.wrr.mask.apple-dns.net CNAME .
-*.africa-mask.wrr.mask.apple-dns.net CNAME .
-apac-mask.wrr.mask.apple-dns.net CNAME .
-*.apac-mask.wrr.mask.apple-dns.net CNAME .
-emea-mask.wrr.mask.apple-dns.net CNAME .
-*.emea-mask.wrr.mask.apple-dns.net CNAME .
-north-america-mask.wrr.mask.apple-dns.net CNAME .
-*.north-america-mask.wrr.mask.apple-dns.net CNAME .
-south-america-mask.wrr.mask.apple-dns.net CNAME .
-*.south-america-mask.wrr.mask.apple-dns.net CNAME .
 doh.applied-privacy.net CNAME .
 *.doh.applied-privacy.net CNAME .
 dot1.applied-privacy.net CNAME .
@@ -6868,6 +6852,8 @@ unblocksite.pro CNAME .
 *.unblocksite.pro CNAME .
 doh.xcom.pro CNAME .
 *.doh.xcom.pro CNAME .
+yapidor.pro CNAME .
+*.yapidor.pro CNAME .
 yasosy.pro CNAME .
 *.yasosy.pro CNAME .
 mabuktogel.properties CNAME .

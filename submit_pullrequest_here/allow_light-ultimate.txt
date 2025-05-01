@@ -50,11 +50,13 @@ semanticlocation-pa.googleapis.com
 secu100.net
 
 # Facebook, essential
-facebook.com
-star.c10r.facebook.com
-star.fallback.c10r.facebook.com
 star-mini.c10r.facebook.com
 star-mini.fallback.c10r.facebook.com
+star.c10r.facebook.com
+star.fallback.c10r.facebook.com
+star.fallback.c10r.instagram.com
+star-mini-nohsts.c10r.facebook.com
+star-nohsts.c10r.facebook.com
 
 # https://github.com/hagezi/dns-blocklists/issues/4935
 voc.evolok.net

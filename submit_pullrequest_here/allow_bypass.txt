@@ -45,3 +45,12 @@ apple-relay.cloudflare.com
 apple-relay.fastly-edge.com
 # CNAME for apple-relay.apple.com
 apple-relay.mask.apple-dns.net
+# https://github.com/hagezi/dns-blocklists/issues/6090
+mask-api.icloud.com
+# CNAME
+mask-api.fe2.apple-dns.net
+
+# Not Apple Private Relay related
+*.mask.apple-dns.net
+mask-boot.icloud.com
+mask-canary.icloud.com

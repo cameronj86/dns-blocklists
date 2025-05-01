@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Apr 2025 14:48 UTC
-# Version: 2025.0430.1448.51
+# Last modified: 01 May 2025 02:47 UTC
+# Version: 2025.0501.0247.37
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1609
 #
@@ -343,6 +343,7 @@
 0.0.0.0 p2.freedns.controld.com
 0.0.0.0 p3.freedns.controld.com
 0.0.0.0 uncensored.freedns.controld.com
+0.0.0.0 dns.cooluc.com
 0.0.0.0 doh.cornes.me
 0.0.0.0 doh.cox.net
 0.0.0.0 dot.cox.net
@@ -772,7 +773,6 @@
 0.0.0.0 dns.iamanuragh.in
 0.0.0.0 dns.iamninja.ru
 0.0.0.0 mask.icloud.com
-0.0.0.0 mask-api.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 tienpham.id.vn
 0.0.0.0 adguard.shuting.idv.tw

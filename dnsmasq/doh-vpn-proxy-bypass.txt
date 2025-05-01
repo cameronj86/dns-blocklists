@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Apr 2025 14:50 UTC
-# Version: 2025.0430.1450.14
+# Last modified: 01 May 2025 02:48 UTC
+# Version: 2025.0501.0248.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4111
+# Number of entries: 4104
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -266,13 +266,6 @@ local=/ad.anym0re.ru/
 local=/doh.apad.pro/
 local=/ag.apollohct.com/
 local=/doh.dns.apple.com/
-local=/mask-api.fe2.apple-dns.net/
-local=/canary.mask.apple-dns.net/
-local=/africa-mask.wrr.mask.apple-dns.net/
-local=/apac-mask.wrr.mask.apple-dns.net/
-local=/emea-mask.wrr.mask.apple-dns.net/
-local=/north-america-mask.wrr.mask.apple-dns.net/
-local=/south-america-mask.wrr.mask.apple-dns.net/
 local=/appleproxy.com/
 local=/dns.applewebkit.dev/
 local=/doh.applied-privacy.net/
@@ -352,6 +345,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -784,6 +778,7 @@ local=/freedns.controld.com/
 local=/cool-proxy.net/
 local=/coolbits.org/
 local=/coolproxy.org/
+local=/dns.cooluc.com/
 local=/coproxy.io/
 local=/corecloak.com/
 local=/doh.cornes.me/
@@ -1689,9 +1684,6 @@ local=/ibvpn.com/
 local=/webproxy.ich-war-hier.de/
 local=/icitek.com/
 local=/mask.icloud.com/
-local=/mask-api.icloud.com/
-local=/mask-boot.icloud.com/
-local=/mask-canary.icloud.com/
 local=/mask-h2.icloud.com/
 local=/icpsuawn1zy5amys.com/
 local=/tienpham.id.vn/
@@ -4048,6 +4040,7 @@ local=/dns.yandex.ru/
 local=/common.dot.dns.yandex.net/
 local=/family.dot.dns.yandex.net/
 local=/safe.dot.dns.yandex.net/
+local=/yapidor.pro/
 local=/yasosy.pro/
 local=/dns.yatima.tv/
 local=/lion.yazilimatolye.com/

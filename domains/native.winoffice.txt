@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 23:15 UTC
-# Version: 2025.0425.2315.53
+# Last modified: 30 Apr 2025 23:02 UTC
+# Version: 2025.0430.2302.15
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 701
 #
@@ -30,6 +30,7 @@ api.applicationinsights.azure.com
 dc.applicationinsights.azure.cn
 dc.applicationinsights.azure.com
 dc.applicationinsights.azure.us
+www.dc.applicationinsights.azure.com
 in.applicationinsights.azure.cn
 in.applicationinsights.azure.com
 in.applicationinsights.azure.us
@@ -110,6 +111,7 @@ westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
 live.applicationinsights.azure.com
+www.live.applicationinsights.azure.com
 inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
@@ -263,6 +265,7 @@ analyticspixel.microsoft.com
 applicationinsights.microsoft.com
 dc.applicationinsights.microsoft.com
 rt.applicationinsights.microsoft.com
+www.rt.applicationinsights.microsoft.com
 pipe.aria.microsoft.com
 browser.pipe.aria.microsoft.com
 eu.pipe.aria.microsoft.com
@@ -368,7 +371,6 @@ uk-mobile.events.data.microsoft.com
 uk-v20.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
-us-ic3.events.data.microsoft.com
 us-mesh.events.data.microsoft.com
 us-mobile.events.data.microsoft.com
 us-teams.events.data.microsoft.com
@@ -681,12 +683,10 @@ sa.windows.com
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analyticsehnwe.servicebus.windows.net
-analyticsiot-prod-simpad-ehn.servicebus.windows.net
 btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
-citrixanalyticseh2.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
