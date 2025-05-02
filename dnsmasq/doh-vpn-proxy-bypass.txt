@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 May 2025 15:10 UTC
-# Version: 2025.0501.1510.34
+# Last modified: 02 May 2025 03:03 UTC
+# Version: 2025.0502.0303.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4116
+# Number of entries: 4113
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -348,6 +348,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1104,6 +1105,7 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/adbox-v9.dynipv6.de/
 local=/im-in-the-thick-of-it-everybody-knows.dynorex.com/
+local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/
@@ -1133,6 +1135,7 @@ local=/eduacation.lol/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1157,7 +1160,6 @@ local=/owenforzonoiseeyou.entergod.com/
 local=/dns.enzonix.com/
 local=/eonvpn.com/
 local=/epicbrowser.com/
-local=/bigpoppa.epicgamer.org/
 local=/epix.epicgamer.org/
 local=/123-24.eport.gr/
 local=/bl.eq.md/
@@ -1271,7 +1273,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1526,7 +1527,6 @@ local=/guardster.com/
 local=/guavi.com/
 local=/guestappearance.us/
 local=/dns2.guidocioni.it/
-local=/thankchristianifthisworks.guojinloong.cn/
 local=/dns.gutwe.in/
 local=/gvirabi.com/
 local=/gwopboyded.com/
@@ -1541,7 +1541,6 @@ local=/adguard.haneulo.com/
 local=/dns.hanmey.de/
 local=/hanniel.tech/
 local=/dns.hannielzhang.com/
-local=/classroom.haoqiw.com/
 local=/happy-vpn.com/
 local=/harbaletsstudy.com/
 local=/resolver-eu.haringstad.com/
@@ -2194,6 +2193,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2258,7 +2258,6 @@ local=/doh.infotek.net.id/
 local=/doh.max.net.id/
 local=/ns.net.kg/
 local=/net-ml.online/
-local=/mathew-hill.net4ria.com/
 local=/netaltr.com/
 local=/netnut.io/
 local=/netscop.net/
@@ -2421,7 +2420,6 @@ local=/onlineproxy.io/
 local=/onlineproxy.us/
 local=/adguard.onlyfriends.info/
 local=/onyx7.com/
-local=/bokkki.oops.wtf/
 local=/hk2.ooroot.com/
 local=/jp2.ooroot.com/
 local=/kr1.ooroot.com/
@@ -3544,7 +3542,6 @@ local=/ad.tzockt.beer/
 local=/u8sj3.com/
 local=/ubint.net/
 local=/ublocker.info/
-local=/screwedupclick.ufodns.com/
 local=/ufovpn.io/
 local=/ufreevpn.com/
 local=/ugdsoft.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746112200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746154980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 May 2025 15:10 UTC
-; Version: 2025.0501.1510.34
+; Last modified: 02 May 2025 03:03 UTC
+; Version: 2025.0502.0303.47
 ; Syntax: RPZ
-; Number of entries: 8232
+; Number of entries: 8226
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -514,8 +514,6 @@ dns.tuna.tsinghua.edu.cn CNAME .
 *.dns.tuna.tsinghua.edu.cn CNAME .
 free-vpn.cn CNAME .
 *.free-vpn.cn CNAME .
-thankchristianifthisworks.guojinloong.cn CNAME .
-*.thankchristianifthisworks.guojinloong.cn CNAME .
 dns.hujiayucc.cn CNAME .
 *.dns.hujiayucc.cn CNAME .
 liyu321.cn CNAME .
@@ -1242,6 +1240,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -1532,8 +1532,6 @@ adguard.haneulo.com CNAME .
 *.adguard.haneulo.com CNAME .
 dns.hannielzhang.com CNAME .
 *.dns.hannielzhang.com CNAME .
-classroom.haoqiw.com CNAME .
-*.classroom.haoqiw.com CNAME .
 happy-vpn.com CNAME .
 *.happy-vpn.com CNAME .
 harbaletsstudy.com CNAME .
@@ -1964,6 +1962,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -1972,8 +1972,6 @@ napps-2.com CNAME .
 *.napps-2.com CNAME .
 needunblock.com CNAME .
 *.needunblock.com CNAME .
-mathew-hill.net4ria.com CNAME .
-*.mathew-hill.net4ria.com CNAME .
 netaltr.com CNAME .
 *.netaltr.com CNAME .
 netsneak.com CNAME .
@@ -2904,8 +2902,6 @@ typaza.com CNAME .
 *.typaza.com CNAME .
 u8sj3.com CNAME .
 *.u8sj3.com CNAME .
-screwedupclick.ufodns.com CNAME .
-*.screwedupclick.ufodns.com CNAME .
 ufreevpn.com CNAME .
 *.ufreevpn.com CNAME .
 ugdsoft.com CNAME .
@@ -4708,6 +4704,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+bdns.link CNAME .
+*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5416,6 +5414,8 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 earth-vpn.net CNAME .
@@ -6398,8 +6398,6 @@ tor.eff.org CNAME .
 *.tor.eff.org CNAME .
 elgatobypasses.org CNAME .
 *.elgatobypasses.org CNAME .
-bigpoppa.epicgamer.org CNAME .
-*.bigpoppa.epicgamer.org CNAME .
 epix.epicgamer.org CNAME .
 *.epix.epicgamer.org CNAME .
 arashi.eu.org CNAME .
@@ -7416,8 +7414,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
@@ -7968,8 +7964,6 @@ www-proxy.facil.wtf CNAME .
 *.www-proxy.facil.wtf CNAME .
 dns.glf.wtf CNAME .
 *.dns.glf.wtf CNAME .
-bokkki.oops.wtf CNAME .
-*.bokkki.oops.wtf CNAME .
 yesbutno.wtf CNAME .
 *.yesbutno.wtf CNAME .
 003153.xyz CNAME .

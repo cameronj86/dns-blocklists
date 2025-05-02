@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746111000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746153840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 May 2025 14:50 UTC
-; Version: 2025.0501.1450.23
+; Last modified: 02 May 2025 02:44 UTC
+; Version: 2025.0502.0244.23
 ; Syntax: RPZ
-; Number of entries: 20582
+; Number of entries: 20616
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1119,6 +1119,8 @@ italia-film.cc CNAME .
 *.italia-film.cc CNAME .
 italiaserie.cc CNAME .
 *.italiaserie.cc CNAME .
+jenny-mod.cc CNAME .
+*.jenny-mod.cc CNAME .
 jetanime.cc CNAME .
 *.jetanime.cc CNAME .
 torrent.jiwang.cc CNAME .
@@ -1183,6 +1185,8 @@ nortex.cc CNAME .
 *.nortex.cc CNAME .
 nulled-scripts.cc CNAME .
 *.nulled-scripts.cc CNAME .
+nulls.cc CNAME .
+*.nulls.cc CNAME .
 nunuyy.cc CNAME .
 *.nunuyy.cc CNAME .
 nzb.cc CNAME .
@@ -2055,8 +2059,6 @@ guardaserie.coach CNAME .
 *.guardaserie.coach CNAME .
 tantifilm.coach CNAME .
 *.tantifilm.coach CNAME .
-altadefinizione.codes CNAME .
-*.altadefinizione.codes CNAME .
 carr.codes CNAME .
 *.carr.codes CNAME .
 cb01.codes CNAME .
@@ -2487,10 +2489,14 @@ apkdone.com CNAME .
 *.apkdone.com CNAME .
 apkfuture.com CNAME .
 *.apkfuture.com CNAME .
+apkged.com CNAME .
+*.apkged.com CNAME .
 apkgw.com CNAME .
 *.apkgw.com CNAME .
 apkhouse.com CNAME .
 *.apkhouse.com CNAME .
+apkilimitado.com CNAME .
+*.apkilimitado.com CNAME .
 apkity.com CNAME .
 *.apkity.com CNAME .
 apklub.com CNAME .
@@ -2501,8 +2507,12 @@ apkmate.com CNAME .
 *.apkmate.com CNAME .
 apkmb.com CNAME .
 *.apkmb.com CNAME .
+apkmine.com CNAME .
+*.apkmine.com CNAME .
 apkmirrorfull.com CNAME .
 *.apkmirrorfull.com CNAME .
+apkmodbrasil.com CNAME .
+*.apkmodbrasil.com CNAME .
 apkmodct.com CNAME .
 *.apkmodct.com CNAME .
 apkmodea.com CNAME .
@@ -2533,6 +2543,8 @@ apkremix.com CNAME .
 *.apkremix.com CNAME .
 apkshub.com CNAME .
 *.apkshub.com CNAME .
+apksim.com CNAME .
+*.apksim.com CNAME .
 apkspure.com CNAME .
 *.apkspure.com CNAME .
 apksum.com CNAME .
@@ -3491,6 +3503,8 @@ demonoid.com CNAME .
 *.demonoid.com CNAME .
 azn-project.depthstrike.com CNAME .
 *.azn-project.depthstrike.com CNAME .
+descargaapk.com CNAME .
+*.descargaapk.com CNAME .
 descargagame.com CNAME .
 *.descargagame.com CNAME .
 descargasfull.com CNAME .
@@ -5047,6 +5061,10 @@ max-rls.com CNAME .
 *.max-rls.com CNAME .
 maxidown.com CNAME .
 *.maxidown.com CNAME .
+mcead.com CNAME .
+*.mcead.com CNAME .
+mceapk.com CNAME .
+*.mceapk.com CNAME .
 mcnbd.com CNAME .
 *.mcnbd.com CNAME .
 mcplexbangla.com CNAME .
@@ -5123,6 +5141,8 @@ midnight-scene.com CNAME .
 *.midnight-scene.com CNAME .
 midnightpulp.com CNAME .
 *.midnightpulp.com CNAME .
+minecrapk.com CNAME .
+*.minecrapk.com CNAME .
 mininova.com CNAME .
 *.mininova.com CNAME .
 minorstudio.com CNAME .
@@ -5183,6 +5203,8 @@ modhihe.com CNAME .
 *.modhihe.com CNAME .
 modlmh.com CNAME .
 *.modlmh.com CNAME .
+modpree.com CNAME .
+*.modpree.com CNAME .
 modradar.com CNAME .
 *.modradar.com CNAME .
 mods-app.com CNAME .
@@ -5527,8 +5549,12 @@ nullphpscript.com CNAME .
 *.nullphpscript.com CNAME .
 nulls-clash.com CNAME .
 *.nulls-clash.com CNAME .
+nullsclashapks.com CNAME .
+*.nullsclashapks.com CNAME .
 nullscriptfullz.com CNAME .
 *.nullscriptfullz.com CNAME .
+nullsservers.com CNAME .
+*.nullsservers.com CNAME .
 nutorrent.com CNAME .
 *.nutorrent.com CNAME .
 nxbrew.com CNAME .
@@ -8891,8 +8917,6 @@ movierulzhd.gold CNAME .
 *.movierulzhd.gold CNAME .
 streamingcommunity.gold CNAME .
 *.streamingcommunity.gold CNAME .
-altadefinizione.golf CNAME .
-*.altadefinizione.golf CNAME .
 cb01.golf CNAME .
 *.cb01.golf CNAME .
 ilgeniodellostreaming.golf CNAME .
@@ -9117,8 +9141,6 @@ vipleague.im CNAME .
 *.vipleague.im CNAME .
 altadefinizione.immo CNAME .
 *.altadefinizione.immo CNAME .
-altadefinizione01.immo CNAME .
-*.altadefinizione01.immo CNAME .
 cb01.immo CNAME .
 *.cb01.immo CNAME .
 altadefinizione01.in CNAME .
@@ -9157,6 +9179,8 @@ cineblog01.in CNAME .
 *.cineblog01.in CNAME .
 cinemay.in CNAME .
 *.cinemay.in CNAME .
+an1.co.in CNAME .
+*.an1.co.in CNAME .
 apk4all.co.in CNAME .
 *.apk4all.co.in CNAME .
 apkpure.co.in CNAME .
@@ -9401,6 +9425,8 @@ iphonebooks.info CNAME .
 *.iphonebooks.info CNAME .
 tracker.j99.info CNAME .
 *.tracker.j99.info CNAME .
+jennymodapk.info CNAME .
+*.jennymodapk.info CNAME .
 kickassunblock.info CNAME .
 *.kickassunblock.info CNAME .
 kisscartoon.info CNAME .
@@ -10849,8 +10875,6 @@ eurostreaming.makeup CNAME .
 *.eurostreaming.makeup CNAME .
 tantifilm.makeup CNAME .
 *.tantifilm.makeup CNAME .
-altadefinizione.market CNAME .
-*.altadefinizione.market CNAME .
 cb01.marketing CNAME .
 *.cb01.marketing CNAME .
 full4movies.markets CNAME .
@@ -12677,6 +12701,8 @@ mobilestan.net CNAME .
 *.mobilestan.net CNAME .
 mobtvseries.net CNAME .
 *.mobtvseries.net CNAME .
+modw.net CNAME .
+*.modw.net CNAME .
 mohmo.net CNAME .
 *.mohmo.net CNAME .
 mojaloss.net CNAME .
@@ -12815,6 +12841,8 @@ nullphp.net CNAME .
 *.nullphp.net CNAME .
 nullsclash.net CNAME .
 *.nullsclash.net CNAME .
+nullsroyale.net CNAME .
+*.nullsroyale.net CNAME .
 nyaa.net CNAME .
 *.nyaa.net CNAME .
 nzbget.net CNAME .
@@ -13631,6 +13659,8 @@ zipcomics.net CNAME .
 *.zipcomics.net CNAME .
 tracker.zokio.net CNAME .
 *.tracker.zokio.net CNAME .
+zonacraft.net CNAME .
+*.zonacraft.net CNAME .
 zone-stream.net CNAME .
 *.zone-stream.net CNAME .
 zone-torrent.net CNAME .
@@ -14919,6 +14949,8 @@ mangadex.org CNAME .
 *.mangadex.org CNAME .
 mangamura.org CNAME .
 *.mangamura.org CNAME .
+mcpedl.org CNAME .
+*.mcpedl.org CNAME .
 media-torrent.org CNAME .
 *.media-torrent.org CNAME .
 mediaboom.org CNAME .
@@ -15087,6 +15119,8 @@ nordicbits.org CNAME .
 *.nordicbits.org CNAME .
 nsw2u.org CNAME .
 *.nsw2u.org CNAME .
+nullclash.org CNAME .
+*.nullclash.org CNAME .
 nulledwarez.org CNAME .
 *.nulledwarez.org CNAME .
 nunflix.org CNAME .
@@ -19483,6 +19517,8 @@ losmovies.us CNAME .
 *.losmovies.us CNAME .
 lztr.us CNAME .
 *.lztr.us CNAME .
+modsapk.us CNAME .
+*.modsapk.us CNAME .
 zephir.monocul.us CNAME .
 *.zephir.monocul.us CNAME .
 mp3songs.us CNAME .
@@ -20219,8 +20255,6 @@ t.213891.xyz CNAME .
 *.337hhh.xyz CNAME .
 bt.3kb.xyz CNAME .
 *.bt.3kb.xyz CNAME .
-6stream.xyz CNAME .
-*.6stream.xyz CNAME .
 960303.xyz CNAME .
 *.960303.xyz CNAME .
 allsportsflix.xyz CNAME .
