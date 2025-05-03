@@ -71,6 +71,13 @@
       }
     },
     {
+      "PK": "ads-service.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-sg.tiktok.com",
       "action": {
         "do": 0,
@@ -107,6 +114,13 @@
     },
     {
       "PK": "ads-ttp2.us.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-useast2a.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1338,13 +1352,6 @@
       }
     },
     {
-      "PK": "rtc-logger-ttp2.tiktokv.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "rtc-logger-ttp2.us.tiktokv.com",
       "action": {
         "do": 0,
@@ -1472,6 +1479,13 @@
     },
     {
       "PK": "rtlog16-normal-useast8.us.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rtlog16-normal-useastred.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1

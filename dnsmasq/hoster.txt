@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 May 2025 22:06 UTC
-# Version: 2025.0501.2206.49
+# Last modified: 02 May 2025 22:07 UTC
+# Version: 2025.0502.2207.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2123
+# Number of entries: 2124
 #
 local=/000a.de/
 local=/000space.com/
@@ -318,7 +318,6 @@ local=/billblett.com/
 local=/biz.ly/
 local=/biz.ps/
 local=/biz.tc/
-local=/biz.uz/
 local=/bizhat.com/
 local=/bizmovie.shop/
 local=/blackapplehost.com/
@@ -470,7 +469,6 @@ local=/blogsource.com/
 local=/blogspace.fr/
 local=/blogspirit.com/
 local=/blogsport.de/
-local=/blogsport.eu/
 local=/blogspot.ae/
 local=/blogspot.al/
 local=/blogspot.am/
@@ -484,6 +482,7 @@ local=/blogspot.ch/
 local=/blogspot.cl/
 local=/blogspot.cm/
 local=/blogspot.co/
+local=/blogspot.com/
 local=/blogspot.cz/
 local=/blogspot.de/
 local=/blogspot.dk/
@@ -597,7 +596,6 @@ local=/canva.site/
 local=/carookee.com/
 local=/carrd.co/
 local=/carrefourpro.com/
-local=/carsix.shop/
 local=/case-id-100029850.com/
 local=/cavandoragh.org/
 local=/cba.pl/
@@ -819,6 +817,7 @@ local=/dreamstation.com/
 local=/dreamwidth.org/
 local=/dreamyblogs.com/
 local=/dreht-auf.de/
+local=/drivehq.com/
 local=/drugpoint.shop/
 local=/dsiblogger.com/
 local=/dslextreme.com/
@@ -1392,6 +1391,7 @@ local=/mpeblog.com/
 local=/muf.mobi/
 local=/muffblog.com/
 local=/multiblog.com/
+local=/multiply.com/
 local=/musik.cx/
 local=/musik.lc/
 local=/mw.hu/
@@ -1521,6 +1521,7 @@ local=/opisial.com/
 local=/orangeusa.shop/
 local=/orderedlinks.shop/
 local=/24.org.es/
+local=/orgfree.com/
 local=/orgsites.com/
 local=/osc.pl/
 local=/ourcodeblog.com/

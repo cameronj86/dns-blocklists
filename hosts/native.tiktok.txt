@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 23:20 UTC
-# Version: 2025.0425.2320.15
+# Last modified: 02 May 2025 23:06 UTC
+# Version: 2025.0502.2306.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 283
+# Number of entries: 285
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -87,7 +87,9 @@
 0.0.0.0 url2696.ads.tiktok.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-frontier.tiktok.com
+0.0.0.0 ads-service.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 ads-useast2a.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics-attribution.tiktok.com
 0.0.0.0 analytics-attribution-va.tiktok.com
@@ -206,7 +208,6 @@
 0.0.0.0 rtc-logger.tiktokv.us
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu
-0.0.0.0 rtc-logger-ttp2.tiktokv.us
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rtlog-i18n.tiktokv.com
@@ -228,6 +229,7 @@
 0.0.0.0 rtlog16-normal-useast2a.tiktokv.com
 0.0.0.0 rtlog16-normal-useast5.tiktokv.us
 0.0.0.0 rtlog16-normal-useast8.tiktokv.us
+0.0.0.0 rtlog16-normal-useastred.tiktokv.eu
 0.0.0.0 rtlog16-tmp-normal-useast1a.tiktokv.com
 0.0.0.0 rtlog17-normal.tiktokv.com
 0.0.0.0 rtlog17-normal-alisg.tiktokv.com

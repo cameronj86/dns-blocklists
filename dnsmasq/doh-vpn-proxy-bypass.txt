@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 May 2025 03:03 UTC
-# Version: 2025.0502.0303.47
+# Last modified: 02 May 2025 22:04 UTC
+# Version: 2025.0502.2204.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4113
+# Number of entries: 4103
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -348,7 +348,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -382,7 +381,6 @@ local=/betterproxy.net/
 local=/bettervpn.com/
 local=/bgvpn.com/
 local=/bi-tree.ru/
-local=/bia2dige.ir/
 local=/bigma.org/
 local=/bingle.icu/
 local=/bingle.pw/
@@ -438,7 +436,6 @@ local=/blufvpn.com/
 local=/bmetrics.org/
 local=/dns.bmwhocking.com/
 local=/dns.bobstrecansky.com/
-local=/boda-vip.net/
 local=/bodvpn.com/
 local=/dns.bofh.in/
 local=/boghag.party/
@@ -763,10 +760,8 @@ local=/doh.viatech.com.tw/
 local=/webproxy.com.de/
 local=/dns.comff.net/
 local=/rammerhead.command.enterprises/
-local=/commonapp.college/
 local=/commons.host/
 local=/easy-vpn.comodo.com/
-local=/compsci.college/
 local=/comss.one/
 local=/comss.ru/
 local=/confirmedvpn.com/
@@ -839,7 +834,6 @@ local=/cubedns.com/
 local=/cubixpvp.net/
 local=/qual.cuprum.ru/
 local=/curd.io/
-local=/cv-unfiltered.xyz/
 local=/dns.cwlys.com/
 local=/cyberghostvpn.com/
 local=/cybershield.cc/
@@ -924,9 +918,6 @@ local=/dns.dns-53.com/
 local=/dns.dns-53.uk/
 local=/dns.dns-53.us/
 local=/dns-free.link/
-local=/dns1.dns-ga.de/
-local=/dns2.dns-ga.de/
-local=/doh.dns-ga.de/
 local=/dns.dns-over-https.com/
 local=/dns-savage.com/
 local=/dns0.eu/
@@ -1105,7 +1096,6 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/adbox-v9.dynipv6.de/
 local=/im-in-the-thick-of-it-everybody-knows.dynorex.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/

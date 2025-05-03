@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 30 Apr 2025 14:51 UTC
-! Version: 2025.0430.1451.54
+! Last modified: 02 May 2025 10:31 UTC
+! Version: 2025.0502.1031.32
 ! Syntax: uBlock
 ! Number of latin TLDs: 255 - non-latin TLDs: 151
 !
@@ -167,7 +167,7 @@
 ||name^$doc,domain=~davidwalsh.name
 ||navy^$doc
 ||new^$doc,domain=~bolt.new|~doc.new|~drawing.new|~form.new|~git.new|~lecture.new|~postgres.new|~sheet.new|~site.new|~slide.new
-||ninja^$doc,domain=~protomedia.ninja
+||ninja^$doc,domain=~poe.ninja|~protomedia.ninja
 ||non^$doc
 ||okinawa^$doc
 ||ong^$doc
@@ -244,7 +244,7 @@
 ||town^$doc
 ||trade^$doc,domain=~composer.trade|~dx.trade|~kite.trade
 ||trading^$doc
-||tube^$doc
+||tube^$doc,domain=~hoes.tube
 ||uno^$doc,domain=~platform.uno
 ||vacations^$doc
 ||vegas^$doc

@@ -1939,6 +1939,13 @@
       }
     },
     {
+      "PK": "hoes.tube",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "hollowknight.wiki",
       "action": {
         "do": 1,
@@ -3349,6 +3356,13 @@
       "PK": "*.plus",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "poe.ninja",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

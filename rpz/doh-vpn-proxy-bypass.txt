@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746154980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746223440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 May 2025 03:03 UTC
-; Version: 2025.0502.0303.47
+; Last modified: 02 May 2025 22:04 UTC
+; Version: 2025.0502.2204.20
 ; Syntax: RPZ
-; Number of entries: 8226
+; Number of entries: 8206
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -582,10 +582,6 @@ samj.codes CNAME .
 *.samj.codes CNAME .
 dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
-commonapp.college CNAME .
-*.commonapp.college CNAME .
-compsci.college CNAME .
-*.compsci.college CNAME .
 schoology.college CNAME .
 *.schoology.college CNAME .
 spanish101.college CNAME .
@@ -3472,12 +3468,6 @@ fdns1.dismail.de CNAME .
 *.fdns1.dismail.de CNAME .
 fdns2.dismail.de CNAME .
 *.fdns2.dismail.de CNAME .
-dns1.dns-ga.de CNAME .
-*.dns1.dns-ga.de CNAME .
-dns2.dns-ga.de CNAME .
-*.dns2.dns-ga.de CNAME .
-doh.dns-ga.de CNAME .
-*.doh.dns-ga.de CNAME .
 aroeuyo.dns64.de CNAME .
 *.aroeuyo.dns64.de CNAME .
 dnsforge.de CNAME .
@@ -4576,8 +4566,6 @@ zorrovpn.io CNAME .
 *.zorrovpn.io CNAME .
 atvsh.ir CNAME .
 *.atvsh.ir CNAME .
-bia2dige.ir CNAME .
-*.bia2dige.ir CNAME .
 energys.ir CNAME .
 *.energys.ir CNAME .
 gameroz1.ir CNAME .
@@ -4704,8 +4692,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5160,8 +5146,6 @@ blockaway.net CNAME .
 *.blockaway.net CNAME .
 blockawayproxy.net CNAME .
 *.blockawayproxy.net CNAME .
-boda-vip.net CNAME .
-*.boda-vip.net CNAME .
 bolehvpn.net CNAME .
 *.bolehvpn.net CNAME .
 pakupaku.bounceme.net CNAME .
@@ -5414,8 +5398,6 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 earth-vpn.net CNAME .
@@ -8022,8 +8004,6 @@ bestproxy.xyz CNAME .
 *.bestproxy.xyz CNAME .
 rx.blackxfiied.xyz CNAME .
 *.rx.blackxfiied.xyz CNAME .
-cv-unfiltered.xyz CNAME .
-*.cv-unfiltered.xyz CNAME .
 dns.d94.xyz CNAME .
 *.dns.d94.xyz CNAME .
 do-39574-tr.xyz CNAME .

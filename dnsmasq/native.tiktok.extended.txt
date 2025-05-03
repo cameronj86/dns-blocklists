@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 23:23 UTC
-# Version: 2025.0425.2323.58
+# Last modified: 02 May 2025 23:09 UTC
+# Version: 2025.0502.2309.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 362
+# Number of entries: 367
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -85,7 +85,9 @@ local=/ads.tiktok.in/
 local=/ads.tiktok.tv/
 local=/ads-api.tiktok.com/
 local=/ads-frontier.tiktok.com/
+local=/ads-service.tiktok.com/
 local=/ads-sg.tiktok.com/
+local=/ads-useast2a.tiktok.com/
 local=/analytics.tiktok.com/
 local=/analytics-attribution.tiktok.com/
 local=/analytics-attribution-va.tiktok.com/
@@ -159,6 +161,7 @@ local=/log16-normal-useast1a.tiktokv.com/
 local=/log16-normal-useast2a.tiktokv.com/
 local=/log16-normal-useast5.tiktokv.us/
 local=/log16-normal-useast8.tiktokv.us/
+local=/log16-normal-useastred.tiktokv.eu/
 local=/log16-normal-zr-useast1a.tiktokv.com/
 local=/log16-platform-ycru.tiktokv.com/
 local=/log16-tmp-normal-useast1a.tiktokv.com/
@@ -230,6 +233,7 @@ local=/mon16-normal-no1a.tiktokv.eu/
 local=/mon16-normal-useast1a.tiktokv.com/
 local=/mon16-normal-useast5.tiktokv.us/
 local=/mon16-normal-useast8.tiktokv.us/
+local=/mon16-normal-useastred.tiktokv.eu/
 local=/mon16-normal-zr-useast1a.tiktokv.com/
 local=/mon16-platform-ycru.tiktokv.com/
 local=/mon16-tmp-normal-useast1a.tiktokv.com/
@@ -262,6 +266,7 @@ local=/mssdk16-normal-useast1a.tiktokv.com/
 local=/mssdk16-normal-useast2a.tiktokv.com/
 local=/mssdk16-normal-useast5.tiktokv.us/
 local=/mssdk16-normal-useast8.tiktokv.us/
+local=/mssdk16-normal-useastred.tiktokv.eu/
 local=/mssdk16-normal-zr-useast1a.tiktokv.com/
 local=/mssdk19-normal.tiktokv.com/
 local=/mssdk19-normal-alisg.tiktokv.com/
@@ -279,7 +284,6 @@ local=/rtc-logger.tiktokv.com/
 local=/rtc-logger.tiktokv.us/
 local=/rtc-logger-i18n.tiktokv.com/
 local=/rtc-logger-ie.tiktokv.eu/
-local=/rtc-logger-ttp2.tiktokv.us/
 local=/rtc-logger-va.tiktokv.com/
 local=/rtlog.tiktokv.com/
 local=/rtlog-i18n.tiktokv.com/
@@ -301,6 +305,7 @@ local=/rtlog16-normal-useast1a.tiktokv.com/
 local=/rtlog16-normal-useast2a.tiktokv.com/
 local=/rtlog16-normal-useast5.tiktokv.us/
 local=/rtlog16-normal-useast8.tiktokv.us/
+local=/rtlog16-normal-useastred.tiktokv.eu/
 local=/rtlog16-tmp-normal-useast1a.tiktokv.com/
 local=/rtlog17-normal.tiktokv.com/
 local=/rtlog17-normal-alisg.tiktokv.com/

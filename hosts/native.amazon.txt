@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 23:13 UTC
-# Version: 2025.0425.2313.58
+# Last modified: 02 May 2025 22:59 UTC
+# Version: 2025.0502.2259.47
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 604
+# Number of entries: 606
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -449,6 +449,7 @@
 0.0.0.0 rum.us-west-1.amazonaws.com
 0.0.0.0 rum.us-west-2.amazonaws.com
 0.0.0.0 s2.paa-reporting-advertising.amazon
+0.0.0.0 s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
@@ -580,6 +581,7 @@
 0.0.0.0 vq-test-us-east-1.amazon-adsystem.com
 0.0.0.0 vq-us-east-1.amazon-adsystem.com
 0.0.0.0 vq-us-west-2.amazon-adsystem.com
+0.0.0.0 web.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 web.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 web.us-east.aps.axp.amazon-adsystem.com

@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 23:31 UTC
-# Version: 2025.0425.2331.22
+# Last modified: 02 May 2025 23:17 UTC
+# Version: 2025.0502.2317.21
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 212
 #
@@ -52,6 +52,7 @@
 *.cl-sysupgrade-api.vivoglobal.com
 *.cl-vcode-api.vivoglobal.com
 *.cl-vcode-od.vivoglobal.com
+*.cl-weather.vivoglobal.com
 *.cname-ali-asia-stsdk.vivoglobal.com
 *.cname-asia-st-exappupgrade.vivoglobal.com
 *.cname-asia-stsdk09.vivoglobal.com
@@ -138,7 +139,6 @@
 *.kz-vcode-or.vivoglobal.com
 *.kz-weather.vivoglobal.com
 *.monitor-stsdk.vivoglobal.com
-*.mx-cota.vivoglobal.com
 *.mx-domaincfg.vivoglobal.com
 *.mx-err-up.vivoglobal.com
 *.mx-onrt-stsdk.vivoglobal.com

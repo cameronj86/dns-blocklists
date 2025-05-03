@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Apr 2025 23:20 UTC
-# Version: 2025.0425.2320.15
+# Last modified: 02 May 2025 23:06 UTC
+# Version: 2025.0502.2306.24
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 281
+# Number of entries: 283
 #
 *.frontier.byteoversea.com
 *.gplog-sg.byteoversea.com
@@ -85,7 +85,9 @@
 *.ads.tiktok.tv
 *.ads-api.tiktok.com
 *.ads-frontier.tiktok.com
+*.ads-service.tiktok.com
 *.ads-sg.tiktok.com
+*.ads-useast2a.tiktok.com
 *.analytics.tiktok.com
 *.analytics-attribution.tiktok.com
 *.analytics-attribution-va.tiktok.com
@@ -204,7 +206,6 @@
 *.rtc-logger.tiktokv.us
 *.rtc-logger-i18n.tiktokv.com
 *.rtc-logger-ie.tiktokv.eu
-*.rtc-logger-ttp2.tiktokv.us
 *.rtc-logger-va.tiktokv.com
 *.rtlog.tiktokv.com
 *.rtlog-i18n.tiktokv.com
@@ -226,6 +227,7 @@
 *.rtlog16-normal-useast2a.tiktokv.com
 *.rtlog16-normal-useast5.tiktokv.us
 *.rtlog16-normal-useast8.tiktokv.us
+*.rtlog16-normal-useastred.tiktokv.eu
 *.rtlog16-tmp-normal-useast1a.tiktokv.com
 *.rtlog17-normal.tiktokv.com
 *.rtlog17-normal-alisg.tiktokv.com
