@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746223440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746284640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 May 2025 22:04 UTC
-; Version: 2025.0502.2204.20
+; Last modified: 03 May 2025 15:04 UTC
+; Version: 2025.0503.1504.18
 ; Syntax: RPZ
-; Number of entries: 8206
+; Number of entries: 8192
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -144,6 +144,8 @@ dns.netraptor.com.au CNAME .
 *.dns.netraptor.com.au CNAME .
 surfshark.com.au CNAME .
 *.surfshark.com.au CNAME .
+gwardgxd.baby CNAME .
+*.gwardgxd.baby CNAME .
 dns.belnet.be CNAME .
 *.dns.belnet.be CNAME .
 hideme.be CNAME .
@@ -1274,8 +1276,6 @@ f4fp.com CNAME .
 *.f4fp.com CNAME .
 fastestvpn.com CNAME .
 *.fastestvpn.com CNAME .
-fastfoxvpn.com CNAME .
-*.fastfoxvpn.com CNAME .
 fastproxynetwork.com CNAME .
 *.fastproxynetwork.com CNAME .
 fastssh.com CNAME .
@@ -1364,8 +1364,6 @@ freecanadavpn.com CNAME .
 *.freecanadavpn.com CNAME .
 freecavpn.com CNAME .
 *.freecavpn.com CNAME .
-freecloudvpn.com CNAME .
-*.freecloudvpn.com CNAME .
 freedevpn.com CNAME .
 *.freedevpn.com CNAME .
 freedomproxy.com CNAME .
@@ -1392,8 +1390,6 @@ freesurfproxy.com CNAME .
 *.freesurfproxy.com CNAME .
 freetrialvpn.com CNAME .
 *.freetrialvpn.com CNAME .
-freeukvpn.com CNAME .
-*.freeukvpn.com CNAME .
 freevideoproxy.com CNAME .
 *.freevideoproxy.com CNAME .
 freevmess.com CNAME .
@@ -1548,8 +1544,6 @@ hide-my-ip.com CNAME .
 *.hide-my-ip.com CNAME .
 hideallip.com CNAME .
 *.hideallip.com CNAME .
-hideandgo.com CNAME .
-*.hideandgo.com CNAME .
 hideapplication.com CNAME .
 *.hideapplication.com CNAME .
 hidebuzz.com CNAME .
@@ -1640,8 +1634,6 @@ icpsuawn1zy5amys.com CNAME .
 *.icpsuawn1zy5amys.com CNAME .
 idcloak.com CNAME .
 *.idcloak.com CNAME .
-idealvpn.com CNAME .
-*.idealvpn.com CNAME .
 idolproxy.com CNAME .
 *.idolproxy.com CNAME .
 ietors.com CNAME .
@@ -1958,8 +1950,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -3560,6 +3550,8 @@ fuchur.pentament.de CNAME .
 *.fuchur.pentament.de CNAME .
 adguard.pggns.de CNAME .
 *.adguard.pggns.de CNAME .
+malachi.is.dumb.physiosagart.de CNAME .
+*.malachi.is.dumb.physiosagart.de CNAME .
 pkw-aufladen.de CNAME .
 *.pkw-aufladen.de CNAME .
 project-evoex.de CNAME .
@@ -3878,8 +3870,6 @@ fiberproxy.fr CNAME .
 *.fiberproxy.fr CNAME .
 dns.freopc.fr CNAME .
 *.dns.freopc.fr CNAME .
-galeben.fr CNAME .
-*.galeben.fr CNAME .
 adguard.maison.gifino.fr CNAME .
 *.adguard.maison.gifino.fr CNAME .
 qlf-doh.inria.fr CNAME .
@@ -4238,8 +4228,6 @@ dns.api.staging.globuscs.info CNAME .
 *.dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
 *.dns.api.test.globuscs.info CNAME .
-hiddendigital.info CNAME .
-*.hiddendigital.info CNAME .
 hideme101.info CNAME .
 *.hideme101.info CNAME .
 hidemyurl.info CNAME .
@@ -4396,8 +4384,6 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 theproxy.ink CNAME .
 *.theproxy.ink CNAME .
-dns.tracker.ink CNAME .
-*.dns.tracker.ink CNAME .
 learnbridge.institute CNAME .
 *.learnbridge.institute CNAME .
 bannana.web-doge.42web.io CNAME .
@@ -4568,8 +4554,6 @@ atvsh.ir CNAME .
 *.atvsh.ir CNAME .
 energys.ir CNAME .
 *.energys.ir CNAME .
-gameroz1.ir CNAME .
-*.gameroz1.ir CNAME .
 ghadrboland.ir CNAME .
 *.ghadrboland.ir CNAME .
 hotac.ir CNAME .
@@ -4654,8 +4638,6 @@ dns.cctld.kg CNAME .
 *.dns.cctld.kg CNAME .
 kyrgyzstan-travel.home.kg CNAME .
 *.kyrgyzstan-travel.home.kg CNAME .
-mythica.home.kg CNAME .
-*.mythica.home.kg CNAME .
 ns.net.kg CNAME .
 *.ns.net.kg CNAME .
 dns.eliv.kr CNAME .
@@ -4692,6 +4674,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+bdns.link CNAME .
+*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5398,6 +5382,8 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 earth-vpn.net CNAME .
@@ -6446,8 +6432,6 @@ dns.goldplate.org CNAME .
 *.dns.goldplate.org CNAME .
 h-vpn.org CNAME .
 *.h-vpn.org CNAME .
-fair.hashable.org CNAME .
-*.fair.hashable.org CNAME .
 hide-me.org CNAME .
 *.hide-me.org CNAME .
 hide-my-ip.org CNAME .
@@ -6802,6 +6786,8 @@ ixl.plus CNAME .
 *.ixl.plus CNAME .
 aboba.pro CNAME .
 *.aboba.pro CNAME .
+an-us.pro CNAME .
+*.an-us.pro CNAME .
 anura.pro CNAME .
 *.anura.pro CNAME .
 doh.apad.pro CNAME .
@@ -7428,8 +7414,6 @@ easyproxy.tech CNAME .
 *.easyproxy.tech CNAME .
 f0lga.tech CNAME .
 *.f0lga.tech CNAME .
-hanniel.tech CNAME .
-*.hanniel.tech CNAME .
 mathlearning.tech CNAME .
 *.mathlearning.tech CNAME .
 mehmetarikan.tech CNAME .
@@ -8154,6 +8138,8 @@ proxybrowser.xyz CNAME .
 *.proxybrowser.xyz CNAME .
 proxydude.xyz CNAME .
 *.proxydude.xyz CNAME .
+puckerbucket.xyz CNAME .
+*.puckerbucket.xyz CNAME .
 s4m.xyz CNAME .
 *.s4m.xyz CNAME .
 siteunblock.xyz CNAME .

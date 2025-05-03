@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 May 2025 22:08 UTC
-# Version: 2025.0502.2208.50
+# Last modified: 03 May 2025 10:09 UTC
+# Version: 2025.0503.1009.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5642
+# Number of entries: 5651
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1165,6 +1165,7 @@ local=/cuts2.com/
 local=/cutt.eu/
 local=/cutt.ly/
 local=/cutt4.me/
+local=/cutth.com/
 local=/cutu.me/
 local=/cuturl.com/
 local=/cuturl.net/
@@ -1548,7 +1549,6 @@ local=/f5yo.com/
 local=/fa.by/
 local=/fa-st.co/
 local=/facebookid.live/
-local=/facebookmarketplace.live/
 local=/facebookvideos.live/
 local=/fadurl.com/
 local=/fagn.top/
@@ -2056,7 +2056,6 @@ local=/hurl.it/
 local=/hurl.me/
 local=/hurl.ws/
 local=/hut.bz/
-local=/hyiw.info/
 local=/hyperly.co/
 local=/hyperurl.co/
 local=/hyperx.gg/
@@ -2129,6 +2128,7 @@ local=/ilinky.info/
 local=/ilix.in/
 local=/ilk.ir/
 local=/illin.is/
+local=/illuminatiracers.live/
 local=/iln.io/
 local=/ilnk.io/
 local=/ilofi.sbs/
@@ -3128,6 +3128,7 @@ local=/myshorturls.com/
 local=/mysp.ac/
 local=/mysurl.com/
 local=/mytd.cc/
+local=/mytiktok.life/
 local=/mytinycheck9.life/
 local=/mytoluwalemi.life/
 local=/mytorus.live/
@@ -3872,6 +3873,7 @@ local=/rnly.info/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
+local=/robloxgroup.life/
 local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
@@ -4074,6 +4076,7 @@ local=/sho-rt.ru/
 local=/shoort.io/
 local=/shop-ify-store-km.life/
 local=/shope.ee/
+local=/shopeedeals.sale/
 local=/shopifie.com/
 local=/shopifystorekms.life/
 local=/shoplarryherndon115.life/
@@ -4330,6 +4333,7 @@ local=/smtvj.com/
 local=/smu.gs/
 local=/smurl.link/
 local=/sn.im/
+local=/snapchats.life/
 local=/snapt.io/
 local=/snar.co/
 local=/snd.sc/
@@ -4381,6 +4385,7 @@ local=/spn.sr/
 local=/spoo.me/
 local=/spoti.fi/
 local=/spotify.link/
+local=/spotifypigeon.live/
 local=/spr.ly/
 local=/spr.tn/
 local=/sproutingdiscipleship.com/
@@ -4575,6 +4580,7 @@ local=/tfg2000.de/
 local=/tfushort.com/
 local=/tg.pe/
 local=/tgam.ca/
+local=/tgbe.link/
 local=/tgr.ph/
 local=/thandisozynobiahlongwanes.life/
 local=/thaniel.life/
@@ -4853,6 +4859,7 @@ local=/twurl.cc/
 local=/twurl.nl/
 local=/tx0.org/
 local=/txdl.top/
+local=/txhih.sbs/
 local=/txul.cn/
 local=/ty.gy/
 local=/tylervisionary.live/
@@ -5116,6 +5123,7 @@ local=/verd.in/
 local=/veshort.com/
 local=/vfnzvr.com/
 local=/vgnx.co/
+local=/vgoaa.com/
 local=/url.vhearts.net/
 local=/vi.sa/
 local=/vi.tc/
@@ -5127,6 +5135,7 @@ local=/vibebycalifornia.life/
 local=/vid.lu/
 local=/videopro.live/
 local=/vigilink.com/
+local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/

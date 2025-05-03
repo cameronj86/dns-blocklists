@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 May 2025 22:05 UTC
-# Version: 2025.0502.2205.56
+# Last modified: 03 May 2025 15:02 UTC
+# Version: 2025.0503.1502.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1445
+# Number of entries: 1443
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -500,6 +500,7 @@ local=/tungdnsne.duckdns.org/
 local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
+local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -622,7 +623,6 @@ local=/dns.hakim.one/
 local=/dns.hanahira.dev/
 local=/adguard.haneulo.com/
 local=/dns.hanmey.de/
-local=/hanniel.tech/
 local=/dns.hannielzhang.com/
 local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/
@@ -896,7 +896,6 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -1345,7 +1344,6 @@ local=/d.toairs.com/
 local=/dot.tooli.ca/
 local=/nsc.torgues.net/
 local=/doh.totoro.pub/
-local=/dns.tracker.ink/
 local=/resolv1.trash.net/
 local=/resolv2.trash.net/
 local=/resolv3.trash.net/

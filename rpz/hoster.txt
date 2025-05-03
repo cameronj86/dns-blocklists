@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746223620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746266880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 May 2025 22:07 UTC
-; Version: 2025.0502.2207.22
+; Last modified: 03 May 2025 10:08 UTC
+; Version: 2025.0503.1008.18
 ; Syntax: RPZ
-; Number of entries: 4248
+; Number of entries: 4236
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -757,8 +757,6 @@ blogsource.com CNAME .
 *.blogsource.com CNAME .
 blogspirit.com CNAME .
 *.blogspirit.com CNAME .
-blogspot.com CNAME .
-*.blogspot.com CNAME .
 blogspothub.com CNAME .
 *.blogspothub.com CNAME .
 blogster.com CNAME .
@@ -943,8 +941,6 @@ dreamstation.com CNAME .
 *.dreamstation.com CNAME .
 dreamyblogs.com CNAME .
 *.dreamyblogs.com CNAME .
-drivehq.com CNAME .
-*.drivehq.com CNAME .
 dsiblogger.com CNAME .
 *.dsiblogger.com CNAME .
 dslextreme.com CNAME .
@@ -1413,8 +1409,6 @@ muffblog.com CNAME .
 *.muffblog.com CNAME .
 multiblog.com CNAME .
 *.multiblog.com CNAME .
-multiply.com CNAME .
-*.multiply.com CNAME .
 my3gb.com CNAME .
 *.my3gb.com CNAME .
 myartsonline.com CNAME .
@@ -1489,8 +1483,6 @@ opensea-claimnft.com CNAME .
 *.opensea-claimnft.com CNAME .
 opisial.com CNAME .
 *.opisial.com CNAME .
-orgfree.com CNAME .
-*.orgfree.com CNAME .
 orgsites.com CNAME .
 *.orgsites.com CNAME .
 ourcodeblog.com CNAME .
@@ -1685,6 +1677,8 @@ techionblog.com CNAME .
 *.techionblog.com CNAME .
 tek-blogs.com CNAME .
 *.tek-blogs.com CNAME .
+telegrameyg.com CNAME .
+*.telegrameyg.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
 terapad.com CNAME .
@@ -3201,8 +3195,6 @@ freeforums.net CNAME .
 *.freeforums.net CNAME .
 freehosting.net CNAME .
 *.freehosting.net CNAME .
-freezoka.net CNAME .
-*.freezoka.net CNAME .
 getblogs.net CNAME .
 *.getblogs.net CNAME .
 getenjoyment.net CNAME .
@@ -3887,8 +3879,6 @@ gakken.shop CNAME .
 *.gakken.shop CNAME .
 gamblerschoiceclothing.shop CNAME .
 *.gamblerschoiceclothing.shop CNAME .
-genomehp.shop CNAME .
-*.genomehp.shop CNAME .
 georgiatwo.shop CNAME .
 *.georgiatwo.shop CNAME .
 godscience.shop CNAME .
@@ -4091,8 +4081,6 @@ datesize.top CNAME .
 *.datesize.top CNAME .
 doctorfew.top CNAME .
 *.doctorfew.top CNAME .
-funcurrent.top CNAME .
-*.funcurrent.top CNAME .
 godxdess.top CNAME .
 *.godxdess.top CNAME .
 holcom.top CNAME .
