@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 May 2025 02:37 UTC
-# Version: 2025.0504.0237.27
+# Last modified: 04 May 2025 15:00 UTC
+# Version: 2025.0504.1500.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10057
+# Number of entries: 10045
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -637,6 +637,7 @@ local=/altadefinizione01.it/
 local=/altadefinizione01.life/
 local=/altadefinizione01.love/
 local=/altadefinizione01.name/
+local=/altadefinizione01.photo/
 local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.site/
@@ -5632,7 +5633,6 @@ local=/movieparadise.org/
 local=/movieroom.is/
 local=/movierot.com/
 local=/movierr.online/
-local=/movierr.site/
 local=/movierulzhd.gold/
 local=/movies.cab/
 local=/movies-d.com/
@@ -5691,7 +5691,6 @@ local=/moviestube.icu/
 local=/moviesub.net/
 local=/moviesus.net/
 local=/movieswatch.xyz/
-local=/movieswbb.com/
 local=/moviesyify.org/
 local=/movieszone.org/
 local=/movietly.com/
@@ -5719,7 +5718,6 @@ local=/mp3.li/
 local=/mp3-club.ru/
 local=/mp3-daddy.com/
 local=/mp3-find.com/
-local=/mp3-juice.org/
 local=/mp3-juices.net/
 local=/mp3-juices.ws/
 local=/mp3000.net/
@@ -5771,7 +5769,6 @@ local=/mserver.link/
 local=/tracker.msg.vg/
 local=/msilab.ru/
 local=/tracker.msm8916.com/
-local=/msmonlinebd.com/
 local=/retracker.local.msn-net.ru/
 local=/mt-fun.com/
 local=/ln.mtahost.co/
@@ -5817,7 +5814,6 @@ local=/myanonamouse.net/
 local=/myasiantv.to/
 local=/myauto.to/
 local=/mybadbits.org/
-local=/mybdix.com/
 local=/mybdplex.com/
 local=/mybite.org/
 local=/mybittorrent.com/
@@ -5955,10 +5951,8 @@ local=/netcine.us/
 local=/netcitybd.com/
 local=/netcode.live/
 local=/netcomisp.net/
-local=/netemx.pl/
 local=/netexpressbd.com/
 local=/netfilme.com/
-local=/netfreex.online/
 local=/netinfobd.com/
 local=/bingemaster.netlify.app/
 local=/cleanbay.netlify.app/
@@ -6145,7 +6139,6 @@ local=/noxe.live/
 local=/noxx.is/
 local=/noxx.to/
 local=/tracker.npupt.com/
-local=/tracker.nrx.me/
 local=/nsanedown.com/
 local=/nsaneforums.com/
 local=/nsmbhd.net/
@@ -6175,7 +6168,6 @@ local=/nullednow.in/
 local=/nulledwarez.org/
 local=/nullforums.net/
 local=/nulljungle.com/
-local=/nullphp.net/
 local=/nullphpscript.com/
 local=/nulls.cc/
 local=/nulls.gg/
@@ -6261,7 +6253,6 @@ local=/antivirkeys.okis.ru/
 local=/oklivetv.com/
 local=/bt.okmp3.ru/
 local=/ol-am.top/
-local=/olala123-warez.com/
 local=/olamovies.autos/
 local=/olamovies.download/
 local=/olamovies.hair/
@@ -6716,10 +6707,8 @@ local=/popflixhd.com/
 local=/share.popgo.org/
 local=/popsnap.net/
 local=/popuw.com/
-local=/pornbay.org/
 local=/pornbits.net/
 local=/pornevo.com/
-local=/pornleech.io/
 local=/pornograd.net/
 local=/pornolab.net/
 local=/pornorip.net/
@@ -6900,7 +6889,6 @@ local=/putlocker.style/
 local=/putlocker.to/
 local=/putlocker.vc/
 local=/putlocker.vip/
-local=/putlocker-free.club/
 local=/putlocker-new.site/
 local=/putlocker123.io/
 local=/putlocker123.me/

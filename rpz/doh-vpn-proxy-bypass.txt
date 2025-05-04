@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746327360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746372000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 May 2025 02:56 UTC
-; Version: 2025.0504.0256.41
+; Last modified: 04 May 2025 15:20 UTC
+; Version: 2025.0504.1520.15
 ; Syntax: RPZ
-; Number of entries: 8174
+; Number of entries: 8164
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -262,8 +262,6 @@ adamz2eso.l5.ca CNAME .
 *.adamz2eso.l5.ca CNAME .
 myproxy.ca CNAME .
 *.myproxy.ca CNAME .
-ne1.ca CNAME .
-*.ne1.ca CNAME .
 psiphon.ca CNAME .
 *.psiphon.ca CNAME .
 dot.tooli.ca CNAME .
@@ -2296,8 +2294,6 @@ proxy2you.com CNAME .
 *.proxy2you.com CNAME .
 proxy4down.com CNAME .
 *.proxy4down.com CNAME .
-proxy4freedom.com CNAME .
-*.proxy4freedom.com CNAME .
 proxy62.com CNAME .
 *.proxy62.com CNAME .
 proxyarab.com CNAME .
@@ -2406,8 +2402,6 @@ quickprox.com CNAME .
 *.quickprox.com CNAME .
 quickproxies.com CNAME .
 *.quickproxies.com CNAME .
-quicksilvervpn.com CNAME .
-*.quicksilvervpn.com CNAME .
 quintex.com CNAME .
 *.quintex.com CNAME .
 r1bnc.com CNAME .
@@ -4242,6 +4236,8 @@ iblocker.info CNAME .
 *.iblocker.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
+doh.kekew.info CNAME .
+*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .
@@ -4376,6 +4372,8 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 theproxy.ink CNAME .
 *.theproxy.ink CNAME .
+dns.tracker.ink CNAME .
+*.dns.tracker.ink CNAME .
 learnbridge.institute CNAME .
 *.learnbridge.institute CNAME .
 bannana.web-doge.42web.io CNAME .
@@ -4666,6 +4664,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+bdns.link CNAME .
+*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5372,8 +5372,6 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 earth-vpn.net CNAME .
@@ -5766,8 +5764,6 @@ proxite.net CNAME .
 *.proxite.net CNAME .
 proxy-site.net CNAME .
 *.proxy-site.net CNAME .
-proxy2014.net CNAME .
-*.proxy2014.net CNAME .
 proxyboost.net CNAME .
 *.proxyboost.net CNAME .
 proxycloud.net CNAME .
@@ -6120,8 +6116,6 @@ dns.anon.no CNAME .
 *.dns.anon.no CNAME .
 onion.nu CNAME .
 *.onion.nu CNAME .
-proxy.nu CNAME .
-*.proxy.nu CNAME .
 unblocked.nu CNAME .
 *.unblocked.nu CNAME .
 comss.one CNAME .
@@ -7276,8 +7270,6 @@ lookingglass.site CNAME .
 *.lookingglass.site CNAME .
 mycelium.site CNAME .
 *.mycelium.site CNAME .
-onevanalla.site CNAME .
-*.onevanalla.site CNAME .
 check.peer2profit.site CNAME .
 *.check.peer2profit.site CNAME .
 proxysite.site CNAME .
@@ -7334,8 +7326,6 @@ openproxy.space CNAME .
 *.openproxy.space CNAME .
 thiscopyofartclassisnotgenuine.rare1k.space CNAME .
 *.thiscopyofartclassisnotgenuine.rare1k.space CNAME .
-adg.rueiliu.space CNAME .
-*.adg.rueiliu.space CNAME .
 siteunblocked.space CNAME .
 *.siteunblocked.space CNAME .
 lunarsync.smartfoloo.space CNAME .

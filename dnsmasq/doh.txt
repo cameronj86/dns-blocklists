@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 May 2025 02:55 UTC
-# Version: 2025.0504.0255.16
+# Last modified: 04 May 2025 15:18 UTC
+# Version: 2025.0504.1518.50
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1442
 #
@@ -499,7 +499,6 @@ local=/tungdnsne.duckdns.org/
 local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -730,6 +729,7 @@ local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kebree.fr/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/
@@ -1207,7 +1207,6 @@ local=/adguard.ruby.ci/
 local=/dns.rubyfish.cn/
 local=/ea-dns.rubyfish.cn/
 local=/uw-dns.rubyfish.cn/
-local=/adg.rueiliu.space/
 local=/rumpelsepp.org/
 local=/doh.runsel.id/
 local=/agh-yz.russel053.com/
@@ -1343,6 +1342,7 @@ local=/d.toairs.com/
 local=/dot.tooli.ca/
 local=/nsc.torgues.net/
 local=/doh.totoro.pub/
+local=/dns.tracker.ink/
 local=/resolv1.trash.net/
 local=/resolv2.trash.net/
 local=/resolv3.trash.net/

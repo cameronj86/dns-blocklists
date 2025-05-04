@@ -53,7 +53,7 @@
  20 |      85% |   8% |      7% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  21 |      80% |  11% |      9% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  22 |      92% |   7% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 23 |      82% |  10% |      8% | Advanced Extension
+ 23 |      81% |  11% |      8% | Advanced Extension
  24 |      63% |  24% |     13% | Denylist Community Advanced
 ```
 #### PRO.PLUS
@@ -77,14 +77,14 @@
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
  18 |      90% |   9% |      1% | Balanced Extension
- 19 |      84% |  10% |      6% | Advanced Extension
+ 19 |      83% |  11% |      6% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |      91% |   8% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  22 |      81% |  15% |      4% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  23 |      92% |   7% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |      81% |   0% |     19% | Native Tracker TikTok Extended (Fingerprinting)
- 26 |      83% |  10% |      7% | Aggressive Extension
+ 26 |      84% |   9% |      7% | Aggressive Extension
  27 |     100% |   0% |      0% | Strict Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
 ```
@@ -109,14 +109,14 @@
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
  18 |      90% |   9% |      1% | Balanced Extension
- 19 |      84% |  10% |      6% | Advanced Extension
+ 19 |      83% |  11% |      6% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |      91% |   8% |      1% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  22 |      81% |  15% |      4% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  23 |      92% |   7% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
- 26 |      84% |  10% |      6% | Aggressive Extension
+ 26 |      85% |   9% |      6% | Aggressive Extension
  27 |     100% |   0% |      0% | Strict Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
  29 |     100% |   0% |      0% | META Graph Tracker (Facebook, Instagram)

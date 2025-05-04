@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 May 2025 02:56 UTC
-# Version: 2025.0504.0256.41
+# Last modified: 04 May 2025 15:20 UTC
+# Version: 2025.0504.1520.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4087
+# Number of entries: 4082
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -349,6 +349,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1096,7 +1097,6 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/adbox-v9.dynipv6.de/
 local=/im-in-the-thick-of-it-everybody-knows.dynorex.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/vpn.dzarlax.dev/
 local=/dzhot.us/
@@ -1839,6 +1839,7 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/kerbeans.com/
@@ -2219,7 +2220,6 @@ local=/natfrp.cloud/
 local=/nathanielgavin.lol/
 local=/vpn.nbvalente.fr/
 local=/vpn.ncapi.io/
-local=/ne1.ca/
 local=/dns.neeb.it/
 local=/needunblock.com/
 local=/nekoray.org/
@@ -2370,7 +2370,6 @@ local=/onedown.info/
 local=/oneproxy.biz/
 local=/oneproxy.xyz/
 local=/onestreaming.org/
-local=/onevanalla.site/
 local=/onion.am/
 local=/onion.cab/
 local=/onion.casa/
@@ -2696,7 +2695,6 @@ local=/proxy.am/
 local=/proxy.cc/
 local=/proxy.gd/
 local=/proxy.lol/
-local=/proxy.nu/
 local=/proxy.org/
 local=/proxy.red/
 local=/proxy.rocks/
@@ -2716,12 +2714,10 @@ local=/proxy-site.net/
 local=/proxy-works.com/
 local=/proxy-youtube.com/
 local=/proxy0101.com/
-local=/proxy2014.net/
 local=/proxy2link.com/
 local=/proxy2you.com/
 local=/proxy4down.com/
 local=/proxy4free.me/
-local=/proxy4freedom.com/
 local=/proxy62.com/
 local=/proxy7.club/
 local=/proxyadult.org/
@@ -2857,7 +2853,6 @@ local=/doh.quickline.ch/
 local=/dot.quickline.ch/
 local=/quickprox.com/
 local=/quickproxies.com/
-local=/quicksilvervpn.com/
 local=/dns.quiet.rocks/
 local=/quintex.com/
 local=/ant.dns.qwer.pw/
@@ -2958,7 +2953,6 @@ local=/dns.rubyfish.cn/
 local=/ea-dns.rubyfish.cn/
 local=/uw-dns.rubyfish.cn/
 local=/yoursuper.rude.li/
-local=/adg.rueiliu.space/
 local=/rumpelsepp.org/
 local=/doh.runsel.id/
 local=/rushproxy.com/
@@ -3466,6 +3460,7 @@ local=/totalvpn.com/
 local=/doh.totoro.pub/
 local=/touchvpn.net/
 local=/towervpn.com/
+local=/dns.tracker.ink/
 local=/tradeadspace.info/
 local=/trafflink.xyz/
 local=/traffmonetizer.com/

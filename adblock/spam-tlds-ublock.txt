@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 May 2025 10:31 UTC
-! Version: 2025.0502.1031.32
+! Last modified: 04 May 2025 15:22 UTC
+! Version: 2025.0504.1522.00
 ! Syntax: uBlock
 ! Number of latin TLDs: 255 - non-latin TLDs: 151
 !
@@ -116,7 +116,7 @@
 ||gives^$doc
 ||giving^$doc
 ||glass^$doc,domain=~domain.glass
-||gold^$doc
+||gold^$doc,domain=~xnxx.gold
 ||golf^$doc
 ||gratis^$doc
 ||green^$doc

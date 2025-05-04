@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 May 2025 02:55 UTC
-# Version: 2025.0504.0255.16
+# Last modified: 04 May 2025 15:18 UTC
+# Version: 2025.0504.1518.50
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1601
 #
@@ -606,7 +606,6 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -840,6 +839,7 @@
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
 0.0.0.0 dns.keke125.com
+0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
@@ -1349,7 +1349,6 @@
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
 0.0.0.0 uw-dns.rubyfish.cn
-0.0.0.0 adg.rueiliu.space
 0.0.0.0 rumpelsepp.org
 0.0.0.0 doh.runsel.id
 0.0.0.0 agh-yz.russel053.com
@@ -1488,6 +1487,7 @@
 0.0.0.0 dot.tooli.ca
 0.0.0.0 nsc.torgues.net
 0.0.0.0 doh.totoro.pub
+0.0.0.0 dns.tracker.ink
 0.0.0.0 resolv1.trash.net
 0.0.0.0 resolv2.trash.net
 0.0.0.0 resolv3.trash.net
