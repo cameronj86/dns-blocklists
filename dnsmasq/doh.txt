@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 May 2025 15:02 UTC
-# Version: 2025.0503.1502.50
+# Last modified: 04 May 2025 02:55 UTC
+# Version: 2025.0504.0255.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1443
+# Number of entries: 1442
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -335,7 +335,6 @@ local=/dns.digitalsize.net/
 local=/doh.disconnect.app/
 local=/fdns1.dismail.de/
 local=/fdns2.dismail.de/
-local=/dltuykfgp.top/
 local=/dns.expert/
 local=/dns.google/
 local=/dns.pub/
@@ -557,6 +556,7 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
+local=/dns.fizz.studio/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
 local=/dns01.flm9.net/
@@ -730,7 +730,6 @@ local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kebree.fr/
 local=/dns.keke125.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/
@@ -896,6 +895,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -1105,7 +1105,6 @@ local=/polisitogel.hair/
 local=/polisitogel.limo/
 local=/polisitogel.living/
 local=/polisitogel.luxe/
-local=/polisitogel.show/
 local=/polisitogel.webcam/
 local=/doh.port53.dk/
 local=/dns.porteii.com/

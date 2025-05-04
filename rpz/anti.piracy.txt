@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746283440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746326220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 May 2025 14:44 UTC
-; Version: 2025.0503.1444.57
+; Last modified: 04 May 2025 02:37 UTC
+; Version: 2025.0504.0237.27
 ; Syntax: RPZ
-; Number of entries: 20130
+; Number of entries: 20114
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1091,8 +1091,6 @@ ilgeniodellostreaming.cc CNAME .
 *.ilgeniodellostreaming.cc CNAME .
 imovies.cc CNAME .
 *.imovies.cc CNAME .
-iosmirror.cc CNAME .
-*.iosmirror.cc CNAME .
 italia-film.cc CNAME .
 *.italia-film.cc CNAME .
 italiaserie.cc CNAME .
@@ -1193,8 +1191,6 @@ putlocker9.cc CNAME .
 *.putlocker9.cc CNAME .
 radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
-redditsport.cc CNAME .
-*.redditsport.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -7977,8 +7973,6 @@ guardaserie.digital CNAME .
 *.guardaserie.digital CNAME .
 kinox.digital CNAME .
 *.kinox.digital CNAME .
-layarlebar24.digital CNAME .
-*.layarlebar24.digital CNAME .
 lookmovie.digital CNAME .
 *.lookmovie.digital CNAME .
 metromedia.digital CNAME .
@@ -9235,8 +9229,6 @@ legittorrents.info CNAME .
 *.legittorrents.info CNAME .
 lermangasonline.info CNAME .
 *.lermangasonline.info CNAME .
-limetorrents.info CNAME .
-*.limetorrents.info CNAME .
 lk21official.info CNAME .
 *.lk21official.info CNAME .
 m4ufree.info CNAME .
@@ -10213,8 +10205,6 @@ jhakkas.live CNAME .
 *.jhakkas.live CNAME .
 juraganfilm.live CNAME .
 *.juraganfilm.live CNAME .
-khulnatv.live CNAME .
-*.khulnatv.live CNAME .
 kinokiste.live CNAME .
 *.kinokiste.live CNAME .
 losmovies.live CNAME .
@@ -10533,8 +10523,6 @@ movies.levrx.lol CNAME .
 *.movies.levrx.lol CNAME .
 limetorrents.lol CNAME .
 *.limetorrents.lol CNAME .
-lordfilmhd.lol CNAME .
-*.lordfilmhd.lol CNAME .
 myflixer.lol CNAME .
 *.myflixer.lol CNAME .
 nyafilmer.lol CNAME .
@@ -14505,8 +14493,6 @@ tracker.kamigami.org CNAME .
 *.tracker.kamigami.org CNAME .
 kaoskrew.org CNAME .
 *.kaoskrew.org CNAME .
-kaztorka.org CNAME .
-*.kaztorka.org CNAME .
 kcnawatch.org CNAME .
 *.kcnawatch.org CNAME .
 kickass2.org CNAME .
@@ -14623,8 +14609,6 @@ mesfichiers.org CNAME .
 *.mesfichiers.org CNAME .
 metalarea.org CNAME .
 *.metalarea.org CNAME .
-metalbits.org CNAME .
-*.metalbits.org CNAME .
 mgtracker.org CNAME .
 *.mgtracker.org CNAME .
 mindwarppavilion.org CNAME .

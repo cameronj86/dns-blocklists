@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746284640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746327360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 May 2025 15:04 UTC
-; Version: 2025.0503.1504.18
+; Last modified: 04 May 2025 02:56 UTC
+; Version: 2025.0504.0256.41
 ; Syntax: RPZ
-; Number of entries: 8192
+; Number of entries: 8174
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -320,8 +320,6 @@ dns.interhub.cc CNAME .
 *.dns.interhub.cc CNAME .
 maxfong.cc CNAME .
 *.maxfong.cc CNAME .
-mfho.cc CNAME .
-*.mfho.cc CNAME .
 openips.cc CNAME .
 *.openips.cc CNAME .
 openvpn.cc CNAME .
@@ -1686,8 +1684,6 @@ ipchanging.com CNAME .
 *.ipchanging.com CNAME .
 ipinator.com CNAME .
 *.ipinator.com CNAME .
-iprivatevpn.com CNAME .
-*.iprivatevpn.com CNAME .
 iprovpn.com CNAME .
 *.iprovpn.com CNAME .
 iproyal.com CNAME .
@@ -1950,6 +1946,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4124,8 +4122,6 @@ dns.iamanuragh.in CNAME .
 *.dns.iamanuragh.in CNAME .
 dns.kapite.in CNAME .
 *.dns.kapite.in CNAME .
-kproxy.in CNAME .
-*.kproxy.in CNAME .
 doh.micronets.in CNAME .
 *.doh.micronets.in CNAME .
 mywebproxy.in CNAME .
@@ -4244,12 +4240,8 @@ httpdserver.info CNAME .
 *.httpdserver.info CNAME .
 iblocker.info CNAME .
 *.iblocker.info CNAME .
-interncloud.info CNAME .
-*.interncloud.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
-doh.kekew.info CNAME .
-*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 legalweb.info CNAME .
@@ -4674,8 +4666,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -7106,8 +7096,6 @@ unblocked2.red CNAME .
 *.unblocked2.red CNAME .
 onion.rip CNAME .
 *.onion.rip CNAME .
-power.lumeacopiilorploiesti.ro CNAME .
-*.power.lumeacopiilorploiesti.ro CNAME .
 addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
 zdn.ro CNAME .
@@ -7248,8 +7236,6 @@ osqcsmm.shop CNAME .
 *.osqcsmm.shop CNAME .
 paradise-human.shop CNAME .
 *.paradise-human.shop CNAME .
-polisitogel.show CNAME .
-*.polisitogel.show CNAME .
 cnamerannmertest.ints.f5.si CNAME .
 *.cnamerannmertest.ints.f5.si CNAME .
 eqnar.ints.f5.si CNAME .
@@ -7288,8 +7274,6 @@ dns.l337.site CNAME .
 *.dns.l337.site CNAME .
 lookingglass.site CNAME .
 *.lookingglass.site CNAME .
-mathhelpnow.site CNAME .
-*.mathhelpnow.site CNAME .
 mycelium.site CNAME .
 *.mycelium.site CNAME .
 onevanalla.site CNAME .
@@ -7382,12 +7366,12 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
 *.proxy.2d.su CNAME .
-kinoshka.su CNAME .
-*.kinoshka.su CNAME .
 tor2web.su CNAME .
 *.tor2web.su CNAME .
 unblocked.surf CNAME .
@@ -7486,8 +7470,6 @@ dns.chromeina.top CNAME .
 *.dns.chromeina.top CNAME .
 danhcan.top CNAME .
 *.danhcan.top CNAME .
-dltuykfgp.top CNAME .
-*.dltuykfgp.top CNAME .
 droyd.top CNAME .
 *.droyd.top CNAME .
 fidelius.top CNAME .

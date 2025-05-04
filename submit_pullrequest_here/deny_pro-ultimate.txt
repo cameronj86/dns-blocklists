@@ -1,5 +1,8 @@
 # Domains to be added only to the pro, pro++ and ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/6111
+ichnaea.dradis.netflix.com
+
 # https://github.com/hagezi/dns-blocklists/issues/5943
 variations.brave.com
 variations.bravesoftware.com

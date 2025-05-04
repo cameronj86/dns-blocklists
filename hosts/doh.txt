@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 May 2025 15:02 UTC
-# Version: 2025.0503.1502.50
+# Last modified: 04 May 2025 02:55 UTC
+# Version: 2025.0504.0255.16
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1603
+# Number of entries: 1601
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -401,8 +401,6 @@
 0.0.0.0 doh.disconnect.app
 0.0.0.0 fdns1.dismail.de
 0.0.0.0 fdns2.dismail.de
-0.0.0.0 dltuykfgp.top
-0.0.0.0 www.dltuykfgp.top
 0.0.0.0 dns.expert
 0.0.0.0 dns.google
 0.0.0.0 dns.pub
@@ -665,6 +663,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -841,7 +840,6 @@
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
 0.0.0.0 dns.keke125.com
-0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
@@ -1018,6 +1016,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1244,7 +1243,6 @@
 0.0.0.0 polisitogel.limo
 0.0.0.0 polisitogel.living
 0.0.0.0 polisitogel.luxe
-0.0.0.0 polisitogel.show
 0.0.0.0 polisitogel.webcam
 0.0.0.0 doh.port53.dk
 0.0.0.0 dns.porteii.com

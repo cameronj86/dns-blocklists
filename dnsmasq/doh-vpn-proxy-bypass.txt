@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 May 2025 15:04 UTC
-# Version: 2025.0503.1504.18
+# Last modified: 04 May 2025 02:56 UTC
+# Version: 2025.0504.0256.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4096
+# Number of entries: 4087
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -349,7 +349,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -909,7 +908,6 @@ local=/districtnewyork.com/
 local=/divalane.com/
 local=/divaloo.com/
 local=/divavu.com/
-local=/dltuykfgp.top/
 local=/hihohornsluttlekidspop.dmdistribution.net/
 local=/dns.expert/
 local=/dns.google/
@@ -1265,6 +1263,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1718,7 +1717,6 @@ local=/instant-vpn.com/
 local=/instantunblock.com/
 local=/intego.com/
 local=/dns.interhub.cc/
-local=/interncloud.info/
 local=/internetcloak.com/
 local=/intervpn.com/
 local=/intl-alliance.com/
@@ -1733,7 +1731,6 @@ local=/ipinator.com/
 local=/iportal.me/
 local=/ipprotectionauth.goog/
 local=/ipredator.se/
-local=/iprivatevpn.com/
 local=/iprovpn.com/
 local=/iproyal.com/
 local=/ipsharkk.com/
@@ -1842,7 +1839,6 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/kerbeans.com/
@@ -1862,7 +1858,6 @@ local=/kiliclar.lol/
 local=/doh.killtw.im/
 local=/blog.kimiblock.top/
 local=/kingsurfproxy.com/
-local=/kinoshka.su/
 local=/kirushop.xyz/
 local=/dns1.klcd.eu/
 local=/dns2.klcd.eu/
@@ -1882,7 +1877,6 @@ local=/koxy.de/
 local=/notebooks.kozow.com/
 local=/kproxy.asia/
 local=/kproxy.com/
-local=/kproxy.in/
 local=/kproxysite.com/
 local=/dart.kpsn.org/
 local=/adblock.krctech.dev/
@@ -1991,7 +1985,6 @@ local=/lukscasino-479-tr.xyz/
 local=/lukscasino-542-tr.xyz/
 local=/lukscasino-929-tr.xyz/
 local=/dns.luma-medien.com/
-local=/power.lumeacopiilorploiesti.ro/
 local=/lumes.jp/
 local=/luminati.io/
 local=/luminatinet.com/
@@ -2036,7 +2029,6 @@ local=/masterssh.com/
 local=/masthisis.ir/
 local=/dns.mateo.ovh/
 local=/dns.mathewakhil.online/
-local=/mathhelpnow.site/
 local=/mathlearning.tech/
 local=/mathnotes.help/
 local=/mathnotes.icu/
@@ -2071,7 +2063,6 @@ local=/testaghome.meshkov.info/
 local=/dns.mestdag.fr/
 local=/metal-masters.us/
 local=/metalinjection.us/
-local=/mfho.cc/
 local=/dns.mh4ckt3mh4ckt1c4s.xyz/
 local=/mhany.xyz/
 local=/esel.stusta.mhn.de/
@@ -2176,6 +2167,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2590,7 +2582,6 @@ local=/polisitogel.hair/
 local=/polisitogel.limo/
 local=/polisitogel.living/
 local=/polisitogel.luxe/
-local=/polisitogel.show/
 local=/polisitogel.webcam/
 local=/loilonote.poo.li/
 local=/science-exp.port0.org/
