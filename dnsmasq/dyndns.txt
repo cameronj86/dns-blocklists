@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 May 2025 15:17 UTC
-# Version: 2025.0504.1517.25
+# Last modified: 05 May 2025 03:03 UTC
+# Version: 2025.0505.0303.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1392
+# Number of entries: 1391
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -1256,7 +1256,6 @@ local=/swtest.ru/
 local=/syno-ds.de/
 local=/synology-diskstation.de/
 local=/synoserver.com/
-local=/syntereo.com/
 local=/sysadminetworks.com/
 local=/system-ns.com/
 local=/systes.net/

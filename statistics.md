@@ -40,7 +40,7 @@
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |      84% |   0% |     16% | Native Tracker TikTok (Fingerprinting)
   9 |      63% |   0% |     37% | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      75% |  13% |     12% | Denylist Base
+ 10 |      76% |  13% |     11% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
  12 |      87% |  12% |      1% | Denylist Community non-Aggressive
  13 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
@@ -52,7 +52,7 @@
  19 |      84% |   9% |      7% | Balanced Extension
  20 |      85% |   8% |      7% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  21 |      80% |  11% |      9% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 22 |      92% |   7% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 22 |      91% |   8% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  23 |      81% |  11% |      8% | Advanced Extension
  24 |      63% |  24% |     13% | Denylist Community Advanced
 ```
@@ -84,7 +84,7 @@
  23 |      92% |   7% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |      81% |   0% |     19% | Native Tracker TikTok Extended (Fingerprinting)
- 26 |      84% |   9% |      7% | Aggressive Extension
+ 26 |      83% |  10% |      7% | Aggressive Extension
  27 |     100% |   0% |      0% | Strict Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
 ```
@@ -116,7 +116,7 @@
  23 |      92% |   7% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  24 |     100% |   0% |      0% | Pop-Up Ads
  25 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
- 26 |      85% |   9% |      6% | Aggressive Extension
+ 26 |      84% |  10% |      6% | Aggressive Extension
  27 |     100% |   0% |      0% | Strict Extension
  28 |     100% |   0% |      0% | Denylist Community Aggressive
  29 |     100% |   0% |      0% | META Graph Tracker (Facebook, Instagram)

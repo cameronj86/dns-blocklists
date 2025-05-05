@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 May 2025 15:20 UTC
-# Version: 2025.0504.1520.15
+# Last modified: 05 May 2025 03:06 UTC
+# Version: 2025.0505.0306.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4082
+# Number of entries: 4073
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -349,7 +349,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -383,6 +382,7 @@ local=/betterproxy.net/
 local=/bettervpn.com/
 local=/bgvpn.com/
 local=/bi-tree.ru/
+local=/bigjimmy.xyz/
 local=/bigma.org/
 local=/bingle.icu/
 local=/bingle.pw/
@@ -1126,7 +1126,6 @@ local=/eduacation.lol/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -2168,7 +2167,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2888,7 +2886,6 @@ local=/rayneau.fr/
 local=/rayobyte.com/
 local=/dns.rbn.gr/
 local=/rcsm.ir/
-local=/readandmath.today/
 local=/login.readinghelper.online/
 local=/www-p.reaper.mx/
 local=/dns.reckoningslug.name/
@@ -2933,12 +2930,10 @@ local=/dns.ronc.ru/
 local=/roodel.com/
 local=/roogen.com/
 local=/roonyx.com/
-local=/hotdogs.root.sx/
 local=/pluh.root.sx/
 local=/dns.rootlab.top/
 local=/roskomnadzorgorivadu.ru/
 local=/dns.rotunneling.net/
-local=/fol.l.rren.ch/
 local=/o.rsaikat.com/
 local=/au.rslvr.eu/
 local=/bg.rslvr.eu/
@@ -2980,7 +2975,6 @@ local=/safeunblock.com/
 local=/safing.io/
 local=/vpn.sakhwow.ru/
 local=/sakirdakproxy.tk/
-local=/samj.codes/
 local=/cloud.samutz.com/
 local=/sandmining.us/
 local=/sandparticles.us/
@@ -3139,7 +3133,6 @@ local=/signup.soapclient.com/
 local=/socialnetworkinfo.us/
 local=/socks-proxy.net/
 local=/sockslist.us/
-local=/www-proxy.sodemc.com/
 local=/clientdns3.softcom.net/
 local=/free-vpn.en.softonic.com/
 local=/solaxy.live/
@@ -3151,7 +3144,6 @@ local=/sourceproxy.com/
 local=/spacedns.org/
 local=/scienceandmore.spacetechnology.net/
 local=/spacevpn.io/
-local=/spanish101.college/
 local=/sparklabs.com/
 local=/doh-01.spectrum.com/
 local=/doh-02.spectrum.com/
@@ -3313,7 +3305,6 @@ local=/dns.szpadel.ovh/
 local=/t-dz.com/
 local=/dns.t-ipnet.de/
 local=/dns.t53.de/
-local=/t92.online/
 local=/tailnet.ru/
 local=/tailscale.com/
 local=/talk2m.com/
