@@ -4,15 +4,17 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 May 2025 23:01 UTC
-# Version: 2025.0502.2301.48
+# Last modified: 05 May 2025 05:41 UTC
+# Version: 2025.0505.0541.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 721
+# Number of entries: 767
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
 fp.measure.office.com.akamaized.net
 upload2.fp.measure.office.com.akamaized.net
+in.applicationinsights.azure.com.albertk12.org
+ukwest-0.in.applicationinsights.azure.com.albertk12.org
 in.appcenter.ms
 js.cdn.applicationinsights.io
 js0.cdn.applicationinsights.io
@@ -30,6 +32,7 @@ api.applicationinsights.azure.com
 dc.applicationinsights.azure.cn
 dc.applicationinsights.azure.com
 dc.applicationinsights.azure.us
+www.dc.applicationinsights.azure.com
 in.applicationinsights.azure.cn
 in.applicationinsights.azure.com
 in.applicationinsights.azure.us
@@ -48,6 +51,7 @@ centralus-0.in.applicationinsights.azure.com
 centralus-2.in.applicationinsights.azure.com
 centralus-3.in.applicationinsights.azure.com
 chinaeast2-0.in.applicationinsights.azure.cn
+chinaeast3-global.in.applicationinsights.azure.cn
 chinanorth3-0.in.applicationinsights.azure.cn
 eastasia-0.in.applicationinsights.azure.com
 eastus-0.in.applicationinsights.azure.com
@@ -62,6 +66,7 @@ eastus-global.in.applicationinsights.azure.com
 eastus2-0.in.applicationinsights.azure.com
 eastus2-3.in.applicationinsights.azure.com
 eastus2-4.in.applicationinsights.azure.com
+francecentral-0.in.applicationinsights.azure.com
 francecentral-1.in.applicationinsights.azure.com
 germanywestcentral-0.in.applicationinsights.azure.com
 germanywestcentral-1.in.applicationinsights.azure.com
@@ -85,6 +90,8 @@ southeastasia-0.in.applicationinsights.azure.com
 southeastasia-1.in.applicationinsights.azure.com
 swedencentral-0.in.applicationinsights.azure.com
 switzerlandnorth-0.in.applicationinsights.azure.com
+uaecentral-0.in.applicationinsights.azure.com
+uaenorth-0.in.applicationinsights.azure.com
 uksouth-0.in.applicationinsights.azure.com
 uksouth-1.in.applicationinsights.azure.com
 ukwest-0.in.applicationinsights.azure.com
@@ -109,11 +116,16 @@ westus2-2.in.applicationinsights.azure.com
 westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
+westus3.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
+live.applicationinsights.azure.cn
 live.applicationinsights.azure.com
+www.live.applicationinsights.azure.com
+azsc-bingads-centralus.centralus.cloudapp.azure.com
 inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
+azsc-edge-bingads-southeastasia.southeastasia.cloudapp.azure.com
 azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azsc-bingads-westus.westus.cloudapp.azure.com
 collector.azure.cn
@@ -122,6 +134,7 @@ adsdkpreprod.azureedge.net
 adsdkprod.azureedge.net
 adsdkpreprod.afd.azureedge.net
 adsdkprod.afd.azureedge.net
+adsdkprprod.ec.azureedge.net
 msadsscale.azureedge.net
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 location-microsoft-com.b-0005.b-msedge.net
@@ -156,6 +169,7 @@ nexusrules.live.com
 auc-visio-telemetry.officeapps.live.com
 brc-visio-telemetry.officeapps.live.com
 cac-visio-telemetry.officeapps.live.com
+chc-visio-telemetry.officeapps.live.com
 dec-visio-telemetry.officeapps.live.com
 euc-excel-telemetry.officeapps.live.com
 euc-onenote-telemetry.officeapps.live.com
@@ -171,6 +185,7 @@ ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
 frc-visio-telemetry.officeapps.live.com
 inc-visio-telemetry.officeapps.live.com
+jpc-visio-telemetry.officeapps.live.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 noc-visio-telemetry.officeapps.live.com
@@ -247,6 +262,7 @@ adlibrary.ads.microsoft.com
 bcp.ads.microsoft.com
 beta.ads.microsoft.com
 api.beta.ads.microsoft.com
+beta-about.ads.microsoft.com
 developers.ads.microsoft.com
 dmc.ads.microsoft.com
 help.ads.microsoft.com
@@ -254,9 +270,19 @@ learninglab.ads.microsoft.com
 mmcapi.ads.microsoft.com
 smetric.ads.microsoft.com
 status.ads.microsoft.com
+tip.ads.microsoft.com
+api.tip.ads.microsoft.com
 ucm.ads.microsoft.com
 ui.ads.microsoft.com
+clientcenter.ads-int.microsoft.com
+api.clientcenter.ads-int.microsoft.com
+dmc.ads-int.microsoft.com
+beta.dmc.ads-int.microsoft.com
+ui.ads-int.microsoft.com
 adsdk.microsoft.com
+adsstatic.microsoft.com
+beta.adsstatic.microsoft.com
+adsstatic-int.microsoft.com
 advertising.microsoft.com
 community.advertising.microsoft.com
 sts.advertising.microsoft.com
@@ -284,10 +310,12 @@ collector.azure.microsoft.scloud
 azurewatson.microsoft.com
 azurewatsontest.microsoft.com
 bingads.microsoft.com
+academycourses.bingads.microsoft.com
 adinquiry.bingads.microsoft.com
 ads.bingads.microsoft.com
 advertise.bingads.microsoft.com
 www.advertise.bingads.microsoft.com
+advertising.bingads.microsoft.com
 api.bingads.microsoft.com
 adinsight.api.bingads.microsoft.com
 bulk.api.bingads.microsoft.com
@@ -319,11 +347,13 @@ reporting.api.sandbox.bingads.microsoft.com
 secure.sandbox.bingads.microsoft.com
 secure.bingads.microsoft.com
 si.bingads.microsoft.com
+eu.si.bingads.microsoft.com
 ui.si.bingads.microsoft.com
 tip.bingads.microsoft.com
 ucm.bingads.microsoft.com
 ui.bingads.microsoft.com
 www.bingads.microsoft.com
+bingadseditor.microsoft.com
 c1.microsoft.com
 track.notif.careersppe.microsoft.com
 clarity.microsoft.com
@@ -401,6 +431,10 @@ v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 api.edgeoffer.microsoft.com
+adsdisplay.glbdns2.microsoft.com
+aisefs.adsdisplay.glbdns2.microsoft.com
+bingads.glbdns2.microsoft.com
+si.bingads.glbdns2.microsoft.com
 ieonline.microsoft.com
 location.microsoft.com
 redir.metaservices.microsoft.com
@@ -491,6 +525,7 @@ c.at.msn.com
 c.be.msn.com
 c.br.msn.com
 c.ca.msn.com
+archive.causes.msn.com
 c.cl.msn.com
 confiant.msn.com
 events.data.msn.cn
@@ -569,7 +604,11 @@ supportexperience.diagnostics.office.com
 measure.office.com
 measure.office.net
 fp.measure.office.com
+4e83215548583efc70931bb7da7ddd61.fp.measure.office.com
+66ed06ba24d0447d99be625dc7a80b00.fp.measure.office.com
+ce2617d2a3a1a6b03e6b908e5fde808f.fp.measure.office.com
 config.fp.measure.office.com
+fe39653332994916a0e6c9dbe06d9a78.fp.measure.office.com
 graph-next.fp.measure.office.com
 ns1.fp.measure.office.com
 ns2.fp.measure.office.com
@@ -607,6 +646,8 @@ bf-analytics-tracker-tm.trafficmanager.net
 bf-tracker-release-tm.trafficmanager.net
 bingads.trafficmanager.net
 azure.bingads.trafficmanager.net
+bingadsresources.trafficmanager.net
+collection-location-livenet.trafficmanager.net
 collector-main.trafficmanager.net
 tracker.flightview.com.trafficmanager.net
 events.data.trafficmanager.net
@@ -642,6 +683,7 @@ v10-win.vortex.data.trafficmanager.net
 v20-asimov-win.vortex.data.trafficmanager.net
 dsp-ad-cache-tm.trafficmanager.net
 adstore.response.gcp.eastus.trafficmanager.net
+adstore.response.eastus.trafficmanager.net
 telemetry.eastus.trafficmanager.net
 eventservice.trafficmanager.net
 fsad.trafficmanager.net
@@ -670,6 +712,7 @@ telemetry-lcp.trafficmanager.net
 tenmax-ads.trafficmanager.net
 tm-analytics-pr.trafficmanager.net
 tm-enrollment-telemetry-datacore.trafficmanager.net
+us-mesh-events-data-leafs.trafficmanager.net
 vstelemetry.trafficmanager.net
 euc-excel-telemetry.wac.trafficmanager.net
 euc-powerpoint-telemetry.wac.trafficmanager.net
@@ -698,12 +741,14 @@ weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 cache.datamart.windows.com
 sa.windows.com
+adsdktelemetry-prod.servicebus.windows.net
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analyticsehnwe.servicebus.windows.net
 analyticsiot-prod-simpad-ehn.servicebus.windows.net
 btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
+chem4wordtelemetry.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh2.servicebus.windows.net
@@ -718,6 +763,7 @@ citrixtelemetryeheu.servicebus.windows.net
 citrixtelemetryeheu-alias.servicebus.windows.net
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 hme-live-loganalytics-namespace.servicebus.windows.net
+jetanalytics.servicebus.windows.net
 nexxtv-events.servicebus.windows.net
 ppm-licensingtelemetry.servicebus.windows.net
 prod-eh-v1-analytics.servicebus.windows.net

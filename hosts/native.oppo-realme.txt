@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Apr 2025 06:41 UTC
-# Version: 2025.0429.0641.02
+# Last modified: 05 May 2025 05:12 UTC
+# Version: 2025.0505.0512.28
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 442
+# Number of entries: 446
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -372,6 +372,10 @@
 0.0.0.0 browser-api-us.heytapmobile.com
 0.0.0.0 browser-api-vn.heytapmobile.com
 0.0.0.0 browser-api-za.heytapmobile.com
+0.0.0.0 browser-sdk-fr.heytapmobile.com
+0.0.0.0 browser-sdk-in.heytapmobile.com
+0.0.0.0 browser-sdk-ru.heytapmobile.com
+0.0.0.0 browser-sdk-us.heytapmobile.com
 0.0.0.0 browserfiles.heytapmobile.com
 0.0.0.0 api-gl.cdo.heytapmobile.com
 0.0.0.0 api-id.cdo.heytapmobile.com
