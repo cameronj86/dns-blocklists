@@ -71,6 +71,13 @@
       }
     },
     {
+      "PK": "adsdisplay.glbdns2.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adsdk.microsoft.com",
       "action": {
         "do": 0,
@@ -100,6 +107,20 @@
     },
     {
       "PK": "adsdkprod.azureedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adsdkprprod.ec.azureedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adsdktelemetry-prod.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1
@@ -149,6 +170,27 @@
     },
     {
       "PK": "ads-msn-com-profile.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adsstatic-int.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adsstatic.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adstore.response.eastus.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -372,7 +414,21 @@
       }
     },
     {
+      "PK": "azsc-bingads-centralus.centralus.cloudapp.azure.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "azsc-bingads-westus.westus.cloudapp.azure.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "azsc-edge-bingads-southeastasia.southeastasia.cloudapp.azure.com",
       "action": {
         "do": 0,
         "status": 1
@@ -435,7 +491,28 @@
       }
     },
     {
+      "PK": "bingadseditor.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "bingads.glbdns2.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "bingads.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "bingadsresources.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -624,6 +701,20 @@
       }
     },
     {
+      "PK": "chc-visio-telemetry.officeapps.live.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "chem4wordtelemetry.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "c.hk.msn.com",
       "action": {
         "do": 0,
@@ -778,6 +869,13 @@
       }
     },
     {
+      "PK": "clientcenter.ads-int.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "c.live.com",
       "action": {
         "do": 0,
@@ -800,6 +898,13 @@
     },
     {
       "PK": "c.no.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "collection-location-livenet.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -975,6 +1080,13 @@
     },
     {
       "PK": "diagnostics.office.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dmc.ads-int.microsoft.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1310,6 +1422,13 @@
       }
     },
     {
+      "PK": "in.applicationinsights.azure.com.albertk12.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "in.applicationinsights.azure.us",
       "action": {
         "do": 0,
@@ -1374,6 +1493,20 @@
     },
     {
       "PK": "ism-telemetry.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "jetanalytics.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "jpc-visio-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1451,6 +1584,13 @@
     },
     {
       "PK": "legacywatson.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "live.applicationinsights.azure.cn",
       "action": {
         "do": 0,
         "status": 1
@@ -2507,6 +2647,13 @@
       }
     },
     {
+      "PK": "ui.ads-int.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ukc-onenote-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
@@ -2529,6 +2676,13 @@
     },
     {
       "PK": "usc-visio-telemetry.officeapps.live.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us-mesh-events-data-leafs.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

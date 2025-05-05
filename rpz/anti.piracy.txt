@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746413160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746467820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 May 2025 02:46 UTC
-; Version: 2025.0505.0246.38
+; Last modified: 05 May 2025 17:57 UTC
+; Version: 2025.0505.1757.24
 ; Syntax: RPZ
-; Number of entries: 20048
+; Number of entries: 20012
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -369,8 +369,6 @@ ettv.mrunblock.bar CNAME .
 *.ettv.mrunblock.bar CNAME .
 putlockers.bar CNAME .
 *.putlockers.bar CNAME .
-thepiratebay.bar CNAME .
-*.thepiratebay.bar CNAME .
 unblocked.bar CNAME .
 *.unblocked.bar CNAME .
 watchseries.bar CNAME .
@@ -1639,8 +1637,6 @@ watchtvseries.unblckd.club CNAME .
 *.watchtvseries.unblckd.club CNAME .
 newalbumreleases.unblockit.club CNAME .
 *.newalbumreleases.unblockit.club CNAME .
-vod78d.club CNAME .
-*.vod78d.club CNAME .
 vrpirates.club CNAME .
 *.vrpirates.club CNAME .
 home.yxgz.club CNAME .
@@ -6677,8 +6673,6 @@ torrentdia2.com CNAME .
 *.torrentdia2.com CNAME .
 torrentdia94.com CNAME .
 *.torrentdia94.com CNAME .
-torrentdia95.com CNAME .
-*.torrentdia95.com CNAME .
 torrentdia97.com CNAME .
 *.torrentdia97.com CNAME .
 torrentdia98.com CNAME .
@@ -7113,8 +7107,6 @@ viciowarez.com CNAME .
 *.viciowarez.com CNAME .
 victoriancrapper.com CNAME .
 *.victoriancrapper.com CNAME .
-vidbinge.com CNAME .
-*.vidbinge.com CNAME .
 vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
@@ -7189,8 +7181,6 @@ warez-files.com CNAME .
 *.warez-files.com CNAME .
 warez-host.com CNAME .
 *.warez-host.com CNAME .
-warez-load.com CNAME .
-*.warez-load.com CNAME .
 warez-serbia.com CNAME .
 *.warez-serbia.com CNAME .
 warezaccess.com CNAME .
@@ -7201,8 +7191,6 @@ warezchristian.com CNAME .
 *.warezchristian.com CNAME .
 warezcidayi.com CNAME .
 *.warezcidayi.com CNAME .
-warezcities.com CNAME .
-*.warezcities.com CNAME .
 warezcode.com CNAME .
 *.warezcode.com CNAME .
 warezcore.com CNAME .
@@ -7259,10 +7247,6 @@ watchepisodeseries.com CNAME .
 *.watchepisodeseries.com CNAME .
 watchliveall.com CNAME .
 *.watchliveall.com CNAME .
-bandhanbd.watchonlinemovies24.com CNAME .
-*.bandhanbd.watchonlinemovies24.com CNAME .
-tv.watchonlinemovies24.com CNAME .
-*.tv.watchonlinemovies24.com CNAME .
 watchraw.com CNAME .
 *.watchraw.com CNAME .
 watchsomuch.com CNAME .
@@ -9399,8 +9383,6 @@ solarmovie.ink CNAME .
 *.solarmovie.ink CNAME .
 torrentkitty.ink CNAME .
 *.torrentkitty.ink CNAME .
-open.tracker.ink CNAME .
-*.open.tracker.ink CNAME .
 newalbumreleases.unblockit.ink CNAME .
 *.newalbumreleases.unblockit.ink CNAME .
 unblockproject.ink CNAME .
@@ -10277,8 +10259,6 @@ vipbox.live CNAME .
 *.vipbox.live CNAME .
 vootbd.live CNAME .
 *.vootbd.live CNAME .
-watchmovierulz.live CNAME .
-*.watchmovierulz.live CNAME .
 wearechecking.live CNAME .
 *.wearechecking.live CNAME .
 yassflix.live CNAME .
@@ -11023,8 +11003,6 @@ bdix.wapka.me CNAME .
 *.bdix.wapka.me CNAME .
 watchmovie.me CNAME .
 *.watchmovie.me CNAME .
-watchtvepisodes.me CNAME .
-*.watchtvepisodes.me CNAME .
 worldcupfootball.me CNAME .
 *.worldcupfootball.me CNAME .
 worldwidetorrents.me CNAME .
@@ -12973,8 +12951,6 @@ tracker.theoks.net CNAME .
 *.tracker.theoks.net CNAME .
 thepiratebay9.net CNAME .
 *.thepiratebay9.net CNAME .
-thepiratecity.net CNAME .
-*.thepiratecity.net CNAME .
 thepopcorntime.net CNAME .
 *.thepopcorntime.net CNAME .
 cricfree.theproxya.net CNAME .
@@ -13179,8 +13155,6 @@ vikv.net CNAME .
 *.vikv.net CNAME .
 vimm.net CNAME .
 *.vimm.net CNAME .
-mp3.vipmp3.net CNAME .
-*.mp3.vipmp3.net CNAME .
 vkstreaming.net CNAME .
 *.vkstreaming.net CNAME .
 voe-network.net CNAME .
@@ -13499,8 +13473,6 @@ torrentz2.nz CNAME .
 *.torrentz2.nz CNAME .
 newalbumreleases.unblockit.nz CNAME .
 *.newalbumreleases.unblockit.nz CNAME .
-vegamovies.nz CNAME .
-*.vegamovies.nz CNAME .
 watchmovies.nz CNAME .
 *.watchmovies.nz CNAME .
 cb01.observer CNAME .
@@ -15091,8 +15063,6 @@ thepiratebay.org CNAME .
 *.thepiratebay.org CNAME .
 thepiratebay-unblocked.org CNAME .
 *.thepiratebay-unblocked.org CNAME .
-thepiratebay-us.org CNAME .
-*.thepiratebay-us.org CNAME .
 thepiratebay0.org CNAME .
 *.thepiratebay0.org CNAME .
 thepiratebay10.org CNAME .
@@ -15103,10 +15073,6 @@ thepiratebay3.org CNAME .
 *.thepiratebay3.org CNAME .
 thepiratebayorg.org CNAME .
 *.thepiratebayorg.org CNAME .
-thepiratefilmes4k.org CNAME .
-*.thepiratefilmes4k.org CNAME .
-thepirates-bay.org CNAME .
-*.thepirates-bay.org CNAME .
 thepiratespace.org CNAME .
 *.thepiratespace.org CNAME .
 thepiratesproxy.org CNAME .
@@ -16215,8 +16181,6 @@ parag.rs CNAME .
 *.parag.rs CNAME .
 tgx.rs CNAME .
 *.tgx.rs CNAME .
-vegamovies.rs CNAME .
-*.vegamovies.rs CNAME .
 yts.rs CNAME .
 *.yts.rs CNAME .
 unblockit.rsvp CNAME .
@@ -17467,6 +17431,8 @@ warez-fusion.6x.to CNAME .
 *.warez-fusion.6x.to CNAME .
 wzone.6x.to CNAME .
 *.wzone.6x.to CNAME .
+9anime.to CNAME .
+*.9anime.to CNAME .
 9animetv.to CNAME .
 *.9animetv.to CNAME .
 afdah.to CNAME .
@@ -18765,8 +18731,6 @@ volokit.tv CNAME .
 *.volokit.tv CNAME .
 vostfree.tv CNAME .
 *.vostfree.tv CNAME .
-vuemedia.tv CNAME .
-*.vuemedia.tv CNAME .
 watch-free.tv CNAME .
 *.watch-free.tv CNAME .
 watchserieshd.tv CNAME .

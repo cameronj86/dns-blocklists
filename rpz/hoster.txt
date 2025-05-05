@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746396360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746440040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 May 2025 22:06 UTC
-; Version: 2025.0504.2206.09
+; Last modified: 05 May 2025 10:14 UTC
+; Version: 2025.0505.1014.49
 ; Syntax: RPZ
-; Number of entries: 4230
+; Number of entries: 4232
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1387,6 +1387,8 @@ memoryislife.com CNAME .
 *.memoryislife.com CNAME .
 merchats.com CNAME .
 *.merchats.com CNAME .
+metplxx.com CNAME .
+*.metplxx.com CNAME .
 mforos.com CNAME .
 *.mforos.com CNAME .
 miarroba.com CNAME .
@@ -1675,6 +1677,8 @@ techionblog.com CNAME .
 *.techionblog.com CNAME .
 tek-blogs.com CNAME .
 *.tek-blogs.com CNAME .
+telegrameyg.com CNAME .
+*.telegrameyg.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
 terapad.com CNAME .
@@ -3001,8 +3005,6 @@ eshop-ya.life CNAME .
 *.eshop-ya.life CNAME .
 365bbt.link CNAME .
 *.365bbt.link CNAME .
-track-app1e.live CNAME .
-*.track-app1e.live CNAME .
 blogas.lt CNAME .
 *.blogas.lt CNAME .
 blogspot.lt CNAME .

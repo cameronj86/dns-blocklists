@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 May 2025 03:06 UTC
-# Version: 2025.0505.0306.22
+# Last modified: 05 May 2025 18:20 UTC
+# Version: 2025.0505.1820.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4073
+# Number of entries: 4072
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -349,6 +349,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1126,6 +1127,7 @@ local=/eduacation.lol/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -3194,11 +3196,16 @@ local=/ams1.startpage.com/
 local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
+local=/eu-proxy.startpage.com/
+local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
-local=/error.proxy.startpage.com/
+local=/proxy.startpage.com/
+local=/proxy1.startpage.com/
+local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us-browse.startpage.com/
+local=/us-proxy.startpage.com/
 local=/us1-browse.startpage.com/
 local=/us2-browse.startpage.com/
 local=/dns.startupstack.tech/
@@ -3419,7 +3426,6 @@ local=/tonvpn.com/
 local=/toolara.net/
 local=/dot.tooli.ca/
 local=/proxy.toolur.com/
-local=/top-proxy.site/
 local=/top10vpn.com/
 local=/toppal.tech/
 local=/topsecure.info/
@@ -3451,7 +3457,6 @@ local=/totalvpn.com/
 local=/doh.totoro.pub/
 local=/touchvpn.net/
 local=/towervpn.com/
-local=/dns.tracker.ink/
 local=/tradeadspace.info/
 local=/trafflink.xyz/
 local=/traffmonetizer.com/
@@ -3481,7 +3486,6 @@ local=/tujenasnaszato.xyz/
 local=/tunnelbear.com/
 local=/turbohide.org/
 local=/turbossh.com/
-local=/turbotrackvpn.com/
 local=/turbovpn.co/
 local=/turbovpn.com/
 local=/turmericrecipes.com/
@@ -3674,8 +3678,6 @@ local=/underage-gambling.site/
 local=/undofilters.com/
 local=/dns.unerror.network/
 local=/ines.zfn.uni-bremen.de/
-local=/flipclevergrid.unids.com/
-local=/flipcleverplay.unids.com/
 local=/unifiedvpn.com/
 local=/galileo.math.unipd.it/
 local=/universityproxy.net/
@@ -3708,7 +3710,6 @@ local=/webproxy.us.com/
 local=/us-proxy.org/
 local=/usa-proxy.org/
 local=/adfree.usableprivacy.net/
-local=/usafastproxy.info/
 local=/usaip.eu/
 local=/usaip.net/
 local=/usawebproxy.com/
@@ -3893,7 +3894,6 @@ local=/doh.this.web.id/
 local=/1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com/
 local=/webbrowser.live/
 local=/webevade.com/
-local=/webjax.ir/
 local=/weblockapp.com/
 local=/doh.webnmail.de/
 local=/weboproxy.com/
@@ -4030,7 +4030,6 @@ local=/younblocked.com/
 local=/youproxything.com/
 local=/youproxytube.com/
 local=/your-dns.run/
-local=/your-freedom.de/
 local=/yourcheat.com/
 local=/yourinternetproxy.info/
 local=/youtube-proxy.com/

@@ -274,6 +274,13 @@
       }
     },
     {
+      "PK": "au-sysupgrade-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "az.appstore.vivo.com.cn",
       "action": {
         "do": 0,
@@ -281,7 +288,28 @@
       }
     },
     {
+      "PK": "cl-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cl-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cl-st-sl.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cl-st-sysupgrade.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -344,6 +372,13 @@
       }
     },
     {
+      "PK": "cname-de-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cname-in-bom01-nginxpool03.vivoglobal.com",
       "action": {
         "do": 0,
@@ -358,7 +393,21 @@
       }
     },
     {
+      "PK": "co-cota.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "co-domaincfg.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-err-up.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -456,6 +505,55 @@
       }
     },
     {
+      "PK": "de-err-up.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "de-gdpr-err-up.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "de-gdpr-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "de-onrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "de-ort-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "de-prt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "de-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "err-up.vivoglobal.com",
       "action": {
         "do": 0,
@@ -464,6 +562,20 @@
     },
     {
       "PK": "err.up.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-album-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-cota.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -624,6 +736,13 @@
       }
     },
     {
+      "PK": "in-analyzer-appstore.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "in-apponrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -646,6 +765,13 @@
     },
     {
       "PK": "in-appprt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "in-cota.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -848,6 +974,13 @@
       }
     },
     {
+      "PK": "kz-p.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "kz-romsp-unifyconfig.vivoglobal.com",
       "action": {
         "do": 0,
@@ -890,6 +1023,13 @@
       }
     },
     {
+      "PK": "kz-timesync.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "kz-vcode-api.vivoglobal.com",
       "action": {
         "do": 0,
@@ -919,6 +1059,13 @@
     },
     {
       "PK": "monitor-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mx-cota.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1107,6 +1254,13 @@
       }
     },
     {
+      "PK": "ru-cota.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ru-err-up.vivoglobal.com",
       "action": {
         "do": 0,
@@ -1254,6 +1408,13 @@
       }
     },
     {
+      "PK": "sca-cota.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sca-domaincfg.vivoglobal.com",
       "action": {
         "do": 0,
@@ -1360,6 +1521,13 @@
     },
     {
       "PK": "sca-weather.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sg-cfg-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1499,13 +1667,6 @@
       }
     },
     {
-      "PK": "vhs.wwstat.com.dsa.dnsv1.com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "vhs.wwstat.com.eo.dnse0.com",
       "action": {
         "do": 0,
@@ -1521,6 +1682,27 @@
     },
     {
       "PK": "xn-ex-adreq-asa-c5b.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-sysupgrade-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-vcode-api.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-vcode-od.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1

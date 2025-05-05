@@ -3633,6 +3633,13 @@
       }
     },
     {
+      "PK": "recollect.fyi",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.red",
       "action": {
         "do": 0,

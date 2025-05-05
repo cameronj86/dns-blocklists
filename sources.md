@@ -111,6 +111,7 @@ https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_c
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2023-03-29_android_campaign/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2024-05-02_wintego_helios/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/refs/heads/master/2024-12-16_serbia_novispy/domains.txt
+https://raw.githubusercontent.com/arfshl/anti-gambling-domains/refs/heads/main/domains.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt

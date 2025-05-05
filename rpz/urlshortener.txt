@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746396420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746448020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 May 2025 22:07 UTC
-; Version: 2025.0504.2207.36
+; Last modified: 05 May 2025 12:27 UTC
+; Version: 2025.0505.1227.53
 ; Syntax: RPZ
-; Number of entries: 11244
+; Number of entries: 11216
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -196,8 +196,6 @@ shortshare.app CNAME .
 *.shortshare.app CNAME .
 ufai.app CNAME .
 *.ufai.app CNAME .
-vercels.app CNAME .
-*.vercels.app CNAME .
 san.aq CNAME .
 *.san.aq CNAME .
 hotm.art CNAME .
@@ -770,8 +768,6 @@ vtu.cc CNAME .
 *.vtu.cc CNAME .
 webz.cc CNAME .
 *.webz.cc CNAME .
-whts.cc CNAME .
-*.whts.cc CNAME .
 xzb.cc CNAME .
 *.xzb.cc CNAME .
 oe.cd CNAME .
@@ -4028,8 +4024,6 @@ minitv.fun CNAME .
 *.minitv.fun CNAME .
 sikilat.fun CNAME .
 *.sikilat.fun CNAME .
-thelily.fun CNAME .
-*.thelily.fun CNAME .
 zlink.fun CNAME .
 *.zlink.fun CNAME .
 agt.fyi CNAME .
@@ -5686,8 +5680,6 @@ whatsapp4e.lat CNAME .
 *.whatsapp4e.lat CNAME .
 whatsapp9.lat CNAME .
 *.whatsapp9.lat CNAME .
-ygmri.lat CNAME .
-*.ygmri.lat CNAME .
 whcs.law CNAME .
 *.whcs.law CNAME .
 1z.lc CNAME .
@@ -5806,8 +5798,6 @@ wec.li CNAME .
 *.wec.li CNAME .
 wed.li CNAME .
 *.wed.li CNAME .
-xep.li CNAME .
-*.xep.li CNAME .
 xip.li CNAME .
 *.xip.li CNAME .
 xpr.li CNAME .
@@ -7066,6 +7056,8 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
+vim-tiktok.live CNAME .
+*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -7152,10 +7144,6 @@ seogilak.lol CNAME .
 *.seogilak.lol CNAME .
 tik.lol CNAME .
 *.tik.lol CNAME .
-tvuak.lol CNAME .
-*.tvuak.lol CNAME .
-uuhsj.lol CNAME .
-*.uuhsj.lol CNAME .
 whatsapp2c.lol CNAME .
 *.whatsapp2c.lol CNAME .
 whatsapp2j.lol CNAME .
@@ -7900,14 +7888,6 @@ sht.moe CNAME .
 *.sht.moe CNAME .
 linux.mom CNAME .
 *.linux.mom CNAME .
-tvpfb.mom CNAME .
-*.tvpfb.mom CNAME .
-vdsnw.mom CNAME .
-*.vdsnw.mom CNAME .
-veall.mom CNAME .
-*.veall.mom CNAME .
-yhjjx.mom CNAME .
-*.yhjjx.mom CNAME .
 zeus4d.mom CNAME .
 *.zeus4d.mom CNAME .
 inf.money CNAME .
@@ -8742,12 +8722,6 @@ tinyurl.ph CNAME .
 *.tinyurl.ph CNAME .
 mikeopierre.photos CNAME .
 *.mikeopierre.photos CNAME .
-tihkc.pics CNAME .
-*.tihkc.pics CNAME .
-tkjzd.pics CNAME .
-*.tkjzd.pics CNAME .
-xcser.pics CNAME .
-*.xcser.pics CNAME .
 pj.pizza CNAME .
 *.pj.pizza CNAME .
 curl.pk CNAME .
@@ -10162,8 +10136,6 @@ trimmer.to CNAME .
 *.trimmer.to CNAME .
 twtr.to CNAME .
 *.twtr.to CNAME .
-tyny.to CNAME .
-*.tyny.to CNAME .
 u.to CNAME .
 *.u.to CNAME .
 ubr.to CNAME .

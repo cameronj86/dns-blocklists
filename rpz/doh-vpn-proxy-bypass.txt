@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746414360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746469200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 May 2025 03:06 UTC
-; Version: 2025.0505.0306.22
+; Last modified: 05 May 2025 18:20 UTC
+; Version: 2025.0505.1820.27
 ; Syntax: RPZ
-; Number of entries: 8146
+; Number of entries: 8144
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1228,6 +1228,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -2630,16 +2632,26 @@ browse.startpage.com CNAME .
 *.browse.startpage.com CNAME .
 eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
+eu-proxy.startpage.com CNAME .
+*.eu-proxy.startpage.com CNAME .
+eu1-browse.startpage.com CNAME .
+*.eu1-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
-error.proxy.startpage.com CNAME .
-*.error.proxy.startpage.com CNAME .
+proxy.startpage.com CNAME .
+*.proxy.startpage.com CNAME .
+proxy1.startpage.com CNAME .
+*.proxy1.startpage.com CNAME .
+proxy2.startpage.com CNAME .
+*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
 us-browse.startpage.com CNAME .
 *.us-browse.startpage.com CNAME .
+us-proxy.startpage.com CNAME .
+*.us-proxy.startpage.com CNAME .
 us1-browse.startpage.com CNAME .
 *.us1-browse.startpage.com CNAME .
 us2-browse.startpage.com CNAME .
@@ -2850,8 +2862,6 @@ tunnelbear.com CNAME .
 *.tunnelbear.com CNAME .
 turbossh.com CNAME .
 *.turbossh.com CNAME .
-turbotrackvpn.com CNAME .
-*.turbotrackvpn.com CNAME .
 turbovpn.com CNAME .
 *.turbovpn.com CNAME .
 turmericrecipes.com CNAME .
@@ -2970,10 +2980,6 @@ unblockytproxy.com CNAME .
 *.unblockytproxy.com CNAME .
 undofilters.com CNAME .
 *.undofilters.com CNAME .
-flipclevergrid.unids.com CNAME .
-*.flipclevergrid.unids.com CNAME .
-flipcleverplay.unids.com CNAME .
-*.flipcleverplay.unids.com CNAME .
 unifiedvpn.com CNAME .
 *.unifiedvpn.com CNAME .
 unknownproxy.com CNAME .
@@ -3576,8 +3582,6 @@ home.wriedts.de CNAME .
 *.home.wriedts.de CNAME .
 xn--durhre-yxa.de CNAME .
 *.xn--durhre-yxa.de CNAME .
-your-freedom.de CNAME .
-*.your-freedom.de CNAME .
 adguard-kartoffel.zernico.de CNAME .
 *.adguard-kartoffel.zernico.de CNAME .
 zproxy.de CNAME .
@@ -4332,8 +4336,6 @@ unblockedproxy.info CNAME .
 *.unblockedproxy.info CNAME .
 unblockedsite.info CNAME .
 *.unblockedsite.info CNAME .
-usafastproxy.info CNAME .
-*.usafastproxy.info CNAME .
 uskt.info CNAME .
 *.uskt.info CNAME .
 usproxies.info CNAME .
@@ -4360,8 +4362,6 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 theproxy.ink CNAME .
 *.theproxy.ink CNAME .
-dns.tracker.ink CNAME .
-*.dns.tracker.ink CNAME .
 learnbridge.institute CNAME .
 *.learnbridge.institute CNAME .
 bannana.web-doge.42web.io CNAME .
@@ -4560,8 +4560,6 @@ studebaker.ir CNAME .
 *.studebaker.ir CNAME .
 vipturkey.ir CNAME .
 *.vipturkey.ir CNAME .
-webjax.ir CNAME .
-*.webjax.ir CNAME .
 cryptostorm.is CNAME .
 *.cryptostorm.is CNAME .
 dns.flatuslifir.is CNAME .
@@ -4652,6 +4650,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+bdns.link CNAME .
+*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -7272,8 +7272,6 @@ thisismyproxy.site CNAME .
 *.thisismyproxy.site CNAME .
 tokit.site CNAME .
 *.tokit.site CNAME .
-top-proxy.site CNAME .
-*.top-proxy.site CNAME .
 unblock2.site CNAME .
 *.unblock2.site CNAME .
 underage-gambling.site CNAME .
