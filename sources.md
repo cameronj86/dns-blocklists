@@ -140,6 +140,7 @@ https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/phishing/domains
+https://raw.githubusercontent.com/cbuijs/ut1/master/publicite/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/stalkerware/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/warez/domains

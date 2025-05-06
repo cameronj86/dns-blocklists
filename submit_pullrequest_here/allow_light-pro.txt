@@ -1,5 +1,10 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/5839#issuecomment-2852254514
+# Buffering? Unblocking don't show ads on home screen.
+cloudservices.roku.com
+osm-ads*.delivery.roku.com
+
 # https://github.com/hagezi/dns-blocklists/issues/6075
 raka.bing.com
 
