@@ -243,6 +243,7 @@ https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/refs/heads/master/android-tracking.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/refs/heads/master/SmartTV.txt
 https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
