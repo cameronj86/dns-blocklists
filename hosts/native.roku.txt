@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 00:39 UTC
-# Version: 2025.0308.0039.15
+# Last modified: 06 May 2025 12:26 UTC
+# Version: 2025.0506.1226.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 165
+# Number of entries: 161
 #
 0.0.0.0 ravm.tv
 0.0.0.0 cdn.ravm.tv
@@ -63,7 +63,6 @@
 0.0.0.0 adi-airflow.bdp.roku.com
 0.0.0.0 ads.beta.roku.com
 0.0.0.0 api.ads.beta.roku.com
-0.0.0.0 cloudservices.roku.com
 0.0.0.0 samples.voice.cti.roku.com
 0.0.0.0 ravm-qa-e.data.roku.com
 0.0.0.0 ravm-qa-w.data.roku.com
@@ -78,9 +77,6 @@
 0.0.0.0 ads-us-east-2.delivery.roku.com
 0.0.0.0 ads-us-west-2.delivery.roku.com
 0.0.0.0 ads-cf-us-east-1.dev.delivery.roku.com
-0.0.0.0 osm-ads.delivery.roku.com
-0.0.0.0 osm-ads-aka.delivery.roku.com
-0.0.0.0 osm-ads-cf.delivery.roku.com
 0.0.0.0 ads.gcp.roku.com
 0.0.0.0 dev.ads.gcp.roku.com
 0.0.0.0 europe-west3.dev.ads.gcp.roku.com

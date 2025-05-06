@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Mar 2025 00:39 UTC
-# Version: 2025.0308.0039.15
+# Last modified: 06 May 2025 12:26 UTC
+# Version: 2025.0506.1226.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 76
+# Number of entries: 72
 #
 local=/ravm.tv/
 local=/acr.roku.com/
@@ -23,7 +23,6 @@ local=/adeng-looker-dev-1001.bdp.roku.com/
 local=/adeng-looker-dev-1003.bdp.roku.com/
 local=/adi-airflow.bdp.roku.com/
 local=/ads.beta.roku.com/
-local=/cloudservices.roku.com/
 local=/samples.voice.cti.roku.com/
 local=/ravm-qa-e.data.roku.com/
 local=/ravm-qa-w.data.roku.com/
@@ -38,9 +37,6 @@ local=/ads-us-east-1.delivery.roku.com/
 local=/ads-us-east-2.delivery.roku.com/
 local=/ads-us-west-2.delivery.roku.com/
 local=/ads-cf-us-east-1.dev.delivery.roku.com/
-local=/osm-ads.delivery.roku.com/
-local=/osm-ads-aka.delivery.roku.com/
-local=/osm-ads-cf.delivery.roku.com/
 local=/ads.gcp.roku.com/
 local=/ad.prod.rpay.int.roku.com/
 local=/ad-bl.prod.rpay.int.roku.com/

@@ -2,7 +2,7 @@
 #### MULTI
 ```
  Nr | Included | Dead | Removed | URL/File
-  1 |      74% |  18% |      8% | Denylist Personal
+  1 |      73% |  18% |      9% | Denylist Personal
   2 |      67% |   3% |     30% | Extracted Wildcard Rules
   3 |      67% |  16% |     17% | Native Tracker Apple (iOS, macOS, tvOS)
   4 |      63% |   0% |     37% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -17,15 +17,15 @@
  13 |      77% |   0% |     23% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  14 |      93% |   0% |      7% | Native Tracker Xiaomi (Devices)
  15 |      86% |   0% |     14% | Native Tracker Samsung (Devices)
- 16 |      96% |   0% |      4% | Native Tracker Roku (Devices)
+ 16 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  17 |      69% |  27% |      4% | Analytics/Metrics Extension
- 18 |      80% |  16% |      4% | Balanced Extension
+ 18 |      82% |  14% |      4% | Balanced Extension
 ```
 #### PRO
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Normal
-  2 |      77% |  18% |      5% | Denylist Personal
+  2 |      76% |  18% |      6% | Denylist Personal
   3 |      87% |   3% |     10% | Extracted Wildcard Rules
   4 |      71% |  16% |     13% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      92% |   0% |      8% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -40,9 +40,9 @@
  14 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  15 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
  16 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
- 17 |      96% |   0% |      4% | Native Tracker Roku (Devices)
+ 17 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  18 |      72% |  27% |      1% | Analytics/Metrics Extension
- 19 |      80% |  16% |      4% | Balanced Extension
+ 19 |      83% |  14% |      3% | Balanced Extension
  20 |      80% |  11% |      9% | Advanced Extension
  21 |      63% |  24% |     13% | Denylist Community Advanced
 ```
@@ -50,7 +50,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
-  2 |      79% |  18% |      3% | Denylist Personal
+  2 |      78% |  18% |      4% | Denylist Personal
   3 |      89% |   3% |      8% | Extracted Wildcard Rules
   4 |      71% |  16% |     13% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      98% |   0% |      2% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -66,7 +66,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
- 18 |      81% |  16% |      3% | Balanced Extension
+ 18 |      84% |  14% |      2% | Balanced Extension
  19 |      82% |  11% |      7% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |     100% |   0% |      0% | Pop-Up Ads
@@ -79,7 +79,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro++
-  2 |      79% |  18% |      3% | Denylist Personal
+  2 |      78% |  18% |      4% | Denylist Personal
   3 |      90% |   3% |      7% | Extracted Wildcard Rules
   4 |      83% |  16% |      1% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -95,7 +95,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
- 18 |      82% |  16% |      2% | Balanced Extension
+ 18 |      84% |  14% |      2% | Balanced Extension
  19 |      82% |  11% |      7% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |     100% |   0% |      0% | Pop-Up Ads

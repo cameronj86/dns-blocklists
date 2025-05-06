@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746499440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746547980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 May 2025 02:44 UTC
-; Version: 2025.0506.0244.09
+; Last modified: 06 May 2025 16:13 UTC
+; Version: 2025.0506.1613.38
 ; Syntax: RPZ
-; Number of entries: 20016
+; Number of entries: 20006
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2083,8 +2083,6 @@ tracker.0x7c0.com CNAME .
 *.22-hd.com CNAME .
 24-hd.com CNAME .
 *.24-hd.com CNAME .
-24urban.com CNAME .
-*.24urban.com CNAME .
 2bbit.com CNAME .
 *.2bbit.com CNAME .
 2bcalvi.com CNAME .
@@ -4313,8 +4311,6 @@ henbt.com CNAME .
 *.henbt.com CNAME .
 hentaisun.com CNAME .
 *.hentaisun.com CNAME .
-heroicgameslauncher.com CNAME .
-*.heroicgameslauncher.com CNAME .
 evening-badlands-6215.herokuapp.com CNAME .
 *.evening-badlands-6215.herokuapp.com CNAME .
 spacetradersapi-chatbox.herokuapp.com CNAME .
@@ -14249,8 +14245,6 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
-free4pc.org CNAME .
-*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -15397,8 +15391,6 @@ tantifilm.ph CNAME .
 *.tantifilm.ph CNAME .
 torrent9.ph CNAME .
 *.torrent9.ph CNAME .
-altadefinizione01.photo CNAME .
-*.altadefinizione01.photo CNAME .
 cb01.photos CNAME .
 *.cb01.photos CNAME .
 123movies.pics CNAME .
@@ -19341,8 +19333,6 @@ unblocker.win CNAME .
 *.unblocker.win CNAME .
 whowill.win CNAME .
 *.whowill.win CNAME .
-123movies.wine CNAME .
-*.123movies.wine CNAME .
 filmpertutti.wine CNAME .
 *.filmpertutti.wine CNAME .
 123movies.work CNAME .

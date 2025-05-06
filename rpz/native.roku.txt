@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1741394340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746534360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Roku Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Mar 2025 00:39 UTC
-; Version: 2025.0308.0039.15
+; Last modified: 06 May 2025 12:26 UTC
+; Version: 2025.0506.1226.59
 ; Syntax: RPZ
-; Number of entries: 152
+; Number of entries: 144
 ;
 acr.roku.com CNAME .
 *.acr.roku.com CNAME .
@@ -39,8 +39,6 @@ adi-airflow.bdp.roku.com CNAME .
 *.adi-airflow.bdp.roku.com CNAME .
 ads.beta.roku.com CNAME .
 *.ads.beta.roku.com CNAME .
-cloudservices.roku.com CNAME .
-*.cloudservices.roku.com CNAME .
 samples.voice.cti.roku.com CNAME .
 *.samples.voice.cti.roku.com CNAME .
 ravm-qa-e.data.roku.com CNAME .
@@ -69,12 +67,6 @@ ads-us-west-2.delivery.roku.com CNAME .
 *.ads-us-west-2.delivery.roku.com CNAME .
 ads-cf-us-east-1.dev.delivery.roku.com CNAME .
 *.ads-cf-us-east-1.dev.delivery.roku.com CNAME .
-osm-ads.delivery.roku.com CNAME .
-*.osm-ads.delivery.roku.com CNAME .
-osm-ads-aka.delivery.roku.com CNAME .
-*.osm-ads-aka.delivery.roku.com CNAME .
-osm-ads-cf.delivery.roku.com CNAME .
-*.osm-ads-cf.delivery.roku.com CNAME .
 ads.gcp.roku.com CNAME .
 *.ads.gcp.roku.com CNAME .
 ad.prod.rpay.int.roku.com CNAME .

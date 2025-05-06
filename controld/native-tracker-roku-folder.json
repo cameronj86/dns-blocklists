@@ -351,13 +351,6 @@
       }
     },
     {
-      "PK": "cloudservices.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "customer-feedbacks.web.roku.com",
       "action": {
         "do": 0,
@@ -394,27 +387,6 @@
     },
     {
       "PK": "methodofpay-ads.web.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "osm-ads-aka.delivery.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "osm-ads-cf.delivery.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "osm-ads.delivery.roku.com",
       "action": {
         "do": 0,
         "status": 1
