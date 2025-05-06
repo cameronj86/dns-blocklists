@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 May 2025 18:20 UTC
-# Version: 2025.0505.1820.27
+# Last modified: 06 May 2025 03:03 UTC
+# Version: 2025.0506.0303.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4072
+# Number of entries: 4074
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -349,7 +349,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -2169,6 +2168,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3052,6 +3052,7 @@ local=/sescloud.club/
 local=/setupvpn.com/
 local=/dns.sev.monster/
 local=/sf-helper.com/
+local=/sfmcut.com/
 local=/pates.services.sfr.fr.casepp.sfr.fr/
 local=/www-8.shaammy.ir/
 local=/d2.shabi.icu/
@@ -3457,6 +3458,7 @@ local=/totalvpn.com/
 local=/doh.totoro.pub/
 local=/touchvpn.net/
 local=/towervpn.com/
+local=/dns.tracker.ink/
 local=/tradeadspace.info/
 local=/trafflink.xyz/
 local=/traffmonetizer.com/

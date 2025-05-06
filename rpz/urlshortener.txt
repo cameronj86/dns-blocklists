@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746448020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746482940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 May 2025 12:27 UTC
-; Version: 2025.0505.1227.53
+; Last modified: 05 May 2025 22:09 UTC
+; Version: 2025.0505.2209.11
 ; Syntax: RPZ
-; Number of entries: 11216
+; Number of entries: 11304
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -352,6 +352,8 @@ urlshortener.best CNAME .
 *.urlshortener.best CNAME .
 yourls.best CNAME .
 *.yourls.best CNAME .
+b808.bet CNAME .
+*.b808.bet CNAME .
 bloom.bg CNAME .
 *.bloom.bg CNAME .
 s.skip.bh CNAME .
@@ -698,6 +700,8 @@ qrurl.cc CNAME .
 *.qrurl.cc CNAME .
 rdrt.cc CNAME .
 *.rdrt.cc CNAME .
+redvt.cc CNAME .
+*.redvt.cc CNAME .
 reline.cc CNAME .
 *.reline.cc CNAME .
 rethinktw.cc CNAME .
@@ -748,6 +752,8 @@ tovgo.cc CNAME .
 *.tovgo.cc CNAME .
 twurl.cc CNAME .
 *.twurl.cc CNAME .
+txtr.cc CNAME .
+*.txtr.cc CNAME .
 ub0.cc CNAME .
 *.ub0.cc CNAME .
 uich.cc CNAME .
@@ -960,6 +966,8 @@ urlify.cn CNAME .
 *.1nk.co CNAME .
 1pt.co CNAME .
 *.1pt.co CNAME .
+1stgop.co CNAME .
+*.1stgop.co CNAME .
 2no.co CNAME .
 *.2no.co CNAME .
 3o2.co CNAME .
@@ -1592,6 +1600,10 @@ appbitly.com CNAME .
 *.appbitly.com CNAME .
 apticirl.com CNAME .
 *.apticirl.com CNAME .
+apzjp.com CNAME .
+*.apzjp.com CNAME .
+aqehb.com CNAME .
+*.aqehb.com CNAME .
 arserike.com CNAME .
 *.arserike.com CNAME .
 aryenmotors.com CNAME .
@@ -1608,6 +1620,10 @@ audiof.com CNAME .
 *.audiof.com CNAME .
 aupvhn.com CNAME .
 *.aupvhn.com CNAME .
+auyoa.com CNAME .
+*.auyoa.com CNAME .
+auyyb.com CNAME .
+*.auyyb.com CNAME .
 aveerro.com CNAME .
 *.aveerro.com CNAME .
 avjosa.com CNAME .
@@ -1814,6 +1830,8 @@ cutth.com CNAME .
 *.cutth.com CNAME .
 cuturl.com CNAME .
 *.cuturl.com CNAME .
+cviqs.com CNAME .
+*.cviqs.com CNAME .
 go.cwtv.com CNAME .
 *.go.cwtv.com CNAME .
 cyizs.com CNAME .
@@ -1918,10 +1936,14 @@ url.eefocus.com CNAME .
 *.url.eefocus.com CNAME .
 eepurl.com CNAME .
 *.eepurl.com CNAME .
+eflsb.com CNAME .
+*.eflsb.com CNAME .
 eg-hr.com CNAME .
 *.eg-hr.com CNAME .
 eg-sale.com CNAME .
 *.eg-sale.com CNAME .
+entryurl.com CNAME .
+*.entryurl.com CNAME .
 erdch.com CNAME .
 *.erdch.com CNAME .
 erthdaily.com CNAME .
@@ -2614,8 +2636,14 @@ pxicz.com CNAME .
 *.pxicz.com CNAME .
 qicute.com CNAME .
 *.qicute.com CNAME .
+qjccl.com CNAME .
+*.qjccl.com CNAME .
 jobs.qjobsindia.com CNAME .
 *.jobs.qjobsindia.com CNAME .
+qkvlk.com CNAME .
+*.qkvlk.com CNAME .
+qlbnk.com CNAME .
+*.qlbnk.com CNAME .
 qndjq.com CNAME .
 *.qndjq.com CNAME .
 qossl.com CNAME .
@@ -2960,6 +2988,8 @@ terijoss.com CNAME .
 *.terijoss.com CNAME .
 tfushort.com CNAME .
 *.tfushort.com CNAME .
+tgdgacor.com CNAME .
+*.tgdgacor.com CNAME .
 thebindaas.com CNAME .
 *.thebindaas.com CNAME .
 thejoekuskie.com CNAME .
@@ -3002,6 +3032,8 @@ titleagentmarketing.com CNAME .
 *.titleagentmarketing.com CNAME .
 tixxh.com CNAME .
 *.tixxh.com CNAME .
+tjazih.com CNAME .
+*.tjazih.com CNAME .
 tklinks.com CNAME .
 *.tklinks.com CNAME .
 tlinky.com CNAME .
@@ -3026,6 +3058,8 @@ topfiften.com CNAME .
 *.topfiften.com CNAME .
 toplistt.com CNAME .
 *.toplistt.com CNAME .
+topsitus.com CNAME .
+*.topsitus.com CNAME .
 tpmr.com CNAME .
 *.tpmr.com CNAME .
 traceurl.com CNAME .
@@ -3198,6 +3232,10 @@ vfnzvr.com CNAME .
 *.vfnzvr.com CNAME .
 vgoaa.com CNAME .
 *.vgoaa.com CNAME .
+vgwrm.com CNAME .
+*.vgwrm.com CNAME .
+vhcae.com CNAME .
+*.vhcae.com CNAME .
 viahold.com CNAME .
 *.viahold.com CNAME .
 at.vibe.com CNAME .
@@ -3344,14 +3382,20 @@ yoalizer.com CNAME .
 *.yoalizer.com CNAME .
 yotpoclicks.com CNAME .
 *.yotpoclicks.com CNAME .
+yozzc.com CNAME .
+*.yozzc.com CNAME .
 ypflx.com CNAME .
 *.ypflx.com CNAME .
+yqonx.com CNAME .
+*.yqonx.com CNAME .
 yukibio.com CNAME .
 *.yukibio.com CNAME .
 yweb.com CNAME .
 *.yweb.com CNAME .
 s.zazuko.com CNAME .
 *.s.zazuko.com CNAME .
+zbitly.com CNAME .
+*.zbitly.com CNAME .
 zcays.com CNAME .
 *.zcays.com CNAME .
 zcwer.com CNAME .
@@ -4718,6 +4762,8 @@ xgd.in CNAME .
 *.xgd.in CNAME .
 xrl.in CNAME .
 *.xrl.in CNAME .
+znly.in CNAME .
+*.znly.in CNAME .
 go.zordo.in CNAME .
 *.go.zordo.in CNAME .
 0805.info CNAME .
@@ -4756,6 +4802,8 @@ calendrierbdp.info CNAME .
 *.calendrierbdp.info CNAME .
 cgyw.info CNAME .
 *.cgyw.info CNAME .
+cinecom.info CNAME .
+*.cinecom.info CNAME .
 coinpr.info CNAME .
 *.coinpr.info CNAME .
 cookcenter.info CNAME .
@@ -5720,6 +5768,8 @@ creativ.li CNAME .
 *.creativ.li CNAME .
 cte.li CNAME .
 *.cte.li CNAME .
+cwg.li CNAME .
+*.cwg.li CNAME .
 deb.li CNAME .
 *.deb.li CNAME .
 did.li CNAME .
@@ -5938,6 +5988,8 @@ digitalitpark.life CNAME .
 *.digitalitpark.life CNAME .
 digitalitparks.life CNAME .
 *.digitalitparks.life CNAME .
+disanspam.life CNAME .
+*.disanspam.life CNAME .
 divestiture.life CNAME .
 *.divestiture.life CNAME .
 dominguez-nieves-71.life CNAME .
@@ -6284,6 +6336,8 @@ tinyreview9.life CNAME .
 *.tinyreview9.life CNAME .
 tlgs.life CNAME .
 *.tlgs.life CNAME .
+topsubcvelens.life CNAME .
+*.topsubcvelens.life CNAME .
 troy-a-112255.life CNAME .
 *.troy-a-112255.life CNAME .
 tvonlineappitv.life CNAME .
@@ -6604,6 +6658,8 @@ wa.link CNAME .
 *.wa.link CNAME .
 waze.link CNAME .
 *.waze.link CNAME .
+whs.link CNAME .
+*.whs.link CNAME .
 wow.link CNAME .
 *.wow.link CNAME .
 xmlr.link CNAME .
@@ -7056,8 +7112,6 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
-vim-tiktok.live CNAME .
-*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -9172,6 +9226,8 @@ vi.sa CNAME .
 *.vi.sa CNAME .
 aplnn.sbs CNAME .
 *.aplnn.sbs CNAME .
+apzjp.sbs CNAME .
+*.apzjp.sbs CNAME .
 atgqu.sbs CNAME .
 *.atgqu.sbs CNAME .
 bcair.sbs CNAME .
@@ -9206,6 +9262,8 @@ cibel.sbs CNAME .
 *.cibel.sbs CNAME .
 cjwze.sbs CNAME .
 *.cjwze.sbs CNAME .
+cluml.sbs CNAME .
+*.cluml.sbs CNAME .
 crzgu.sbs CNAME .
 *.crzgu.sbs CNAME .
 dcchb.sbs CNAME .
@@ -9370,6 +9428,8 @@ pzjbw.sbs CNAME .
 *.pzjbw.sbs CNAME .
 pzjms.sbs CNAME .
 *.pzjms.sbs CNAME .
+qiyel.sbs CNAME .
+*.qiyel.sbs CNAME .
 qntfq.sbs CNAME .
 *.qntfq.sbs CNAME .
 qnvhd.sbs CNAME .
@@ -9424,6 +9484,8 @@ vaufs.sbs CNAME .
 *.vaufs.sbs CNAME .
 vbxep.sbs CNAME .
 *.vbxep.sbs CNAME .
+vhdgx.sbs CNAME .
+*.vhdgx.sbs CNAME .
 vsucs.sbs CNAME .
 *.vsucs.sbs CNAME .
 vunvc.sbs CNAME .
@@ -9432,12 +9494,16 @@ vxqst.sbs CNAME .
 *.vxqst.sbs CNAME .
 waqmx.sbs CNAME .
 *.waqmx.sbs CNAME .
+whxce.sbs CNAME .
+*.whxce.sbs CNAME .
 wuhss.sbs CNAME .
 *.wuhss.sbs CNAME .
 wwphb.sbs CNAME .
 *.wwphb.sbs CNAME .
 wxdib.sbs CNAME .
 *.wxdib.sbs CNAME .
+wyzvs.sbs CNAME .
+*.wyzvs.sbs CNAME .
 xbxti.sbs CNAME .
 *.xbxti.sbs CNAME .
 xezlk.sbs CNAME .
@@ -9452,6 +9518,14 @@ ycvdh.sbs CNAME .
 *.ycvdh.sbs CNAME .
 yhtuw.sbs CNAME .
 *.yhtuw.sbs CNAME .
+yprmu.sbs CNAME .
+*.yprmu.sbs CNAME .
+yrjfu.sbs CNAME .
+*.yrjfu.sbs CNAME .
+yrtie.sbs CNAME .
+*.yrtie.sbs CNAME .
+yruxd.sbs CNAME .
+*.yruxd.sbs CNAME .
 livemu.sc CNAME .
 *.livemu.sc CNAME .
 snd.sc CNAME .
@@ -10180,6 +10254,8 @@ videos.pbi.tools CNAME .
 *.videos.pbi.tools CNAME .
 1link.top CNAME .
 *.1link.top CNAME .
+abpl.top CNAME .
+*.abpl.top CNAME .
 amspi.top CNAME .
 *.amspi.top CNAME .
 anep.top CNAME .
@@ -10230,6 +10306,8 @@ dzmem.top CNAME .
 *.dzmem.top CNAME .
 ecbk.top CNAME .
 *.ecbk.top CNAME .
+eeztk.top CNAME .
+*.eeztk.top CNAME .
 et2.top CNAME .
 *.et2.top CNAME .
 evbvq.top CNAME .
@@ -10378,12 +10456,16 @@ sewei.top CNAME .
 *.sewei.top CNAME .
 slpzm.top CNAME .
 *.slpzm.top CNAME .
+swjdf.top CNAME .
+*.swjdf.top CNAME .
 sxzlj.top CNAME .
 *.sxzlj.top CNAME .
 syyqk.top CNAME .
 *.syyqk.top CNAME .
 tauzn.top CNAME .
 *.tauzn.top CNAME .
+tgcv.top CNAME .
+*.tgcv.top CNAME .
 tlrsq.top CNAME .
 *.tlrsq.top CNAME .
 tmdv.top CNAME .
@@ -10428,6 +10510,8 @@ wndhj.top CNAME .
 *.wndhj.top CNAME .
 wnvwm.top CNAME .
 *.wnvwm.top CNAME .
+wolg.top CNAME .
+*.wolg.top CNAME .
 xboc.top CNAME .
 *.xboc.top CNAME .
 xwpgf.top CNAME .
@@ -10596,6 +10680,8 @@ shorturls.co.uk CNAME .
 *.shorturls.co.uk CNAME .
 trimlink.co.uk CNAME .
 *.trimlink.co.uk CNAME .
+txtme-live.co.uk CNAME .
+*.txtme-live.co.uk CNAME .
 url.co.uk CNAME .
 *.url.co.uk CNAME .
 urlshortener.co.uk CNAME .
@@ -10958,6 +11044,8 @@ glo.wf CNAME .
 *.glo.wf CNAME .
 paw.wf CNAME .
 *.paw.wf CNAME .
+cvfmiij.wiki CNAME .
+*.cvfmiij.wiki CNAME .
 davidbombal.wiki CNAME .
 *.davidbombal.wiki CNAME .
 w.wiki CNAME .

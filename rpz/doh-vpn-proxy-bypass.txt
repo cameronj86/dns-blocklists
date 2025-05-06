@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746469200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746500580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 May 2025 18:20 UTC
-; Version: 2025.0505.1820.27
+; Last modified: 06 May 2025 03:03 UTC
+; Version: 2025.0506.0303.00
 ; Syntax: RPZ
-; Number of entries: 8144
+; Number of entries: 8148
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1938,6 +1938,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -2522,6 +2524,8 @@ setupvpn.com CNAME .
 *.setupvpn.com CNAME .
 sf-helper.com CNAME .
 *.sf-helper.com CNAME .
+sfmcut.com CNAME .
+*.sfmcut.com CNAME .
 shadeyouvpn.com CNAME .
 *.shadeyouvpn.com CNAME .
 shadowsurf.com CNAME .
@@ -4362,6 +4366,8 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 theproxy.ink CNAME .
 *.theproxy.ink CNAME .
+dns.tracker.ink CNAME .
+*.dns.tracker.ink CNAME .
 learnbridge.institute CNAME .
 *.learnbridge.institute CNAME .
 bannana.web-doge.42web.io CNAME .
@@ -4650,8 +4656,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
