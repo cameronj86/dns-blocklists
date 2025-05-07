@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 May 2025 22:21 UTC
-# Version: 2025.0506.2221.59
+# Last modified: 07 May 2025 10:15 UTC
+# Version: 2025.0507.1015.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2113
+# Number of entries: 2112
 #
 local=/000a.de/
 local=/000space.com/
@@ -239,7 +239,6 @@ local=/anfliegen.de/
 local=/angelfire.com/
 local=/angelinsblog.com/
 local=/annualhuman.shop/
-local=/anschauen.in/
 local=/anschiessen.de/
 local=/answerblogs.com/
 local=/ar.gp/
@@ -464,7 +463,6 @@ local=/blogsidea.com/
 local=/blogsky.com/
 local=/blogsmine.com/
 local=/blogsome.com/
-local=/blogsource.com/
 local=/blogspace.fr/
 local=/blogspirit.com/
 local=/blogsport.de/
@@ -804,7 +802,6 @@ local=/doodlekit.com/
 local=/dorabiamarketing.shop/
 local=/dot.tk/
 local=/doteyoueshop.shop/
-local=/downfall.shop/
 local=/download.ac/
 local=/download.sh/
 local=/downloaden24.de/
@@ -1361,6 +1358,7 @@ local=/meilleurforum.com/
 local=/memoryislife.com/
 local=/menstudent.shop/
 local=/merchats.com/
+local=/metplxx.com/
 local=/mex.tl/
 local=/mforos.com/
 local=/miarroba.com/
@@ -1787,6 +1785,7 @@ local=/techionblog.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/tek-blogs.com/
+local=/telegrameyg.com/
 local=/telekom.at/
 local=/telepacific.net/
 local=/teleporthq.app/

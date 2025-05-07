@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746570060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746612900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 May 2025 22:21 UTC
-; Version: 2025.0506.2221.59
+; Last modified: 07 May 2025 10:15 UTC
+; Version: 2025.0507.1015.54
 ; Syntax: RPZ
-; Number of entries: 4226
+; Number of entries: 4224
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -753,8 +753,6 @@ blogsmine.com CNAME .
 *.blogsmine.com CNAME .
 blogsome.com CNAME .
 *.blogsome.com CNAME .
-blogsource.com CNAME .
-*.blogsource.com CNAME .
 blogspirit.com CNAME .
 *.blogspirit.com CNAME .
 blogspothub.com CNAME .
@@ -1387,6 +1385,8 @@ memoryislife.com CNAME .
 *.memoryislife.com CNAME .
 merchats.com CNAME .
 *.merchats.com CNAME .
+metplxx.com CNAME .
+*.metplxx.com CNAME .
 mforos.com CNAME .
 *.mforos.com CNAME .
 miarroba.com CNAME .
@@ -1675,6 +1675,8 @@ techionblog.com CNAME .
 *.techionblog.com CNAME .
 tek-blogs.com CNAME .
 *.tek-blogs.com CNAME .
+telegrameyg.com CNAME .
+*.telegrameyg.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
 terapad.com CNAME .
@@ -2693,8 +2695,6 @@ de.im CNAME .
 *.de.im CNAME .
 mybb.im CNAME .
 *.mybb.im CNAME .
-anschauen.in CNAME .
-*.anschauen.in CNAME .
 blogspot.in CNAME .
 *.blogspot.in CNAME .
 blogspot.com.in CNAME .
@@ -3813,8 +3813,6 @@ dorabiamarketing.shop CNAME .
 *.dorabiamarketing.shop CNAME .
 doteyoueshop.shop CNAME .
 *.doteyoueshop.shop CNAME .
-downfall.shop CNAME .
-*.downfall.shop CNAME .
 drugpoint.shop CNAME .
 *.drugpoint.shop CNAME .
 duchessandthedude.shop CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 May 2025 03:17 UTC
-# Version: 2025.0507.0317.37
+# Last modified: 07 May 2025 14:56 UTC
+# Version: 2025.0507.1456.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10003
+# Number of entries: 9999
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -354,7 +354,6 @@ local=/8wsm.com/
 local=/94hiphop.com/
 local=/960303.xyz/
 local=/9anime.ru/
-local=/9anime.to/
 local=/9anime.zone/
 local=/9animetv.to/
 local=/9divx.com/
@@ -636,6 +635,7 @@ local=/altadefinizione01.it/
 local=/altadefinizione01.life/
 local=/altadefinizione01.love/
 local=/altadefinizione01.name/
+local=/altadefinizione01.photo/
 local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.site/
@@ -664,7 +664,6 @@ local=/an1.com/
 local=/an1modapk.com/
 local=/anbudom.net/
 local=/andr.net/
-local=/androeed.ae/
 local=/androeed.ru/
 local=/androeed.store/
 local=/androforever.com/
@@ -1231,7 +1230,6 @@ local=/bitcorea.org/
 local=/bitcountry.com/
 local=/bitcq.com/
 local=/bitdl.ir/
-local=/bitemytorrent.com/
 local=/bitenova.org/
 local=/bitestreams.net/
 local=/bitfellas.org/
@@ -1488,7 +1486,6 @@ local=/bstsrs.in/
 local=/bstsrs.one/
 local=/bt-chat.com/
 local=/tracker.bt-hash.com/
-local=/bt-revolution.net/
 local=/bt4g.org/
 local=/tracker.bt4g.com/
 local=/bt4gprx.com/
@@ -3566,7 +3563,6 @@ local=/free-telecharger.org/
 local=/free-telecharger.top/
 local=/free-telecharger.xyz/
 local=/open.free-tracker.ga/
-local=/free4pc.org/
 local=/freebannedbooks.org/
 local=/freebfg.org/
 local=/freebookspot.es/

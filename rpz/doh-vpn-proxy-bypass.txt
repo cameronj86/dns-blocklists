@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746587820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746630900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 May 2025 03:17 UTC
-; Version: 2025.0507.0317.52
+; Last modified: 07 May 2025 15:15 UTC
+; Version: 2025.0507.1515.57
 ; Syntax: RPZ
-; Number of entries: 8140
+; Number of entries: 8142
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1228,6 +1228,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -4652,6 +4654,8 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
+bdns.link CNAME .
+*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -5104,8 +5108,6 @@ blocka.net CNAME .
 *.blocka.net CNAME .
 blockaway.net CNAME .
 *.blockaway.net CNAME .
-blockawayproxy.net CNAME .
-*.blockawayproxy.net CNAME .
 bolehvpn.net CNAME .
 *.bolehvpn.net CNAME .
 pakupaku.bounceme.net CNAME .
@@ -6140,8 +6142,6 @@ unblockit.onl CNAME .
 *.71745718.online CNAME .
 adguard-vpn.online CNAME .
 *.adguard-vpn.online CNAME .
-alleesph.online CNAME .
-*.alleesph.online CNAME .
 alphabr.online CNAME .
 *.alphabr.online CNAME .
 anachem.online CNAME .
@@ -7336,6 +7336,8 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .

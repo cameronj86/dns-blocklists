@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746587820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746629760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 May 2025 03:17 UTC
-; Version: 2025.0507.0317.37
+; Last modified: 07 May 2025 14:56 UTC
+; Version: 2025.0507.1456.42
 ; Syntax: RPZ
-; Number of entries: 20006
+; Number of entries: 19998
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -59,8 +59,6 @@ putlocker.actor CNAME .
 *.putlocker.actor CNAME .
 streamingcommunity.actor CNAME .
 *.streamingcommunity.actor CNAME .
-androeed.ae CNAME .
-*.androeed.ae CNAME .
 123movies.ag CNAME .
 *.123movies.ag CNAME .
 azmovies.ag CNAME .
@@ -2725,8 +2723,6 @@ bitcountry.com CNAME .
 *.bitcountry.com CNAME .
 bitcq.com CNAME .
 *.bitcq.com CNAME .
-bitemytorrent.com CNAME .
-*.bitemytorrent.com CNAME .
 bitflamers.com CNAME .
 *.bitflamers.com CNAME .
 bitgamer.com CNAME .
@@ -11627,8 +11623,6 @@ browntracker.net CNAME .
 *.browntracker.net CNAME .
 brupload.net CNAME .
 *.brupload.net CNAME .
-bt-revolution.net CNAME .
-*.bt-revolution.net CNAME .
 btshoufa.net CNAME .
 *.btshoufa.net CNAME .
 tracker.btzero.net CNAME .
@@ -14243,8 +14237,6 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
-free4pc.org CNAME .
-*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -15391,6 +15383,8 @@ tantifilm.ph CNAME .
 *.tantifilm.ph CNAME .
 torrent9.ph CNAME .
 *.torrent9.ph CNAME .
+altadefinizione01.photo CNAME .
+*.altadefinizione01.photo CNAME .
 cb01.photos CNAME .
 *.cb01.photos CNAME .
 123movies.pics CNAME .
@@ -17427,8 +17421,6 @@ warez-fusion.6x.to CNAME .
 *.warez-fusion.6x.to CNAME .
 wzone.6x.to CNAME .
 *.wzone.6x.to CNAME .
-9anime.to CNAME .
-*.9anime.to CNAME .
 9animetv.to CNAME .
 *.9animetv.to CNAME .
 afdah.to CNAME .

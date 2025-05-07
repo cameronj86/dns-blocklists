@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 May 2025 03:17 UTC
-# Version: 2025.0507.0317.52
+# Last modified: 07 May 2025 15:15 UTC
+# Version: 2025.0507.1515.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4070
+# Number of entries: 4071
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -199,7 +199,6 @@ local=/alhvp.com/
 local=/alidns.com/
 local=/aliveproxies.com/
 local=/httpdns-sc.aliyuncs.com/
-local=/alleesph.online/
 local=/dns.alloxr.info/
 local=/vps.alloxr.info/
 local=/allunblocked.com/
@@ -348,6 +347,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -420,7 +420,6 @@ local=/blewpass.com/
 local=/us1.blissdns.net/
 local=/blocka.net/
 local=/blockaway.net/
-local=/blockawayproxy.net/
 local=/blockedsiteaccess.com/
 local=/doh.blockerdns.com/
 local=/blockless.com/
@@ -1125,6 +1124,7 @@ local=/eduacation.lol/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1261,6 +1261,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
