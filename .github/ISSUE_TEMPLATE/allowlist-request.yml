@@ -121,6 +121,15 @@ body:
         If you selected Other, please enter the name here.
     validations:
       required: false
+
+  - type: textarea
+    id: siteorapp
+    attributes:
+      label: Where does the issue occur: on which website or in which app?
+      description: |
+        Provide the website or app where the problem occurs.
+    validations:
+      required: true
  
   - type: dropdown
     id: blocklists
