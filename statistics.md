@@ -19,7 +19,7 @@
  15 |      86% |   0% |     14% | Native Tracker Samsung (Devices)
  16 |      99% |   0% |      1% | Native Tracker Roku (Devices)
  17 |      69% |  27% |      4% | Analytics/Metrics Extension
- 18 |      82% |  14% |      4% | Balanced Extension
+ 18 |      81% |  15% |      4% | Balanced Extension
 ```
 #### PRO
 ```
@@ -42,7 +42,7 @@
  16 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  17 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  18 |      72% |  27% |      1% | Analytics/Metrics Extension
- 19 |      83% |  14% |      3% | Balanced Extension
+ 19 |      82% |  15% |      3% | Balanced Extension
  20 |      80% |  11% |      9% | Advanced Extension
  21 |      63% |  24% |     13% | Denylist Community Advanced
 ```
@@ -66,7 +66,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
- 18 |      84% |  14% |      2% | Balanced Extension
+ 18 |      82% |  15% |      3% | Balanced Extension
  19 |      82% |  11% |      7% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |     100% |   0% |      0% | Pop-Up Ads
@@ -95,7 +95,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |     100% |   0% |      0% | Native Tracker Roku (Devices)
  17 |      73% |  27% |      0% | Analytics/Metrics Extension
- 18 |      84% |  14% |      2% | Balanced Extension
+ 18 |      83% |  15% |      2% | Balanced Extension
  19 |      82% |  11% |      7% | Advanced Extension
  20 |      66% |  24% |     10% | Denylist Community Advanced
  21 |     100% |   0% |      0% | Pop-Up Ads
