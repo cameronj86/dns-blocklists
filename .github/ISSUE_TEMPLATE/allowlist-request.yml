@@ -125,7 +125,7 @@ body:
   - type: textarea
     id: siteorapp
     attributes:
-      label: Where does the issue occur: on which website or in which app?
+      label: Where does the issue occur - on which website or in which app?
       description: |
         Provide the website or app where the problem occurs.
     validations:
