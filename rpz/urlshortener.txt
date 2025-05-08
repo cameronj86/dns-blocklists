@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746655980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746711000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 May 2025 22:13 UTC
-; Version: 2025.0507.2213.09
+; Last modified: 08 May 2025 13:30 UTC
+; Version: 2025.0508.1330.37
 ; Syntax: RPZ
-; Number of entries: 11352
+; Number of entries: 11370
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3368,6 +3368,8 @@ xortly.com CNAME .
 *.xortly.com CNAME .
 xoxourl.com CNAME .
 *.xoxourl.com CNAME .
+xqhye.com CNAME .
+*.xqhye.com CNAME .
 xr.com CNAME .
 *.xr.com CNAME .
 xvjmv.com CNAME .
@@ -4852,6 +4854,8 @@ edda-noun-i-145.info CNAME .
 *.edda-noun-i-145.info CNAME .
 elizabethblog.info CNAME .
 *.elizabethblog.info CNAME .
+epuu.info CNAME .
+*.epuu.info CNAME .
 estimatedangles.info CNAME .
 *.estimatedangles.info CNAME .
 eulh.info CNAME .
@@ -5432,6 +5436,8 @@ trezurl.ir CNAME .
 *.trezurl.ir CNAME .
 ul3.ir CNAME .
 *.ul3.ir CNAME .
+wats.ir CNAME .
+*.wats.ir CNAME .
 yon.ir CNAME .
 *.yon.ir CNAME .
 yourl.ir CNAME .
@@ -7136,6 +7142,8 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
+vim-tiktok.live CNAME .
+*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -7328,8 +7336,6 @@ dai.ly CNAME .
 *.dai.ly CNAME .
 dockr.ly CNAME .
 *.dockr.ly CNAME .
-el.ly CNAME .
-*.el.ly CNAME .
 elink.ly CNAME .
 *.elink.ly CNAME .
 fur.ly CNAME .
@@ -8286,6 +8292,8 @@ statistics4u.net CNAME .
 *.statistics4u.net CNAME .
 sub2unlock.net CNAME .
 *.sub2unlock.net CNAME .
+telnet-service.net CNAME .
+*.telnet-service.net CNAME .
 thekrew.net CNAME .
 *.thekrew.net CNAME .
 tinylink.net CNAME .
@@ -8524,6 +8532,8 @@ bolstr.online CNAME .
 *.bolstr.online CNAME .
 buzzao.online CNAME .
 *.buzzao.online CNAME .
+d13links.online CNAME .
+*.d13links.online CNAME .
 dinzzvpn.online CNAME .
 *.dinzzvpn.online CNAME .
 dn303.online CNAME .
@@ -9082,6 +9092,8 @@ atres.red CNAME .
 *.atres.red CNAME .
 buka.red CNAME .
 *.buka.red CNAME .
+gacor123.red CNAME .
+*.gacor123.red CNAME .
 ndlb.red CNAME .
 *.ndlb.red CNAME .
 a.trp.red CNAME .
@@ -9550,6 +9562,8 @@ xompu.sbs CNAME .
 *.xompu.sbs CNAME .
 xpmas.sbs CNAME .
 *.xpmas.sbs CNAME .
+xqrib.sbs CNAME .
+*.xqrib.sbs CNAME .
 xvsjt.sbs CNAME .
 *.xvsjt.sbs CNAME .
 xvxcx.sbs CNAME .
@@ -10562,6 +10576,8 @@ wolg.top CNAME .
 *.wolg.top CNAME .
 xboc.top CNAME .
 *.xboc.top CNAME .
+xqawd.top CNAME .
+*.xqawd.top CNAME .
 xwpgf.top CNAME .
 *.xwpgf.top CNAME .
 xzcud.top CNAME .
@@ -10982,6 +10998,8 @@ natura.com.vc CNAME .
 *.natura.com.vc CNAME .
 tim.com.vc CNAME .
 *.tim.com.vc CNAME .
+ezc.vc CNAME .
+*.ezc.vc CNAME .
 seq.vc CNAME .
 *.seq.vc CNAME .
 vqr.vc CNAME .

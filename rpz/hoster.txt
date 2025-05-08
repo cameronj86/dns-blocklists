@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746655860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746710940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 May 2025 22:11 UTC
-; Version: 2025.0507.2211.36
+; Last modified: 08 May 2025 13:29 UTC
+; Version: 2025.0508.1329.06
 ; Syntax: RPZ
 ; Number of entries: 4220
 ;
@@ -1099,8 +1099,6 @@ freehosting4u.com CNAME .
 *.freehosting4u.com CNAME .
 freehostingcloud.com CNAME .
 *.freehostingcloud.com CNAME .
-freehostingeu.com CNAME .
-*.freehostingeu.com CNAME .
 freehostingking.com CNAME .
 *.freehostingking.com CNAME .
 freehostplace.com CNAME .
@@ -1385,6 +1383,8 @@ memoryislife.com CNAME .
 *.memoryislife.com CNAME .
 merchats.com CNAME .
 *.merchats.com CNAME .
+metplxx.com CNAME .
+*.metplxx.com CNAME .
 mforos.com CNAME .
 *.mforos.com CNAME .
 miarroba.com CNAME .
@@ -1673,6 +1673,8 @@ techionblog.com CNAME .
 *.techionblog.com CNAME .
 tek-blogs.com CNAME .
 *.tek-blogs.com CNAME .
+telegrameyg.com CNAME .
+*.telegrameyg.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
 terapad.com CNAME .
@@ -3849,8 +3851,6 @@ findarea.shop CNAME .
 *.findarea.shop CNAME .
 finlandway.shop CNAME .
 *.finlandway.shop CNAME .
-fishevent.shop CNAME .
-*.fishevent.shop CNAME .
 fishmeet.shop CNAME .
 *.fishmeet.shop CNAME .
 fitegirlsboutique.shop CNAME .

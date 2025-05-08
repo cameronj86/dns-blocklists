@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 May 2025 22:13 UTC
-# Version: 2025.0507.2213.09
+# Last modified: 08 May 2025 13:30 UTC
+# Version: 2025.0508.1330.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5676
+# Number of entries: 5685
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1208,6 +1208,7 @@ local=/d.to/
 local=/d-its-hekis-osama-kwi.info/
 local=/d-sh.io/
 local=/d138.link/
+local=/d13links.online/
 local=/d2ks.one/
 local=/da.gd/
 local=/daa.pl/
@@ -1479,7 +1480,6 @@ local=/eijxq.sbs/
 local=/eit.tw/
 local=/ejo.bz/
 local=/el.lk/
-local=/el.ly/
 local=/ela.st/
 local=/elevation-crew.life/
 local=/elink.ly/
@@ -1511,6 +1511,7 @@ local=/epochalchange.live/
 local=/epochtim.es/
 local=/epsi.link/
 local=/ept.ms/
+local=/epuu.info/
 local=/eqcodecracks.life/
 local=/eqix.it/
 local=/erath.email/
@@ -1558,6 +1559,7 @@ local=/eyq.me/
 local=/eyud.top/
 local=/ez1.cc/
 local=/ezbz.me/
+local=/ezc.vc/
 local=/ezexzo.link/
 local=/ezstat.ru/
 local=/ezurl.cc/
@@ -1732,6 +1734,7 @@ local=/ga.co/
 local=/gaa.st/
 local=/gacha.christmas/
 local=/gacor.tokyo/
+local=/gacor123.red/
 local=/gacor22.me/
 local=/gacor66.me/
 local=/gacor99-vip.xyz/
@@ -4572,6 +4575,7 @@ local=/teliget.info/
 local=/teliget.life/
 local=/teliget.live/
 local=/tellurl.com/
+local=/telnet-service.net/
 local=/www.temporary-url.com/
 local=/temu.to/
 local=/ter.li/
@@ -5145,6 +5149,7 @@ local=/vibebycalifornia.life/
 local=/vid.lu/
 local=/videopro.live/
 local=/vigilink.com/
+local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/
@@ -5248,6 +5253,7 @@ local=/warung.vip/
 local=/wasap.is/
 local=/watchfilmhd.live/
 local=/watchmoviehd.live/
+local=/wats.ir/
 local=/waveurl.net/
 local=/way.to/
 local=/waze.link/
@@ -5478,6 +5484,9 @@ local=/xpixl.me/
 local=/xpmas.sbs/
 local=/xpr.li/
 local=/xprt.re/
+local=/xqawd.top/
+local=/xqhye.com/
+local=/xqrib.sbs/
 local=/xqss.org/
 local=/xr.com/
 local=/xrds.ca/

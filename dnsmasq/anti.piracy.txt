@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 02:05 UTC
-# Version: 2025.0508.0205.11
+# Last modified: 08 May 2025 17:14 UTC
+# Version: 2025.0508.1714.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9996
+# Number of entries: 9990
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2520,7 +2520,6 @@ local=/docer.pl/
 local=/doci.pl/
 local=/docspedia.org/
 local=/docspedia.world/
-local=/doctawarez.com/
 local=/documental.net/
 local=/documental-torrents.net/
 local=/documentaryarea.tv/
@@ -3206,7 +3205,6 @@ local=/filmitorrent.net/
 local=/filmitorrent-org.site/
 local=/filmix.biz/
 local=/filmix.fun/
-local=/filmize.tv/
 local=/filmlicious.co/
 local=/filmlicious.net/
 local=/filmlush.com/
@@ -3277,7 +3275,6 @@ local=/films-iphone.com/
 local=/filmsenzalimiti.best/
 local=/filmsenzalimiti.biz/
 local=/filmsenzalimiti.blog/
-local=/filmsenzalimiti.cam/
 local=/filmsenzalimiti.club/
 local=/filmsenzalimiti.co/
 local=/filmsenzalimiti.com/
@@ -3559,7 +3556,6 @@ local=/free-telecharger.org/
 local=/free-telecharger.top/
 local=/free-telecharger.xyz/
 local=/open.free-tracker.ga/
-local=/free4pc.org/
 local=/freebannedbooks.org/
 local=/freebfg.org/
 local=/freebookspot.es/
@@ -3664,7 +3660,6 @@ local=/fulldls.com/
 local=/fulldownloads.com/
 local=/fullfileaccess.com/
 local=/fullfilmstream.co/
-local=/fullfilmstream.net/
 local=/fulllengthaudiobooks.net/
 local=/fullmoviefilm.org/
 local=/fullmoviehd4k.com/
@@ -3794,7 +3789,6 @@ local=/genoanime.com/
 local=/genvideos.com/
 local=/geographynetwork.com/
 local=/geotorrents.com/
-local=/gestor.tv/
 local=/get-apk.com/
 local=/get-filezzz.com/
 local=/get-host.net/

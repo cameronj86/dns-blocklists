@@ -5,8 +5,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 May 2025 06:05 UTC
-! Version: 2025.0505.0605.13
+! Last modified: 08 May 2025 09:39 UTC
+! Version: 2025.0508.0939.33
 ! Syntax: AdBlock
 ! Number of entries: 402
 !
@@ -40,7 +40,6 @@
 ||adsdkprod.azureedge.net^
 ||adsdkpreprod.afd.azureedge.net^
 ||adsdkprod.afd.azureedge.net^
-||adsdkprprod.ec.azureedge.net^
 ||msadsscale.azureedge.net^
 ||cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net^
 ||location-microsoft-com.b-0005.b-msedge.net^
@@ -408,6 +407,7 @@
 ||rawtelemetry-east.servicebus.windows.net^
 ||rawtelemetry-west.servicebus.windows.net^
 ||ss-telemetry.servicebus.windows.net^
+||swiftanalyticsprod.servicebus.windows.net^
 ||wayfinderanalytics.servicebus.windows.net^
 ||c.xbox.com^
 ||o.xbox.com^

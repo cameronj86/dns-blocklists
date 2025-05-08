@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 May 2025 06:05 UTC
-# Version: 2025.0505.0605.13
+# Last modified: 08 May 2025 09:39 UTC
+# Version: 2025.0508.0939.33
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 402
 #
@@ -39,7 +39,6 @@ local=/adsdkpreprod.azureedge.net/
 local=/adsdkprod.azureedge.net/
 local=/adsdkpreprod.afd.azureedge.net/
 local=/adsdkprod.afd.azureedge.net/
-local=/adsdkprprod.ec.azureedge.net/
 local=/msadsscale.azureedge.net/
 local=/cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net/
 local=/location-microsoft-com.b-0005.b-msedge.net/
@@ -407,6 +406,7 @@ local=/production-jobactivity-analytics.servicebus.windows.net/
 local=/rawtelemetry-east.servicebus.windows.net/
 local=/rawtelemetry-west.servicebus.windows.net/
 local=/ss-telemetry.servicebus.windows.net/
+local=/swiftanalyticsprod.servicebus.windows.net/
 local=/wayfinderanalytics.servicebus.windows.net/
 local=/c.xbox.com/
 local=/o.xbox.com/

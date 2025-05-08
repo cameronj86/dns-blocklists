@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746669900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746724440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 May 2025 02:05 UTC
-; Version: 2025.0508.0205.11
+; Last modified: 08 May 2025 17:14 UTC
+; Version: 2025.0508.1714.38
 ; Syntax: RPZ
-; Number of entries: 19992
+; Number of entries: 19980
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -875,8 +875,6 @@ www1.putlockers.cafe CNAME .
 *.www1.putlockers.cafe CNAME .
 film-streaming-ita.cam CNAME .
 *.film-streaming-ita.cam CNAME .
-filmsenzalimiti.cam CNAME .
-*.filmsenzalimiti.cam CNAME .
 french-stream.cam CNAME .
 *.french-stream.cam CNAME .
 gophie.cam CNAME .
@@ -3495,8 +3493,6 @@ valakas.rollo.dnsabr.com CNAME .
 *.valakas.rollo.dnsabr.com CNAME .
 jungleland.dnsalias.com CNAME .
 *.jungleland.dnsalias.com CNAME .
-doctawarez.com CNAME .
-*.doctawarez.com CNAME .
 dodear.com CNAME .
 *.dodear.com CNAME .
 dontorrents.com CNAME .
@@ -11989,8 +11985,6 @@ ftpbd.net CNAME .
 *.ftpbd.net CNAME .
 fullcrackserial.net CNAME .
 *.fullcrackserial.net CNAME .
-fullfilmstream.net CNAME .
-*.fullfilmstream.net CNAME .
 fulllengthaudiobooks.net CNAME .
 *.fulllengthaudiobooks.net CNAME .
 funniermoments.net CNAME .
@@ -14231,8 +14225,6 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
-free4pc.org CNAME .
-*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -18325,8 +18317,6 @@ filmeflix.tv CNAME .
 *.filmeflix.tv CNAME .
 filmestorrent.tv CNAME .
 *.filmestorrent.tv CNAME .
-filmize.tv CNAME .
-*.filmize.tv CNAME .
 filmon.tv CNAME .
 *.filmon.tv CNAME .
 filmstreaming.tv CNAME .
@@ -18345,8 +18335,6 @@ fubo.tv CNAME .
 *.fubo.tv CNAME .
 fullthrottleip.tv CNAME .
 *.fullthrottleip.tv CNAME .
-gestor.tv CNAME .
-*.gestor.tv CNAME .
 goldesel.tv CNAME .
 *.goldesel.tv CNAME .
 govod.tv CNAME .
