@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746630900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746671040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 May 2025 15:15 UTC
-; Version: 2025.0507.1515.57
+; Last modified: 08 May 2025 02:24 UTC
+; Version: 2025.0508.0224.28
 ; Syntax: RPZ
-; Number of entries: 8142
+; Number of entries: 8138
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1938,6 +1938,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4654,8 +4656,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -7336,8 +7336,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
@@ -7520,8 +7518,6 @@ virga.pp.ua CNAME .
 *.virga.pp.ua CNAME .
 zxcvb.pp.ua CNAME .
 *.zxcvb.pp.ua CNAME .
-changemyip.uk CNAME .
-*.changemyip.uk CNAME .
 10bestvpn.co.uk CNAME .
 *.10bestvpn.co.uk CNAME .
 adguard.aa4.co.uk CNAME .

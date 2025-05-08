@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746629760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746669900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 May 2025 14:56 UTC
-; Version: 2025.0507.1456.42
+; Last modified: 08 May 2025 02:05 UTC
+; Version: 2025.0508.0205.11
 ; Syntax: RPZ
-; Number of entries: 19998
+; Number of entries: 19992
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -567,8 +567,6 @@ blackpearl.biz CNAME .
 *.blackpearl.biz CNAME .
 blues-brothers.biz CNAME .
 *.blues-brothers.biz CNAME .
-casacinema.biz CNAME .
-*.casacinema.biz CNAME .
 cbo1.biz CNAME .
 *.cbo1.biz CNAME .
 cineblog01.biz CNAME .
@@ -9437,8 +9435,6 @@ cracked.io CNAME .
 *.cracked.io CNAME .
 crackstreams.io CNAME .
 *.crackstreams.io CNAME .
-cricfree.io CNAME .
-*.cricfree.io CNAME .
 cuevana2.io CNAME .
 *.cuevana2.io CNAME .
 cuevana3.io CNAME .
@@ -13541,8 +13537,6 @@ kinox.unblockit.ong CNAME .
 *.kinox.unblockit.ong CNAME .
 0123movie.onl CNAME .
 *.0123movie.onl CNAME .
-casacinema.onl CNAME .
-*.casacinema.onl CNAME .
 dunia21.onl CNAME .
 *.dunia21.onl CNAME .
 guardaserie.onl CNAME .
@@ -14237,6 +14231,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -16577,8 +16573,6 @@ zmovie.ru CNAME .
 *.zmovie.ru CNAME .
 5movies.run CNAME .
 *.5movies.run CNAME .
-capodeportes.run CNAME .
-*.capodeportes.run CNAME .
 cineblog01.run CNAME .
 *.cineblog01.run CNAME .
 eurostreaming.run CNAME .

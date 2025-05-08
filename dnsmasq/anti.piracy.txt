@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 May 2025 14:56 UTC
-# Version: 2025.0507.1456.42
+# Last modified: 08 May 2025 02:05 UTC
+# Version: 2025.0508.0205.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9999
+# Number of entries: 9996
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -1592,7 +1592,6 @@ local=/canna.to/
 local=/canna-power.to/
 local=/capcutmod.io/
 local=/capcutmodapk.id/
-local=/capodeportes.run/
 local=/carapax.net/
 local=/carparkingmultimod.com/
 local=/tracker.carpt.net/
@@ -1602,7 +1601,6 @@ local=/cartoonchaos.org/
 local=/cartooncrazy.net/
 local=/cartooncrazy.tv/
 local=/cartoonhd.com/
-local=/casacinema.biz/
 local=/casacinema.com/
 local=/casacinema.de/
 local=/casacinema.eu/
@@ -1616,7 +1614,6 @@ local=/casacinema.me/
 local=/casacinema.name/
 local=/casacinema.net/
 local=/casacinema.nl/
-local=/casacinema.onl/
 local=/casacinema.org/
 local=/casacinema.pics/
 local=/casacinema.ru/
@@ -2186,7 +2183,6 @@ local=/creativait.net/
 local=/creative-bits.org/
 local=/cric1.com/
 local=/cricbox.net/
-local=/cricfree.io/
 local=/cricfree.org/
 local=/cricfree.stream/
 local=/cricfree.sx/
@@ -3563,6 +3559,7 @@ local=/free-telecharger.org/
 local=/free-telecharger.top/
 local=/free-telecharger.xyz/
 local=/open.free-tracker.ga/
+local=/free4pc.org/
 local=/freebannedbooks.org/
 local=/freebfg.org/
 local=/freebookspot.es/
