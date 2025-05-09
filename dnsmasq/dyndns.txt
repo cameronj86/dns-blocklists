@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 17:31 UTC
-# Version: 2025.0508.1731.12
+# Last modified: 09 May 2025 14:08 UTC
+# Version: 2025.0509.1408.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1390
+# Number of entries: 1389
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -927,7 +927,6 @@ local=/myftp.biz/
 local=/myftp.info/
 local=/myftp.org/
 local=/myhome-server.de/
-local=/myhomeschoolfamily.com/
 local=/myip.org/
 local=/myiphost.com/
 local=/myjino.ru/

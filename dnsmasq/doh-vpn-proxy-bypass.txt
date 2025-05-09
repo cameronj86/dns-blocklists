@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 22:09 UTC
-# Version: 2025.0508.2209.15
+# Last modified: 09 May 2025 14:11 UTC
+# Version: 2025.0509.1411.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4064
+# Number of entries: 4063
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -347,6 +347,7 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1121,6 +1122,7 @@ local=/eduacation.lol/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1257,7 +1259,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1669,6 +1670,7 @@ local=/mask-h2.icloud.com/
 local=/icpsuawn1zy5amys.com/
 local=/tienpham.id.vn/
 local=/idcloak.com/
+local=/idinahui.pro/
 local=/idolproxy.com/
 local=/adguard.shuting.idv.tw/
 local=/ietors.com/
@@ -1862,7 +1864,6 @@ local=/ko-18948-tr.xyz/
 local=/proxy.kokecoco.me/
 local=/www-proxy.kokecoco.me/
 local=/adguard.konikoni428.com/
-local=/www-proxy.konstl01.xyz/
 local=/doh.kooman.org/
 local=/korzhov.dev/
 local=/dns.kosan.moe/
@@ -1890,6 +1891,7 @@ local=/adamz2eso.l5.ca/
 local=/lablancer.com/
 local=/doh.lacontrevoie.fr/
 local=/www-proxy.ladifsoftware.com/
+local=/laflame.us/
 local=/lantern.io/
 local=/largero.com/
 local=/larpicidecentralproxy.org/
@@ -1945,8 +1947,6 @@ local=/linkideo.com/
 local=/linkmefree.net/
 local=/linkmetube.com/
 local=/dns.linkr.ninja/
-local=/omar.linxy.eu/
-local=/omarcreatedthis.linxy.eu/
 local=/lionssh.com/
 local=/quickvpn.lipisoft.com/
 local=/africadns1.liquidtelecom.net/
@@ -2161,7 +2161,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

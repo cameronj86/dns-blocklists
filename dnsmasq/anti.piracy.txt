@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 22:15 UTC
-# Version: 2025.0508.2215.09
+# Last modified: 09 May 2025 13:51 UTC
+# Version: 2025.0509.1351.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9988
+# Number of entries: 9985
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -635,7 +635,6 @@ local=/altadefinizione01.it/
 local=/altadefinizione01.life/
 local=/altadefinizione01.love/
 local=/altadefinizione01.name/
-local=/altadefinizione01.photo/
 local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.site/
@@ -3556,7 +3555,6 @@ local=/free-telecharger.org/
 local=/free-telecharger.top/
 local=/free-telecharger.xyz/
 local=/open.free-tracker.ga/
-local=/free4pc.org/
 local=/freebannedbooks.org/
 local=/freebfg.org/
 local=/freebookspot.es/
@@ -5043,7 +5041,6 @@ local=/limetorrent.xyz/
 local=/limetorrents.asia/
 local=/limetorrents.at/
 local=/limetorrents.buzz/
-local=/limetorrents.lol/
 local=/limetorrents.online/
 local=/limetorrents.so/
 local=/limetorrents.to/
@@ -5844,7 +5841,6 @@ local=/mynavi-expert.pl/
 local=/myp2p.at/
 local=/myp2p.biz/
 local=/myp2px.eu/
-local=/mypanlss.store/
 local=/mypartage.com/
 local=/ns3109441.mypdns.org/
 local=/mypiratebay.net/
@@ -7065,6 +7061,7 @@ local=/redditnhlstreams.com/
 local=/redditsoccerstreams.org/
 local=/redditsoccerstreams.tv/
 local=/redditsoccerstreams.xyz/
+local=/redditsport.cc/
 local=/redecanais.zip/
 local=/redecanaistv.zip/
 local=/ica1616.redirectme.net/
