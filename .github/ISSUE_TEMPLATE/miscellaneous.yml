@@ -1,0 +1,22 @@
+name: Miscellaneous
+description: Other concerns.
+labels: ["question"]
+assignees: 
+  - hagezi
+body:
+
+  - type: textarea
+    id: concern
+    attributes:
+      label: Concern/Question
+    validations:
+      required: true
+
+    - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms
+      options:
+        - label: I confirm that the request does not contain any sexually explicit material or private/sensitive information.
+          required: true
+          
