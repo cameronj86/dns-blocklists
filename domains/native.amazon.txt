@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 May 2025 22:59 UTC
-# Version: 2025.0502.2259.47
+# Last modified: 08 May 2025 23:02 UTC
+# Version: 2025.0508.2302.42
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 606
+# Number of entries: 605
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -205,13 +205,13 @@ cell5001.iad.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 cell5001.iad.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 cell5002.pdx.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
-cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
@@ -449,7 +449,6 @@ rum.us-east-2.amazonaws.com
 rum.us-west-1.amazonaws.com
 rum.us-west-2.amazonaws.com
 s2.paa-reporting-advertising.amazon
-s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com

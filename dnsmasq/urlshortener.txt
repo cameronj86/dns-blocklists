@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 13:30 UTC
-# Version: 2025.0508.1330.37
+# Last modified: 08 May 2025 22:13 UTC
+# Version: 2025.0508.2213.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5685
+# Number of entries: 5686
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1807,6 +1807,7 @@ local=/gfuel.ly/
 local=/gfwtz.top/
 local=/gfxa.top/
 local=/ggle.io/
+local=/gglink.site/
 local=/ggqvz.com/
 local=/s.ggwp.be/
 local=/gh.io/
@@ -5149,7 +5150,6 @@ local=/vibebycalifornia.life/
 local=/vid.lu/
 local=/videopro.live/
 local=/vigilink.com/
-local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/
@@ -5350,6 +5350,7 @@ local=/whxce.sbs/
 local=/whyiwu.com/
 local=/wi.se/
 local=/wideo.fr/
+local=/widyh.com/
 local=/wig.ht/
 local=/s.wikicharlie.cl/
 local=/peercertification.wildalwhite.com/

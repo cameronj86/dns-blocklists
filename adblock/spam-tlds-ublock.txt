@@ -11,10 +11,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 May 2025 11:59 UTC
-! Version: 2025.0508.1159.19
+! Last modified: 08 May 2025 21:05 UTC
+! Version: 2025.0508.2105.38
 ! Syntax: uBlock
-! Number of latin TLDs: 255 - non-latin TLDs: 151
+! Number of latin TLDs: 256 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -140,6 +140,7 @@
 ||lgbt^$doc,domain=~tech.lgbt
 ||life^$doc,domain=~2ch.life|~akamaicdn.life|~circles.life|~colorgame.life|~digitalcitizen.life|~iboost.life|~lifetime.life|~loveinfaith.life|~stepone.life|~via.life|~yiff.life
 ||lifestyle^$doc
+||llc^$doc
 ||llp^$doc
 ||loan^$doc
 ||loans^$doc

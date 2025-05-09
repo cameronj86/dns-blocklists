@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 13:29 UTC
-# Version: 2025.0508.1329.06
+# Last modified: 08 May 2025 22:12 UTC
+# Version: 2025.0508.2212.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2110
+# Number of entries: 2107
 #
 local=/000a.de/
 local=/000space.com/
@@ -1110,7 +1110,6 @@ local=/harise.shop/
 local=/hase.in/
 local=/hashnode.dev/
 local=/hautetfort.com/
-local=/hefeicang.com/
 local=/helioho.st/
 local=/heliohost.us/
 local=/hellospace.org/
@@ -1356,7 +1355,6 @@ local=/meilleurforum.com/
 local=/memoryislife.com/
 local=/menstudent.shop/
 local=/merchats.com/
-local=/metplxx.com/
 local=/mex.tl/
 local=/mforos.com/
 local=/miarroba.com/
@@ -1783,7 +1781,6 @@ local=/techionblog.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/tek-blogs.com/
-local=/telegrameyg.com/
 local=/telekom.at/
 local=/telepacific.net/
 local=/teleporthq.app/

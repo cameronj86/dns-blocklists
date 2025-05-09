@@ -848,20 +848,6 @@
       }
     },
     {
-      "PK": "log22-normal-c-useast1a.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "log22-normal-c-useast2a.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "log22-normal.tiktokv.com",
       "action": {
         "do": 0,
@@ -1297,13 +1283,6 @@
     },
     {
       "PK": "mon-i18n.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "monitoring-op-ttp2.tiktokd.org",
       "action": {
         "do": 0,
         "status": 1

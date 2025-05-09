@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 May 2025 06:09 UTC
-# Version: 2025.0505.0609.09
+# Last modified: 08 May 2025 23:18 UTC
+# Version: 2025.0508.2318.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 406
+# Number of entries: 412
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -127,7 +127,6 @@ local=/mcs.us.tiktok.com/
 local=/mcs-ttp2.us.tiktok.com/
 local=/mssdk.us.tiktok.com/
 local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com/
-local=/monitoring-op-ttp2.tiktokd.org/
 local=/ad.tiktokv.com/
 local=/ad.tiktokv.us/
 local=/ad-format.tiktokv.us/
@@ -177,7 +176,6 @@ local=/log15-normal-useast1a.tiktokv.com/
 local=/log15-normal-useast2a.tiktokv.com/
 local=/log16-normal.tiktokv.com/
 local=/log16-normal-alisg.tiktokv.com/
-local=/log16-normal-c-alisg.tiktokv.com/
 local=/log16-normal-c-useast1a.tiktokv.com/
 local=/log16-normal-c-useast2a.tiktokv.com/
 local=/log16-normal-delay-alisg.tiktokv.com/
@@ -206,8 +204,6 @@ local=/log22-applog-useast1a.tiktokv.com/
 local=/log22-applog-useast2a.tiktokv.com/
 local=/log22-normal.tiktokv.com/
 local=/log22-normal-alisg.tiktokv.com/
-local=/log22-normal-c-useast1a.tiktokv.com/
-local=/log22-normal-c-useast2a.tiktokv.com/
 local=/log22-normal-useast1a.tiktokv.com/
 local=/log22-normal-useast2a.tiktokv.com/
 local=/log3-normal-c-alisg.tiktokv.com/
@@ -298,19 +294,29 @@ local=/mssdk16-normal-useast2a.tiktokv.com/
 local=/mssdk16-normal-useast5.tiktokv.us/
 local=/mssdk16-normal-useast8.tiktokv.us/
 local=/mssdk16-normal-useastred.tiktokv.eu/
+local=/mssdk16-normal-zr-alisg.tiktokv.com/
 local=/mssdk16-normal-zr-useast1a.tiktokv.com/
 local=/mssdk19-normal.tiktokv.com/
 local=/mssdk19-normal-alisg.tiktokv.com/
 local=/mssdk19-normal-useast1a.tiktokv.com/
 local=/mssdk19-normal-useast2a.tiktokv.com/
+local=/mssdk19-normal-zr-alisg.tiktokv.com/
+local=/mssdk19-normal-zr-useast1a.tiktokv.com/
 local=/mssdk22-normal.tiktokv.com/
 local=/mssdk22-normal-alisg.tiktokv.com/
 local=/mssdk22-normal-useast1a.tiktokv.com/
 local=/mssdk22-normal-useast2a.tiktokv.com/
+local=/mssdk22-normal-zr-alisg.tiktokv.com/
+local=/mssdk22-normal-zr-useast1a.tiktokv.com/
+local=/mssdk23-normal-zr-alisg.tiktokv.com/
+local=/mssdk23-normal-zr-useast1a.tiktokv.com/
 local=/mssdk24-normal.tiktokv.com/
 local=/mssdk24-normal-alisg.tiktokv.com/
 local=/mssdk24-normal-useast1a.tiktokv.com/
 local=/mssdk24-normal-useast2a.tiktokv.com/
+local=/mssdk31-normal-zr-alisg.tiktokv.com/
+local=/mssdk32-normal-zr-alisg.tiktokv.com/
+local=/mssdk32-normal-zr-useast1a.tiktokv.com/
 local=/rtc-logger.tiktokv.com/
 local=/rtc-logger.tiktokv.us/
 local=/rtc-logger-i18n.tiktokv.com/

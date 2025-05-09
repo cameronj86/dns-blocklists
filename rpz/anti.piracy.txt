@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746724440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746742500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 May 2025 17:14 UTC
-; Version: 2025.0508.1714.38
+; Last modified: 08 May 2025 22:15 UTC
+; Version: 2025.0508.2215.09
 ; Syntax: RPZ
-; Number of entries: 19980
+; Number of entries: 19976
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4525,8 +4525,6 @@ jagobd.com CNAME .
 *.jagobd.com CNAME .
 jakartarestaurant.com CNAME .
 *.jakartarestaurant.com CNAME .
-jakianetbd.com CNAME .
-*.jakianetbd.com CNAME .
 jalshaghor.com CNAME .
 *.jalshaghor.com CNAME .
 jamendo.com CNAME .
@@ -9659,8 +9657,6 @@ gomoviesfree.is CNAME .
 *.gomoviesfree.is CNAME .
 gostream.is CNAME .
 *.gostream.is CNAME .
-hydrax.is CNAME .
-*.hydrax.is CNAME .
 libgen.is CNAME .
 *.libgen.is CNAME .
 movie4k.is CNAME .
@@ -14225,6 +14221,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -18379,8 +18377,6 @@ isohunt.tv CNAME .
 *.isohunt.tv CNAME .
 itorrent.tv CNAME .
 *.itorrent.tv CNAME .
-jaceklocal.tv CNAME .
-*.jaceklocal.tv CNAME .
 javmix.tv CNAME .
 *.javmix.tv CNAME .
 jomo.tv CNAME .

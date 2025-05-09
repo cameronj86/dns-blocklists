@@ -750,13 +750,6 @@
       }
     },
     {
-      "PK": "log16-normal-c-alisg.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "log16-normal-c-useast1a.tiktokv.com",
       "action": {
         "do": 0,
@@ -961,20 +954,6 @@
     },
     {
       "PK": "log22-normal-alisg.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "log22-normal-c-useast1a.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "log22-normal-c-useast2a.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1702,13 +1681,6 @@
       }
     },
     {
-      "PK": "monitoring-op-ttp2.tiktokd.org",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "mon-phx.tiktokv.com",
       "action": {
         "do": 0,
@@ -1856,6 +1828,13 @@
       }
     },
     {
+      "PK": "mssdk16-normal-zr-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mssdk16-normal-zr-useast1a.tiktokv.com",
       "action": {
         "do": 0,
@@ -1898,6 +1877,20 @@
       }
     },
     {
+      "PK": "mssdk19-normal-zr-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk19-normal-zr-useast1a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mssdk22-normal-alisg.tiktokv.com",
       "action": {
         "do": 0,
@@ -1926,6 +1919,34 @@
       }
     },
     {
+      "PK": "mssdk22-normal-zr-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk22-normal-zr-useast1a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk23-normal-zr-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk23-normal-zr-useast1a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mssdk24-normal-alisg.tiktokv.com",
       "action": {
         "do": 0,
@@ -1948,6 +1969,27 @@
     },
     {
       "PK": "mssdk24-normal-useast2a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk31-normal-zr-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk32-normal-zr-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk32-normal-zr-useast1a.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1
