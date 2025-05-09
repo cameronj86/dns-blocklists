@@ -12,7 +12,7 @@ body:
     validations:
       required: true
 
-    - type: checkboxes
+  - type: checkboxes
     id: terms
     attributes:
       label: Terms
