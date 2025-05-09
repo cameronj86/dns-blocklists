@@ -16,6 +16,7 @@ body:
     id: terms
     attributes:
       label: Terms
+      description: Violation of these terms will result in immediate user blocking.
       options:
         - label: I confirm that the request does not contain any sexually explicit material or private/sensitive information.
           required: true
