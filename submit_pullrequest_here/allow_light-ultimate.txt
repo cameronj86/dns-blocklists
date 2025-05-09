@@ -1,6 +1,9 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# Grafana Site. No Tracking or Ads...
+metrics.shields.io
+
 # https://github.com/hagezi/dns-blocklists/issues/6168
 telemetry-schema-app.rnps.dl.playstation.net
 
