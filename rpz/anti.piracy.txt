@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746828960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746884460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 May 2025 22:16 UTC
-; Version: 2025.0509.2216.25
+; Last modified: 10 May 2025 13:41 UTC
+; Version: 2025.0510.1341.36
 ; Syntax: RPZ
-; Number of entries: 20058
+; Number of entries: 20052
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6005,8 +6005,6 @@ royal-orleans.com CNAME .
 *.royal-orleans.com CNAME .
 rpgonly.com CNAME .
 *.rpgonly.com CNAME .
-rsnetbd.com CNAME .
-*.rsnetbd.com CNAME .
 rsoccerstreams.com CNAME .
 *.rsoccerstreams.com CNAME .
 runwaybroadband.com CNAME .
@@ -9019,8 +9017,6 @@ moviewapi.in CNAME .
 *.moviewapi.in CNAME .
 multicanais.in CNAME .
 *.multicanais.in CNAME .
-mxplayer.in CNAME .
-*.mxplayer.in CNAME .
 nsw2u.in CNAME .
 *.nsw2u.in CNAME .
 ntrace.in CNAME .
@@ -11797,6 +11793,8 @@ cyonix.net CNAME .
 *.cyonix.net CNAME .
 cztorrent.net CNAME .
 *.cztorrent.net CNAME .
+extracker.dahrkael.net CNAME .
+*.extracker.dahrkael.net CNAME .
 dailydown.net CNAME .
 *.dailydown.net CNAME .
 damag.net CNAME .
@@ -14301,8 +14299,6 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
-free4pc.org CNAME .
-*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -15021,8 +15017,6 @@ softwareheritage.org CNAME .
 *.softwareheritage.org CNAME .
 sokroflix.org CNAME .
 *.sokroflix.org CNAME .
-spatorrent.org CNAME .
-*.spatorrent.org CNAME .
 trader.speed-share.org CNAME .
 *.trader.speed-share.org CNAME .
 spirit-tracker.org CNAME .
@@ -15447,6 +15441,8 @@ tantifilm.ph CNAME .
 *.tantifilm.ph CNAME .
 torrent9.ph CNAME .
 *.torrent9.ph CNAME .
+altadefinizione01.photo CNAME .
+*.altadefinizione01.photo CNAME .
 cb01.photos CNAME .
 *.cb01.photos CNAME .
 123movies.pics CNAME .
@@ -18645,8 +18641,6 @@ simplecloud.tv CNAME .
 *.simplecloud.tv CNAME .
 simplywatch.tv CNAME .
 *.simplywatch.tv CNAME .
-simpsonai.tv CNAME .
-*.simpsonai.tv CNAME .
 simpsonsua.tv CNAME .
 *.simpsonsua.tv CNAME .
 smo3.tv CNAME .
