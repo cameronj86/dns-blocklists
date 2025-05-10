@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 May 2025 14:09 UTC
-# Version: 2025.0509.1409.37
+# Last modified: 09 May 2025 22:12 UTC
+# Version: 2025.0509.2212.06
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1439
 #
@@ -509,7 +509,6 @@ local=/edgy-dns.com/
 local=/dns.editechstudio.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/dns.eliv.kr/
@@ -554,6 +553,7 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
+local=/dns.fizz.studio/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
 local=/dns01.flm9.net/
@@ -893,6 +893,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -1435,7 +1436,6 @@ local=/net01.youcef.io/
 local=/your-dns.run/
 local=/yovbak.com/
 local=/dns.yuu-g.net/
-local=/yuvelirtut.website/
 local=/adg.yybyy.wiki/
 local=/dns.daemon.za.net/
 local=/adguard.zachitect.com/

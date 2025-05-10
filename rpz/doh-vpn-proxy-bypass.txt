@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746799860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1746828600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 May 2025 14:11 UTC
-; Version: 2025.0509.1411.03
+; Last modified: 09 May 2025 22:10 UTC
+; Version: 2025.0509.2210.29
 ; Syntax: RPZ
-; Number of entries: 8126
+; Number of entries: 8122
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1228,8 +1228,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -1936,6 +1934,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4642,8 +4642,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
@@ -6178,8 +6176,6 @@ dns.mathewakhil.online CNAME .
 *.dns.mathewakhil.online CNAME .
 myhalo.online CNAME .
 *.myhalo.online CNAME .
-net-ml.online CNAME .
-*.net-ml.online CNAME .
 okado.online CNAME .
 *.okado.online CNAME .
 login.readinghelper.online CNAME .
@@ -7324,6 +7320,8 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
@@ -7782,8 +7780,6 @@ unblock2.website CNAME .
 *.unblock2.website CNAME .
 unblocksite.website CNAME .
 *.unblocksite.website CNAME .
-yuvelirtut.website CNAME .
-*.yuvelirtut.website CNAME .
 zakaria.website CNAME .
 *.zakaria.website CNAME .
 www-proxy.bettercallghaith.wiki CNAME .

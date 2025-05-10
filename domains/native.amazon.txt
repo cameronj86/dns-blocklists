@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 23:02 UTC
-# Version: 2025.0508.2302.42
+# Last modified: 09 May 2025 23:04 UTC
+# Version: 2025.0509.2304.16
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 605
+# Number of entries: 606
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -209,6 +209,7 @@ cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
