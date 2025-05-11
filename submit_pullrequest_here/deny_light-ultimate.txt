@@ -1,5 +1,14 @@
 # Domains to be added to the light, normal, pro, pro++ and ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/6203
+service-ad-image-ga.prd.pluto.tv
+service-ad-impression-proxy-use1-1.prd.pluto.tv
+
+# https://github.com/hagezi/dns-blocklists/issues/6199
+vortex-dual.hulu.com
+vortex.hulu.com
+vortex.hulu.com.akadns.net
+
 # ExoClick
 dsonb4.com
 

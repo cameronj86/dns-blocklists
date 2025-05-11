@@ -260,6 +260,13 @@
       }
     },
     {
+      "PK": "bio.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bird.makeup",
       "action": {
         "do": 1,
@@ -520,6 +527,13 @@
     },
     {
       "PK": "composer.trade",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cooked.wiki",
       "action": {
         "do": 1,
         "status": 1
@@ -2354,6 +2368,13 @@
     },
     {
       "PK": "ravelin.click",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rcti.plus",
       "action": {
         "do": 1,
         "status": 1
