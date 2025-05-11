@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 May 2025 14:00 UTC
-# Version: 2025.0510.1400.53
+# Last modified: 11 May 2025 02:02 UTC
+# Version: 2025.0511.0202.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4058
+# Number of entries: 4059
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -347,7 +347,6 @@ local=/base99.com/
 local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/bdns.io/
-local=/bdns.link/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1257,6 +1256,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1657,7 +1657,6 @@ local=/i2pd.xyz/
 local=/vd.i81.ru/
 local=/vpn.i81.ru/
 local=/beepboopbop.iamadeveloper.dev/
-local=/dns.iamanuragh.in/
 local=/dns.iamninja.ru/
 local=/iblocker.info/
 local=/ibvpn.com/
@@ -2159,6 +2158,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3989,6 +3989,7 @@ local=/xvbelink.com/
 local=/xvpn.io/
 local=/dns.xwdmw.xyz/
 local=/v2.xx3210766.live/
+local=/ya-krutoi.pro/
 local=/dns.yameenassotally.com/
 local=/2.dnscrypt-cert.browser.yandex.net/
 local=/dns.yandex.ru/

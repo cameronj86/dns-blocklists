@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 May 2025 13:59 UTC
-# Version: 2025.0510.1359.28
+# Last modified: 11 May 2025 02:01 UTC
+# Version: 2025.0511.0201.30
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1594
+# Number of entries: 1596
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -659,6 +659,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -760,7 +761,6 @@
 0.0.0.0 opennic.i2pd.xyz
 0.0.0.0 opennic2.i2pd.xyz
 0.0.0.0 vd.i81.ru
-0.0.0.0 dns.iamanuragh.in
 0.0.0.0 dns.iamninja.ru
 0.0.0.0 mask.icloud.com
 0.0.0.0 mask-h2.icloud.com
@@ -932,6 +932,7 @@
 0.0.0.0 maqgie.xyz
 0.0.0.0 dns.marasov.id
 0.0.0.0 dns.marbledfennec.net
+0.0.0.0 multi.dns.marbledfennec.net
 0.0.0.0 ag.marschi.de
 0.0.0.0 adguard.marto.si
 0.0.0.0 doh.maskab.com
@@ -1011,6 +1012,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
