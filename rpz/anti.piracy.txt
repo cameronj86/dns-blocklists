@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1746970620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747015380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 May 2025 13:37 UTC
-; Version: 2025.0511.1337.14
+; Last modified: 12 May 2025 02:03 UTC
+; Version: 2025.0512.0203.14
 ; Syntax: RPZ
-; Number of entries: 20044
+; Number of entries: 20048
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1193,8 +1193,6 @@ putlocker9.cc CNAME .
 *.putlocker9.cc CNAME .
 radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
-redditsport.cc CNAME .
-*.redditsport.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -3407,6 +3405,8 @@ descargagame.com CNAME .
 *.descargagame.com CNAME .
 descargasfull.com CNAME .
 *.descargasfull.com CNAME .
+descargatepelis.com CNAME .
+*.descargatepelis.com CNAME .
 desfichiers.com CNAME .
 *.desfichiers.com CNAME .
 deshonlinebd.com CNAME .
@@ -8055,6 +8055,8 @@ altadefinizione01.email CNAME .
 *.altadefinizione01.email CNAME .
 movies123.email CNAME .
 *.movies123.email CNAME .
+moviesmod.email CNAME .
+*.moviesmod.email CNAME .
 putlockers.email CNAME .
 *.putlockers.email CNAME .
 cineblog01.energy CNAME .
@@ -14293,6 +14295,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
