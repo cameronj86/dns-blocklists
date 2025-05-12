@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 May 2025 12:26 UTC
-# Version: 2025.0506.1226.59
+# Last modified: 12 May 2025 03:00 UTC
+# Version: 2025.0512.0300.28
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 161
 #
@@ -41,7 +41,6 @@
 0.0.0.0 admin-advertising.roku.com
 0.0.0.0 ads.roku.com
 0.0.0.0 api.ads.roku.com
-0.0.0.0 delta.ads.roku.com
 0.0.0.0 delta-staging.ads.roku.com
 0.0.0.0 i.ads.roku.com
 0.0.0.0 identity.ads.roku.com
@@ -63,6 +62,7 @@
 0.0.0.0 adi-airflow.bdp.roku.com
 0.0.0.0 ads.beta.roku.com
 0.0.0.0 api.ads.beta.roku.com
+0.0.0.0 cloudservices.roku.com
 0.0.0.0 samples.voice.cti.roku.com
 0.0.0.0 ravm-qa-e.data.roku.com
 0.0.0.0 ravm-qa-w.data.roku.com
