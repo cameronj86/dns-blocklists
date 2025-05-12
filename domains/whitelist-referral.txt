@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 May 2025 21:49 UTC
-# Version: 2025.0511.2149.27
+# Last modified: 12 May 2025 09:53 UTC
+# Version: 2025.0512.0953.36
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 925
+# Number of entries: 899
 #
 l.1mp.ru
 t.1und1.de
@@ -129,7 +129,6 @@ track.canva.com
 tracking.cashkaro.com
 cc-dt.com
 cse3.chausport.com
-mkto-trk.cisco.com
 cj.com
 clck.ru
 api.cleverpush.com
@@ -244,7 +243,6 @@ click.discord.com
 referrer.disqus.com
 click.dji.com
 postsign.docusign.com
-c2827.dotomi.com
 casale-match.dotomi.com
 cj.dotomi.com
 cpe.dotomi.com
@@ -259,6 +257,7 @@ match.sync.ad.cpe.dotomi.com
 csd.dotomi.com
 c63063.csd.dotomi.com
 c83501.csd.dotomi.com
+c83573.csd.dotomi.com
 ad.doubleclick.net
 dpbolvw.net
 m.dq.com
@@ -279,22 +278,18 @@ suite11.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
 suite22.emarsys.net
-suite27.emarsys.net
 suite29.emarsys.net
-suite30.emarsys.net
-suite32.emarsys.net
 suite33.emarsys.net
 suite38.emarsys.net
-suite40.emarsys.net
 suite40-cf.emarsys.net
 suite45.emarsys.net
 suite54.emarsys.net
+suite56.emarsys.net
 suite57.emarsys.net
 suite58.emarsys.net
 suite59.emarsys.net
 suite63.emarsys.net
 suite67-cf.emarsys.net
-suite9.emarsys.net
 emjcd.com
 t.en25.com
 ablink.email.etsy.com
@@ -324,7 +319,6 @@ s11.exacttarget.com
 bounce.s11.exacttarget.com
 click.s11.exacttarget.com
 mc.s11.exacttarget.com
-members.s11.exacttarget.com
 reply.s11.exacttarget.com
 virt.s11.exacttarget.com
 click.virt.s11.exacttarget.com
@@ -332,7 +326,6 @@ s12.exacttarget.com
 bounce.s12.exacttarget.com
 click.s12.exacttarget.com
 mc.s12.exacttarget.com
-members.s12.exacttarget.com
 reply.s12.exacttarget.com
 virt.s12.exacttarget.com
 click.virt.s12.exacttarget.com
@@ -340,11 +333,9 @@ s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
 mc.s13.exacttarget.com
-members.s13.exacttarget.com
 reply.s13.exacttarget.com
-virt.s13.exacttarget.com
-click.virt.s13.exacttarget.com
 s4.exacttarget.com
+ftp.s4.exacttarget.com
 inbound.s4.exacttarget.com
 members.s4.exacttarget.com
 pages.s4.exacttarget.com
@@ -352,22 +343,18 @@ pub.s4.exacttarget.com
 view.s4.exacttarget.com
 virt.s4.exacttarget.com
 click.virt.s4.exacttarget.com
-s5.exacttarget.com
 s50.exacttarget.com
 bounce.s50.exacttarget.com
 mc.s50.exacttarget.com
-members.s50.exacttarget.com
-reply.s50.exacttarget.com
+virt.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
-click.s51.exacttarget.com
 mc.s51.exacttarget.com
 s6.exacttarget.com
 click.s6.exacttarget.com
 image.s6.exacttarget.com
 inbound.s6.exacttarget.com
 inbound-reply.s6.exacttarget.com
-mc.s6.exacttarget.com
 members.s6.exacttarget.com
 pages.s6.exacttarget.com
 pub.s6.exacttarget.com
@@ -386,11 +373,8 @@ pub.s7.exacttarget.com
 view.s7.exacttarget.com
 virt.s7.exacttarget.com
 click.virt.s7.exacttarget.com
-s8.exacttarget.com
-inbound.s8.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
-amway-cdn.exponea.com
 cdn.exponea.com
 cdn.eu1.exponea.com
 cdn.ftspecialist.exponea.com
@@ -445,6 +429,7 @@ click.instantink.hpsmart.com
 href.li
 sites.hscoscdn-eu1.net
 group0.sites.hscoscdn-eu1.net
+sites.hscoscdn-na2.net
 sites.hscoscdn00.net
 group0.sites.hscoscdn00.net
 group1.sites.hscoscdn00.net
@@ -500,8 +485,6 @@ group46.sites.hscoscdn40.net
 group47.sites.hscoscdn40.net
 group48.sites.hscoscdn40.net
 group49.sites.hscoscdn40.net
-sites.hscoscdnqa-eu1.net
-82097343.sites.hscoscdnqa-eu1.net
 api.hubapi.com
 api-eu1.hubapi.com
 api-na1.hubapi.com
@@ -600,13 +583,11 @@ mkto-ab180008.com
 mkto-ab200065.com
 mkto-ab210104.com
 mkto-ab220178.com
-mkto-ab250105.com
 mkto-ab300154.com
 mkto-ab310115.com
 mkto-ab340022.com
 mkto-ab420081.com
 mkto-ab470148.com
-mkto-ab530057.com
 mkto-ab540059.com
 mkto-ab540186.com
 mkto-ab550140.com
@@ -620,8 +601,6 @@ mkto-ab690019.com
 mkto-ab690062.com
 mkto-ab690180.com
 mkto-abj0022.com
-mkto-abm0229.com
-mkto-cs0007.com
 mkto-d0170.com
 mkto-f0054.com
 mkto-g0030.com
@@ -629,7 +608,6 @@ mkto-g0180.com
 mkto-k0071.com
 mkto-lon030291.com
 mkto-lon040152.com
-mkto-lon090082.com
 mkto-n0199.com
 mkto-nld1040186.com
 mkto-o0153.com
@@ -647,8 +625,6 @@ mkto-sj270080.com
 mkto-sj310061.com
 mkto-sj310186.com
 mkto-sj320047.com
-mkto-test.com
-sjqe.mkto-test.com
 mktoweb.com
 click.mlsend.com
 t.mmtrkr.com
@@ -700,7 +676,6 @@ c2.piano.io
 c2-ap.piano.io
 c2-au.piano.io
 c2-eu.piano.io
-c2-sandbox.piano.io
 cdn.piano.io
 cdn-ap.piano.io
 cdn-au.piano.io
@@ -716,7 +691,6 @@ pntrac.com
 pntrack.com
 postaffiliatepro.com
 ndirect.ppro.de
-geo01.dns.presslabs.net
 geo02.dns.presslabs.net
 geo1.presslabs.net
 prf.hn
@@ -748,7 +722,6 @@ r6lccqnab.cc.rs6.net
 r7avxrcab.cc.rs6.net
 rgkkzvdab.cc.rs6.net
 rjpz4ucab.cc.rs6.net
-rklmqleab.cc.rs6.net
 rq6agxabb.cc.rs6.net
 rxfc49ebb.cc.rs6.net
 rz6dkreab.cc.rs6.net
@@ -878,6 +851,7 @@ redirect447.tagcommander.com
 redirect476.tagcommander.com
 click.taobao.com
 s.click.taobao.com
+ud.click.taobao.com
 click.simba.taobao.com
 click.mz.simba.taobao.com
 tapfiliate.com
