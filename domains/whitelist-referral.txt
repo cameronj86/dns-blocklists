@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 May 2025 09:53 UTC
-# Version: 2025.0512.0953.36
+# Last modified: 13 May 2025 09:50 UTC
+# Version: 2025.0513.0950.10
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 899
+# Number of entries: 930
 #
 l.1mp.ru
 t.1und1.de
@@ -63,7 +63,7 @@ aax-eu.amazon.fr
 aax-eu.amazon.in
 aax-eu.amazon.it
 aax-eu.amazon.nl
-aax-eu.amazon.sa
+aax-eu.amazon.pl
 aax-fe.amazon.sg
 aax-us-east-retail-direct.amazon.com
 aax-us-iad.amazon.com
@@ -129,6 +129,7 @@ track.canva.com
 tracking.cashkaro.com
 cc-dt.com
 cse3.chausport.com
+mkto-trk.cisco.com
 cj.com
 clck.ru
 api.cleverpush.com
@@ -243,6 +244,7 @@ click.discord.com
 referrer.disqus.com
 click.dji.com
 postsign.docusign.com
+c2827.dotomi.com
 casale-match.dotomi.com
 cj.dotomi.com
 cpe.dotomi.com
@@ -257,7 +259,6 @@ match.sync.ad.cpe.dotomi.com
 csd.dotomi.com
 c63063.csd.dotomi.com
 c83501.csd.dotomi.com
-c83573.csd.dotomi.com
 ad.doubleclick.net
 dpbolvw.net
 m.dq.com
@@ -278,11 +279,15 @@ suite11.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
 suite22.emarsys.net
+suite24.emarsys.net
+suite27.emarsys.net
 suite29.emarsys.net
+suite30.emarsys.net
+suite32.emarsys.net
 suite33.emarsys.net
+suite34.emarsys.net
 suite38.emarsys.net
 suite40-cf.emarsys.net
-suite45.emarsys.net
 suite54.emarsys.net
 suite56.emarsys.net
 suite57.emarsys.net
@@ -290,6 +295,8 @@ suite58.emarsys.net
 suite59.emarsys.net
 suite63.emarsys.net
 suite67-cf.emarsys.net
+suite7.emarsys.net
+suite9.emarsys.net
 emjcd.com
 t.en25.com
 ablink.email.etsy.com
@@ -319,6 +326,7 @@ s11.exacttarget.com
 bounce.s11.exacttarget.com
 click.s11.exacttarget.com
 mc.s11.exacttarget.com
+members.s11.exacttarget.com
 reply.s11.exacttarget.com
 virt.s11.exacttarget.com
 click.virt.s11.exacttarget.com
@@ -326,6 +334,7 @@ s12.exacttarget.com
 bounce.s12.exacttarget.com
 click.s12.exacttarget.com
 mc.s12.exacttarget.com
+members.s12.exacttarget.com
 reply.s12.exacttarget.com
 virt.s12.exacttarget.com
 click.virt.s12.exacttarget.com
@@ -333,9 +342,11 @@ s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
 mc.s13.exacttarget.com
+members.s13.exacttarget.com
 reply.s13.exacttarget.com
+virt.s13.exacttarget.com
+click.virt.s13.exacttarget.com
 s4.exacttarget.com
-ftp.s4.exacttarget.com
 inbound.s4.exacttarget.com
 members.s4.exacttarget.com
 pages.s4.exacttarget.com
@@ -345,16 +356,19 @@ virt.s4.exacttarget.com
 click.virt.s4.exacttarget.com
 s50.exacttarget.com
 bounce.s50.exacttarget.com
+image.s50.exacttarget.com
 mc.s50.exacttarget.com
-virt.s50.exacttarget.com
+members.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
+click.s51.exacttarget.com
 mc.s51.exacttarget.com
 s6.exacttarget.com
 click.s6.exacttarget.com
 image.s6.exacttarget.com
 inbound.s6.exacttarget.com
 inbound-reply.s6.exacttarget.com
+mc.s6.exacttarget.com
 members.s6.exacttarget.com
 pages.s6.exacttarget.com
 pub.s6.exacttarget.com
@@ -362,6 +376,8 @@ view.s6.exacttarget.com
 virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
+bounce.s7.exacttarget.com
+click.s7.exacttarget.com
 ftp.s7.exacttarget.com
 image.s7.exacttarget.com
 inbound.s7.exacttarget.com
@@ -373,12 +389,15 @@ pub.s7.exacttarget.com
 view.s7.exacttarget.com
 virt.s7.exacttarget.com
 click.virt.s7.exacttarget.com
+s8.exacttarget.com
+inbound.s8.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
 cdn.exponea.com
 cdn.eu1.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.network.exponea.com
+ri-cdn.exponea.com
 cdn.uk.exponea.com
 cdn.us1.exponea.com
 l.facebook.com
@@ -429,7 +448,6 @@ click.instantink.hpsmart.com
 href.li
 sites.hscoscdn-eu1.net
 group0.sites.hscoscdn-eu1.net
-sites.hscoscdn-na2.net
 sites.hscoscdn00.net
 group0.sites.hscoscdn00.net
 group1.sites.hscoscdn00.net
@@ -567,6 +585,7 @@ micpn.com
 email.microsoft.com
 go.microsoft.com
 target.microsoft.com
+email.microsoftemail.com
 click.email.microsoftemail.com
 image.email.microsoftemail.com
 view.email.microsoftemail.com
@@ -579,6 +598,7 @@ mkto-ab040115.com
 mkto-ab040147.com
 mkto-ab070017.com
 mkto-ab080206.com
+mkto-ab150224.com
 mkto-ab180008.com
 mkto-ab200065.com
 mkto-ab210104.com
@@ -588,6 +608,7 @@ mkto-ab310115.com
 mkto-ab340022.com
 mkto-ab420081.com
 mkto-ab470148.com
+mkto-ab530057.com
 mkto-ab540059.com
 mkto-ab540186.com
 mkto-ab550140.com
@@ -601,6 +622,7 @@ mkto-ab690019.com
 mkto-ab690062.com
 mkto-ab690180.com
 mkto-abj0022.com
+mkto-abm0229.com
 mkto-d0170.com
 mkto-f0054.com
 mkto-g0030.com
@@ -612,19 +634,24 @@ mkto-n0199.com
 mkto-nld1040186.com
 mkto-o0153.com
 mkto-sj010104.com
+mkto-sj030214.com
 mkto-sj040252.com
 mkto-sj070214.com
 mkto-sj070259.com
 mkto-sj090132.com
+mkto-sj100138.com
+mkto-sj140007.com
 mkto-sj180011.com
 mkto-sj190104.com
 mkto-sj190237.com
+mkto-sj200192.com
 mkto-sj230006.com
 mkto-sj240021.com
 mkto-sj270080.com
 mkto-sj310061.com
 mkto-sj310186.com
 mkto-sj320047.com
+mkto-sj330006.com
 mktoweb.com
 click.mlsend.com
 t.mmtrkr.com
@@ -717,9 +744,11 @@ rewardtk.com
 adorama.rfvk.net
 click.royalcaribbeanmarketing.com
 r4gh8tuab.cc.rs6.net
+r4ofs8cab.cc.rs6.net
 r5waxhbbb.cc.rs6.net
 r6lccqnab.cc.rs6.net
 r7avxrcab.cc.rs6.net
+rdnybq7ab.cc.rs6.net
 rgkkzvdab.cc.rs6.net
 rjpz4ucab.cc.rs6.net
 rq6agxabb.cc.rs6.net
@@ -871,10 +900,12 @@ tradedoubler.com
 tc.tradetracker.net
 ti.tradetracker.net
 tm.tradetracker.net
+ts.tradetracker.net
 api.traq.li
 secure.traqkarr.com
 track.connect.travelaudience.com
 analytics.trustyou.com
+analytics-eu.trustyou.com
 tracking.truthfinder.com
 clicks.trx-hub.com
 analytics.twitter.com

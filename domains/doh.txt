@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 May 2025 02:24 UTC
-# Version: 2025.0513.0224.58
+# Last modified: 13 May 2025 14:24 UTC
+# Version: 2025.0513.1424.28
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1595
+# Number of entries: 1596
 #
 003153.xyz
 ns.00dani.me
@@ -616,6 +616,7 @@ edgy-dns.com
 dns.editechstudio.com
 dns.tuna.tsinghua.edu.cn
 adguard.ef67daisuki.club
+dns.efficientdocuments.com
 hole.elbschloss.xyz
 dns.elemental.software
 dns.eliv.kr
@@ -730,7 +731,6 @@ resolver-eu.haringstad.com
 adguard.hartley.cloud
 query.hdns.io
 ordns.he.net
-us-ny-alula.heliumcloud.cc
 dns.hellozhao.com
 dns.henek.ovh
 httpdns-push.heytapmobile.com
@@ -1012,6 +1012,7 @@ paranoia.mydns.network
 blackhole.myon.lu
 area51.mywire.org
 fwgw.orangepipc.mywire.org
+dns.mzjtechnology.com
 dns.mzrme.cn
 n0.eu
 dns.n23.io
