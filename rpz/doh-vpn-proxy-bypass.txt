@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747060440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747103160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 May 2025 14:34 UTC
-; Version: 2025.0512.1434.50
+; Last modified: 13 May 2025 02:26 UTC
+; Version: 2025.0513.0226.24
 ; Syntax: RPZ
-; Number of entries: 8116
+; Number of entries: 8112
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1226,8 +1226,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -1934,8 +1932,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -4090,6 +4086,8 @@ graef.in CNAME .
 *.graef.in CNAME .
 dns.gutwe.in CNAME .
 *.dns.gutwe.in CNAME .
+dns.iamanuragh.in CNAME .
+*.dns.iamanuragh.in CNAME .
 dns.kapite.in CNAME .
 *.dns.kapite.in CNAME .
 doh.micronets.in CNAME .
@@ -4636,8 +4634,6 @@ mabuktogel.limited CNAME .
 *.mabuktogel.limited CNAME .
 polisitogel.limo CNAME .
 *.polisitogel.limo CNAME .
-bdns.link CNAME .
-*.bdns.link CNAME .
 dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .

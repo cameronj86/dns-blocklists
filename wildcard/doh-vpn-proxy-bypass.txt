@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 May 2025 14:34 UTC
-# Version: 2025.0512.1434.50
+# Last modified: 13 May 2025 02:26 UTC
+# Version: 2025.0513.0226.24
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 4058
+# Number of entries: 4056
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -347,7 +347,6 @@
 *.doh.battle.christmas
 *.bazooki-infra.dev
 *.bdns.io
-*.bdns.link
 *.bdns.pro
 *.beapasswpn.com
 *.dns.beardic.cn
@@ -1122,7 +1121,6 @@
 *.educationdean.us
 *.adguard.ef67daisuki.club
 *.tor.eff.org
-*.dns.efficientdocuments.com
 *.hole.elbschloss.xyz
 *.dns.elemental.software
 *.elephantvpn.com
@@ -1658,6 +1656,7 @@
 *.vd.i81.ru
 *.vpn.i81.ru
 *.beepboopbop.iamadeveloper.dev
+*.dns.iamanuragh.in
 *.dns.iamninja.ru
 *.iblocker.info
 *.ibvpn.com
@@ -2159,7 +2158,6 @@
 *.area51.mywire.org
 *.fwgw.orangepipc.mywire.org
 *.mzhlhrfr8z.info
-*.dns.mzjtechnology.com
 *.dns.mzrme.cn
 *.n0.eu
 *.dns.n23.io
