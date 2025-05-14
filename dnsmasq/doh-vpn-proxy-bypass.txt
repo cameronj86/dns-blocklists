@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 May 2025 06:32 UTC
-# Version: 2025.0514.0632.59
+# Last modified: 14 May 2025 14:24 UTC
+# Version: 2025.0514.1424.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4315
+# Number of entries: 4321
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -423,6 +423,7 @@ local=/dns-tls.bitwiseshift.net/
 local=/physics.sciencestudy.biz.st/
 local=/bizfast.info/
 local=/blacklogic.com/
+local=/essay.gov.blacknapkins.org/
 local=/blackvpn.com/
 local=/rx.blackxfiied.xyz/
 local=/2.dnscrypt-cert.blahdns.com/
@@ -572,6 +573,8 @@ local=/chaos-system.de/
 local=/passwordforlockedstellarisabc.charbel.cl/
 local=/dns.charraud.eu/
 local=/dns.chenu.ch/
+local=/freedns.kiuo-utopias.chickenkiller.com/
+local=/whydidiask.chickenkiller.com/
 local=/dns.chilimac.net/
 local=/chillglobal.com/
 local=/chinagrows.com/
@@ -1235,6 +1238,7 @@ local=/shield1.eranext.net/
 local=/erproxy.tk/
 local=/doh.ersei.net/
 local=/dns.esnube.es/
+local=/ela.edu.estudiomenoyo.com/
 local=/eth.link/
 local=/opennic1.eth-services.de/
 local=/proxy.eti.pw/
@@ -2328,6 +2332,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3416,6 +3421,7 @@ local=/staticnetcontent.com/
 local=/stayhidden.net/
 local=/stealthvpn.com/
 local=/stealthy.co/
+local=/qokl0912.stedler.org/
 local=/steganos.com/
 local=/dns.stevenz.net/
 local=/dns.stirringphoto.com/
