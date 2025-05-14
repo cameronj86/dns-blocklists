@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747145160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747190760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 May 2025 14:06 UTC
-; Version: 2025.0513.1406.34
+; Last modified: 14 May 2025 02:46 UTC
+; Version: 2025.0514.0246.28
 ; Syntax: RPZ
-; Number of entries: 20048
+; Number of entries: 20068
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -277,6 +277,8 @@ zmov.vercel.app CNAME .
 *.zmov.vercel.app CNAME .
 nunflix-firebase.web.app CNAME .
 *.nunflix-firebase.web.app CNAME .
+yt1d.app CNAME .
+*.yt1d.app CNAME .
 btarg.com.ar CNAME .
 *.btarg.com.ar CNAME .
 tracker.frontalweb.com.ar CNAME .
@@ -835,6 +837,8 @@ proxybay.bz CNAME .
 *.proxybay.bz CNAME .
 putlockers.bz CNAME .
 *.putlockers.bz CNAME .
+savefrom.bz CNAME .
+*.savefrom.bz CNAME .
 thebox.bz CNAME .
 *.thebox.bz CNAME .
 thegeeks.bz CNAME .
@@ -1193,8 +1197,6 @@ putlocker9.cc CNAME .
 *.putlocker9.cc CNAME .
 radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
-redditsport.cc CNAME .
-*.redditsport.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -1737,6 +1739,8 @@ soap2day.com.co CNAME .
 *.soap2day.com.co CNAME .
 streamm4u.com.co CNAME .
 *.streamm4u.com.co CNAME .
+yt1s.com.co CNAME .
+*.yt1s.com.co CNAME .
 dadyflix.co CNAME .
 *.dadyflix.co CNAME .
 darkino.co CNAME .
@@ -6361,6 +6365,8 @@ sssinsta.com CNAME .
 *.sssinsta.com CNAME .
 sssinstagram.com CNAME .
 *.sssinstagram.com CNAME .
+ssyoutube.com CNAME .
+*.ssyoutube.com CNAME .
 stagatv.com CNAME .
 *.stagatv.com CNAME .
 stanthecaddy.com CNAME .
@@ -6379,6 +6385,8 @@ steamrip.com CNAME .
 *.steamrip.com CNAME .
 steelwarez.com CNAME .
 *.steelwarez.com CNAME .
+steptodown.com CNAME .
+*.steptodown.com CNAME .
 stigstream.com CNAME .
 *.stigstream.com CNAME .
 storeplayapk.com CNAME .
@@ -7511,6 +7519,8 @@ youtorrent.com CNAME .
 *.youtorrent.com CNAME .
 yqzuji.com CNAME .
 *.yqzuji.com CNAME .
+yt1d.com CNAME .
+*.yt1d.com CNAME .
 ytbdownload.com CNAME .
 *.ytbdownload.com CNAME .
 ytsmovietorrent.com CNAME .
@@ -9773,8 +9783,12 @@ weboas.is CNAME .
 *.weboas.is CNAME .
 xmovies8.is CNAME .
 *.xmovies8.is CNAME .
+en.y2mate.is CNAME .
+*.en.y2mate.is CNAME .
 yggtorrent.is CNAME .
 *.yggtorrent.is CNAME .
+yt1s.is CNAME .
+*.yt1s.is CNAME .
 ytmp4.is CNAME .
 *.ytmp4.is CNAME .
 u4.trakx.crim.ist CNAME .
@@ -13499,6 +13513,8 @@ watchepisodeseries.unblocked.nu CNAME .
 *.watchepisodeseries.unblocked.nu CNAME .
 viprow.nu CNAME .
 *.viprow.nu CNAME .
+y2mate.nu CNAME .
+*.y2mate.nu CNAME .
 tracker.loli.co.nz CNAME .
 *.tracker.loli.co.nz CNAME .
 tracker1.loli.co.nz CNAME .
@@ -13677,6 +13693,8 @@ italia-film.online CNAME .
 *.italia-film.online CNAME .
 jkanime.online CNAME .
 *.jkanime.online CNAME .
+keepvid.online CNAME .
+*.keepvid.online CNAME .
 kinogo.online CNAME .
 *.kinogo.online CNAME .
 limetorrents.online CNAME .
@@ -14297,6 +14315,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .

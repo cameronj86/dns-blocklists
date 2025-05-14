@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 May 2025 14:25 UTC
-# Version: 2025.0513.1425.54
+# Last modified: 14 May 2025 03:05 UTC
+# Version: 2025.0514.0305.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4058
+# Number of entries: 4059
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -56,6 +56,7 @@ local=/123ultraproxy.com/
 local=/123unblocked.com/
 local=/12vpx.com/
 local=/dns.13evl.com/
+local=/14-88.pro/
 local=/16yd.com/
 local=/cloud.198.games/
 local=/1and1-dns.de/
@@ -682,6 +683,7 @@ local=/clearvpn.co.uk/
 local=/pihole.datamatter.co.za/
 local=/ddelay.co.uk/
 local=/diskcrmvpn.co.cc/
+local=/www.dnsadguard.co.uk/
 local=/englandproxy.co.uk/
 local=/dns.gayanalysing.co.uk/
 local=/dns.gi.co.id/
@@ -1121,7 +1123,6 @@ local=/eduacation.lol/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1256,7 +1257,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1526,6 +1526,7 @@ local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/
 local=/query.hdns.io/
 local=/ordns.he.net/
+local=/us-ny-alula.heliumcloud.cc/
 local=/sdfergrdewdwdawdwdszdsadsadas.helixarcade.space/
 local=/dns.hellozhao.com/
 local=/helphideme.com/
@@ -2158,7 +2159,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2985,6 +2985,7 @@ local=/schoology.college/
 local=/schoology.help/
 local=/schoology123.org/
 local=/schoolooks.com/
+local=/schoolooks.net/
 local=/schoolwebproxy.com/
 local=/schooxy.com/
 local=/schoprox.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747146300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747191900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 May 2025 14:25 UTC
-; Version: 2025.0513.1425.54
+; Last modified: 14 May 2025 03:05 UTC
+; Version: 2025.0514.0305.18
 ; Syntax: RPZ
-; Number of entries: 8116
+; Number of entries: 8118
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -310,6 +310,8 @@ dns.flymc.cc CNAME .
 *.dns.flymc.cc CNAME .
 www-proxy.formen.cc CNAME .
 *.www-proxy.formen.cc CNAME .
+us-ny-alula.heliumcloud.cc CNAME .
+*.us-ny-alula.heliumcloud.cc CNAME .
 dns.interhub.cc CNAME .
 *.dns.interhub.cc CNAME .
 maxfong.cc CNAME .
@@ -1224,8 +1226,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -1932,8 +1932,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 nanoproxy.com CNAME .
 *.nanoproxy.com CNAME .
 napps-1.com CNAME .
@@ -5792,6 +5790,8 @@ dns.sarakas.net CNAME .
 *.dns.sarakas.net CNAME .
 dns.scarx.net CNAME .
 *.dns.scarx.net CNAME .
+schoolooks.net CNAME .
+*.schoolooks.net CNAME .
 secretbrowser.net CNAME .
 *.secretbrowser.net CNAME .
 securetunnels.net CNAME .
@@ -6724,6 +6724,8 @@ janvet.website.pl CNAME .
 *.janvet.website.pl CNAME .
 ixl.plus CNAME .
 *.ixl.plus CNAME .
+14-88.pro CNAME .
+*.14-88.pro CNAME .
 aboba.pro CNAME .
 *.aboba.pro CNAME .
 an-us.pro CNAME .
@@ -7314,8 +7316,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
@@ -7506,6 +7506,8 @@ clearvpn.co.uk CNAME .
 *.clearvpn.co.uk CNAME .
 ddelay.co.uk CNAME .
 *.ddelay.co.uk CNAME .
+www.dnsadguard.co.uk CNAME .
+*.www.dnsadguard.co.uk CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
 dns.gayanalysing.co.uk CNAME .

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 May 2025 14:24 UTC
-# Version: 2025.0513.1424.28
+# Last modified: 14 May 2025 03:03 UTC
+# Version: 2025.0514.0303.53
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1596
+# Number of entries: 1595
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -303,6 +303,7 @@
 0.0.0.0 dns.cmrg.net
 0.0.0.0 adguard.aa4.co.uk
 0.0.0.0 pihole.datamatter.co.za
+0.0.0.0 www.dnsadguard.co.uk
 0.0.0.0 dns.gayanalysing.co.uk
 0.0.0.0 dns.gi.co.id
 0.0.0.0 ag.hostme.co.il
@@ -616,7 +617,6 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 dns.eliv.kr
@@ -659,7 +659,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -731,6 +730,7 @@
 0.0.0.0 adguard.hartley.cloud
 0.0.0.0 query.hdns.io
 0.0.0.0 ordns.he.net
+0.0.0.0 us-ny-alula.heliumcloud.cc
 0.0.0.0 dns.hellozhao.com
 0.0.0.0 dns.henek.ovh
 0.0.0.0 httpdns-push.heytapmobile.com
@@ -1012,7 +1012,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
