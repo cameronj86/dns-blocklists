@@ -395,7 +395,7 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 4059 compressed domains
+**Entries:** 4315 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
