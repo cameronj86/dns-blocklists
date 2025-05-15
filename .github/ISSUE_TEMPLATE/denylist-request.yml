@@ -27,9 +27,12 @@ body:
         - AdGuard
         - AdGuard DNS
         - AdGuard Home
+        - Adblock-lean
+        - OPNsense
         - Pi-hole
+        - TechnitiumDNS
+        - pfBlockerNG
         - uBlock Origin
-        - adblock-lean
         - ControlD
         - DNSwarden
         - NextDNS
