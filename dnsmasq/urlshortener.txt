@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 May 2025 22:23 UTC
-# Version: 2025.0514.2223.36
+# Last modified: 15 May 2025 07:28 UTC
+# Version: 2025.0515.0728.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5736
+# Number of entries: 5743
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -46,6 +46,7 @@ local=/110.vg/
 local=/11ixcco.com/
 local=/11url.cn/
 local=/123.ge/
+local=/123l.pro/
 local=/123link.co/
 local=/123lnk.xyz/
 local=/124.video/
@@ -301,6 +302,7 @@ local=/aboutmywebsite.com/
 local=/abpl.top/
 local=/abr.ai/
 local=/abr.to/
+local=/abre.ae/
 local=/abre.ai/
 local=/abre.pub/
 local=/abso.lt/
@@ -848,6 +850,7 @@ local=/bstnd.in/
 local=/bsu.ac/
 local=/bt.ke/
 local=/btco.link/
+local=/btf.st/
 local=/btly.cc/
 local=/btm.li/
 local=/s.bts-ev.de/
@@ -4598,6 +4601,7 @@ local=/www.temporary-url.com/
 local=/temu.to/
 local=/ter.li/
 local=/terabox.in/
+local=/terabox.pw/
 local=/terahnahor.info/
 local=/terakki.link/
 local=/teratai888.ink/
@@ -5198,6 +5202,7 @@ local=/vl.am/
 local=/vla.lu/
 local=/vlcbm.com/
 local=/vlink.cz/
+local=/vloggi.com/
 local=/vms.bz/
 local=/vmsvv.top/
 local=/vnfim.top/
@@ -5306,6 +5311,7 @@ local=/wdphk.top/
 local=/wdsh.rs/
 local=/we.co/
 local=/we.tl/
+local=/we4.us/
 local=/weall.vote/
 local=/weare.rs/
 local=/web99.eu/
@@ -5632,6 +5638,7 @@ local=/yubi.co/
 local=/yukibio.com/
 local=/yun.ir/
 local=/yweb.com/
+local=/ywum.top/
 local=/yx.si/
 local=/yyv.co/
 local=/d.yzh.li/

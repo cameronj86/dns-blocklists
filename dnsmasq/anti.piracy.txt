@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 May 2025 02:07 UTC
-# Version: 2025.0515.0207.16
+# Last modified: 15 May 2025 11:22 UTC
+# Version: 2025.0515.1122.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10034
+# Number of entries: 10044
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -84,6 +84,7 @@ local=/123movies.mom/
 local=/123movies.mx/
 local=/123movies.online/
 local=/123movies.pics/
+local=/123movies.promo/
 local=/123movies.review/
 local=/123movies.sale/
 local=/123movies.sc/
@@ -100,6 +101,7 @@ local=/123movies-to.org/
 local=/123movies4u.fun/
 local=/123movies4u.life/
 local=/123movies4u.net/
+local=/123movies4u.pro/
 local=/123moviesbq.com/
 local=/123moviesc.cyou/
 local=/123moviesfree.love/
@@ -112,6 +114,7 @@ local=/123moviesgo.su/
 local=/123moviesgo.tv/
 local=/123movieshd.top/
 local=/123movieshub.cloud/
+local=/123movieshub.cyou/
 local=/123movieshub.it/
 local=/123movieshub.sc/
 local=/123movieshub.tech/
@@ -127,6 +130,7 @@ local=/123moviess.se/
 local=/123moviest.org/
 local=/123moviesto.co/
 local=/123moviesto.pro/
+local=/123moviestofree.com/
 local=/123moviestv.me/
 local=/123moviestv.net/
 local=/123movieswww.com/
@@ -161,6 +165,7 @@ local=/1377x.is/
 local=/141jav.com/
 local=/147job.com/
 local=/16mag.net/
+local=/1clickdown.com/
 local=/1ddl.org/
 local=/1fbdown.net/
 local=/1fichier.com/
@@ -193,9 +198,11 @@ local=/20links.com/
 local=/22-hd.com/
 local=/tracker.23794.top/
 local=/23movies.xyz/
+local=/24-download.com/
 local=/24-hd.com/
 local=/240x320.ru/
 local=/24h.tv/
+local=/24urban.com/
 local=/24warez.ru/
 local=/2bbit.com/
 local=/2bcalvi.com/
@@ -226,6 +233,7 @@ local=/33voirseries.com/
 local=/pcd.345.pl/
 local=/345movie.net/
 local=/365livesport.com/
+local=/365watchtv.com/
 local=/36dm.com/
 local=/3dmgame.com/
 local=/warezanet.3dn.ru/
@@ -309,12 +317,14 @@ local=/4players.org/
 local=/4realtorrentz.com/
 local=/4shared.com/
 local=/4stream.gg/
+local=/4watch.net/
 local=/18kara.50webs.com/
 local=/tracker1.520.jp/
 local=/tracker.52pt.site/
 local=/admin.52ywp.com/
 local=/54new.com/
 local=/5movierulz.vc/
+local=/5movies.buzz/
 local=/5movies.cloud/
 local=/5movies.fm/
 local=/5movies.live/
@@ -329,6 +339,7 @@ local=/61626c.net/
 local=/64dd.org/
 local=/6ahddutb1ucc3cp.ru/
 local=/6box.me/
+local=/6stream.xyz/
 local=/6streams.tv/
 local=/bit-torrents.6x.to/
 local=/warez-fusion.6x.to/
@@ -395,6 +406,7 @@ local=/acg.rip/
 local=/bt.acg.gg/
 local=/tracker.acg.gg/
 local=/acgnx.se/
+local=/acgnxtracker.com/
 local=/acgsou.com/
 local=/open.acgtracker.com/
 local=/acid-play.com/
@@ -637,7 +649,6 @@ local=/altadefinizione01.it/
 local=/altadefinizione01.life/
 local=/altadefinizione01.love/
 local=/altadefinizione01.name/
-local=/altadefinizione01.photo/
 local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.site/
@@ -4490,7 +4501,6 @@ local=/indep.eu/
 local=/indiaboat.art/
 local=/indiankino.org/
 local=/indietorrents.com/
-local=/tracker2.indowebster.com/
 local=/indown.io/
 local=/indoxx1film.me/
 local=/indoxxi.center/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 May 2025 02:25 UTC
-# Version: 2025.0515.0225.16
+# Last modified: 15 May 2025 11:39 UTC
+# Version: 2025.0515.1139.54
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1596
+# Number of entries: 1595
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -659,7 +659,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net

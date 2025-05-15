@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 May 2025 02:25 UTC
-# Version: 2025.0515.0225.16
+# Last modified: 15 May 2025 11:39 UTC
+# Version: 2025.0515.1139.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1437
+# Number of entries: 1436
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -552,7 +552,6 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
-local=/dns.fizz.studio/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
 local=/dns01.flm9.net/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 May 2025 02:26 UTC
-# Version: 2025.0515.0226.44
+# Last modified: 15 May 2025 11:41 UTC
+# Version: 2025.0515.1141.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4286
+# Number of entries: 4287
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -41,6 +41,7 @@ local=/123me.net/
 local=/123music.app/
 local=/123mymusic.net/
 local=/123proxy.app/
+local=/123proxy.biz/
 local=/123proxy.cool/
 local=/123proxy.me/
 local=/123proxyx.com/
@@ -135,6 +136,7 @@ local=/8v9m.com/
 local=/922proxy.com/
 local=/dns.9999.sg/
 local=/99proxy.com/
+local=/9w9.org/
 local=/dns.a47.me/
 local=/doh.aaaab3n.moe/
 local=/adb.aadityakushwaha.com/
@@ -1331,7 +1333,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/

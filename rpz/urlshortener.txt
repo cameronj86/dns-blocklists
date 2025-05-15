@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747261380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747294080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 May 2025 22:23 UTC
-; Version: 2025.0514.2223.36
+; Last modified: 15 May 2025 07:28 UTC
+; Version: 2025.0515.0728.02
 ; Syntax: RPZ
-; Number of entries: 11472
+; Number of entries: 11486
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -46,6 +46,8 @@ tpm.ac CNAME .
 *.tpm.ac CNAME .
 2h.ae CNAME .
 *.2h.ae CNAME .
+abre.ae CNAME .
+*.abre.ae CNAME .
 clic.ae CNAME .
 *.clic.ae CNAME .
 i8.ae CNAME .
@@ -3276,6 +3278,8 @@ vkujd.com CNAME .
 *.vkujd.com CNAME .
 vlcbm.com CNAME .
 *.vlcbm.com CNAME .
+vloggi.com CNAME .
+*.vloggi.com CNAME .
 vnshortener.com CNAME .
 *.vnshortener.com CNAME .
 vntyfr.com CNAME .
@@ -8940,6 +8944,8 @@ su.pr CNAME .
 *.su.pr CNAME .
 ouo.press CNAME .
 *.ouo.press CNAME .
+123l.pro CNAME .
+*.123l.pro CNAME .
 5rb.pro CNAME .
 *.5rb.pro CNAME .
 99vpn.pro CNAME .
@@ -9076,6 +9082,8 @@ sura.pw CNAME .
 *.sura.pw CNAME .
 tcp.pw CNAME .
 *.tcp.pw CNAME .
+terabox.pw CNAME .
+*.terabox.pw CNAME .
 tmt.pw CNAME .
 *.tmt.pw CNAME .
 x11.pw CNAME .
@@ -9948,6 +9956,8 @@ arkinv.st CNAME .
 *.arkinv.st CNAME .
 bo.st CNAME .
 *.bo.st CNAME .
+btf.st CNAME .
+*.btf.st CNAME .
 bui.st CNAME .
 *.bui.st CNAME .
 comca.st CNAME .
@@ -10688,6 +10698,8 @@ yfdxr.top CNAME .
 *.yfdxr.top CNAME .
 yhpdh.top CNAME .
 *.yhpdh.top CNAME .
+ywum.top CNAME .
+*.ywum.top CNAME .
 zejop.top CNAME .
 *.zejop.top CNAME .
 zekfi.top CNAME .
@@ -11070,6 +11082,8 @@ vt802.us CNAME .
 *.vt802.us CNAME .
 w3n.us CNAME .
 *.w3n.us CNAME .
+we4.us CNAME .
+*.we4.us CNAME .
 wellnessreview.us CNAME .
 *.wellnessreview.us CNAME .
 xiqi.us CNAME .

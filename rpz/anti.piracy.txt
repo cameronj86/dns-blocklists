@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747274820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747308120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 May 2025 02:07 UTC
-; Version: 2025.0515.0207.16
+; Last modified: 15 May 2025 11:22 UTC
+; Version: 2025.0515.1122.22
 ; Syntax: RPZ
-; Number of entries: 20068
+; Number of entries: 20088
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -777,6 +777,8 @@ guardaserie.builders CNAME .
 *.1337x.buzz CNAME .
 4kfilm.buzz CNAME .
 *.4kfilm.buzz CNAME .
+5movies.buzz CNAME .
+*.5movies.buzz CNAME .
 freemovies.buzz CNAME .
 *.freemovies.buzz CNAME .
 ilgeniodellostreaming.buzz CNAME .
@@ -2067,6 +2069,8 @@ tracker.0x7c0.com CNAME .
 *.123moviesget.com CNAME .
 123movieshubz.com CNAME .
 *.123movieshubz.com CNAME .
+123moviestofree.com CNAME .
+*.123moviestofree.com CNAME .
 123movieswww.com CNAME .
 *.123movieswww.com CNAME .
 123movietheater.com CNAME .
@@ -2079,6 +2083,8 @@ tracker.0x7c0.com CNAME .
 *.141jav.com CNAME .
 147job.com CNAME .
 *.147job.com CNAME .
+1clickdown.com CNAME .
+*.1clickdown.com CNAME .
 1fichier.com CNAME .
 *.1fichier.com CNAME .
 1kif.com CNAME .
@@ -2093,8 +2099,12 @@ tracker.0x7c0.com CNAME .
 *.20links.com CNAME .
 22-hd.com CNAME .
 *.22-hd.com CNAME .
+24-download.com CNAME .
+*.24-download.com CNAME .
 24-hd.com CNAME .
 *.24-hd.com CNAME .
+24urban.com CNAME .
+*.24urban.com CNAME .
 2bbit.com CNAME .
 *.2bbit.com CNAME .
 2bcalvi.com CNAME .
@@ -2119,6 +2129,8 @@ danime.2ya.com CNAME .
 *.33voirseries.com CNAME .
 365livesport.com CNAME .
 *.365livesport.com CNAME .
+365watchtv.com CNAME .
+*.365watchtv.com CNAME .
 36dm.com CNAME .
 *.36dm.com CNAME .
 3dmgame.com CNAME .
@@ -2199,6 +2211,8 @@ abrokegamer.com CNAME .
 *.abrokegamer.com CNAME .
 abtorrents.com CNAME .
 *.abtorrents.com CNAME .
+acgnxtracker.com CNAME .
+*.acgnxtracker.com CNAME .
 acgsou.com CNAME .
 *.acgsou.com CNAME .
 open.acgtracker.com CNAME .
@@ -4471,8 +4485,6 @@ inclouddrive.com CNAME .
 *.inclouddrive.com CNAME .
 indietorrents.com CNAME .
 *.indietorrents.com CNAME .
-tracker2.indowebster.com CNAME .
-*.tracker2.indowebster.com CNAME .
 inflact.com CNAME .
 *.inflact.com CNAME .
 infolinkbd.com CNAME .
@@ -7705,6 +7717,8 @@ xcine.cx CNAME .
 *.xcine.cx CNAME .
 123moviesc.cyou CNAME .
 *.123moviesc.cyou CNAME .
+123movieshub.cyou CNAME .
+*.123movieshub.cyou CNAME .
 afdah2.cyou CNAME .
 *.afdah2.cyou CNAME .
 altadefinizione.cyou CNAME .
@@ -11451,6 +11465,8 @@ wwvw.4files.net CNAME .
 *.wwvw.4files.net CNAME .
 xn--80aejjrnhcji.4files.net CNAME .
 *.xn--80aejjrnhcji.4files.net CNAME .
+4watch.net CNAME .
+*.4watch.net CNAME .
 5moviesfree.net CNAME .
 *.5moviesfree.net CNAME .
 61626c.net CNAME .
@@ -15459,8 +15475,6 @@ tantifilm.ph CNAME .
 *.tantifilm.ph CNAME .
 torrent9.ph CNAME .
 *.torrent9.ph CNAME .
-altadefinizione01.photo CNAME .
-*.altadefinizione01.photo CNAME .
 cb01.photos CNAME .
 *.cb01.photos CNAME .
 123movies.pics CNAME .
@@ -15737,6 +15751,8 @@ cb01.press CNAME .
 *.cb01.press CNAME .
 thepiratebay.press CNAME .
 *.thepiratebay.press CNAME .
+123movies4u.pro CNAME .
+*.123movies4u.pro CNAME .
 123moviesfull.pro CNAME .
 *.123moviesfull.pro CNAME .
 123moviesto.pro CNAME .
@@ -15865,6 +15881,8 @@ xxxtorrents.pro CNAME .
 *.xxxtorrents.pro CNAME .
 cb01.productions CNAME .
 *.cb01.productions CNAME .
+123movies.promo CNAME .
+*.123movies.promo CNAME .
 altadefinizione01.promo CNAME .
 *.altadefinizione01.promo CNAME .
 cineblog01.promo CNAME .
@@ -19729,6 +19747,8 @@ atrack-asia-s1.114913.xyz CNAME .
 *.337hhh.xyz CNAME .
 bt.3kb.xyz CNAME .
 *.bt.3kb.xyz CNAME .
+6stream.xyz CNAME .
+*.6stream.xyz CNAME .
 960303.xyz CNAME .
 *.960303.xyz CNAME .
 allsportsflix.xyz CNAME .
