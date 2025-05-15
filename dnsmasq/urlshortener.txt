@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 May 2025 07:28 UTC
-# Version: 2025.0515.0728.02
+# Last modified: 15 May 2025 15:31 UTC
+# Version: 2025.0515.1531.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5743
+# Number of entries: 5758
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -228,6 +228,7 @@ local=/7fth.cc/
 local=/7g7.ir/
 local=/7i.se/
 local=/7kts.com/
+local=/7li.in/
 local=/7link.info/
 local=/7links.co/
 local=/7n.re/
@@ -326,6 +327,8 @@ local=/aces.so/
 local=/acessa.app/
 local=/acg.kr/
 local=/acortar.link/
+local=/acrefo.com/
+local=/acrestic.com/
 local=/acrt.us/
 local=/act.gp/
 local=/activetea.ch/
@@ -343,6 +346,7 @@ local=/add.lat/
 local=/addict-tt27.life/
 local=/adeolasagay.live/
 local=/adesta.cc/
+local=/adf.ly/
 local=/adfa.st/
 local=/adflydsp.com/
 local=/adflyfly.com/
@@ -365,6 +369,7 @@ local=/adr.ec/
 local=/adr3.ir/
 local=/adrians-guzman-81.life/
 local=/ads.so/
+local=/adsclicks.life/
 local=/adshort.co/
 local=/adsmoker.com/
 local=/adult-haem-home.life/
@@ -482,6 +487,7 @@ local=/andauth.co/
 local=/ane.ong/
 local=/anep.top/
 local=/angl.at/
+local=/anisepretzel.com/
 local=/anizam.ru/
 local=/anmeld.biz/
 local=/anon.to/
@@ -492,6 +498,7 @@ local=/answ.xyz/
 local=/antinawala.team/
 local=/anupgopurams.life/
 local=/anvcc.top/
+local=/any.gs/
 local=/anyimage.io/
 local=/aol.it/
 local=/aon.io/
@@ -521,6 +528,7 @@ local=/apurl.in/
 local=/apzjp.com/
 local=/apzjp.sbs/
 local=/aqehb.com/
+local=/aqva.pl/
 local=/aqyne.com/
 local=/ar-technology.live/
 local=/arab.news/
@@ -623,6 +631,7 @@ local=/bafrv.top/
 local=/baid.us/
 local=/baixeapk.com/
 local=/balls.no/
+local=/bamaccoin.com/
 local=/baratun.de/
 local=/barbenady.live/
 local=/barbieclothingcloset.live/
@@ -799,6 +808,7 @@ local=/bonai.re/
 local=/bonap.it/
 local=/bonustips.club/
 local=/boofola.link/
+local=/bookdjprime.com/
 local=/booki.ng/
 local=/bookstw.link/
 local=/cdl.booksy.com/
@@ -4604,6 +4614,7 @@ local=/terabox.in/
 local=/terabox.pw/
 local=/terahnahor.info/
 local=/terakki.link/
+local=/terasherelinks.site/
 local=/teratai888.ink/
 local=/terbar.ink/
 local=/terijoss.com/
@@ -4982,7 +4993,9 @@ local=/untpft.com/
 local=/unzp.top/
 local=/uofr.us/
 local=/uoft.me/
+local=/uokko.sbs/
 local=/uom.link/
+local=/uos.cc/
 local=/up.to/
 local=/updating.me/
 local=/upfull.fr/
@@ -5568,6 +5581,7 @@ local=/yadi.sk/
 local=/yagoa.fr/
 local=/yahbo.com/
 local=/yal.su/
+local=/yalepccsm.com/
 local=/yalink.ru/
 local=/s.yam.com/
 local=/yamechanic.com/
@@ -5742,6 +5756,7 @@ local=/zsirkacsa.hu/
 local=/zsjdu.com/
 local=/zsote.com/
 local=/zti.me/
+local=/zugco.sbs/
 local=/zuki.ie/
 local=/zum.bi/
 local=/zuplo.link/

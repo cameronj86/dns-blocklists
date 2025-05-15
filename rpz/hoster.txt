@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747293960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747323000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 May 2025 07:26 UTC
-; Version: 2025.0515.0726.33
+; Last modified: 15 May 2025 15:30 UTC
+; Version: 2025.0515.1530.29
 ; Syntax: RPZ
-; Number of entries: 4212
+; Number of entries: 4218
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -523,6 +523,8 @@ articlesblogger.com CNAME .
 *.articlesblogger.com CNAME .
 arwebo.com CNAME .
 *.arwebo.com CNAME .
+atsnx.com CNAME .
+*.atsnx.com CNAME .
 atspace.com CNAME .
 *.atspace.com CNAME .
 atualblog.com CNAME .
@@ -2689,6 +2691,8 @@ de.im CNAME .
 *.de.im CNAME .
 mybb.im CNAME .
 *.mybb.im CNAME .
+anschauen.in CNAME .
+*.anschauen.in CNAME .
 blogspot.in CNAME .
 *.blogspot.in CNAME .
 blogspot.com.in CNAME .
@@ -4149,6 +4153,8 @@ revk.uk CNAME .
 *.revk.uk CNAME .
 0fees.us CNAME .
 *.0fees.us CNAME .
+20m.us CNAME .
+*.20m.us CNAME .
 atspace.us CNAME .
 *.atspace.us CNAME .
 blogranking.us CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747309260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747338240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 May 2025 11:41 UTC
-; Version: 2025.0515.1141.20
+; Last modified: 15 May 2025 19:44 UTC
+; Version: 2025.0515.1944.24
 ; Syntax: RPZ
-; Number of entries: 8574
+; Number of entries: 8590
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -458,6 +458,8 @@ goguardian-sucks.cognus.cl CNAME .
 *.goguardian-sucks.cognus.cl CNAME .
 i-like-my-cheese-drippy-bruh.iamasigma.cognus.cl CNAME .
 *.i-like-my-cheese-drippy-bruh.iamasigma.cognus.cl CNAME .
+use.delcarmen.cl CNAME .
+*.use.delcarmen.cl CNAME .
 devfruitpremium.incodesltda.cl CNAME .
 *.devfruitpremium.incodesltda.cl CNAME .
 dns.michelo.cl CNAME .
@@ -836,6 +838,8 @@ antpeak.com CNAME .
 *.antpeak.com CNAME .
 vocab.real.anynall.com CNAME .
 *.vocab.real.anynall.com CNAME .
+aplusvpn.com CNAME .
+*.aplusvpn.com CNAME .
 ag.apollohct.com CNAME .
 *.ag.apollohct.com CNAME .
 doh.dns.apple.com CNAME .
@@ -1338,6 +1342,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -2876,8 +2882,6 @@ eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
 error.proxy.startpage.com CNAME .
 *.error.proxy.startpage.com CNAME .
-proxy1.startpage.com CNAME .
-*.proxy1.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -4144,6 +4148,8 @@ wez.fr CNAME .
 *.wez.fr CNAME .
 adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
+dns.auapi.fun CNAME .
+*.dns.auapi.fun CNAME .
 axaxa.fun CNAME .
 *.axaxa.fun CNAME .
 ag.brianlee.fun CNAME .
@@ -4846,6 +4852,8 @@ dns.rafn.is CNAME .
 *.dns.rafn.is CNAME .
 ricko.is CNAME .
 *.ricko.is CNAME .
+use.star.is CNAME .
+*.use.star.is CNAME .
 block.abstergo.it CNAME .
 *.block.abstergo.it CNAME .
 doh.ccb-net.it CNAME .
@@ -5348,6 +5356,8 @@ doh.appliedprivacy.net CNAME .
 *.doh.appliedprivacy.net CNAME .
 dot1.appliedprivacy.net CNAME .
 *.dot1.appliedprivacy.net CNAME .
+doh.armadillodns.net CNAME .
+*.doh.armadillodns.net CNAME .
 dns.ashleyjackson.net CNAME .
 *.dns.ashleyjackson.net CNAME .
 dohtrial.att.net CNAME .
@@ -6586,6 +6596,8 @@ mailer.amlegion.org CNAME .
 *.mailer.amlegion.org CNAME .
 amnezia.org CNAME .
 *.amnezia.org CNAME .
+anonproxy.org CNAME .
+*.anonproxy.org CNAME .
 anonymouse.org CNAME .
 *.anonymouse.org CNAME .
 anonymousvpn.org CNAME .
@@ -7128,6 +7140,8 @@ janvet.website.pl CNAME .
 *.janvet.website.pl CNAME .
 lilliwnnapfeswa9z.wolnoscwkieszeni.pl CNAME .
 *.lilliwnnapfeswa9z.wolnoscwkieszeni.pl CNAME .
+error404becausepar1scantlose.run.place CNAME .
+*.error404becausepar1scantlose.run.place CNAME .
 ixl.plus CNAME .
 *.ixl.plus CNAME .
 14-88.pro CNAME .
@@ -7754,6 +7768,8 @@ crypto.sx CNAME .
 *.crypto.sx CNAME .
 proxy.sx CNAME .
 *.proxy.sx CNAME .
+jaiguneeds.root.sx CNAME .
+*.jaiguneeds.root.sx CNAME .
 seigetime.ix.tc CNAME .
 *.seigetime.ix.tc CNAME .
 tridecagram.ix.tc CNAME .

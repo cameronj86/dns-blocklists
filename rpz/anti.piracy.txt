@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747308120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747337100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 May 2025 11:22 UTC
-; Version: 2025.0515.1122.22
+; Last modified: 15 May 2025 19:25 UTC
+; Version: 2025.0515.1925.16
 ; Syntax: RPZ
-; Number of entries: 20088
+; Number of entries: 20112
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2275,6 +2275,8 @@ tracker.aladar.com CNAME .
 *.tracker.aladar.com CNAME .
 alfanotv.com CNAME .
 *.alfanotv.com CNAME .
+alifanet.com CNAME .
+*.alifanet.com CNAME .
 iptv.aliflailabd.com CNAME .
 *.iptv.aliflailabd.com CNAME .
 alivedownload.com CNAME .
@@ -2395,6 +2397,8 @@ animesimple.com CNAME .
 *.animesimple.com CNAME .
 animesuki.com CNAME .
 *.animesuki.com CNAME .
+animetorrents.com CNAME .
+*.animetorrents.com CNAME .
 animex.com CNAME .
 *.animex.com CNAME .
 animezia.com CNAME .
@@ -2597,6 +2601,10 @@ atopgames.com CNAME .
 *.atopgames.com CNAME .
 atorrents.com CNAME .
 *.atorrents.com CNAME .
+attractiveservices.com CNAME .
+*.attractiveservices.com CNAME .
+audio-track.com CNAME .
+*.audio-track.com CNAME .
 audiobb.com CNAME .
 *.audiobb.com CNAME .
 audiobookol.com CNAME .
@@ -2611,6 +2619,8 @@ audiotracer.com CNAME .
 *.audiotracer.com CNAME .
 audiozonetorrents.com CNAME .
 *.audiozonetorrents.com CNAME .
+aurastresser.com CNAME .
+*.aurastresser.com CNAME .
 aurora-raws.com CNAME .
 *.aurora-raws.com CNAME .
 aussietorrents.com CNAME .
@@ -9093,6 +9103,8 @@ kinogo.inc CNAME .
 *.kinogo.inc CNAME .
 abcvg.info CNAME .
 *.abcvg.info CNAME .
+afdah.info CNAME .
+*.afdah.info CNAME .
 allseek.info CNAME .
 *.allseek.info CNAME .
 altadefinizione.info CNAME .
@@ -11519,6 +11531,8 @@ altbinz.net CNAME .
 *.altbinz.net CNAME .
 altermind.net CNAME .
 *.altermind.net CNAME .
+stress.alwaysdata.net CNAME .
+*.stress.alwaysdata.net CNAME .
 amaderforum.net CNAME .
 *.amaderforum.net CNAME .
 amaderftp.net CNAME .
@@ -13661,6 +13675,8 @@ altadefinizione.online CNAME .
 *.altadefinizione.online CNAME .
 altadefinizione-originale.online CNAME .
 *.altadefinizione-originale.online CNAME .
+altadefinizione01.online CNAME .
+*.altadefinizione01.online CNAME .
 assistirseriados.online CNAME .
 *.assistirseriados.online CNAME .
 assistirtvgratis.online CNAME .
@@ -13821,6 +13837,10 @@ afdah.org CNAME .
 *.afdah.org CNAME .
 alldj.org CNAME .
 *.alldj.org CNAME .
+alleenretail.org CNAME .
+*.alleenretail.org CNAME .
+allfreesoftware.org CNAME .
+*.allfreesoftware.org CNAME .
 alluc.org CNAME .
 *.alluc.org CNAME .
 allyoulike.org CNAME .
@@ -16333,6 +16353,8 @@ anisearch.ru CNAME .
 *.anisearch.ru CNAME .
 appstorrent.ru CNAME .
 *.appstorrent.ru CNAME .
+arenda123.ru CNAME .
+*.arenda123.ru CNAME .
 artkonkurs.ru CNAME .
 *.artkonkurs.ru CNAME .
 astrr.ru CNAME .
@@ -16743,6 +16765,8 @@ cb01.school CNAME .
 *.720pstream.se CNAME .
 acgnx.se CNAME .
 *.acgnx.se CNAME .
+amazing-news.se CNAME .
+*.amazing-news.se CNAME .
 animebam.se CNAME .
 *.animebam.se CNAME .
 audiobookbay.se CNAME .

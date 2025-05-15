@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 May 2025 11:22 UTC
-# Version: 2025.0515.1122.22
+# Last modified: 15 May 2025 19:25 UTC
+# Version: 2025.0515.1925.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10044
+# Number of entries: 10056
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -439,6 +439,7 @@ local=/aeromods.app/
 local=/aerotwitter.com/
 local=/aerowa.cc/
 local=/afdah.com/
+local=/afdah.info/
 local=/afdah.live/
 local=/afdah.org/
 local=/afdah.to/
@@ -480,6 +481,7 @@ local=/alice.al/
 local=/alienflix.net/
 local=/aliez.me/
 local=/aliez.tv/
+local=/alifanet.com/
 local=/iptv.aliflailabd.com/
 local=/alivedownload.com/
 local=/all-animes.com/
@@ -490,9 +492,11 @@ local=/alldebrid.es/
 local=/alldebrid.fr/
 local=/alldebrid.it/
 local=/alldj.org/
+local=/alleenretail.org/
 local=/allesanddro.de/
 local=/allesender.de/
 local=/allfreeapk.com/
+local=/allfreesoftware.org/
 local=/allhd.tv/
 local=/alliance4creativity.com/
 local=/allin1.cx/
@@ -649,6 +653,7 @@ local=/altadefinizione01.it/
 local=/altadefinizione01.life/
 local=/altadefinizione01.love/
 local=/altadefinizione01.name/
+local=/altadefinizione01.online/
 local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.site/
@@ -666,8 +671,10 @@ local=/altbinz.net/
 local=/altermind.net/
 local=/alterupload.com/
 local=/tracker.altrosky.nl/
+local=/stress.alwaysdata.net/
 local=/amaderforum.net/
 local=/amaderftp.net/
+local=/amazing-news.se/
 local=/ambassadorddl.site/
 local=/ambits.org/
 local=/amcomputers.org/
@@ -790,6 +797,7 @@ local=/animesuki.com/
 local=/animet.ru/
 local=/animetake.tv/
 local=/animetoon.org/
+local=/animetorrents.com/
 local=/animetorrents.me/
 local=/animetosho.org/
 local=/animeua.club/
@@ -958,6 +966,7 @@ local=/arena-tr.com/
 local=/arenabg.ch/
 local=/arenabg.com/
 local=/arenahd.com/
+local=/arenda123.ru/
 local=/argenteam.net/
 local=/argentinawarez.com/
 local=/arishabd.net/
@@ -1019,9 +1028,11 @@ local=/attack-on-titan.online/
 local=/attacker.tv/
 local=/attackertv.net/
 local=/attackertv.so/
+local=/attractiveservices.com/
 local=/atzenbunker.xyz/
 local=/tracker.auctor.tv/
 local=/audio.download/
+local=/audio-track.com/
 local=/audiobb.com/
 local=/audiobit.ru/
 local=/audiobookbay.is/
@@ -1040,6 +1051,7 @@ local=/audiop2p.com/
 local=/audiostuff.ro/
 local=/audiotracer.com/
 local=/audiozonetorrents.com/
+local=/aurastresser.com/
 local=/aurora-raws.com/
 local=/aussietorrents.com/
 local=/autobitx.com/

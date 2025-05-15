@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 May 2025 11:41 UTC
-# Version: 2025.0515.1141.20
+# Last modified: 15 May 2025 19:44 UTC
+# Version: 2025.0515.1944.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4287
+# Number of entries: 4295
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -251,6 +251,7 @@ local=/dns.anon.no/
 local=/a-regist.anondns.net/
 local=/anonine.com/
 local=/anonproxy.eu/
+local=/anonproxy.org/
 local=/anonvpn.io/
 local=/anonwebproxy.com/
 local=/anonymitynetwork.com/
@@ -280,6 +281,7 @@ local=/anyip.io/
 local=/ad.anym0re.ru/
 local=/vocab.real.anynall.com/
 local=/doh.apad.pro/
+local=/aplusvpn.com/
 local=/ag.apollohct.com/
 local=/doh.dns.apple.com/
 local=/appleproxy.com/
@@ -297,6 +299,7 @@ local=/proof.major.archanet.org/
 local=/doh.archuser.org/
 local=/dns.ares-taiwan.com/
 local=/dns.arkbotech.com/
+local=/doh.armadillodns.net/
 local=/nsec.arnor.org/
 local=/artclass.lol/
 local=/artclass.site/
@@ -316,6 +319,7 @@ local=/atozproxy.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
 local=/atvsh.ir/
+local=/dns.auapi.fun/
 local=/aufonddesbois.com/
 local=/stevenisafemboy.auraria.org/
 local=/aurora-softworks.xyz/
@@ -935,6 +939,7 @@ local=/defencevpn.com/
 local=/defilter.us/
 local=/dns.dekedin.me/
 local=/adguard.dekonix.ru/
+local=/use.delcarmen.cl/
 local=/doh.denypradana.com/
 local=/adguard.depieri.net/
 local=/deproxyserver.com/
@@ -1195,6 +1200,7 @@ local=/eduacation.lol/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -3104,6 +3110,7 @@ local=/dns.ronc.ru/
 local=/roodel.com/
 local=/roogen.com/
 local=/roonyx.com/
+local=/jaiguneeds.root.sx/
 local=/dns.rootlab.top/
 local=/roskomnadzorgorivadu.ru/
 local=/dns.rotunneling.net/
@@ -3122,6 +3129,7 @@ local=/ea-dns.rubyfish.cn/
 local=/uw-dns.rubyfish.cn/
 local=/yoursuper.rude.li/
 local=/rumpelsepp.org/
+local=/error404becausepar1scantlose.run.place/
 local=/doh.runsel.id/
 local=/rushproxy.com/
 local=/agh-yz.russel053.com/
@@ -3370,6 +3378,7 @@ local=/doh.ntu.ssooss.win/
 local=/dns.sstomp.nl/
 local=/stable-vpn.com/
 local=/stackfront.xyz/
+local=/use.star.is/
 local=/stargate.one/
 local=/task.words.starlordbob.com/
 local=/starruby.us/
@@ -3381,7 +3390,6 @@ local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/error.proxy.startpage.com/
-local=/proxy1.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us-browse.startpage.com/
