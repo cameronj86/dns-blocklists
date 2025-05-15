@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 11 May 2025 13:57 UTC
-! Version: 2025.0511.1357.40
+! Last modified: 15 May 2025 02:28 UTC
+! Version: 2025.0515.0228.26
 ! Syntax: uBlock
 ! Number of latin TLDs: 256 - non-latin TLDs: 151
 !
@@ -28,7 +28,7 @@
 ||bar^$doc,domain=~fap.bar|~strem.bar
 ||beauty^$doc
 ||beer^$doc
-||best^$doc,domain=~epg.best
+||best^$doc,domain=~epg.best|~xhamster.best
 ||bet^$doc
 ||bid^$doc
 ||bike^$doc,domain=~lime.bike|~rapido.bike

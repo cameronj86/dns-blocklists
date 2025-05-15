@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747218240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747261380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 May 2025 10:24 UTC
-; Version: 2025.0514.1024.50
+; Last modified: 14 May 2025 22:23 UTC
+; Version: 2025.0514.2223.36
 ; Syntax: RPZ
-; Number of entries: 11474
+; Number of entries: 11472
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1642,6 +1642,8 @@ avxvz.com CNAME .
 *.avxvz.com CNAME .
 awwurl.com CNAME .
 *.awwurl.com CNAME .
+aypkl.com CNAME .
+*.aypkl.com CNAME .
 ayzyu.com CNAME .
 *.ayzyu.com CNAME .
 azipurl.com CNAME .
@@ -3314,6 +3316,8 @@ walpolevoterguide2024.com CNAME .
 *.walpolevoterguide2024.com CNAME .
 wceo.com CNAME .
 *.wceo.com CNAME .
+wdpcq.com CNAME .
+*.wdpcq.com CNAME .
 webdigraziosi1.com CNAME .
 *.webdigraziosi1.com CNAME .
 webshortner.com CNAME .
@@ -5084,6 +5088,8 @@ vip-gacha99.info CNAME .
 *.vip-gacha99.info CNAME .
 w-hun-n-9883-gh.info CNAME .
 *.w-hun-n-9883-gh.info CNAME .
+wdkbw.info CNAME .
+*.wdkbw.info CNAME .
 webinfos.info CNAME .
 *.webinfos.info CNAME .
 wheat-td.info CNAME .
@@ -5890,6 +5896,8 @@ saf.li CNAME .
 *.saf.li CNAME .
 shortcm.li CNAME .
 *.shortcm.li CNAME .
+ssa.li CNAME .
+*.ssa.li CNAME .
 surl.li CNAME .
 *.surl.li CNAME .
 tdrive.li CNAME .
@@ -6320,8 +6328,6 @@ rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
 rivera-quinones-luis-manuel-5.life CNAME .
 *.rivera-quinones-luis-manuel-5.life CNAME .
-robloxgroup.life CNAME .
-*.robloxgroup.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -6352,8 +6358,6 @@ siakap.life CNAME .
 *.siakap.life CNAME .
 sibutathemba120.life CNAME .
 *.sibutathemba120.life CNAME .
-snapchats.life CNAME .
-*.snapchats.life CNAME .
 soegyi.life CNAME .
 *.soegyi.life CNAME .
 soulful-transformation-studio.life CNAME .
@@ -7042,8 +7046,6 @@ onlineclothes.live CNAME .
 *.onlineclothes.live CNAME .
 onlyfansamairanidiaz.live CNAME .
 *.onlyfansamairanidiaz.live CNAME .
-onlyfanscaycoleman.live CNAME .
-*.onlyfanscaycoleman.live CNAME .
 oostra.live CNAME .
 *.oostra.live CNAME .
 oururl.live CNAME .
@@ -7142,8 +7144,6 @@ smfcx.live CNAME .
 *.smfcx.live CNAME .
 soegyi.live CNAME .
 *.soegyi.live CNAME .
-spotifypigeon.live CNAME .
-*.spotifypigeon.live CNAME .
 srwedding.live CNAME .
 *.srwedding.live CNAME .
 sumpahdokteruph52.live CNAME .
@@ -7188,8 +7188,6 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
-vim-tiktok.live CNAME .
-*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -9328,8 +9326,6 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
-shopeedeals.sale CNAME .
-*.shopeedeals.sale CNAME .
 aplnn.sbs CNAME .
 *.aplnn.sbs CNAME .
 apzjp.sbs CNAME .
@@ -10666,6 +10662,8 @@ walbv.top CNAME .
 *.walbv.top CNAME .
 wbduy.top CNAME .
 *.wbduy.top CNAME .
+wdphk.top CNAME .
+*.wdphk.top CNAME .
 wjib.top CNAME .
 *.wjib.top CNAME .
 wndhj.top CNAME .
