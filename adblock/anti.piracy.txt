@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 May 2025 03:19 UTC
-! Version: 2025.0516.0319.42
+! Last modified: 16 May 2025 11:23 UTC
+! Version: 2025.0516.1123.55
 ! Syntax: AdBlock
-! Number of entries: 10082
+! Number of entries: 10108
 !
 ||0123456789nonexistent.com^
 ||0123movie.net^
@@ -2097,6 +2097,7 @@
 ||comandotorrenthd.net^
 ||comandotorrents.com^
 ||comandotorrents.org^
+||comandotorrentshd.net^
 ||mywebpages.comcast.net^
 ||comcentral.com^
 ||comebackdownload.com^
@@ -2173,9 +2174,11 @@
 ||crack.nu^
 ||crack-cd.com^
 ||crack-cd.net^
+||crack4patch.com^
 ||crack4soft.com^
 ||crack81.com^
 ||crackaio.com^
+||crackcrew.com^
 ||crackdb.com^
 ||crackdb.org^
 ||cracked.io^
@@ -2351,6 +2354,7 @@
 ||damag.net^
 ||damedesuyo.com^
 ||danger.lv^
+||danimados.com^
 ||danishbits.org^
 ||dark-angel.ws^
 ||darkanime.stream^
@@ -2387,6 +2391,7 @@
 ||datorrents.com^
 ||dats.site^
 ||daveking.com^
+||bt.davka.info^
 ||dbbians.com^
 ||dbgo.fun^
 ||dbgt.com^
@@ -2396,8 +2401,10 @@
 ||dctp.tv^
 ||dd12streams.com^
 ||ddgroupclub.win^
+||ddl.me^
 ||ddl.to^
 ||ddl-warez.cc^
+||ddl-warez.org^
 ||ddl-world.ws^
 ||ddl2.com^
 ||ddl2.ws^
@@ -2416,6 +2423,8 @@
 ||ddos.tools^
 ||ddgu.ddos-guard.net^
 ||ddos-ip.com^
+||ddosbreak.com^
+||ddosforhire.net^
 ||ddostheworld.com^
 ||ddownload.com^
 ||tracker.ddunlimited.net^
@@ -2480,8 +2489,12 @@
 ||dfast.app^
 ||dfichiers.com^
 ||dflix.live^
+||bm.dfnbd.net^
 ||bn.dfnbd.net^
+||cm.dfnbd.net^
 ||em.dfnbd.net^
+||srl.dfnbd.net^
+||torrent.dfnbd.net^
 ||tube.dfnbd.net^
 ||tv.dfnbd.net^
 ||dfox.it^
@@ -2636,6 +2649,7 @@
 ||downloadmart.org^
 ||downloadportal.dk^
 ||downloadpost.com^
+||downloads.ws^
 ||downloads-anymovies.co^
 ||downloads-anymovies.com^
 ||downloadsebook.org^
@@ -2644,8 +2658,10 @@
 ||downloadsvia.org^
 ||downloadteam.org^
 ||downloadtop.org^
+||downloadwarez.org^
 ||downmagaz.net^
 ||downparadise.com^
+||downparadise.ws^
 ||downpit.com^
 ||downrev.net^
 ||downthem.org^
@@ -2655,9 +2671,11 @@
 ||dpfilmz.com^
 ||dpstream.cc^
 ||dpstream.lol^
+||dpstream.net^
 ||dpstream.rip^
 ||dpstreaming.org^
 ||dpstreamiz.net^
+||dqqd.org^
 ||dr-farfar.com^
 ||draculastream.org^
 ||tvnihon.dragoneye.ca^
@@ -2751,11 +2769,13 @@
 ||cloudstream-on-fleek-co.ipns.dweb.link^
 ||dx-team.org^
 ||tracker.dxdhd.com^
+||dynamic-universe.com^
 ||irrenhaus.dyndns.dk^
 ||tracker.dyne.org^
 ||aam-bt.dyns.cx^
 ||thitgaluoc.dynu.net^
 ||dyxz.org^
+||dzot.com^
 ||e-booksland.com^
 ||bt.e-burg.org^
 ||e-hentai.org^
@@ -2823,6 +2843,7 @@
 ||ee3.me^
 ||efilmy.tv^
 ||egyptfans.net^
+||ehho.net^
 ||ehtracker.org^
 ||einschalten.in^
 ||bedavalar.ekibi.com^
@@ -2856,6 +2877,7 @@
 ||emovies.io^
 ||emovies.si^
 ||emp3juices.cc^
+||empire-stream.com^
 ||empornium.us^
 ||tracker.empornium.is^
 ||tracker.empornium.sx^
@@ -2927,6 +2949,7 @@
 ||3.tracker.eu.org^
 ||euroddl.com^
 ||euroemu.net^
+||euromovies.me^
 ||europix.biz^
 ||europixhd.pro^
 ||europixhd.site^
@@ -2939,9 +2962,11 @@
 ||eurostreaming.be^
 ||eurostreaming.beauty^
 ||eurostreaming.best^
+||eurostreaming.bet^
 ||eurostreaming.bid^
 ||eurostreaming.bike^
 ||eurostreaming.bio^
+||eurostreaming.biz^
 ||eurostreaming.boo^
 ||eurostreaming.capital^
 ||eurostreaming.casa^
@@ -3624,6 +3649,7 @@
 ||free-telecharger.top^
 ||free-telecharger.xyz^
 ||open.free-tracker.ga^
+||free4pc.org^
 ||freebannedbooks.org^
 ||freebfg.org^
 ||freebookspot.es^

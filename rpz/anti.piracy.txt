@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747365540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747394580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 03:19 UTC
-; Version: 2025.0516.0319.42
+; Last modified: 16 May 2025 11:23 UTC
+; Version: 2025.0516.1123.55
 ; Syntax: RPZ
-; Number of entries: 20164
+; Number of entries: 20216
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -521,6 +521,8 @@ altadefinizione01.bet CNAME .
 *.altadefinizione01.bet CNAME .
 cineblog01.bet CNAME .
 *.cineblog01.bet CNAME .
+eurostreaming.bet CNAME .
+*.eurostreaming.bet CNAME .
 filmpertutti.bet CNAME .
 *.filmpertutti.bet CNAME .
 guardaserie.bet CNAME .
@@ -601,6 +603,8 @@ emiz.biz CNAME .
 *.emiz.biz CNAME .
 europix.biz CNAME .
 *.europix.biz CNAME .
+eurostreaming.biz CNAME .
+*.eurostreaming.biz CNAME .
 ffmovies.biz CNAME .
 *.ffmovies.biz CNAME .
 filmesviatorrents.biz CNAME .
@@ -3233,12 +3237,16 @@ cpleft.com CNAME .
 *.cpleft.com CNAME .
 crack-cd.com CNAME .
 *.crack-cd.com CNAME .
+crack4patch.com CNAME .
+*.crack4patch.com CNAME .
 crack4soft.com CNAME .
 *.crack4soft.com CNAME .
 crack81.com CNAME .
 *.crack81.com CNAME .
 crackaio.com CNAME .
 *.crackaio.com CNAME .
+crackcrew.com CNAME .
+*.crackcrew.com CNAME .
 crackdb.com CNAME .
 *.crackdb.com CNAME .
 crackedfully.com CNAME .
@@ -3381,6 +3389,8 @@ daiflix.daitign.com CNAME .
 *.daiflix.daitign.com CNAME .
 damedesuyo.com CNAME .
 *.damedesuyo.com CNAME .
+danimados.com CNAME .
+*.danimados.com CNAME .
 darkbooter.com CNAME .
 *.darkbooter.com CNAME .
 darkmahou.com CNAME .
@@ -3419,6 +3429,8 @@ ddnbd.com CNAME .
 *.ddnbd.com CNAME .
 ddos-ip.com CNAME .
 *.ddos-ip.com CNAME .
+ddosbreak.com CNAME .
+*.ddosbreak.com CNAME .
 ddostheworld.com CNAME .
 *.ddostheworld.com CNAME .
 ddownload.com CNAME .
@@ -3649,6 +3661,10 @@ dvdripfilms.com CNAME .
 *.dvdripfilms.com CNAME .
 tracker.dxdhd.com CNAME .
 *.tracker.dxdhd.com CNAME .
+dynamic-universe.com CNAME .
+*.dynamic-universe.com CNAME .
+dzot.com CNAME .
+*.dzot.com CNAME .
 e-booksland.com CNAME .
 *.e-booksland.com CNAME .
 earlycinema.com CNAME .
@@ -3703,6 +3719,8 @@ emaczone.com CNAME .
 *.emaczone.com CNAME .
 cemu.emiyl.com CNAME .
 *.cemu.emiyl.com CNAME .
+empire-stream.com CNAME .
+*.empire-stream.com CNAME .
 empresstorrents.com CNAME .
 *.empresstorrents.com CNAME .
 emtorrent.com CNAME .
@@ -9163,6 +9181,8 @@ cracks-serials-rox.info CNAME .
 *.cracks-serials-rox.info CNAME .
 cyberwarez.info CNAME .
 *.cyberwarez.info CNAME .
+bt.davka.info CNAME .
+*.bt.davka.info CNAME .
 downloadfreenewmovies.info CNAME .
 *.downloadfreenewmovies.info CNAME .
 dramaqu.info CNAME .
@@ -10781,6 +10801,8 @@ crazyamp.me CNAME .
 *.crazyamp.me CNAME .
 cuevana3.me CNAME .
 *.cuevana3.me CNAME .
+ddl.me CNAME .
+*.ddl.me CNAME .
 ddlvalley.me CNAME .
 *.ddlvalley.me CNAME .
 inferno.demonoid.me CNAME .
@@ -10809,6 +10831,8 @@ epider.me CNAME .
 *.epider.me CNAME .
 hshop.erista.me CNAME .
 *.hshop.erista.me CNAME .
+euromovies.me CNAME .
+*.euromovies.me CNAME .
 eurostreaming.me CNAME .
 *.eurostreaming.me CNAME .
 f1box.me CNAME .
@@ -11827,6 +11851,8 @@ cnetworkbd.net CNAME .
 *.cnetworkbd.net CNAME .
 comandotorrenthd.net CNAME .
 *.comandotorrenthd.net CNAME .
+comandotorrentshd.net CNAME .
+*.comandotorrentshd.net CNAME .
 mywebpages.comcast.net CNAME .
 *.mywebpages.comcast.net CNAME .
 comicpunch.net CNAME .
@@ -11901,6 +11927,8 @@ houniao.ddns.net CNAME .
 *.houniao.ddns.net CNAME .
 ddgu.ddos-guard.net CNAME .
 *.ddgu.ddos-guard.net CNAME .
+ddosforhire.net CNAME .
+*.ddosforhire.net CNAME .
 tracker.ddunlimited.net CNAME .
 *.tracker.ddunlimited.net CNAME .
 deamonbytes.net CNAME .
@@ -11911,10 +11939,18 @@ defconpro.net CNAME .
 *.defconpro.net CNAME .
 deviloid.net CNAME .
 *.deviloid.net CNAME .
+bm.dfnbd.net CNAME .
+*.bm.dfnbd.net CNAME .
 bn.dfnbd.net CNAME .
 *.bn.dfnbd.net CNAME .
+cm.dfnbd.net CNAME .
+*.cm.dfnbd.net CNAME .
 em.dfnbd.net CNAME .
 *.em.dfnbd.net CNAME .
+srl.dfnbd.net CNAME .
+*.srl.dfnbd.net CNAME .
+torrent.dfnbd.net CNAME .
+*.torrent.dfnbd.net CNAME .
 tube.dfnbd.net CNAME .
 *.tube.dfnbd.net CNAME .
 tv.dfnbd.net CNAME .
@@ -11961,6 +11997,8 @@ downrev.net CNAME .
 *.downrev.net CNAME .
 downturk.net CNAME .
 *.downturk.net CNAME .
+dpstream.net CNAME .
+*.dpstream.net CNAME .
 dpstreamiz.net CNAME .
 *.dpstreamiz.net CNAME .
 dragons-den.net CNAME .
@@ -11997,6 +12035,8 @@ edmag.net CNAME .
 *.edmag.net CNAME .
 egyptfans.net CNAME .
 *.egyptfans.net CNAME .
+ehho.net CNAME .
+*.ehho.net CNAME .
 elbitz.net CNAME .
 *.elbitz.net CNAME .
 elite-tracker.net CNAME .
@@ -14169,6 +14209,8 @@ datahorde.org CNAME .
 *.datahorde.org CNAME .
 datenreiter.org CNAME .
 *.datenreiter.org CNAME .
+ddl-warez.org CNAME .
+*.ddl-warez.org CNAME .
 bttracker.debian.org CNAME .
 *.bttracker.debian.org CNAME .
 deluge-torrent.org CNAME .
@@ -14243,10 +14285,14 @@ downloadteam.org CNAME .
 *.downloadteam.org CNAME .
 downloadtop.org CNAME .
 *.downloadtop.org CNAME .
+downloadwarez.org CNAME .
+*.downloadwarez.org CNAME .
 downthem.org CNAME .
 *.downthem.org CNAME .
 dpstreaming.org CNAME .
 *.dpstreaming.org CNAME .
+dqqd.org CNAME .
+*.dqqd.org CNAME .
 draculastream.org CNAME .
 *.draculastream.org CNAME .
 dreamingtree.org CNAME .
@@ -14391,6 +14437,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -19589,6 +19637,10 @@ dinostreaming.ws CNAME .
 *.dinostreaming.ws CNAME .
 down-movies.ws CNAME .
 *.down-movies.ws CNAME .
+downloads.ws CNAME .
+*.downloads.ws CNAME .
+downparadise.ws CNAME .
+*.downparadise.ws CNAME .
 ekino.ws CNAME .
 *.ekino.ws CNAME .
 eurostreaming.ws CNAME .

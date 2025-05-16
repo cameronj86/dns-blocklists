@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747366680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747395780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 03:38 UTC
-; Version: 2025.0516.0338.52
+; Last modified: 16 May 2025 11:43 UTC
+; Version: 2025.0516.1143.22
 ; Syntax: RPZ
-; Number of entries: 8598
+; Number of entries: 8604
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1344,6 +1344,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -6674,6 +6676,8 @@ croxy.org CNAME .
 *.croxy.org CNAME .
 croxyproxycom.org CNAME .
 *.croxyproxycom.org CNAME .
+pltw.csproject.org CNAME .
+*.pltw.csproject.org CNAME .
 dns.csswg.org CNAME .
 *.dns.csswg.org CNAME .
 ojisama.dietpc.org CNAME .
@@ -6700,6 +6704,8 @@ tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
 tungdnsne.duckdns.org CNAME .
 *.tungdnsne.duckdns.org CNAME .
+vpschito.duckdns.org CNAME .
+*.vpschito.duckdns.org CNAME .
 ueni.dyndns.org CNAME .
 *.ueni.dyndns.org CNAME .
 tor.eff.org CNAME .
@@ -7722,6 +7728,8 @@ dns.b33.space CNAME .
 *.dns.b33.space CNAME .
 cosmohacker.space CNAME .
 *.cosmohacker.space CNAME .
+edpuzzle.space CNAME .
+*.edpuzzle.space CNAME .
 sdfergrdewdwdawdwdszdsadsadas.helixarcade.space CNAME .
 *.sdfergrdewdwdawdwdszdsadsadas.helixarcade.space CNAME .
 adguard.neon0404.space CNAME .
@@ -7762,8 +7770,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
