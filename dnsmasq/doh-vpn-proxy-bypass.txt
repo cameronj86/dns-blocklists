@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 11:43 UTC
-# Version: 2025.0516.1143.22
+# Last modified: 16 May 2025 19:41 UTC
+# Version: 2025.0516.1941.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4302
+# Number of entries: 4310
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -66,6 +66,7 @@ local=/1banproxy.com/
 local=/1clickvpn.com/
 local=/1clickvpn.net/
 local=/onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com/
+local=/dns.23-4.cn/
 local=/233py.com/
 local=/dns.240527.xyz/
 local=/24tunnel.com/
@@ -1345,6 +1346,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1472,6 +1474,7 @@ local=/doh.futa.app/
 local=/doh.futa.gg/
 local=/dogs.fuzzylookups.com/
 local=/g-a-y.pro/
+local=/gabstorm.com/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
@@ -1584,6 +1587,7 @@ local=/goosevpn.com/
 local=/performance.gosami.xyz/
 local=/vpn.gosami.xyz/
 local=/gostarlight.xyz/
+local=/fisdinstructure.gotroot.pw/
 local=/gotrusted.com/
 local=/fractioncaculator.govt.hu/
 local=/gpreport.us/
@@ -1612,6 +1616,7 @@ local=/guavi.com/
 local=/guestappearance.us/
 local=/dns2.guidocioni.it/
 local=/intertravel.guillaumevanstrydonck.be/
+local=/gumm.org/
 local=/dns.gutwe.in/
 local=/gvirabi.com/
 local=/gwardgxd.baby/
@@ -1619,6 +1624,7 @@ local=/gwopboyded.com/
 local=/gztech.me/
 local=/h-vpn.org/
 local=/schoolnotes.h0rst.us/
+local=/h0w.cc/
 local=/gopeople.hackquest.com/
 local=/dns.hahnjo.de/
 local=/dns.haka.se/
@@ -1649,6 +1655,7 @@ local=/herbalserver.me/
 local=/betternet-backend.herokuapp.com/
 local=/heroproxy.com/
 local=/httpdns-push.heytapmobile.com/
+local=/hiddendigital.info/
 local=/hiddenproxy.net/
 local=/hide.me/
 local=/hide.mn/
@@ -2318,6 +2325,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

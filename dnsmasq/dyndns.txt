@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 11:40 UTC
-# Version: 2025.0516.1140.31
+# Last modified: 16 May 2025 19:39 UTC
+# Version: 2025.0516.1939.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1391
+# Number of entries: 1394
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -612,11 +612,13 @@ local=/ham.gd/
 local=/ham-radio-op.net/
 local=/hamshack.info/
 local=/happyforever.com/
+local=/happyminecraft.com/
 local=/hatenboer.org/
 local=/hbmc.net/
 local=/health-carereform.com/
 local=/forgot.her.name/
 local=/here-for-more.info/
+local=/herodias.net/
 local=/heroinewarrior.com/
 local=/hicam.net/
 local=/hijaxdesigns.com/
@@ -625,6 +627,7 @@ local=/forgot.his.name/
 local=/hitremixes.com/
 local=/hldns.ru/
 local=/hmail.us/
+local=/hmao.pro/
 local=/hobby-site.com/
 local=/hobby-site.org/
 local=/hokum-smack.com/

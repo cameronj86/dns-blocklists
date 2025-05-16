@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747380540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747409040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 07:29 UTC
-; Version: 2025.0516.0729.51
+; Last modified: 16 May 2025 15:24 UTC
+; Version: 2025.0516.1524.51
 ; Syntax: RPZ
-; Number of entries: 11540
+; Number of entries: 11556
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4140,6 +4140,8 @@ zipurl.fr CNAME .
 *.zipurl.fr CNAME .
 69run.fun CNAME .
 *.69run.fun CNAME .
+bj88php.fun CNAME .
+*.bj88php.fun CNAME .
 main-xgslot88.fun CNAME .
 *.main-xgslot88.fun CNAME .
 mainterus.fun CNAME .
@@ -4540,6 +4542,8 @@ dus.im CNAME .
 *.dus.im CNAME .
 ff.im CNAME .
 *.ff.im CNAME .
+gettr.im CNAME .
+*.gettr.im CNAME .
 iii.im CNAME .
 *.iii.im CNAME .
 itm.im CNAME .
@@ -4860,6 +4864,8 @@ go.zordo.in CNAME .
 *.1ink.info CNAME .
 2it.info CNAME .
 *.2it.info CNAME .
+2my.info CNAME .
+*.2my.info CNAME .
 2to.info CNAME .
 *.2to.info CNAME .
 5rwv.info CNAME .
@@ -5968,6 +5974,8 @@ adsclicks.life CNAME .
 *.adsclicks.life CNAME .
 adult-haem-home.life CNAME .
 *.adult-haem-home.life CNAME .
+afb88.life CNAME .
+*.afb88.life CNAME .
 ai-beast-online.life CNAME .
 *.ai-beast-online.life CNAME .
 airvin17.life CNAME .
@@ -6912,6 +6920,8 @@ facebookid.live CNAME .
 *.facebookid.live CNAME .
 facebookvideos.live CNAME .
 *.facebookvideos.live CNAME .
+fenomen.live CNAME .
+*.fenomen.live CNAME .
 flash-point-studios.live CNAME .
 *.flash-point-studios.live CNAME .
 free-sex.live CNAME .
@@ -7218,6 +7228,8 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
+vim-tiktok.live CNAME .
+*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -10722,6 +10734,8 @@ wbduy.top CNAME .
 *.wbduy.top CNAME .
 wdphk.top CNAME .
 *.wdphk.top CNAME .
+wgsv.top CNAME .
+*.wgsv.top CNAME .
 wjib.top CNAME .
 *.wjib.top CNAME .
 wndhj.top CNAME .
@@ -11554,6 +11568,8 @@ y30.xyz CNAME .
 *.y30.xyz CNAME .
 zeroshort.xyz CNAME .
 *.zeroshort.xyz CNAME .
+fly.yt CNAME .
+*.fly.yt CNAME .
 reco.yt CNAME .
 *.reco.yt CNAME .
 mypnp.co.za CNAME .

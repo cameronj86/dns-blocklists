@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747395780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747424460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 11:43 UTC
-; Version: 2025.0516.1143.22
+; Last modified: 16 May 2025 19:41 UTC
+; Version: 2025.0516.1941.54
 ; Syntax: RPZ
-; Number of entries: 8604
+; Number of entries: 8620
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -344,6 +344,8 @@ dns.flymc.cc CNAME .
 *.dns.flymc.cc CNAME .
 www-proxy.formen.cc CNAME .
 *.www-proxy.formen.cc CNAME .
+h0w.cc CNAME .
+*.h0w.cc CNAME .
 us-ny-alula.heliumcloud.cc CNAME .
 *.us-ny-alula.heliumcloud.cc CNAME .
 dns.interhub.cc CNAME .
@@ -558,6 +560,8 @@ webproxy.club CNAME .
 *.webproxy.club CNAME .
 clearweb.woodbridge.club CNAME .
 *.clearweb.woodbridge.club CNAME .
+dns.23-4.cn CNAME .
+*.dns.23-4.cn CNAME .
 doh.360.cn CNAME .
 *.doh.360.cn CNAME .
 dot.360.cn CNAME .
@@ -1528,6 +1532,8 @@ funknetwork.com CNAME .
 *.funknetwork.com CNAME .
 dogs.fuzzylookups.com CNAME .
 *.dogs.fuzzylookups.com CNAME .
+gabstorm.com CNAME .
+*.gabstorm.com CNAME .
 dns.gamban.com CNAME .
 *.dns.gamban.com CNAME .
 gamers-nor.com CNAME .
@@ -2142,6 +2148,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4488,6 +4496,8 @@ dns.api.test.globuscs.info CNAME .
 *.dns.api.test.globuscs.info CNAME .
 gamgasyoppakuteri-zenttodabi.gslb.info CNAME .
 *.gamgasyoppakuteri-zenttodabi.gslb.info CNAME .
+hiddendigital.info CNAME .
+*.hiddendigital.info CNAME .
 hideme101.info CNAME .
 *.hideme101.info CNAME .
 hidemyurl.info CNAME .
@@ -6772,6 +6782,8 @@ goingthere.org CNAME .
 *.goingthere.org CNAME .
 dns.goldplate.org CNAME .
 *.dns.goldplate.org CNAME .
+gumm.org CNAME .
+*.gumm.org CNAME .
 h-vpn.org CNAME .
 *.h-vpn.org CNAME .
 hide-me.org CNAME .
@@ -7430,6 +7442,8 @@ freevpn.pw CNAME .
 *.freevpn.pw CNAME .
 dns.freyja.pw CNAME .
 *.dns.freyja.pw CNAME .
+fisdinstructure.gotroot.pw CNAME .
+*.fisdinstructure.gotroot.pw CNAME .
 dns.ishan.pw CNAME .
 *.dns.ishan.pw CNAME .
 ttag.dns.nomu.pw CNAME .
@@ -7770,6 +7784,8 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .

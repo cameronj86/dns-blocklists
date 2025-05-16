@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 07:29 UTC
-# Version: 2025.0516.0729.51
+# Last modified: 16 May 2025 15:24 UTC
+# Version: 2025.0516.1524.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5770
+# Number of entries: 5778
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -119,6 +119,7 @@ local=/2it.info/
 local=/2kgam.es/
 local=/2link.cc/
 local=/2link.in/
+local=/2my.info/
 local=/2no.co/
 local=/2nu.gs/
 local=/2one.in/
@@ -381,6 +382,7 @@ local=/adx.kr/
 local=/ady.to/
 local=/aegyo.me/
 local=/aet.na/
+local=/afb88.life/
 local=/afly.in/
 local=/aftv.news/
 local=/agbr.ir/
@@ -755,6 +757,7 @@ local=/bityl.co/
 local=/biv.to/
 local=/bixurl.com/
 local=/biz15.co/
+local=/bj88php.fun/
 local=/bjhig.sbs/
 local=/bjl.ink/
 local=/bjli.in/
@@ -1648,6 +1651,7 @@ local=/fdmlm.sbs/
 local=/fdzsf.com/
 local=/fee.vn/
 local=/female-and-male-in-tech.com/
+local=/fenomen.live/
 local=/fetnet.tw/
 local=/fevo.me/
 local=/feyh.info/
@@ -1698,6 +1702,7 @@ local=/flq.us/
 local=/flrt.me/
 local=/fltr.ai/
 local=/flx.to/
+local=/fly.yt/
 local=/fly2.ws/
 local=/fly4win.com/
 local=/flyurl.net/
@@ -1843,6 +1848,7 @@ local=/getneemalogin.life/
 local=/tly.getrewardful.com/
 local=/getsmallurl.com/
 local=/getthot.com/
+local=/gettr.im/
 local=/gf.to/
 local=/gfree.fr/
 local=/gfuel.ly/
@@ -5203,6 +5209,7 @@ local=/vid.lu/
 local=/videopro.live/
 local=/vig.fit/
 local=/vigilink.com/
+local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/
@@ -5376,6 +5383,7 @@ local=/wf0.xin/
 local=/wfly.co/
 local=/wfryer.me/
 local=/wfts.tv/
+local=/wgsv.top/
 local=/whatel.se/
 local=/whatsapp2.lat/
 local=/whatsapp2c.lol/
