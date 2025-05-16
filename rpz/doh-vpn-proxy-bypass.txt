@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747338240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747366680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 May 2025 19:44 UTC
-; Version: 2025.0515.1944.24
+; Last modified: 16 May 2025 03:38 UTC
+; Version: 2025.0516.0338.52
 ; Syntax: RPZ
-; Number of entries: 8590
+; Number of entries: 8598
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -200,6 +200,8 @@ anonymurl.biz CNAME .
 *.anonymurl.biz CNAME .
 anonyproxy.biz CNAME .
 *.anonyproxy.biz CNAME .
+bit123.biz CNAME .
+*.bit123.biz CNAME .
 ewon.biz CNAME .
 *.ewon.biz CNAME .
 oneproxy.biz CNAME .
@@ -1342,8 +1344,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -3262,6 +3262,8 @@ utopianpal.com CNAME .
 *.utopianpal.com CNAME .
 willitwork.utrealestatedreamteam.com CNAME .
 *.willitwork.utrealestatedreamteam.com CNAME .
+www-proxy.valentiin.com CNAME .
+*.www-proxy.valentiin.com CNAME .
 doh.valscosmos.com CNAME .
 *.doh.valscosmos.com CNAME .
 vectroproxy.com CNAME .
@@ -4186,6 +4188,8 @@ proxy.gd CNAME .
 *.proxy.gd CNAME .
 doh.futa.gg CNAME .
 *.doh.futa.gg CNAME .
+catch.gift CNAME .
+*.catch.gift CNAME .
 ipprotectionauth.goog CNAME .
 *.ipprotectionauth.goog CNAME .
 8888.google CNAME .
@@ -5408,6 +5412,8 @@ blocka.net CNAME .
 *.blocka.net CNAME .
 blockaway.net CNAME .
 *.blockaway.net CNAME .
+boda-vip.net CNAME .
+*.boda-vip.net CNAME .
 bolehvpn.net CNAME .
 *.bolehvpn.net CNAME .
 pakupaku.bounceme.net CNAME .
@@ -7756,6 +7762,8 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .

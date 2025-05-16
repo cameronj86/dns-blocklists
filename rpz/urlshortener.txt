@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747323060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747351500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 May 2025 15:31 UTC
-; Version: 2025.0515.1531.58
+; Last modified: 15 May 2025 23:25 UTC
+; Version: 2025.0515.2325.00
 ; Syntax: RPZ
-; Number of entries: 11516
+; Number of entries: 11526
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -790,6 +790,8 @@ oe.cd CNAME .
 *.oe.cd CNAME .
 uni.cf CNAME .
 *.uni.cf CNAME .
+blogshare.cfd CNAME .
+*.blogshare.cfd CNAME .
 activetea.ch CNAME .
 *.activetea.ch CNAME .
 chfm.ch CNAME .
@@ -1786,6 +1788,8 @@ cash4share.com CNAME .
 *.cash4share.com CNAME .
 casualient.com CNAME .
 *.casualient.com CNAME .
+catbrood.com CNAME .
+*.catbrood.com CNAME .
 cb.com CNAME .
 *.cb.com CNAME .
 cbshort.com CNAME .
@@ -9840,6 +9844,8 @@ as1ansl0t88.site CNAME .
 *.as1ansl0t88.site CNAME .
 bitlee.site CNAME .
 *.bitlee.site CNAME .
+biturl.site CNAME .
+*.biturl.site CNAME .
 easyurl.site CNAME .
 *.easyurl.site CNAME .
 elx.site CNAME .
@@ -10108,6 +10114,8 @@ a1b.team CNAME .
 *.a1b.team CNAME .
 antinawala.team CNAME .
 *.antinawala.team CNAME .
+bitly.team CNAME .
+*.bitly.team CNAME .
 douyin.team CNAME .
 *.douyin.team CNAME .
 whatsapp2f.team CNAME .
@@ -10712,6 +10720,8 @@ wnvwm.top CNAME .
 *.wnvwm.top CNAME .
 wolg.top CNAME .
 *.wolg.top CNAME .
+wpzxf.top CNAME .
+*.wpzxf.top CNAME .
 xboc.top CNAME .
 *.xboc.top CNAME .
 xdfvi.top CNAME .

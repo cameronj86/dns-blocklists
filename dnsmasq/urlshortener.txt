@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 May 2025 15:31 UTC
-# Version: 2025.0515.1531.58
+# Last modified: 15 May 2025 23:25 UTC
+# Version: 2025.0515.2325.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5758
+# Number of entries: 5763
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -738,6 +738,7 @@ local=/bitly.mobi/
 local=/bitly.net/
 local=/bitly.network/
 local=/bitly.pw/
+local=/bitly.team/
 local=/bitly.ws/
 local=/bitly1.ru/
 local=/bitlyli.com/
@@ -747,6 +748,7 @@ local=/bitnew.us/
 local=/bitshrt.com/
 local=/bittylink.com/
 local=/bittyurl.co/
+local=/biturl.site/
 local=/biturl.top/
 local=/bitw.in/
 local=/bityl.co/
@@ -774,6 +776,7 @@ local=/blizz.ly/
 local=/blltly.com/
 local=/blnk.in/
 local=/bloat.me/
+local=/blogshare.cfd/
 local=/blomlink.com/
 local=/bloom.bg/
 local=/bloomingtonjuneteenth.org/
@@ -945,6 +948,7 @@ local=/casinurl.io/
 local=/casio.link/
 local=/casualient.com/
 local=/casvi.sbs/
+local=/catbrood.com/
 local=/cathaybk.tw/
 local=/cathaysec.tw/
 local=/cayim.by/
@@ -5452,6 +5456,7 @@ local=/wp.me/
 local=/wp1.co/
 local=/wpbeg.in/
 local=/wptrckr.com/
+local=/wpzxf.top/
 local=/wq.lt/
 local=/wrctr.co/
 local=/wrd.cm/

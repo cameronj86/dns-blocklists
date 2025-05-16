@@ -1793,13 +1793,6 @@
       }
     },
     {
-      "PK": "atsnx.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "atspace.biz",
       "action": {
         "do": 0,
@@ -2228,6 +2221,13 @@
     },
     {
       "PK": "biz.tc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "biz.uz",
       "action": {
         "do": 0,
         "status": 1
