@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 May 2025 13:09 UTC
-! Version: 2025.0516.1309.26
+! Last modified: 16 May 2025 13:24 UTC
+! Version: 2025.0516.1324.40
 ! Syntax: AdBlock
-! Number of entries: 234
+! Number of entries: 227
 !
 ||vhs.wwstat.com.eo.unicomcdn.com.cn^
 ||az.appstore.vivo.com.cn^
@@ -41,7 +41,6 @@
 ||asia-romsp-unifyconfig.vivoglobal.com^
 ||asia-st-exappupgrade.vivoglobal.com^
 ||asia-st-sl.vivoglobal.com^
-||asia-st-sysupgrade.vivoglobal.com^
 ||asia-stsdk.vivoglobal.com^
 ||asia-third-appstore.vivoglobal.com^
 ||asia-timesync.vivoglobal.com^
@@ -54,7 +53,6 @@
 ||cl-domaincfg.vivoglobal.com^
 ||cl-romsp-unifyconfig.vivoglobal.com^
 ||cl-st-sl.vivoglobal.com^
-||cl-st-sysupgrade.vivoglobal.com^
 ||cl-vcode-api.vivoglobal.com^
 ||cl-vcode-od.vivoglobal.com^
 ||cl-weather.vivoglobal.com^
@@ -73,7 +71,6 @@
 ||co-pnrt-stsdk.vivoglobal.com^
 ||co-romsp-unifyconfig.vivoglobal.com^
 ||co-st-sl.vivoglobal.com^
-||co-st-sysupgrade.vivoglobal.com^
 ||co-stsdk.vivoglobal.com^
 ||co-timesync.vivoglobal.com^
 ||co-vcode-api.vivoglobal.com^
@@ -97,7 +94,6 @@
 ||eu-pnrt-stsdk.vivoglobal.com^
 ||eu-romsp-unifyconfig.vivoglobal.com^
 ||eu-st-sl.vivoglobal.com^
-||eu-st-sysupgrade.vivoglobal.com^
 ||eu-timesync.vivoglobal.com^
 ||eu-vcode-api.vivoglobal.com^
 ||eu-vcode-od.vivoglobal.com^
@@ -166,7 +162,6 @@
 ||mx-pnrt-stsdk.vivoglobal.com^
 ||mx-romsp-unifyconfig.vivoglobal.com^
 ||mx-st-sl.vivoglobal.com^
-||mx-st-sysupgrade.vivoglobal.com^
 ||mx-stsdk.vivoglobal.com^
 ||mx-timesync.vivoglobal.com^
 ||mx-vcode-api.vivoglobal.com^
@@ -196,7 +191,6 @@
 ||ru-romsp-unifyconfig.vivoglobal.com^
 ||ru-st-exappupgrade.vivoglobal.com^
 ||ru-st-sl.vivoglobal.com^
-||ru-st-sysupgrade.vivoglobal.com^
 ||ru-stsdk.vivoglobal.com^
 ||ru-third-appstore.vivoglobal.com^
 ||ru-timesync.vivoglobal.com^
@@ -213,7 +207,6 @@
 ||sca-pnrt-stsdk.vivoglobal.com^
 ||sca-romsp-unifyconfig.vivoglobal.com^
 ||sca-st-sl.vivoglobal.com^
-||sca-st-sysupgrade.vivoglobal.com^
 ||sca-stsdk.vivoglobal.com^
 ||sca-timesync.vivoglobal.com^
 ||sca-vcode-api.vivoglobal.com^

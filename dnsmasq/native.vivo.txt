@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 13:09 UTC
-# Version: 2025.0516.1309.26
+# Last modified: 16 May 2025 13:24 UTC
+# Version: 2025.0516.1324.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 234
+# Number of entries: 227
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/az.appstore.vivo.com.cn/
@@ -40,7 +40,6 @@ local=/asia-prt-stsdk.vivoglobal.com/
 local=/asia-romsp-unifyconfig.vivoglobal.com/
 local=/asia-st-exappupgrade.vivoglobal.com/
 local=/asia-st-sl.vivoglobal.com/
-local=/asia-st-sysupgrade.vivoglobal.com/
 local=/asia-stsdk.vivoglobal.com/
 local=/asia-third-appstore.vivoglobal.com/
 local=/asia-timesync.vivoglobal.com/
@@ -53,7 +52,6 @@ local=/asia-weather.vivoglobal.com/
 local=/cl-domaincfg.vivoglobal.com/
 local=/cl-romsp-unifyconfig.vivoglobal.com/
 local=/cl-st-sl.vivoglobal.com/
-local=/cl-st-sysupgrade.vivoglobal.com/
 local=/cl-vcode-api.vivoglobal.com/
 local=/cl-vcode-od.vivoglobal.com/
 local=/cl-weather.vivoglobal.com/
@@ -72,7 +70,6 @@ local=/co-ort-stsdk.vivoglobal.com/
 local=/co-pnrt-stsdk.vivoglobal.com/
 local=/co-romsp-unifyconfig.vivoglobal.com/
 local=/co-st-sl.vivoglobal.com/
-local=/co-st-sysupgrade.vivoglobal.com/
 local=/co-stsdk.vivoglobal.com/
 local=/co-timesync.vivoglobal.com/
 local=/co-vcode-api.vivoglobal.com/
@@ -96,7 +93,6 @@ local=/eu-ort-stsdk.vivoglobal.com/
 local=/eu-pnrt-stsdk.vivoglobal.com/
 local=/eu-romsp-unifyconfig.vivoglobal.com/
 local=/eu-st-sl.vivoglobal.com/
-local=/eu-st-sysupgrade.vivoglobal.com/
 local=/eu-timesync.vivoglobal.com/
 local=/eu-vcode-api.vivoglobal.com/
 local=/eu-vcode-od.vivoglobal.com/
@@ -165,7 +161,6 @@ local=/mx-p.vivoglobal.com/
 local=/mx-pnrt-stsdk.vivoglobal.com/
 local=/mx-romsp-unifyconfig.vivoglobal.com/
 local=/mx-st-sl.vivoglobal.com/
-local=/mx-st-sysupgrade.vivoglobal.com/
 local=/mx-stsdk.vivoglobal.com/
 local=/mx-timesync.vivoglobal.com/
 local=/mx-vcode-api.vivoglobal.com/
@@ -195,7 +190,6 @@ local=/ru-prt-stsdk.vivoglobal.com/
 local=/ru-romsp-unifyconfig.vivoglobal.com/
 local=/ru-st-exappupgrade.vivoglobal.com/
 local=/ru-st-sl.vivoglobal.com/
-local=/ru-st-sysupgrade.vivoglobal.com/
 local=/ru-stsdk.vivoglobal.com/
 local=/ru-third-appstore.vivoglobal.com/
 local=/ru-timesync.vivoglobal.com/
@@ -212,7 +206,6 @@ local=/sca-p.vivoglobal.com/
 local=/sca-pnrt-stsdk.vivoglobal.com/
 local=/sca-romsp-unifyconfig.vivoglobal.com/
 local=/sca-st-sl.vivoglobal.com/
-local=/sca-st-sysupgrade.vivoglobal.com/
 local=/sca-stsdk.vivoglobal.com/
 local=/sca-timesync.vivoglobal.com/
 local=/sca-vcode-api.vivoglobal.com/

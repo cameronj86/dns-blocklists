@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 13:09 UTC
-# Version: 2025.0516.1309.26
+# Last modified: 16 May 2025 13:24 UTC
+# Version: 2025.0516.1324.40
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 238
+# Number of entries: 231
 #
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
@@ -40,7 +40,6 @@
 0.0.0.0 asia-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 asia-st-exappupgrade.vivoglobal.com
 0.0.0.0 asia-st-sl.vivoglobal.com
-0.0.0.0 asia-st-sysupgrade.vivoglobal.com
 0.0.0.0 asia-stsdk.vivoglobal.com
 0.0.0.0 asia-third-appstore.vivoglobal.com
 0.0.0.0 asia-timesync.vivoglobal.com
@@ -53,7 +52,6 @@
 0.0.0.0 cl-domaincfg.vivoglobal.com
 0.0.0.0 cl-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 cl-st-sl.vivoglobal.com
-0.0.0.0 cl-st-sysupgrade.vivoglobal.com
 0.0.0.0 cl-vcode-api.vivoglobal.com
 0.0.0.0 cl-vcode-od.vivoglobal.com
 0.0.0.0 cl-weather.vivoglobal.com
@@ -72,7 +70,6 @@
 0.0.0.0 co-pnrt-stsdk.vivoglobal.com
 0.0.0.0 co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 co-st-sl.vivoglobal.com
-0.0.0.0 co-st-sysupgrade.vivoglobal.com
 0.0.0.0 co-stsdk.vivoglobal.com
 0.0.0.0 co-timesync.vivoglobal.com
 0.0.0.0 co-vcode-api.vivoglobal.com
@@ -96,7 +93,6 @@
 0.0.0.0 eu-pnrt-stsdk.vivoglobal.com
 0.0.0.0 eu-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 eu-st-sl.vivoglobal.com
-0.0.0.0 eu-st-sysupgrade.vivoglobal.com
 0.0.0.0 eu-timesync.vivoglobal.com
 0.0.0.0 eu-vcode-api.vivoglobal.com
 0.0.0.0 eu-vcode-od.vivoglobal.com
@@ -165,7 +161,6 @@
 0.0.0.0 mx-pnrt-stsdk.vivoglobal.com
 0.0.0.0 mx-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 mx-st-sl.vivoglobal.com
-0.0.0.0 mx-st-sysupgrade.vivoglobal.com
 0.0.0.0 mx-stsdk.vivoglobal.com
 0.0.0.0 mx-timesync.vivoglobal.com
 0.0.0.0 mx-vcode-api.vivoglobal.com
@@ -195,7 +190,6 @@
 0.0.0.0 ru-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 ru-st-exappupgrade.vivoglobal.com
 0.0.0.0 ru-st-sl.vivoglobal.com
-0.0.0.0 ru-st-sysupgrade.vivoglobal.com
 0.0.0.0 ru-stsdk.vivoglobal.com
 0.0.0.0 ru-third-appstore.vivoglobal.com
 0.0.0.0 ru-timesync.vivoglobal.com
@@ -212,7 +206,6 @@
 0.0.0.0 sca-pnrt-stsdk.vivoglobal.com
 0.0.0.0 sca-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 sca-st-sl.vivoglobal.com
-0.0.0.0 sca-st-sysupgrade.vivoglobal.com
 0.0.0.0 sca-stsdk.vivoglobal.com
 0.0.0.0 sca-timesync.vivoglobal.com
 0.0.0.0 sca-vcode-api.vivoglobal.com
