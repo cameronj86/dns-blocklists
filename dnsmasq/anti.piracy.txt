@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 May 2025 11:23 UTC
-# Version: 2025.0517.1123.03
+# Last modified: 17 May 2025 19:25 UTC
+# Version: 2025.0517.1925.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10163
+# Number of entries: 10174
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -367,6 +367,7 @@ local=/8wsm.com/
 local=/94hiphop.com/
 local=/960303.xyz/
 local=/9anime.ru/
+local=/9anime.to/
 local=/9anime.zone/
 local=/9animetv.to/
 local=/9divx.com/
@@ -3661,6 +3662,7 @@ local=/free-telecharger.org/
 local=/free-telecharger.top/
 local=/free-telecharger.xyz/
 local=/open.free-tracker.ga/
+local=/free4pc.org/
 local=/freebannedbooks.org/
 local=/freebfg.org/
 local=/freebookspot.es/
@@ -6390,6 +6392,7 @@ local=/antivirkeys.okis.ru/
 local=/oklivetv.com/
 local=/bt.okmp3.ru/
 local=/ol-am.top/
+local=/olala123-warez.com/
 local=/olamovies.autos/
 local=/olamovies.download/
 local=/olamovies.hair/
@@ -6444,6 +6447,7 @@ local=/online-tv.ws/
 local=/online24fullmovies.com/
 local=/onlinecricketvideo.com/
 local=/onlineflix.stream/
+local=/onlybestmovie.com/
 local=/onlytorrents.com/
 local=/onnosomoy.com/
 local=/nyaaapi.onrender.com/
@@ -6484,6 +6488,7 @@ local=/opentrackr.org/
 local=/openwebtorrent.com/
 local=/tracker.openzim.org/
 local=/opgemmje.com/
+local=/tracker.oppaiti.me/
 local=/optimovision.tv/
 local=/tracker.optus.nu/
 local=/orasai.com/
@@ -6595,6 +6600,7 @@ local=/passthepopcorn.org/
 local=/passwordscity.net/
 local=/patalpuri.com/
 local=/tpb.patatje.eu/
+local=/patchfree.com/
 local=/patchsoftwares.com/
 local=/patoghu.com/
 local=/patup.com/
@@ -6687,6 +6693,7 @@ local=/piratebay.tech/
 local=/piratebay.to/
 local=/piratebay.tv/
 local=/piratebay.website/
+local=/piratebay.zone/
 local=/piratebay-mirrors.com/
 local=/piratebay-proxy.net/
 local=/piratebay-proxy.org/
@@ -6827,6 +6834,7 @@ local=/pollyflix.com/
 local=/polskie-torrenty.eu/
 local=/polskitorrent.pl/
 local=/polstacja.tv/
+local=/polycracks.com/
 local=/tracker.pomf.se/
 local=/popcorn-time.ch/
 local=/popcorn-tracker.org/
@@ -6844,10 +6852,12 @@ local=/popflixhd.com/
 local=/share.popgo.org/
 local=/popsnap.net/
 local=/popuw.com/
+local=/pornbay.org/
 local=/pornbits.net/
 local=/pornevo.com/
 local=/pornograd.net/
 local=/pornolab.net/
+local=/pornomen.club/
 local=/pornorip.net/
 local=/pornoshara.com/
 local=/porntorrents.ws/
@@ -7056,6 +7066,7 @@ local=/putlockers.fm/
 local=/putlockers.is/
 local=/putlockers.la/
 local=/putlockers.mn/
+local=/putlockers.movie/
 local=/putlockers.net/
 local=/putlockers.plus/
 local=/putlockers.sh/

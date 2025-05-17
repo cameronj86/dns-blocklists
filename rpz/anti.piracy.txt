@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747480980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747509900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 May 2025 11:23 UTC
-; Version: 2025.0517.1123.03
+; Last modified: 17 May 2025 19:25 UTC
+; Version: 2025.0517.1925.29
 ; Syntax: RPZ
-; Number of entries: 20326
+; Number of entries: 20348
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1627,6 +1627,8 @@ pirate-proxy.club CNAME .
 *.pirate-proxy.club CNAME .
 piratetpb.club CNAME .
 *.piratetpb.club CNAME .
+pornomen.club CNAME .
+*.pornomen.club CNAME .
 tracker.ptsbao.club CNAME .
 *.tracker.ptsbao.club CNAME .
 old.pubfilms.club CNAME .
@@ -5579,6 +5581,8 @@ okfreemovies.com CNAME .
 *.okfreemovies.com CNAME .
 oklivetv.com CNAME .
 *.oklivetv.com CNAME .
+olala123-warez.com CNAME .
+*.olala123-warez.com CNAME .
 oldgamesdownload.com CNAME .
 *.oldgamesdownload.com CNAME .
 oldgamesfinder.com CNAME .
@@ -5605,6 +5609,8 @@ online24fullmovies.com CNAME .
 *.online24fullmovies.com CNAME .
 onlinecricketvideo.com CNAME .
 *.onlinecricketvideo.com CNAME .
+onlybestmovie.com CNAME .
+*.onlybestmovie.com CNAME .
 onlytorrents.com CNAME .
 *.onlytorrents.com CNAME .
 onnosomoy.com CNAME .
@@ -5693,6 +5699,8 @@ paranetinfo.com CNAME .
 *.paranetinfo.com CNAME .
 patalpuri.com CNAME .
 *.patalpuri.com CNAME .
+patchfree.com CNAME .
+*.patchfree.com CNAME .
 patchsoftwares.com CNAME .
 *.patchsoftwares.com CNAME .
 patoghu.com CNAME .
@@ -5817,6 +5825,8 @@ pokent.com CNAME .
 *.pokent.com CNAME .
 pollyflix.com CNAME .
 *.pollyflix.com CNAME .
+polycracks.com CNAME .
+*.polycracks.com CNAME .
 popcornflix.com CNAME .
 *.popcornflix.com CNAME .
 popcorntime4u.com CNAME .
@@ -11043,6 +11053,8 @@ oomoye.me CNAME .
 *.oomoye.me CNAME .
 openloadfreetv.me CNAME .
 *.openloadfreetv.me CNAME .
+tracker.oppaiti.me CNAME .
+*.tracker.oppaiti.me CNAME .
 oxtorrent.me CNAME .
 *.oxtorrent.me CNAME .
 passthepopcorn.me CNAME .
@@ -11377,6 +11389,8 @@ vadapav.mov CNAME .
 *.vadapav.mov CNAME .
 juraganfilm.movie CNAME .
 *.juraganfilm.movie CNAME .
+putlockers.movie CNAME .
+*.putlockers.movie CNAME .
 streamingcommunity.movie CNAME .
 *.streamingcommunity.movie CNAME .
 torrent.movie CNAME .
@@ -14515,6 +14529,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -15043,6 +15059,8 @@ popcorn-tracker.org CNAME .
 *.popcorn-tracker.org CNAME .
 share.popgo.org CNAME .
 *.share.popgo.org CNAME .
+pornbay.org CNAME .
+*.pornbay.org CNAME .
 powerbits.org CNAME .
 *.powerbits.org CNAME .
 powertracker.org CNAME .
@@ -17725,6 +17743,8 @@ warez-fusion.6x.to CNAME .
 *.warez-fusion.6x.to CNAME .
 wzone.6x.to CNAME .
 *.wzone.6x.to CNAME .
+9anime.to CNAME .
+*.9anime.to CNAME .
 9animetv.to CNAME .
 *.9animetv.to CNAME .
 afdah.to CNAME .
@@ -20329,6 +20349,8 @@ limetorrents.zone CNAME .
 *.limetorrents.zone CNAME .
 myflixer.zone CNAME .
 *.myflixer.zone CNAME .
+piratebay.zone CNAME .
+*.piratebay.zone CNAME .
 tantifilm.zone CNAME .
 *.tantifilm.zone CNAME .
 thepiratebay.zone CNAME .
