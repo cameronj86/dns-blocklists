@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 23:16 UTC
-# Version: 2025.0516.2316.32
+# Last modified: 17 May 2025 11:42 UTC
+# Version: 2025.0517.1142.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4319
+# Number of entries: 4323
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1207,7 +1207,6 @@ local=/eduacation.lol/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -1346,7 +1345,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -2103,6 +2101,8 @@ local=/linkideo.com/
 local=/linkmefree.net/
 local=/linkmetube.com/
 local=/dns.linkr.ninja/
+local=/omar.linxy.eu/
+local=/omarcreatedthis.linxy.eu/
 local=/lionssh.com/
 local=/quickvpn.lipisoft.com/
 local=/africadns1.liquidtelecom.net/
@@ -2156,6 +2156,7 @@ local=/mabuktogel.properties/
 local=/mabuktogel.solutions/
 local=/maddw.com/
 local=/magiccloak.net/
+local=/mahnor.com/
 local=/mailkyb.co/
 local=/mailproxy.info/
 local=/mainprox.com/
@@ -2335,6 +2336,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2387,6 +2389,7 @@ local=/natfrp.cloud/
 local=/nathanielgavin.lol/
 local=/vpn.nbvalente.fr/
 local=/vpn.ncapi.io/
+local=/ne1.ca/
 local=/bdedu.ne1.co/
 local=/dns.neeb.it/
 local=/needunblock.com/
@@ -3681,6 +3684,7 @@ local=/totalvpn.com/
 local=/doh.totoro.pub/
 local=/touchvpn.net/
 local=/towervpn.com/
+local=/tpymainx01.ru/
 local=/dns.tracker.ink/
 local=/tradeadspace.info/
 local=/linewize.tradekinginternational.com/

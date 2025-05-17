@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747437660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747466700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 23:21 UTC
-; Version: 2025.0516.2321.07
+; Last modified: 17 May 2025 07:25 UTC
+; Version: 2025.0517.0725.07
 ; Syntax: RPZ
-; Number of entries: 11564
+; Number of entries: 11572
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -792,6 +792,8 @@ uni.cf CNAME .
 *.uni.cf CNAME .
 blogshare.cfd CNAME .
 *.blogshare.cfd CNAME .
+minggu.cfd CNAME .
+*.minggu.cfd CNAME .
 activetea.ch CNAME .
 *.activetea.ch CNAME .
 chfm.ch CNAME .
@@ -2512,6 +2514,8 @@ mstcvk.com CNAME .
 *.mstcvk.com CNAME .
 mujlb.com CNAME .
 *.mujlb.com CNAME .
+multishorturl.com CNAME .
+*.multishorturl.com CNAME .
 murl.com CNAME .
 *.murl.com CNAME .
 t.musixmatch.com CNAME .
@@ -4742,6 +4746,8 @@ lnnk.in CNAME .
 *.lnnk.in CNAME .
 lynks.in CNAME .
 *.lynks.in CNAME .
+lynkz.in CNAME .
+*.lynkz.in CNAME .
 mayocl.in CNAME .
 *.mayocl.in CNAME .
 me9.in CNAME .
@@ -8324,6 +8330,8 @@ linkifly.net CNAME .
 *.linkifly.net CNAME .
 linkit.net CNAME .
 *.linkit.net CNAME .
+linksfire.net CNAME .
+*.linksfire.net CNAME .
 linkshortner.net CNAME .
 *.linkshortner.net CNAME .
 linksubmit.net CNAME .

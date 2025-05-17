@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747424340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747481940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 19:39 UTC
-; Version: 2025.0516.1939.04
+; Last modified: 17 May 2025 11:39 UTC
+; Version: 2025.0517.1139.40
 ; Syntax: RPZ
-; Number of entries: 2788
+; Number of entries: 2796
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -133,6 +133,8 @@ netmask.ca CNAME .
 *.netmask.ca CNAME .
 no-ip.ca CNAME .
 *.no-ip.ca CNAME .
+nodns.ca CNAME .
+*.nodns.ca CNAME .
 planetdns.ca CNAME .
 *.planetdns.ca CNAME .
 roth.ca CNAME .
@@ -1059,6 +1061,8 @@ myactivedirectory.com CNAME .
 *.myactivedirectory.com CNAME .
 myddns.com CNAME .
 *.myddns.com CNAME .
+myhomeschoolfamily.com CNAME .
+*.myhomeschoolfamily.com CNAME .
 myiphost.com CNAME .
 *.myiphost.com CNAME .
 mylftv.com CNAME .
@@ -1503,6 +1507,10 @@ lebtimnetz.de CNAME .
 *.lebtimnetz.de CNAME .
 leitungsen.de CNAME .
 *.leitungsen.de CNAME .
+my-vigor.de CNAME .
+*.my-vigor.de CNAME .
+my-wan.de CNAME .
+*.my-wan.de CNAME .
 myhome-server.de CNAME .
 *.myhome-server.de CNAME .
 nas64.de CNAME .

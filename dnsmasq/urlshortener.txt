@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 23:21 UTC
-# Version: 2025.0516.2321.07
+# Last modified: 17 May 2025 07:25 UTC
+# Version: 2025.0517.0725.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5782
+# Number of entries: 5786
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -2735,6 +2735,7 @@ local=/linkrefferal.vip/
 local=/links2.me/
 local=/links4money.com/
 local=/linksable.to/
+local=/linksfire.net/
 local=/linkshare.pro/
 local=/linkshort.co/
 local=/linkshort.eu/
@@ -2882,6 +2883,7 @@ local=/lyn.bz/
 local=/lync.cc/
 local=/lync.ly/
 local=/lynks.in/
+local=/lynkz.in/
 local=/lyreck.com/
 local=/lyreck.site/
 local=/lz.com/
@@ -3028,6 +3030,7 @@ local=/mikgr.si/
 local=/miljo.sbs/
 local=/millerreception.com/
 local=/mineurl.top/
+local=/minggu.cfd/
 local=/d.minifun.games/
 local=/direct.minifun.games/
 local=/minify.link/
@@ -3140,6 +3143,7 @@ local=/link.mtvrs.it/
 local=/mub.me/
 local=/mufv.info/
 local=/mujlb.com/
+local=/multishorturl.com/
 local=/mumy.me/
 local=/munbyn.biz/
 local=/murl.com/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 23:22 UTC
-# Version: 2025.0516.2322.34
+# Last modified: 17 May 2025 11:23 UTC
+# Version: 2025.0517.1123.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10153
+# Number of entries: 10163
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -3661,7 +3661,6 @@ local=/free-telecharger.org/
 local=/free-telecharger.top/
 local=/free-telecharger.xyz/
 local=/open.free-tracker.ga/
-local=/free4pc.org/
 local=/freebannedbooks.org/
 local=/freebfg.org/
 local=/freebookspot.es/
@@ -5597,6 +5596,7 @@ local=/miru.watch/
 local=/miruro.com/
 local=/miruro.tv/
 local=/mitorrent.org/
+local=/mixdrop.co/
 local=/mixfiend.com/
 local=/mixfilm.net/
 local=/mixonbd.com/
@@ -5636,6 +5636,7 @@ local=/mobiletvshows.site/
 local=/mobilism.org/
 local=/mobiplanet4m.com/
 local=/mobtvseries.net/
+local=/mod-yolo.com/
 local=/modapkcloud.com/
 local=/modapkdown.com/
 local=/modapp.org/
@@ -5741,6 +5742,7 @@ local=/moviegaga.to/
 local=/moviegamesmore.net/
 local=/movieglide.com/
 local=/moviego.net/
+local=/moviego.site/
 local=/moviehaat.net/
 local=/moviehdfree.net/
 local=/movieheaven.org/
@@ -5759,6 +5761,7 @@ local=/movienoe.com/
 local=/movienyt.net/
 local=/movieorca.com/
 local=/movieparadise.org/
+local=/moviepoka.com/
 local=/movieroom.is/
 local=/movierot.com/
 local=/movierr.online/
@@ -5848,6 +5851,7 @@ local=/mp3.li/
 local=/mp3-club.ru/
 local=/mp3-daddy.com/
 local=/mp3-find.com/
+local=/mp3-juice.icu/
 local=/mp3-juices.net/
 local=/mp3-juices.ws/
 local=/mp3000.net/
@@ -5867,6 +5871,7 @@ local=/mp3juices.is/
 local=/mp3juices.site/
 local=/mp3juices.tech/
 local=/mp3juices.to/
+local=/mp3juices3.cc/
 local=/mp3juicestv.com/
 local=/mp3menu.net/
 local=/torrent.mp3quran.net/
@@ -5943,10 +5948,12 @@ local=/myanonamouse.net/
 local=/myasiantv.to/
 local=/myauto.to/
 local=/mybadbits.org/
+local=/mybdix.com/
 local=/mybdplex.com/
 local=/mybite.org/
 local=/mybittorrent.com/
 local=/myboerse.bz/
+local=/linux.mybookmarkmanager.com/
 local=/mycricketlive.live/
 local=/mycujoo.tv/
 local=/mycybernest.com/
@@ -5990,6 +5997,7 @@ local=/mynavi-expert.pl/
 local=/myp2p.at/
 local=/myp2p.biz/
 local=/myp2px.eu/
+local=/mypanlss.store/
 local=/mypartage.com/
 local=/ns3109441.mypdns.org/
 local=/mypiratebay.net/
@@ -6026,6 +6034,7 @@ local=/nattawat.org/
 local=/naturalbd.com/
 local=/naturalbd.org/
 local=/nbabite.com/
+local=/nbafullhd.com/
 local=/nbahd.tv/
 local=/nbahdreplay.com/
 local=/nbamonster.com/
@@ -6053,7 +6062,7 @@ local=/nerealus.lt/
 local=/fcpic.nesbbs.com/
 local=/nesfiles.com/
 local=/cnc.net.bd/
-local=/www.enjoy.net.bd/
+local=/enjoy.net.bd/
 local=/futeboldahora.net.br/
 local=/futeboltotal.net.br/
 local=/greenbytes.net.bd/
@@ -6079,6 +6088,7 @@ local=/netcine.us/
 local=/netcitybd.com/
 local=/netcode.live/
 local=/netcomisp.net/
+local=/netemx.pl/
 local=/netexpressbd.com/
 local=/netfilme.com/
 local=/netinfobd.com/

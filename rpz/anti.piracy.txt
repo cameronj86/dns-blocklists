@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747437720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747480980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 23:22 UTC
-; Version: 2025.0516.2322.34
+; Last modified: 17 May 2025 11:23 UTC
+; Version: 2025.0517.1123.03
 ; Syntax: RPZ
-; Number of entries: 20306
+; Number of entries: 20326
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -431,8 +431,8 @@ triangle.com.bd CNAME .
 *.triangle.com.bd CNAME .
 cnc.net.bd CNAME .
 *.cnc.net.bd CNAME .
-www.enjoy.net.bd CNAME .
-*.www.enjoy.net.bd CNAME .
+enjoy.net.bd CNAME .
+*.enjoy.net.bd CNAME .
 greenbytes.net.bd CNAME .
 *.greenbytes.net.bd CNAME .
 movie.idsbangladesh.net.bd CNAME .
@@ -1167,6 +1167,8 @@ moviestowatch.cc CNAME .
 *.moviestowatch.cc CNAME .
 mp3juices.cc CNAME .
 *.mp3juices.cc CNAME .
+mp3juices3.cc CNAME .
+*.mp3juices3.cc CNAME .
 musicstream.cc CNAME .
 *.musicstream.cc CNAME .
 my-free-mp3.cc CNAME .
@@ -1857,6 +1859,8 @@ megasearch.co CNAME .
 *.megasearch.co CNAME .
 minimalfreaks.co CNAME .
 *.minimalfreaks.co CNAME .
+mixdrop.co CNAME .
+*.mixdrop.co CNAME .
 monstream.co CNAME .
 *.monstream.co CNAME .
 movidy.co CNAME .
@@ -5145,6 +5149,8 @@ mmoviesjoy.com CNAME .
 *.mmoviesjoy.com CNAME .
 mobiplanet4m.com CNAME .
 *.mobiplanet4m.com CNAME .
+mod-yolo.com CNAME .
+*.mod-yolo.com CNAME .
 modapkcloud.com CNAME .
 *.modapkcloud.com CNAME .
 modapkdown.com CNAME .
@@ -5217,6 +5223,8 @@ movienoe.com CNAME .
 *.movienoe.com CNAME .
 movieorca.com CNAME .
 *.movieorca.com CNAME .
+moviepoka.com CNAME .
+*.moviepoka.com CNAME .
 movierot.com CNAME .
 *.movierot.com CNAME .
 movies-d.com CNAME .
@@ -5289,10 +5297,14 @@ my-gamebox.com CNAME .
 *.my-gamebox.com CNAME .
 myabandonware.com CNAME .
 *.myabandonware.com CNAME .
+mybdix.com CNAME .
+*.mybdix.com CNAME .
 mybdplex.com CNAME .
 *.mybdplex.com CNAME .
 mybittorrent.com CNAME .
 *.mybittorrent.com CNAME .
+linux.mybookmarkmanager.com CNAME .
+*.linux.mybookmarkmanager.com CNAME .
 mycybernest.com CNAME .
 *.mycybernest.com CNAME .
 myflixer.com CNAME .
@@ -5339,6 +5351,8 @@ naturalbd.com CNAME .
 *.naturalbd.com CNAME .
 nbabite.com CNAME .
 *.nbabite.com CNAME .
+nbafullhd.com CNAME .
+*.nbafullhd.com CNAME .
 nbahdreplay.com CNAME .
 *.nbahdreplay.com CNAME .
 nbamonster.com CNAME .
@@ -8965,6 +8979,8 @@ juraganfilm.icu CNAME .
 *.juraganfilm.icu CNAME .
 moviestube.icu CNAME .
 *.moviestube.icu CNAME .
+mp3-juice.icu CNAME .
+*.mp3-juice.icu CNAME .
 nocensor.icu CNAME .
 *.nocensor.icu CNAME .
 piratebay.icu CNAME .
@@ -14499,8 +14515,6 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
-free4pc.org CNAME .
-*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -15815,6 +15829,8 @@ movieworld.pl CNAME .
 *.movieworld.pl CNAME .
 mynavi-expert.pl CNAME .
 *.mynavi-expert.pl CNAME .
+netemx.pl CNAME .
+*.netemx.pl CNAME .
 nopremium.pl CNAME .
 *.nopremium.pl CNAME .
 rstorrent.org.pl CNAME .
@@ -17191,6 +17207,8 @@ mobiletvshows.site CNAME .
 *.mobiletvshows.site CNAME .
 mokmobi.site CNAME .
 *.mokmobi.site CNAME .
+moviego.site CNAME .
+*.moviego.site CNAME .
 mp3flac.site CNAME .
 *.mp3flac.site CNAME .
 mp3juicemusic.site CNAME .
@@ -17389,6 +17407,8 @@ italia-film.store CNAME .
 *.italia-film.store CNAME .
 lookmovie.store CNAME .
 *.lookmovie.store CNAME .
+mypanlss.store CNAME .
+*.mypanlss.store CNAME .
 0123movie.stream CNAME .
 *.0123movie.stream CNAME .
 bdiptv.stream CNAME .

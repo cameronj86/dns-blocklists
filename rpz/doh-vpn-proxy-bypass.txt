@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747437360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747482120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 23:16 UTC
-; Version: 2025.0516.2316.32
+; Last modified: 17 May 2025 11:42 UTC
+; Version: 2025.0517.1142.33
 ; Syntax: RPZ
-; Number of entries: 8638
+; Number of entries: 8646
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -292,6 +292,8 @@ use.mypics.ca CNAME .
 *.use.mypics.ca CNAME .
 myproxy.ca CNAME .
 *.myproxy.ca CNAME .
+ne1.ca CNAME .
+*.ne1.ca CNAME .
 psiphon.ca CNAME .
 *.psiphon.ca CNAME .
 dot.tooli.ca CNAME .
@@ -1348,8 +1350,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -2044,6 +2044,8 @@ orau.lz0724.com CNAME .
 *.orau.lz0724.com CNAME .
 maddw.com CNAME .
 *.maddw.com CNAME .
+mahnor.com CNAME .
+*.mahnor.com CNAME .
 mainprox.com CNAME .
 *.mainprox.com CNAME .
 mainssh.com CNAME .
@@ -2158,6 +2160,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4032,6 +4036,10 @@ xray.krnl.eu CNAME .
 *.xray.krnl.eu CNAME .
 adguard.leadseason.eu CNAME .
 *.adguard.leadseason.eu CNAME .
+omar.linxy.eu CNAME .
+*.omar.linxy.eu CNAME .
+omarcreatedthis.linxy.eu CNAME .
+*.omarcreatedthis.linxy.eu CNAME .
 n0.eu CNAME .
 *.n0.eu CNAME .
 onlineproxy.eu CNAME .
@@ -7616,6 +7624,8 @@ tigrons.ru CNAME .
 *.tigrons.ru CNAME .
 tor2web.ru CNAME .
 *.tor2web.ru CNAME .
+tpymainx01.ru CNAME .
+*.tpymainx01.ru CNAME .
 holaernesto.triplewipe.ru CNAME .
 *.holaernesto.triplewipe.ru CNAME .
 vanilcraft.ru CNAME .
@@ -7800,8 +7810,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
