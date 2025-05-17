@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 15:24 UTC
-# Version: 2025.0516.1524.51
+# Last modified: 16 May 2025 23:21 UTC
+# Version: 2025.0516.2321.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5778
+# Number of entries: 5782
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -2290,6 +2290,7 @@ local=/iscool.net/
 local=/isols.co/
 local=/isot2024.live/
 local=/istiqomahisti7.life/
+local=/istubby.com/
 local=/isw.pub/
 local=/itdmusic.top/
 local=/iterasi.net/
@@ -2334,6 +2335,7 @@ local=/jamaica-applicants.info/
 local=/jame.sn/
 local=/jamesastaten.live/
 local=/janji.me/
+local=/janjihoki.fun/
 local=/japkq.com/
 local=/javadocs.org/
 local=/jaw.gg/
@@ -2361,6 +2363,7 @@ local=/jieee.sbs/
 local=/jii.li/
 local=/jijr.com/
 local=/jilislots.life/
+local=/jio.sh/
 local=/jiourl.com/
 local=/jipu.info/
 local=/jkf.lv/
@@ -2432,6 +2435,7 @@ local=/karisaathman346.life/
 local=/kas.pr/
 local=/kasambuhay-consumer-community-square-community.live/
 local=/kask.us/
+local=/travslyf.katatillo.com/
 local=/katespadesneakpeek.com/
 local=/katwr.sbs/
 local=/katzr.net/
@@ -2564,6 +2568,7 @@ local=/l-k.be/
 local=/l00p.eu/
 local=/l24.im/
 local=/l2f.ca/
+local=/l2o.ir/
 local=/l8.nu/
 local=/l8r.it/
 local=/l9.fr/
@@ -5209,7 +5214,6 @@ local=/vid.lu/
 local=/videopro.live/
 local=/vig.fit/
 local=/vigilink.com/
-local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/

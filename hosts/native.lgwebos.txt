@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 23:26 UTC
-# Version: 2025.0508.2326.33
+# Last modified: 17 May 2025 00:34 UTC
+# Version: 2025.0517.0034.16
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1169
+# Number of entries: 1171
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 ad-inserter.alphonso.tv
@@ -1020,6 +1020,7 @@
 0.0.0.0 tkacr774.alphonso.tv
 0.0.0.0 tkacr775.alphonso.tv
 0.0.0.0 tkacr776.alphonso.tv
+0.0.0.0 tkacr777.alphonso.tv
 0.0.0.0 tkacr778.alphonso.tv
 0.0.0.0 tkacr779.alphonso.tv
 0.0.0.0 tkacr780.alphonso.tv
@@ -1175,6 +1176,7 @@
 0.0.0.0 ruc.nudge.lgtvcommon.com
 0.0.0.0 rdl.lgtvcommon.com
 0.0.0.0 aic.rdl.lgtvcommon.com
+0.0.0.0 eic.rdl.lgtvcommon.com
 0.0.0.0 kic.rdl.lgtvcommon.com
 0.0.0.0 wiseconfig.lgtvcommon.com
 0.0.0.0 aic.wiseconfig.lgtvcommon.com

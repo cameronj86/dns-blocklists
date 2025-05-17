@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 19:41 UTC
-# Version: 2025.0516.1941.54
+# Last modified: 16 May 2025 23:16 UTC
+# Version: 2025.0516.2316.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4310
+# Number of entries: 4319
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1801,10 +1801,13 @@ local=/idinahui.pro/
 local=/idolproxy.com/
 local=/adguard.shuting.idv.tw/
 local=/ietors.com/
+local=/worldbookonline.ignorelist.com/
 local=/dns.ihaveacloud.com/
+local=/hellotaka.iiiii.info/
 local=/iij.jp/
 local=/ikarosalpha.xyz/
 local=/dns.ikataruto.com/
+local=/ikhebdorst.nl/
 local=/iksde.com/
 local=/hp.ilove4ndan.com/
 local=/rhp.ilove4ndan.com/
@@ -1842,7 +1845,10 @@ local=/instant-vpn.com/
 local=/instantunblock.com/
 local=/intego.com/
 local=/dns.interhub.cc/
+local=/interncloud.info/
+local=/internetbypass.com/
 local=/internetcloak.com/
+local=/interssh.com/
 local=/intervpn.com/
 local=/intl-alliance.com/
 local=/reallyreallyhardmathstuff333.intprosys.net/
@@ -1902,12 +1908,14 @@ local=/cells.school.jaaax.com/
 local=/jabber-germany.de/
 local=/jackyes.ovh/
 local=/jagoanssh.com/
+local=/jailbreaked.net/
 local=/mmm-yummy-tasty.jakesthoughts.xyz/
 local=/jalaliveapp.com/
 local=/jamesisbald.xyz/
 local=/tj.jamesxue.xyz/
 local=/janathanmahes-mysharepoint.com/
 local=/dns.janl.eu/
+local=/px.jarnus.xyz/
 local=/jayshaun.com/
 local=/jcdns.fun/
 local=/jellyvpn.com/
@@ -2000,6 +2008,7 @@ local=/klcknerrip.com/
 local=/knowurcson.store/
 local=/knvpn.net/
 local=/ko-18948-tr.xyz/
+local=/www-proxy.koirdsuzu.com/
 local=/proxy.kokecoco.me/
 local=/www-proxy.kokecoco.me/
 local=/adguard.konikoni428.com/
@@ -2085,6 +2094,7 @@ local=/doh.libredns.gr/
 local=/dot.libredns.gr/
 local=/lifeisa.live/
 local=/dns.lihj.me/
+local=/likeproxy.com/
 local=/limevpn.com/
 local=/limitlessproxy.com/
 local=/pa.linkall.uk/
@@ -2325,7 +2335,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

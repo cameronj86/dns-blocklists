@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 23:26 UTC
-# Version: 2025.0508.2326.33
+# Last modified: 17 May 2025 00:34 UTC
+# Version: 2025.0517.0034.16
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
-# Number of entries: 130
+# Number of entries: 131
 #
 0.0.0.0 alphonso.tv ad-inserter.alphonso.tv aeihat46.alphonso.tv aknbxhzyd1.alphonso.tv aqvqsekdpw89.alphonso.tv atzcxw9.alphonso.tv bbhobjaopy4.alphonso.tv behilbct57.alphonso.tv birjox8.alphonso.tv
 0.0.0.0 bkhwgq8.alphonso.tv bl-server.alphonso.tv bmkoqxogtv40.alphonso.tv bnwhgdi66.alphonso.tv bphcuxntp31.alphonso.tv bsdvjjug6.alphonso.tv bsndk8.alphonso.tv bucyhq2.alphonso.tv budwoc80.alphonso.tv
@@ -121,21 +121,22 @@
 0.0.0.0 tkacr747.alphonso.tv tkacr748.alphonso.tv tkacr749.alphonso.tv tkacr750.alphonso.tv tkacr751.alphonso.tv tkacr752.alphonso.tv tkacr753.alphonso.tv tkacr754.alphonso.tv tkacr755.alphonso.tv
 0.0.0.0 tkacr756.alphonso.tv tkacr757.alphonso.tv tkacr758.alphonso.tv tkacr759.alphonso.tv tkacr760.alphonso.tv tkacr761.alphonso.tv tkacr762.alphonso.tv tkacr763.alphonso.tv tkacr764.alphonso.tv
 0.0.0.0 tkacr765.alphonso.tv tkacr766.alphonso.tv tkacr767.alphonso.tv tkacr768.alphonso.tv tkacr769.alphonso.tv tkacr770.alphonso.tv tkacr771.alphonso.tv tkacr772.alphonso.tv tkacr773.alphonso.tv
-0.0.0.0 tkacr774.alphonso.tv tkacr775.alphonso.tv tkacr776.alphonso.tv tkacr778.alphonso.tv tkacr779.alphonso.tv tkacr780.alphonso.tv tkacr781.alphonso.tv tkacr782.alphonso.tv tkacr783.alphonso.tv
-0.0.0.0 tkacr784.alphonso.tv tkacr785.alphonso.tv tkacr786.alphonso.tv tkacr787.alphonso.tv tkacr788.alphonso.tv tkacr789.alphonso.tv tkacr790.alphonso.tv tkacr791.alphonso.tv tn.alphonso.tv
-0.0.0.0 toahevamup30.alphonso.tv tsxhjd90.alphonso.tv tyftsjph74.alphonso.tv ubescyza51.alphonso.tv ugelxexv9.alphonso.tv ugiys71.alphonso.tv ujuyhix2.alphonso.tv uk-ad-inserter.alphonso.tv ulahboe0.alphonso.tv
-0.0.0.0 unosey64.alphonso.tv uombtxq04.alphonso.tv uorkoeqrx8.alphonso.tv upgldtmgz08.alphonso.tv uwysugvwcb5.alphonso.tv uzfsfnxy61.alphonso.tv vewxchtqs1.alphonso.tv vfqtgvx0.alphonso.tv vgflwz29.alphonso.tv
-0.0.0.0 vllychnv92.alphonso.tv voexk5.alphonso.tv vokpmgsfi48.alphonso.tv vwvrl11.alphonso.tv vxbirwzxli95.alphonso.tv vzdqozmtzj9.alphonso.tv vzxysu18.alphonso.tv wdnhhcrvaj4.alphonso.tv wdvqypb4.alphonso.tv
-0.0.0.0 web2.alphonso.tv whxrqzhg26.alphonso.tv wtjnvg4.alphonso.tv wuxsec36.alphonso.tv wwdrpr28.alphonso.tv www.alphonso.tv wyxqbhzw97.alphonso.tv xasztu66.alphonso.tv xbccbblkf4.alphonso.tv
-0.0.0.0 xdfaerg8.alphonso.tv xivbr6.alphonso.tv xksxqur0.alphonso.tv xovsoot4.alphonso.tv xpmbuxhl9.alphonso.tv xqqyx2.alphonso.tv xrxtkwnz4.alphonso.tv xsbyyik52.alphonso.tv ycqniap3.alphonso.tv
-0.0.0.0 ycveqoogp09.alphonso.tv ygebzkorfi7.alphonso.tv ygkibjr6.alphonso.tv yrdpnjajw79.alphonso.tv yubyryonu18.alphonso.tv yumhcpugj62.alphonso.tv yygzydzs13.alphonso.tv zbzcbkflw2.alphonso.tv zcesm62.alphonso.tv
-0.0.0.0 zeokb1.alphonso.tv zmepmwhey7.alphonso.tv zpvvb87.alphonso.tv zqsyp37.alphonso.tv zumqanh0.alphonso.tv zycigxwpgv8.alphonso.tv us-ad-lgsmartad-com.aws-prd.net us-info-lgsmartad-com.aws-prd.net eic-ngfts.lge.com.edgekey.net
-0.0.0.0 qt2-ngfts.lge.com.edgekey.net lgads.tv www.lgads.tv eic-ngfts.lge.com qt2-ngfts.lge.com ad.lgsmartad.com ae.ad.lgsmartad.com al.ad.lgsmartad.com ar.ad.lgsmartad.com
-0.0.0.0 at.ad.lgsmartad.com au.ad.lgsmartad.com be.ad.lgsmartad.com br.ad.lgsmartad.com by.ad.lgsmartad.com ca.ad.lgsmartad.com cl.ad.lgsmartad.com co.ad.lgsmartad.com cr.ad.lgsmartad.com
-0.0.0.0 cz.ad.lgsmartad.com de.ad.lgsmartad.com dk.ad.lgsmartad.com do.ad.lgsmartad.com ec.ad.lgsmartad.com ee.ad.lgsmartad.com eg.ad.lgsmartad.com es.ad.lgsmartad.com gb.ad.lgsmartad.com
-0.0.0.0 gr.ad.lgsmartad.com gt.ad.lgsmartad.com hk.ad.lgsmartad.com hn.ad.lgsmartad.com hu.ad.lgsmartad.com id.ad.lgsmartad.com ie.ad.lgsmartad.com il.ad.lgsmartad.com in.ad.lgsmartad.com
-0.0.0.0 iq.ad.lgsmartad.com kz.ad.lgsmartad.com lt.ad.lgsmartad.com mx.ad.lgsmartad.com my.ad.lgsmartad.com ng.ad.lgsmartad.com nl.ad.lgsmartad.com pa.ad.lgsmartad.com ph.ad.lgsmartad.com
-0.0.0.0 pl.ad.lgsmartad.com pt.ad.lgsmartad.com ro.ad.lgsmartad.com rs.ad.lgsmartad.com ru.ad.lgsmartad.com se.ad.lgsmartad.com sg.ad.lgsmartad.com sk.ad.lgsmartad.com sv.ad.lgsmartad.com
-0.0.0.0 th.ad.lgsmartad.com tr.ad.lgsmartad.com ua.ad.lgsmartad.com us.ad.lgsmartad.com ve.ad.lgsmartad.com vn.ad.lgsmartad.com za.ad.lgsmartad.com us.lgsmartad.com cdpbeacon.lgtvcommon.com
-0.0.0.0 aic.cdpbeacon.lgtvcommon.com eic.cdpbeacon.lgtvcommon.com homeprv.lgtvcommon.com aic.homeprv.lgtvcommon.com eic.homeprv.lgtvcommon.com kic.homeprv.lgtvcommon.com ruc.homeprv.lgtvcommon.com nudge.lgtvcommon.com aic.nudge.lgtvcommon.com
-0.0.0.0 eic.nudge.lgtvcommon.com kic.nudge.lgtvcommon.com ruc.nudge.lgtvcommon.com rdl.lgtvcommon.com aic.rdl.lgtvcommon.com kic.rdl.lgtvcommon.com wiseconfig.lgtvcommon.com aic.wiseconfig.lgtvcommon.com 
+0.0.0.0 tkacr774.alphonso.tv tkacr775.alphonso.tv tkacr776.alphonso.tv tkacr777.alphonso.tv tkacr778.alphonso.tv tkacr779.alphonso.tv tkacr780.alphonso.tv tkacr781.alphonso.tv tkacr782.alphonso.tv
+0.0.0.0 tkacr783.alphonso.tv tkacr784.alphonso.tv tkacr785.alphonso.tv tkacr786.alphonso.tv tkacr787.alphonso.tv tkacr788.alphonso.tv tkacr789.alphonso.tv tkacr790.alphonso.tv tkacr791.alphonso.tv
+0.0.0.0 tn.alphonso.tv toahevamup30.alphonso.tv tsxhjd90.alphonso.tv tyftsjph74.alphonso.tv ubescyza51.alphonso.tv ugelxexv9.alphonso.tv ugiys71.alphonso.tv ujuyhix2.alphonso.tv uk-ad-inserter.alphonso.tv
+0.0.0.0 ulahboe0.alphonso.tv unosey64.alphonso.tv uombtxq04.alphonso.tv uorkoeqrx8.alphonso.tv upgldtmgz08.alphonso.tv uwysugvwcb5.alphonso.tv uzfsfnxy61.alphonso.tv vewxchtqs1.alphonso.tv vfqtgvx0.alphonso.tv
+0.0.0.0 vgflwz29.alphonso.tv vllychnv92.alphonso.tv voexk5.alphonso.tv vokpmgsfi48.alphonso.tv vwvrl11.alphonso.tv vxbirwzxli95.alphonso.tv vzdqozmtzj9.alphonso.tv vzxysu18.alphonso.tv wdnhhcrvaj4.alphonso.tv
+0.0.0.0 wdvqypb4.alphonso.tv web2.alphonso.tv whxrqzhg26.alphonso.tv wtjnvg4.alphonso.tv wuxsec36.alphonso.tv wwdrpr28.alphonso.tv www.alphonso.tv wyxqbhzw97.alphonso.tv xasztu66.alphonso.tv
+0.0.0.0 xbccbblkf4.alphonso.tv xdfaerg8.alphonso.tv xivbr6.alphonso.tv xksxqur0.alphonso.tv xovsoot4.alphonso.tv xpmbuxhl9.alphonso.tv xqqyx2.alphonso.tv xrxtkwnz4.alphonso.tv xsbyyik52.alphonso.tv
+0.0.0.0 ycqniap3.alphonso.tv ycveqoogp09.alphonso.tv ygebzkorfi7.alphonso.tv ygkibjr6.alphonso.tv yrdpnjajw79.alphonso.tv yubyryonu18.alphonso.tv yumhcpugj62.alphonso.tv yygzydzs13.alphonso.tv zbzcbkflw2.alphonso.tv
+0.0.0.0 zcesm62.alphonso.tv zeokb1.alphonso.tv zmepmwhey7.alphonso.tv zpvvb87.alphonso.tv zqsyp37.alphonso.tv zumqanh0.alphonso.tv zycigxwpgv8.alphonso.tv us-ad-lgsmartad-com.aws-prd.net us-info-lgsmartad-com.aws-prd.net
+0.0.0.0 eic-ngfts.lge.com.edgekey.net qt2-ngfts.lge.com.edgekey.net lgads.tv www.lgads.tv eic-ngfts.lge.com qt2-ngfts.lge.com ad.lgsmartad.com ae.ad.lgsmartad.com al.ad.lgsmartad.com
+0.0.0.0 ar.ad.lgsmartad.com at.ad.lgsmartad.com au.ad.lgsmartad.com be.ad.lgsmartad.com br.ad.lgsmartad.com by.ad.lgsmartad.com ca.ad.lgsmartad.com cl.ad.lgsmartad.com co.ad.lgsmartad.com
+0.0.0.0 cr.ad.lgsmartad.com cz.ad.lgsmartad.com de.ad.lgsmartad.com dk.ad.lgsmartad.com do.ad.lgsmartad.com ec.ad.lgsmartad.com ee.ad.lgsmartad.com eg.ad.lgsmartad.com es.ad.lgsmartad.com
+0.0.0.0 gb.ad.lgsmartad.com gr.ad.lgsmartad.com gt.ad.lgsmartad.com hk.ad.lgsmartad.com hn.ad.lgsmartad.com hu.ad.lgsmartad.com id.ad.lgsmartad.com ie.ad.lgsmartad.com il.ad.lgsmartad.com
+0.0.0.0 in.ad.lgsmartad.com iq.ad.lgsmartad.com kz.ad.lgsmartad.com lt.ad.lgsmartad.com mx.ad.lgsmartad.com my.ad.lgsmartad.com ng.ad.lgsmartad.com nl.ad.lgsmartad.com pa.ad.lgsmartad.com
+0.0.0.0 ph.ad.lgsmartad.com pl.ad.lgsmartad.com pt.ad.lgsmartad.com ro.ad.lgsmartad.com rs.ad.lgsmartad.com ru.ad.lgsmartad.com se.ad.lgsmartad.com sg.ad.lgsmartad.com sk.ad.lgsmartad.com
+0.0.0.0 sv.ad.lgsmartad.com th.ad.lgsmartad.com tr.ad.lgsmartad.com ua.ad.lgsmartad.com us.ad.lgsmartad.com ve.ad.lgsmartad.com vn.ad.lgsmartad.com za.ad.lgsmartad.com us.lgsmartad.com
+0.0.0.0 cdpbeacon.lgtvcommon.com aic.cdpbeacon.lgtvcommon.com eic.cdpbeacon.lgtvcommon.com homeprv.lgtvcommon.com aic.homeprv.lgtvcommon.com eic.homeprv.lgtvcommon.com kic.homeprv.lgtvcommon.com ruc.homeprv.lgtvcommon.com nudge.lgtvcommon.com
+0.0.0.0 aic.nudge.lgtvcommon.com eic.nudge.lgtvcommon.com kic.nudge.lgtvcommon.com ruc.nudge.lgtvcommon.com rdl.lgtvcommon.com aic.rdl.lgtvcommon.com eic.rdl.lgtvcommon.com kic.rdl.lgtvcommon.com wiseconfig.lgtvcommon.com
+0.0.0.0 aic.wiseconfig.lgtvcommon.com 

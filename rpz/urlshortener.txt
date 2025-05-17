@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747409040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747437660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 15:24 UTC
-; Version: 2025.0516.1524.51
+; Last modified: 16 May 2025 23:21 UTC
+; Version: 2025.0516.2321.07
 ; Syntax: RPZ
-; Number of entries: 11556
+; Number of entries: 11564
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2226,6 +2226,8 @@ iplogger.com CNAME .
 *.iplogger.com CNAME .
 isc-vn.com CNAME .
 *.isc-vn.com CNAME .
+istubby.com CNAME .
+*.istubby.com CNAME .
 itp24.com CNAME .
 *.itp24.com CNAME .
 its-4-u.com CNAME .
@@ -2278,6 +2280,8 @@ kaitect.com CNAME .
 *.kaitect.com CNAME .
 kand18.com CNAME .
 *.kand18.com CNAME .
+travslyf.katatillo.com CNAME .
+*.travslyf.katatillo.com CNAME .
 katespadesneakpeek.com CNAME .
 *.katespadesneakpeek.com CNAME .
 kawanzeus.com CNAME .
@@ -4142,6 +4146,8 @@ zipurl.fr CNAME .
 *.69run.fun CNAME .
 bj88php.fun CNAME .
 *.bj88php.fun CNAME .
+janjihoki.fun CNAME .
+*.janjihoki.fun CNAME .
 main-xgslot88.fun CNAME .
 *.main-xgslot88.fun CNAME .
 mainterus.fun CNAME .
@@ -5492,6 +5498,8 @@ ilk.ir CNAME .
 *.ilk.ir CNAME .
 khtm.ir CNAME .
 *.khtm.ir CNAME .
+l2o.ir CNAME .
+*.l2o.ir CNAME .
 lt5.ir CNAME .
 *.lt5.ir CNAME .
 miniurl.ir CNAME .
@@ -7228,8 +7236,6 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
-vim-tiktok.live CNAME .
-*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -9790,6 +9796,8 @@ envs.sh CNAME .
 *.envs.sh CNAME .
 gym.sh CNAME .
 *.gym.sh CNAME .
+jio.sh CNAME .
+*.jio.sh CNAME .
 more.sh CNAME .
 *.more.sh CNAME .
 now.sh CNAME .

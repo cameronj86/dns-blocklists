@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747423380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747437720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 19:23 UTC
-; Version: 2025.0516.1923.43
+; Last modified: 16 May 2025 23:22 UTC
+; Version: 2025.0516.2322.34
 ; Syntax: RPZ
-; Number of entries: 20270
+; Number of entries: 20306
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1123,6 +1123,8 @@ jetanime.cc CNAME .
 *.jetanime.cc CNAME .
 torrent.jiwang.cc CNAME .
 *.torrent.jiwang.cc CNAME .
+kickassto.cc CNAME .
+*.kickassto.cc CNAME .
 kinoking.cc CNAME .
 *.kinoking.cc CNAME .
 kinokrad.cc CNAME .
@@ -1841,6 +1843,8 @@ kuroiru.co CNAME .
 *.kuroiru.co CNAME .
 letsupload.co CNAME .
 *.letsupload.co CNAME .
+limetorrents.co CNAME .
+*.limetorrents.co CNAME .
 mactorrent.co CNAME .
 *.mactorrent.co CNAME .
 megaddl.co CNAME .
@@ -4535,6 +4539,8 @@ illuminatenboard.com CNAME .
 *.illuminatenboard.com CNAME .
 ilovetorrents.com CNAME .
 *.ilovetorrents.com CNAME .
+ilsearch.com CNAME .
+*.ilsearch.com CNAME .
 imastudios.com CNAME .
 *.imastudios.com CNAME .
 imkmedia.com CNAME .
@@ -4663,6 +4669,8 @@ javlibrary.com CNAME .
 *.javlibrary.com CNAME .
 jetanimes.com CNAME .
 *.jetanimes.com CNAME .
+jhalmuri.com CNAME .
+*.jhalmuri.com CNAME .
 jimmyr.com CNAME .
 *.jimmyr.com CNAME .
 jmbsoft.com CNAME .
@@ -7991,6 +7999,8 @@ eurostreaming.dev CNAME .
 *.eurostreaming.dev CNAME .
 ftuapps.dev CNAME .
 *.ftuapps.dev CNAME .
+watch.inzi.dev CNAME .
+*.watch.inzi.dev CNAME .
 film.kace.dev CNAME .
 *.film.kace.dev CNAME .
 massgrave.dev CNAME .
@@ -8949,6 +8959,8 @@ willow.arlen.icu CNAME .
 *.willow.arlen.icu CNAME .
 ilgeniodellostreaming.icu CNAME .
 *.ilgeniodellostreaming.icu CNAME .
+tracker.imgoingto.icu CNAME .
+*.tracker.imgoingto.icu CNAME .
 juraganfilm.icu CNAME .
 *.juraganfilm.icu CNAME .
 moviestube.icu CNAME .
@@ -8991,6 +9003,8 @@ flixhq.id CNAME .
 *.flixhq.id CNAME .
 flixtor.id CNAME .
 *.flixtor.id CNAME .
+tracker.kawaii.id CNAME .
+*.tracker.kawaii.id CNAME .
 tracker.itscraftsoftware.my.id CNAME .
 *.tracker.itscraftsoftware.my.id CNAME .
 pirateproxy.id CNAME .
@@ -9307,6 +9321,8 @@ ilgeniodellostreaming.info CNAME .
 *.ilgeniodellostreaming.info CNAME .
 iphonebooks.info CNAME .
 *.iphonebooks.info CNAME .
+itoma.info CNAME .
+*.itoma.info CNAME .
 tracker.j99.info CNAME .
 *.tracker.j99.info CNAME .
 jennymodapk.info CNAME .
@@ -9315,10 +9331,14 @@ kickassunblock.info CNAME .
 *.kickassunblock.info CNAME .
 kisscartoon.info CNAME .
 *.kisscartoon.info CNAME .
+lapache.info CNAME .
+*.lapache.info CNAME .
 legittorrents.info CNAME .
 *.legittorrents.info CNAME .
 lermangasonline.info CNAME .
 *.lermangasonline.info CNAME .
+limetorrents.info CNAME .
+*.limetorrents.info CNAME .
 lk21official.info CNAME .
 *.lk21official.info CNAME .
 m4ufree.info CNAME .
@@ -9627,6 +9647,8 @@ hdfilme.io CNAME .
 *.hdfilme.io CNAME .
 hindilinks4u.io CNAME .
 *.hindilinks4u.io CNAME .
+ilgeniodellostreaming.io CNAME .
+*.ilgeniodellostreaming.io CNAME .
 indown.io CNAME .
 *.indown.io CNAME .
 instant.io CNAME .
@@ -10101,6 +10123,8 @@ crichd.li CNAME .
 *.crichd.li CNAME .
 filmpertutti.li CNAME .
 *.filmpertutti.li CNAME .
+kat.li CNAME .
+*.kat.li CNAME .
 libgen.li CNAME .
 *.libgen.li CNAME .
 movieuniverse.li CNAME .
@@ -10615,6 +10639,8 @@ kinox.lol CNAME .
 *.kinox.lol CNAME .
 movies.levrx.lol CNAME .
 *.movies.levrx.lol CNAME .
+limetorrents.lol CNAME .
+*.limetorrents.lol CNAME .
 myflixer.lol CNAME .
 *.myflixer.lol CNAME .
 nyafilmer.lol CNAME .
@@ -12387,6 +12413,8 @@ juraganfilm.net CNAME .
 *.juraganfilm.net CNAME .
 kanjiku.net CNAME .
 *.kanjiku.net CNAME .
+karagarga.net CNAME .
+*.karagarga.net CNAME .
 katushka.net CNAME .
 *.katushka.net CNAME .
 katworld.net CNAME .
@@ -14471,6 +14499,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -15969,6 +15999,8 @@ kinoua.pro CNAME .
 *.kinoua.pro CNAME .
 limetor.pro CNAME .
 *.limetor.pro CNAME .
+limetorrents.pro CNAME .
+*.limetorrents.pro CNAME .
 live7.pro CNAME .
 *.live7.pro CNAME .
 tv2.lk21official.pro CNAME .
@@ -17901,6 +17933,8 @@ katz.to CNAME .
 *.katz.to CNAME .
 kickass.to CNAME .
 *.kickass.to CNAME .
+kickasstorrents.to CNAME .
+*.kickasstorrents.to CNAME .
 kickme.to CNAME .
 *.kickme.to CNAME .
 kinomax.to CNAME .
@@ -20039,6 +20073,8 @@ tracker.iamhansen.xyz CNAME .
 *.tracker.iamhansen.xyz CNAME .
 idope.xyz CNAME .
 *.idope.xyz CNAME .
+ilgeniodellostreaming.xyz CNAME .
+*.ilgeniodellostreaming.xyz CNAME .
 ind-unblock.xyz CNAME .
 *.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .

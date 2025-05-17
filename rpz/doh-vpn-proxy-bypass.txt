@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747424460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747437360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 May 2025 19:41 UTC
-; Version: 2025.0516.1941.54
+; Last modified: 16 May 2025 23:16 UTC
+; Version: 2025.0516.2316.32
 ; Syntax: RPZ
-; Number of entries: 8620
+; Number of entries: 8638
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1798,6 +1798,8 @@ idolproxy.com CNAME .
 *.idolproxy.com CNAME .
 ietors.com CNAME .
 *.ietors.com CNAME .
+worldbookonline.ignorelist.com CNAME .
+*.worldbookonline.ignorelist.com CNAME .
 dns.ihaveacloud.com CNAME .
 *.dns.ihaveacloud.com CNAME .
 dns.ikataruto.com CNAME .
@@ -1836,8 +1838,12 @@ instantunblock.com CNAME .
 *.instantunblock.com CNAME .
 intego.com CNAME .
 *.intego.com CNAME .
+internetbypass.com CNAME .
+*.internetbypass.com CNAME .
 internetcloak.com CNAME .
 *.internetcloak.com CNAME .
+interssh.com CNAME .
+*.interssh.com CNAME .
 intervpn.com CNAME .
 *.intervpn.com CNAME .
 intl-alliance.com CNAME .
@@ -1962,6 +1968,8 @@ kingsurfproxy.com CNAME .
 *.kingsurfproxy.com CNAME .
 klcknerrip.com CNAME .
 *.klcknerrip.com CNAME .
+www-proxy.koirdsuzu.com CNAME .
+*.www-proxy.koirdsuzu.com CNAME .
 adguard.konikoni428.com CNAME .
 *.adguard.konikoni428.com CNAME .
 notebooks.kozow.com CNAME .
@@ -2004,6 +2012,8 @@ dns2.lezainski.com CNAME .
 *.dns2.lezainski.com CNAME .
 dns.lgprk.com CNAME .
 *.dns.lgprk.com CNAME .
+likeproxy.com CNAME .
+*.likeproxy.com CNAME .
 limevpn.com CNAME .
 *.limevpn.com CNAME .
 limitlessproxy.com CNAME .
@@ -2148,8 +2158,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4514,6 +4522,10 @@ httpdserver.info CNAME .
 *.httpdserver.info CNAME .
 iblocker.info CNAME .
 *.iblocker.info CNAME .
+hellotaka.iiiii.info CNAME .
+*.hellotaka.iiiii.info CNAME .
+interncloud.info CNAME .
+*.interncloud.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
 doh.kekew.info CNAME .
@@ -5848,6 +5860,8 @@ ivpn.net CNAME .
 *.ivpn.net CNAME .
 iweb365.net CNAME .
 *.iweb365.net CNAME .
+jailbreaked.net CNAME .
+*.jailbreaked.net CNAME .
 green2.jnraptor.net CNAME .
 *.green2.jnraptor.net CNAME .
 vps1.jnraptor.net CNAME .
@@ -6420,6 +6434,8 @@ dns.ginovs.nl CNAME .
 *.dns.ginovs.nl CNAME .
 gratisproxy.nl CNAME .
 *.gratisproxy.nl CNAME .
+ikhebdorst.nl CNAME .
+*.ikhebdorst.nl CNAME .
 doh.jeroenhd.nl CNAME .
 *.doh.jeroenhd.nl CNAME .
 dns.joey01245.nl CNAME .
@@ -8466,6 +8482,8 @@ jamesisbald.xyz CNAME .
 *.jamesisbald.xyz CNAME .
 tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
+px.jarnus.xyz CNAME .
+*.px.jarnus.xyz CNAME .
 jongserver.xyz CNAME .
 *.jongserver.xyz CNAME .
 judua3rtinpst0s.xyz CNAME .

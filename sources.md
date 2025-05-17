@@ -248,7 +248,6 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_ips.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/anti-privacy-analytics.txt
-https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/refs/heads/main/pihole.txt
 https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/chainabuse.txt
 https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/easydmarc.txt
 https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/franceverif.txt
