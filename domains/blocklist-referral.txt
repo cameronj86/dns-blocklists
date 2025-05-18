@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 May 2025 14:52 UTC
-# Version: 2025.0517.1452.20
+# Last modified: 18 May 2025 10:48 UTC
+# Version: 2025.0518.1048.23
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 948
+# Number of entries: 928
 #
 l.1mp.ru
 t.1und1.de
@@ -275,13 +275,12 @@ profitshare.emag.ro
 list-unsubscribe.eservice.emarsys.net
 redirector.eservice.emarsys.net
 suite-dashboard.gservice.emarsys.net
-suite.emarsys.net
 suite10.emarsys.net
 suite11.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
 suite22.emarsys.net
-suite24.emarsys.net
+suite25.emarsys.net
 suite27.emarsys.net
 suite29.emarsys.net
 suite30.emarsys.net
@@ -296,6 +295,7 @@ suite57.emarsys.net
 suite58.emarsys.net
 suite59.emarsys.net
 suite63.emarsys.net
+suite7.emarsys.net
 suite9.emarsys.net
 emjcd.com
 t.en25.com
@@ -307,7 +307,6 @@ secure.everyaction.com
 evyy.net
 m.exactag.com
 tp-emea.exactag.com
-s13.login.exacttarget.com
 s1.exacttarget.com
 inbound.s1.exacttarget.com
 inbound-reply.s1.exacttarget.com
@@ -351,7 +350,6 @@ s4.exacttarget.com
 click.s4.exacttarget.com
 inbound.s4.exacttarget.com
 inbound-reply.s4.exacttarget.com
-mc.s4.exacttarget.com
 members.s4.exacttarget.com
 pages.s4.exacttarget.com
 pub.s4.exacttarget.com
@@ -363,13 +361,11 @@ bounce.s50.exacttarget.com
 image.s50.exacttarget.com
 mc.s50.exacttarget.com
 members.s50.exacttarget.com
-reply.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
 click.s51.exacttarget.com
 mc.s51.exacttarget.com
 s6.exacttarget.com
-bounce.s6.exacttarget.com
 click.s6.exacttarget.com
 image.s6.exacttarget.com
 inbound.s6.exacttarget.com
@@ -395,8 +391,6 @@ pub.s7.exacttarget.com
 view.s7.exacttarget.com
 virt.s7.exacttarget.com
 click.virt.s7.exacttarget.com
-s8.exacttarget.com
-inbound.s8.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
 cdn.exponea.com
@@ -425,7 +419,6 @@ track.glovoapp.com
 go.link
 go2jump.org
 adservice.google.ca
-adservice.google.ch
 adservice.google.com
 adservice.google.de
 adservice.google.dk
@@ -592,7 +585,6 @@ email.microsoft.com
 bounce5.email.microsoft.com
 go.microsoft.com
 target.microsoft.com
-email.microsoftemail.com
 click.email.microsoftemail.com
 image.email.microsoftemail.com
 view.email.microsoftemail.com
@@ -601,21 +593,16 @@ click.email.microsoftonline.com
 image.email.microsoftonline.com
 links.mkt41.net
 mkto-a0095.com
-mkto-ab010150.com
 mkto-ab040115.com
 mkto-ab040147.com
 mkto-ab070017.com
 mkto-ab080206.com
-mkto-ab150224.com
 mkto-ab180008.com
 mkto-ab200065.com
 mkto-ab210104.com
 mkto-ab220178.com
-mkto-ab240112.com
-mkto-ab250105.com
 mkto-ab300154.com
 mkto-ab310115.com
-mkto-ab330197.com
 mkto-ab340022.com
 mkto-ab420081.com
 mkto-ab470148.com
@@ -626,7 +613,6 @@ mkto-ab550140.com
 mkto-ab550168.com
 mkto-ab560068.com
 mkto-ab570110.com
-mkto-ab580004.com
 mkto-ab650097.com
 mkto-ab660121.com
 mkto-ab690011.com
@@ -642,7 +628,6 @@ mkto-g0180.com
 mkto-k0071.com
 mkto-lon030291.com
 mkto-lon040152.com
-mkto-lon090082.com
 mkto-n0199.com
 mkto-nld1040186.com
 mkto-o0153.com
@@ -662,8 +647,8 @@ mkto-sj310061.com
 mkto-sj310186.com
 mkto-sj320047.com
 mkto-sj330006.com
-mkto-sj340004.com
 mkto-sj360142.com
+mkto-sj380030.com
 mkto-test.com
 sjqe.mkto-test.com
 mktoweb.com
@@ -718,7 +703,6 @@ c2.piano.io
 c2-ap.piano.io
 c2-au.piano.io
 c2-eu.piano.io
-c2-sandbox.piano.io
 cdn.piano.io
 cdn-ap.piano.io
 cdn-au.piano.io
@@ -760,16 +744,13 @@ rewardtk.com
 adorama.rfvk.net
 click.royalcaribbeanmarketing.com
 r4gh8tuab.cc.rs6.net
-r4ofs8cab.cc.rs6.net
+r5v8prcab.cc.rs6.net
 r5waxhbbb.cc.rs6.net
 r6lccqnab.cc.rs6.net
 r7avxrcab.cc.rs6.net
-rftyzi5ab.cc.rs6.net
 rgkkzvdab.cc.rs6.net
-ripon4tab.cc.rs6.net
 rjpz4ucab.cc.rs6.net
 rq6agxabb.cc.rs6.net
-rrd9h64ab.cc.rs6.net
 rxfc49ebb.cc.rs6.net
 rz6dkreab.cc.rs6.net
 r20.rs6.net
@@ -918,7 +899,6 @@ tradedoubler.com
 tc.tradetracker.net
 ti.tradetracker.net
 tm.tradetracker.net
-ts.tradetracker.net
 api.traq.li
 secure.traqkarr.com
 track.connect.travelaudience.com

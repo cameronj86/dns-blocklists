@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747539780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747582620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 May 2025 03:43 UTC
-; Version: 2025.0518.0343.04
+; Last modified: 18 May 2025 15:37 UTC
+; Version: 2025.0518.1537.33
 ; Syntax: RPZ
-; Number of entries: 8702
+; Number of entries: 8722
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -312,6 +312,8 @@ onion.casa CNAME .
 *.onion.casa CNAME .
 sriedmueadguard.casa CNAME .
 *.sriedmueadguard.casa CNAME .
+yui.cat CNAME .
+*.yui.cat CNAME .
 affsoft.cc CNAME .
 *.affsoft.cc CNAME .
 antidnsvpn.co.cc CNAME .
@@ -1358,8 +1360,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -3018,6 +3018,8 @@ swiftshieldvpn.com CNAME .
 *.swiftshieldvpn.com CNAME .
 switchvpn.com CNAME .
 *.switchvpn.com CNAME .
+swordvpn.com CNAME .
+*.swordvpn.com CNAME .
 dns.syaifullah.com CNAME .
 *.dns.syaifullah.com CNAME .
 symlexvpn.com CNAME .
@@ -3102,6 +3104,8 @@ titantunnelvpn.com CNAME .
 *.titantunnelvpn.com CNAME .
 tlsext.com CNAME .
 *.tlsext.com CNAME .
+tnvpn.com CNAME .
+*.tnvpn.com CNAME .
 d.toairs.com CNAME .
 *.d.toairs.com CNAME .
 tonvpn.com CNAME .
@@ -3320,6 +3324,8 @@ viatun.com CNAME .
 *.viatun.com CNAME .
 videounblock.com CNAME .
 *.videounblock.com CNAME .
+videounblocked.com CNAME .
+*.videounblocked.com CNAME .
 vidproxy.com CNAME .
 *.vidproxy.com CNAME .
 vikingvpn.com CNAME .
@@ -3346,6 +3352,8 @@ vpn-fastest.com CNAME .
 *.vpn-fastest.com CNAME .
 vpn-free.com CNAME .
 *.vpn-free.com CNAME .
+vpn-quick.com CNAME .
+*.vpn-quick.com CNAME .
 vpn4all.com CNAME .
 *.vpn4all.com CNAME .
 vpnaccounts.com CNAME .
@@ -3512,6 +3520,8 @@ whyproxy.com CNAME .
 *.whyproxy.com CNAME .
 widevpn.com CNAME .
 *.widevpn.com CNAME .
+wiefy.com CNAME .
+*.wiefy.com CNAME .
 wiksa.com CNAME .
 *.wiksa.com CNAME .
 windscribe.com CNAME .
@@ -3558,6 +3568,8 @@ xjumper.com CNAME .
 *.xjumper.com CNAME .
 xperienc.com CNAME .
 *.xperienc.com CNAME .
+xsfwow.com CNAME .
+*.xsfwow.com CNAME .
 dns.xusqui.com CNAME .
 *.dns.xusqui.com CNAME .
 xvbelink.com CNAME .
@@ -3880,6 +3892,8 @@ home.wriedts.de CNAME .
 *.home.wriedts.de CNAME .
 xn--durhre-yxa.de CNAME .
 *.xn--durhre-yxa.de CNAME .
+your-freedom.de CNAME .
+*.your-freedom.de CNAME .
 adguard-kartoffel.zernico.de CNAME .
 *.adguard-kartoffel.zernico.de CNAME .
 zproxy.de CNAME .
@@ -4236,6 +4250,8 @@ wild-moon-986.sz.games CNAME .
 *.wild-moon-986.sz.games CNAME .
 proxy.gd CNAME .
 *.proxy.gd CNAME .
+hellotaka.wiki.gd CNAME .
+*.hellotaka.wiki.gd CNAME .
 doh.futa.gg CNAME .
 *.doh.futa.gg CNAME .
 catch.gift CNAME .
@@ -4562,8 +4578,6 @@ iweb365.info CNAME .
 *.iweb365.info CNAME .
 doh.kekew.info CNAME .
 *.doh.kekew.info CNAME .
-kilabit.info CNAME .
-*.kilabit.info CNAME .
 legalweb.info CNAME .
 *.legalweb.info CNAME .
 literally.info CNAME .
@@ -4664,6 +4678,8 @@ topsecure.info CNAME .
 *.topsecure.info CNAME .
 tradeadspace.info CNAME .
 *.tradeadspace.info CNAME .
+travelvpn.info CNAME .
+*.travelvpn.info CNAME .
 tvone.info CNAME .
 *.tvone.info CNAME .
 ublocker.info CNAME .
@@ -6640,6 +6656,8 @@ webproxy.online CNAME .
 *.webproxy.online CNAME .
 yuyuproxy.online CNAME .
 *.yuyuproxy.online CNAME .
+zexusdigital.online CNAME .
+*.zexusdigital.online CNAME .
 zpzpzpapapap4d.online CNAME .
 *.zpzpzpapapap4d.online CNAME .
 123-proxy.org CNAME .
@@ -7104,6 +7122,8 @@ turbohide.org CNAME .
 *.turbohide.org CNAME .
 unblock-me.org CNAME .
 *.unblock-me.org CNAME .
+unblockableproxy.org CNAME .
+*.unblockableproxy.org CNAME .
 unblocked2.org CNAME .
 *.unblocked2.org CNAME .
 unblocked4u.org CNAME .

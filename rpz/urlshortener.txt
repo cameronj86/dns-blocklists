@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747524420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747567260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 May 2025 23:27 UTC
-; Version: 2025.0517.2327.32
+; Last modified: 18 May 2025 11:21 UTC
+; Version: 2025.0518.1121.52
 ; Syntax: RPZ
-; Number of entries: 11592
+; Number of entries: 11634
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -774,6 +774,8 @@ urlf.cc CNAME .
 *.urlf.cc CNAME .
 urlme.cc CNAME .
 *.urlme.cc CNAME .
+urlsshares.cc CNAME .
+*.urlsshares.cc CNAME .
 uucc.cc CNAME .
 *.uucc.cc CNAME .
 uuz.cc CNAME .
@@ -3044,6 +3046,8 @@ tgdgacor.com CNAME .
 *.tgdgacor.com CNAME .
 thebindaas.com CNAME .
 *.thebindaas.com CNAME .
+thefood2.com CNAME .
+*.thefood2.com CNAME .
 thejoekuskie.com CNAME .
 *.thejoekuskie.com CNAME .
 thekreww.com CNAME .
@@ -3228,6 +3232,8 @@ urlra.com CNAME .
 *.urlra.com CNAME .
 urlro.com CNAME .
 *.urlro.com CNAME .
+urlshortenerapi.com CNAME .
+*.urlshortenerapi.com CNAME .
 urlshortenertool.com CNAME .
 *.urlshortenertool.com CNAME .
 urlshortenervip.com CNAME .
@@ -3396,6 +3402,8 @@ wurlz.com CNAME .
 *.wurlz.com CNAME .
 wvvld.com CNAME .
 *.wvvld.com CNAME .
+wwdurl.com CNAME .
+*.wwdurl.com CNAME .
 xaddr.com CNAME .
 *.xaddr.com CNAME .
 xajfl.com CNAME .
@@ -3608,6 +3616,8 @@ xoe.cz CNAME .
 *.xoe.cz CNAME .
 xrl.cz CNAME .
 *.xrl.cz CNAME .
+zkr.cz CNAME .
+*.zkr.cz CNAME .
 zkrt.cz CNAME .
 *.zkrt.cz CNAME .
 contra.dance CNAME .
@@ -6388,6 +6398,8 @@ rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
 rivera-quinones-luis-manuel-5.life CNAME .
 *.rivera-quinones-luis-manuel-5.life CNAME .
+robloxgroup.life CNAME .
+*.robloxgroup.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -6418,6 +6430,8 @@ siakap.life CNAME .
 *.siakap.life CNAME .
 sibutathemba120.life CNAME .
 *.sibutathemba120.life CNAME .
+snapchats.life CNAME .
+*.snapchats.life CNAME .
 soegyi.life CNAME .
 *.soegyi.life CNAME .
 soulful-transformation-studio.life CNAME .
@@ -7110,6 +7124,8 @@ onlineclothes.live CNAME .
 *.onlineclothes.live CNAME .
 onlyfansamairanidiaz.live CNAME .
 *.onlyfansamairanidiaz.live CNAME .
+onlyfanscaycoleman.live CNAME .
+*.onlyfanscaycoleman.live CNAME .
 oostra.live CNAME .
 *.oostra.live CNAME .
 oururl.live CNAME .
@@ -7210,6 +7226,8 @@ smfcx.live CNAME .
 *.smfcx.live CNAME .
 soegyi.live CNAME .
 *.soegyi.live CNAME .
+spotifypigeon.live CNAME .
+*.spotifypigeon.live CNAME .
 srwedding.live CNAME .
 *.srwedding.live CNAME .
 sumpahdokteruph52.live CNAME .
@@ -7226,6 +7244,8 @@ tdv-adm.live CNAME .
 *.tdv-adm.live CNAME .
 teamline.live CNAME .
 *.teamline.live CNAME .
+teamrrqslot188.live CNAME .
+*.teamrrqslot188.live CNAME .
 teliget.live CNAME .
 *.teliget.live CNAME .
 the-mc-michel-group.live CNAME .
@@ -7254,6 +7274,8 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
+vim-tiktok.live CNAME .
+*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -7264,6 +7286,8 @@ watchmoviehd.live CNAME .
 *.watchmoviehd.live CNAME .
 webbrian.live CNAME .
 *.webbrian.live CNAME .
+webgoogle.live CNAME .
+*.webgoogle.live CNAME .
 webprografor.live CNAME .
 *.webprografor.live CNAME .
 webprotech.live CNAME .
@@ -7340,6 +7364,8 @@ rxe.lol CNAME .
 *.rxe.lol CNAME .
 seogilak.lol CNAME .
 *.seogilak.lol CNAME .
+tdy.lol CNAME .
+*.tdy.lol CNAME .
 tik.lol CNAME .
 *.tik.lol CNAME .
 whatsapp2c.lol CNAME .
@@ -7952,6 +7978,8 @@ the-link.me CNAME .
 *.the-link.me CNAME .
 ti.me CNAME .
 *.ti.me CNAME .
+tinyfy.me CNAME .
+*.tinyfy.me CNAME .
 tmz.me CNAME .
 *.tmz.me CNAME .
 topkale.me CNAME .
@@ -7994,6 +8022,8 @@ urlth.me CNAME .
 *.urlth.me CNAME .
 vaza.me CNAME .
 *.vaza.me CNAME .
+vgn.me CNAME .
+*.vgn.me CNAME .
 viaalto.me CNAME .
 *.viaalto.me CNAME .
 vur.me CNAME .
@@ -9070,6 +9100,10 @@ surl.pro CNAME .
 *.surl.pro CNAME .
 t111.pro CNAME .
 *.t111.pro CNAME .
+vd0.pro CNAME .
+*.vd0.pro CNAME .
+vd1.pro CNAME .
+*.vd1.pro CNAME .
 vdio.pro CNAME .
 *.vdio.pro CNAME .
 wajinlong.pro CNAME .
@@ -9414,6 +9448,8 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
+shopeedeals.sale CNAME .
+*.shopeedeals.sale CNAME .
 aplnn.sbs CNAME .
 *.aplnn.sbs CNAME .
 apzjp.sbs CNAME .
@@ -10714,6 +10750,8 @@ sxzlj.top CNAME .
 *.sxzlj.top CNAME .
 syyqk.top CNAME .
 *.syyqk.top CNAME .
+t-short.top CNAME .
+*.t-short.top CNAME .
 tauzn.top CNAME .
 *.tauzn.top CNAME .
 tgcv.top CNAME .
@@ -10776,6 +10814,8 @@ wndhj.top CNAME .
 *.wndhj.top CNAME .
 wnvwm.top CNAME .
 *.wnvwm.top CNAME .
+woah.top CNAME .
+*.woah.top CNAME .
 wolg.top CNAME .
 *.wolg.top CNAME .
 wpzxf.top CNAME .
@@ -11608,6 +11648,8 @@ fly.yt CNAME .
 *.fly.yt CNAME .
 reco.yt CNAME .
 *.reco.yt CNAME .
+tls.yt CNAME .
+*.tls.yt CNAME .
 mypnp.co.za CNAME .
 *.mypnp.co.za CNAME .
 shortlink.co.za CNAME .
