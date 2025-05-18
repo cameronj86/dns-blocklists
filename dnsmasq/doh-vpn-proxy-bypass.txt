@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 May 2025 19:45 UTC
-# Version: 2025.0517.1945.13
+# Last modified: 18 May 2025 03:43 UTC
+# Version: 2025.0518.0343.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4347
+# Number of entries: 4351
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1212,6 +1212,7 @@ local=/eduacation.lol/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/
@@ -2351,7 +2352,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3073,6 +3073,7 @@ local=/quickprox.com/
 local=/quickproxies.com/
 local=/dns.quiet.rocks/
 local=/quintex.com/
+local=/quotivatehub.com/
 local=/ant.dns.qwer.pw/
 local=/dog.dns.qwer.pw/
 local=/frog.dns.qwer.pw/
@@ -3114,6 +3115,7 @@ local=/www-p.reaper.mx/
 local=/dns.reckoningslug.name/
 local=/redhoodie.site/
 local=/redproxy.info/
+local=/redschool.info/
 local=/redshieldvpn.com/
 local=/dns.redvau.lt/
 local=/reezus.us/
@@ -3146,6 +3148,7 @@ local=/ringvpn.com/
 local=/riseup.net/
 local=/rnblyatclub.online/
 local=/skibidirizz.robinhud.com/
+local=/rocketprox.com/
 local=/rocketube.online/
 local=/rockwell.website/
 local=/dns.roedel.cloud/
@@ -3158,6 +3161,7 @@ local=/jaiguneeds.root.sx/
 local=/dns.rootlab.top/
 local=/roskomnadzorgorivadu.ru/
 local=/dns.rotunneling.net/
+local=/roundrockisd.online/
 local=/o.rsaikat.com/
 local=/au.rslvr.eu/
 local=/bg.rslvr.eu/

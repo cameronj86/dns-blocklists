@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747509900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747538580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 May 2025 19:25 UTC
-; Version: 2025.0517.1925.29
+; Last modified: 18 May 2025 03:23 UTC
+; Version: 2025.0518.0323.36
 ; Syntax: RPZ
-; Number of entries: 20348
+; Number of entries: 20392
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -229,6 +229,8 @@ snapsave.app CNAME .
 *.snapsave.app CNAME .
 snapvideo.app CNAME .
 *.snapvideo.app CNAME .
+soccerstreams.app CNAME .
+*.soccerstreams.app CNAME .
 solarmovie.app CNAME .
 *.solarmovie.app CNAME .
 sportsurge.app CNAME .
@@ -915,6 +917,8 @@ movies123-online.cam CNAME .
 *.movies123-online.cam CNAME .
 serien.cam CNAME .
 *.serien.cam CNAME .
+songslover.cam CNAME .
+*.songslover.cam CNAME .
 streamingcommunity.cam CNAME .
 *.streamingcommunity.cam CNAME .
 streamingseries.cam CNAME .
@@ -1217,6 +1221,8 @@ putlocker9.cc CNAME .
 *.putlocker9.cc CNAME .
 radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
+rarbg.cc CNAME .
+*.rarbg.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -1225,6 +1231,8 @@ romsmania.cc CNAME .
 *.romsmania.cc CNAME .
 romspure.cc CNAME .
 *.romspure.cc CNAME .
+s2dfree.cc CNAME .
+*.s2dfree.cc CNAME .
 seedboxes.cc CNAME .
 *.seedboxes.cc CNAME .
 seedr.cc CNAME .
@@ -6055,6 +6063,8 @@ reloadedsteam.com CNAME .
 *.reloadedsteam.com CNAME .
 renrencili.com CNAME .
 *.renrencili.com CNAME .
+requestcracks.com CNAME .
+*.requestcracks.com CNAME .
 reqzone.com CNAME .
 *.reqzone.com CNAME .
 torrent.resonatingmedia.com CNAME .
@@ -6219,6 +6229,8 @@ serialheaven.com CNAME .
 *.serialheaven.com CNAME .
 serialkeysoftware.com CNAME .
 *.serialkeysoftware.com CNAME .
+serialnews.com CNAME .
+*.serialnews.com CNAME .
 serialportal.com CNAME .
 *.serialportal.com CNAME .
 serialreactor.com CNAME .
@@ -6283,10 +6295,14 @@ sharingcode.com CNAME .
 *.sharingcode.com CNAME .
 sharkdownloads.com CNAME .
 *.sharkdownloads.com CNAME .
+sharkstresser.com CNAME .
+*.sharkstresser.com CNAME .
 shimory.com CNAME .
 *.shimory.com CNAME .
 shipofharkinian.com CNAME .
 *.shipofharkinian.com CNAME .
+shogiroom.com CNAME .
+*.shogiroom.com CNAME .
 shokweb.com CNAME .
 *.shokweb.com CNAME .
 showtimebd.com CNAME .
@@ -6387,14 +6403,20 @@ soccerstreamlinks.com CNAME .
 *.soccerstreamlinks.com CNAME .
 soccerstreamshd.com CNAME .
 *.soccerstreamshd.com CNAME .
+tracker.societyglitch.com CNAME .
+*.tracker.societyglitch.com CNAME .
 soft-z.com CNAME .
 *.soft-z.com CNAME .
 softasm.com CNAME .
 *.softasm.com CNAME .
 softlay.com CNAME .
 *.softlay.com CNAME .
+softreflex.com CNAME .
+*.softreflex.com CNAME .
 softsclub.com CNAME .
 *.softsclub.com CNAME .
+softserialskey.com CNAME .
+*.softserialskey.com CNAME .
 softwarecrackworks.com CNAME .
 *.softwarecrackworks.com CNAME .
 softwarezon.com CNAME .
@@ -8339,6 +8361,8 @@ sktorrent.eu CNAME .
 *.sktorrent.eu CNAME .
 slosoul.eu CNAME .
 *.slosoul.eu CNAME .
+st-tracker.eu CNAME .
+*.st-tracker.eu CNAME .
 streamking.eu CNAME .
 *.streamking.eu CNAME .
 super-warez.eu CNAME .
@@ -9445,6 +9469,8 @@ safepeer.info CNAME .
 *.safepeer.info CNAME .
 bt.saiyaman.info CNAME .
 *.bt.saiyaman.info CNAME .
+satclubbing.info CNAME .
+*.satclubbing.info CNAME .
 serienjunkies.info CNAME .
 *.serienjunkies.info CNAME .
 showrss.info CNAME .
@@ -12995,6 +13021,10 @@ scenefz.net CNAME .
 *.scenefz.net CNAME .
 scenerace.net CNAME .
 *.scenerace.net CNAME .
+scenereactor.net CNAME .
+*.scenereactor.net CNAME .
+scenespot.net CNAME .
+*.scenespot.net CNAME .
 thepiratebay.se.net CNAME .
 *.thepiratebay.se.net CNAME .
 secret-cinema.net CNAME .
@@ -13089,6 +13119,8 @@ softmupparna.net CNAME .
 *.softmupparna.net CNAME .
 software-free.net CNAME .
 *.software-free.net CNAME .
+softwarebits.net CNAME .
+*.softwarebits.net CNAME .
 solarmovie.net CNAME .
 *.solarmovie.net CNAME .
 sosulki.net CNAME .
@@ -13659,6 +13691,8 @@ proxytpb.nl CNAME .
 *.proxytpb.nl CNAME .
 rutracker.nl CNAME .
 *.rutracker.nl CNAME .
+s2dfree.nl CNAME .
+*.s2dfree.nl CNAME .
 seehd.nl CNAME .
 *.seehd.nl CNAME .
 streamingcommunity.nl CNAME .
@@ -14529,8 +14563,6 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
-free4pc.org CNAME .
-*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -15111,6 +15143,8 @@ rapload.org CNAME .
 *.rapload.org CNAME .
 rarbg2018.org CNAME .
 *.rarbg2018.org CNAME .
+rarbg2019.org CNAME .
+*.rarbg2019.org CNAME .
 rarbg2020.org CNAME .
 *.rarbg2020.org CNAME .
 rarbgaccess.org CNAME .
@@ -18143,6 +18177,8 @@ sflix2.to CNAME .
 *.sflix2.to CNAME .
 skytorrents.to CNAME .
 *.skytorrents.to CNAME .
+sleek.to CNAME .
+*.sleek.to CNAME .
 soap2day.to CNAME .
 *.soap2day.to CNAME .
 soap2dayx.to CNAME .
@@ -18917,10 +18953,14 @@ simplecloud.tv CNAME .
 *.simplecloud.tv CNAME .
 simplywatch.tv CNAME .
 *.simplywatch.tv CNAME .
+simpsonai.tv CNAME .
+*.simpsonai.tv CNAME .
 simpsonsua.tv CNAME .
 *.simpsonsua.tv CNAME .
 smo3.tv CNAME .
 *.smo3.tv CNAME .
+soaper.tv CNAME .
+*.soaper.tv CNAME .
 socagol.tv CNAME .
 *.socagol.tv CNAME .
 sockshares.tv CNAME .
@@ -19571,6 +19611,8 @@ movieshd.watch CNAME .
 *.movieshd.watch CNAME .
 projectfreetv.watch CNAME .
 *.projectfreetv.watch CNAME .
+rojadirecta.watch CNAME .
+*.rojadirecta.watch CNAME .
 streamingcommunity.watch CNAME .
 *.streamingcommunity.watch CNAME .
 tantifilm.watch CNAME .
@@ -20211,6 +20253,8 @@ putlockerfull.xyz CNAME .
 *.putlockerfull.xyz CNAME .
 redditsoccerstreams.xyz CNAME .
 *.redditsoccerstreams.xyz CNAME .
+redwarez.xyz CNAME .
+*.redwarez.xyz CNAME .
 rivestream.xyz CNAME .
 *.rivestream.xyz CNAME .
 ronnyflix.xyz CNAME .

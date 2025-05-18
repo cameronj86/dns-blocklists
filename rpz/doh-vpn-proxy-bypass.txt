@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747511100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747539780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 May 2025 19:45 UTC
-; Version: 2025.0517.1945.13
+; Last modified: 18 May 2025 03:43 UTC
+; Version: 2025.0518.0343.04
 ; Syntax: RPZ
-; Number of entries: 8694
+; Number of entries: 8702
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1358,6 +1358,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -2174,8 +2176,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -2670,6 +2670,8 @@ quickproxies.com CNAME .
 *.quickproxies.com CNAME .
 quintex.com CNAME .
 *.quintex.com CNAME .
+quotivatehub.com CNAME .
+*.quotivatehub.com CNAME .
 r1bnc.com CNAME .
 *.r1bnc.com CNAME .
 ra4wvpn.com CNAME .
@@ -2712,6 +2714,8 @@ ringvpn.com CNAME .
 *.ringvpn.com CNAME .
 skibidirizz.robinhud.com CNAME .
 *.skibidirizz.robinhud.com CNAME .
+rocketprox.com CNAME .
+*.rocketprox.com CNAME .
 roodel.com CNAME .
 *.roodel.com CNAME .
 roogen.com CNAME .
@@ -4630,6 +4634,8 @@ qaiik.info CNAME .
 *.qaiik.info CNAME .
 redproxy.info CNAME .
 *.redproxy.info CNAME .
+redschool.info CNAME .
+*.redschool.info CNAME .
 revko.info CNAME .
 *.revko.info CNAME .
 saoudiproxy.info CNAME .
@@ -6608,6 +6614,8 @@ rnblyatclub.online CNAME .
 *.rnblyatclub.online CNAME .
 rocketube.online CNAME .
 *.rocketube.online CNAME .
+roundrockisd.online CNAME .
+*.roundrockisd.online CNAME .
 shazamio.online CNAME .
 *.shazamio.online CNAME .
 speedproxy.online CNAME .

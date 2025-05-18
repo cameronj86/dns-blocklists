@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747495560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747524420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 May 2025 15:26 UTC
-; Version: 2025.0517.1526.29
+; Last modified: 17 May 2025 23:27 UTC
+; Version: 2025.0517.2327.32
 ; Syntax: RPZ
-; Number of entries: 11574
+; Number of entries: 11592
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1338,6 +1338,8 @@ sbux.co CNAME .
 *.sbux.co CNAME .
 sched.co CNAME .
 *.sched.co CNAME .
+scrapy.co CNAME .
+*.scrapy.co CNAME .
 scuf.co CNAME .
 *.scuf.co CNAME .
 seiu.co CNAME .
@@ -2952,12 +2954,16 @@ slecastle.com CNAME .
 *.slecastle.com CNAME .
 slotamina.com CNAME .
 *.slotamina.com CNAME .
+slpre.com CNAME .
+*.slpre.com CNAME .
 sms-my.com CNAME .
 *.sms-my.com CNAME .
 smtvj.com CNAME .
 *.smtvj.com CNAME .
 snipr.com CNAME .
 *.snipr.com CNAME .
+snipurl.com CNAME .
+*.snipurl.com CNAME .
 snurl.com CNAME .
 *.snurl.com CNAME .
 soberv.com CNAME .
@@ -3484,6 +3490,8 @@ zfgcx.com CNAME .
 *.zfgcx.com CNAME .
 zggvt.com CNAME .
 *.zggvt.com CNAME .
+zigilink.com CNAME .
+*.zigilink.com CNAME .
 zipmyurl.com CNAME .
 *.zipmyurl.com CNAME .
 ziturl.com CNAME .
@@ -7172,6 +7180,8 @@ roush-jims.live CNAME .
 *.roush-jims.live CNAME .
 salesinc.live CNAME .
 *.salesinc.live CNAME .
+schoolstorehms.live CNAME .
+*.schoolstorehms.live CNAME .
 scoreonline.live CNAME .
 *.scoreonline.live CNAME .
 sdafasf.live CNAME .
@@ -9204,6 +9214,8 @@ nmrk.re CNAME .
 *.nmrk.re CNAME .
 sfca.re CNAME .
 *.sfca.re CNAME .
+shorturl.re CNAME .
+*.shorturl.re CNAME .
 siteco.re CNAME .
 *.siteco.re CNAME .
 slidesha.re CNAME .
@@ -9264,6 +9276,8 @@ ptm.ro CNAME .
 *.ptm.ro CNAME .
 pun.ro CNAME .
 *.pun.ro CNAME .
+sp2.ro CNAME .
+*.sp2.ro CNAME .
 clvr.rocks CNAME .
 *.clvr.rocks CNAME .
 cybr.rocks CNAME .
@@ -9730,6 +9744,8 @@ yruxd.sbs CNAME .
 *.yruxd.sbs CNAME .
 zcoep.sbs CNAME .
 *.zcoep.sbs CNAME .
+zhwtj.sbs CNAME .
+*.zhwtj.sbs CNAME .
 zonwu.sbs CNAME .
 *.zonwu.sbs CNAME .
 zugco.sbs CNAME .
@@ -10904,6 +10920,8 @@ s3vip.tw CNAME .
 *.s3vip.tw CNAME .
 sf3c.tw CNAME .
 *.sf3c.tw CNAME .
+sinourl.tw CNAME .
+*.sinourl.tw CNAME .
 go.sony.tw CNAME .
 *.go.sony.tw CNAME .
 tbb.tw CNAME .

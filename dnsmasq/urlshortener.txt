@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 May 2025 15:26 UTC
-# Version: 2025.0517.1526.29
+# Last modified: 17 May 2025 23:27 UTC
+# Version: 2025.0517.2327.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5787
+# Number of entries: 5796
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -4062,11 +4062,13 @@ local=/sc.org/
 local=/sc1o.com/
 local=/scbetgacorr.org/
 local=/sched.co/
+local=/schoolstorehms.live/
 local=/scientificglobalevents.com/
 local=/sck.io/
 local=/sclix.com/
 local=/scoreonline.live/
 local=/scr.bi/
+local=/scrapy.co/
 local=/scrb.ly/
 local=/screeee.com/
 local=/scts.in/
@@ -4262,6 +4264,7 @@ local=/shorturl.gg/
 local=/shorturl.is/
 local=/shorturl.kg/
 local=/shorturl.lk/
+local=/shorturl.re/
 local=/shorturl.ru/
 local=/shorturl.win/
 local=/shorturl.ws/
@@ -4339,6 +4342,7 @@ local=/sina.lt/
 local=/sincere.ly/
 local=/sindo.me/
 local=/sini.la/
+local=/sinourl.tw/
 local=/sinyi.biz/
 local=/sinyi.in/
 local=/sipetir.pro/
@@ -4372,6 +4376,7 @@ local=/slnk.se/
 local=/slotamina.com/
 local=/sloto89.site/
 local=/slots799.online/
+local=/slpre.com/
 local=/slpzm.top/
 local=/sm-s.in/
 local=/sm4ll.in/
@@ -4409,6 +4414,7 @@ local=/snip.link/
 local=/snip.ly/
 local=/snipit.in/
 local=/snipr.com/
+local=/snipurl.com/
 local=/snpy.link/
 local=/snurl.com/
 local=/snurl.dk/
@@ -4439,6 +4445,7 @@ local=/soumtrack.info/
 local=/sourl.cn/
 local=/sousj.sbs/
 local=/sovrn.co/
+local=/sp2.ro/
 local=/sp5.jp/
 local=/spcne.ws/
 local=/spdurl.com/
@@ -5729,10 +5736,12 @@ local=/zfgcx.com/
 local=/zggvt.com/
 local=/zhort.de/
 local=/zhort.link/
+local=/zhwtj.sbs/
 local=/zhx.su/
 local=/zi.ma/
 local=/zi.pe/
 local=/ziadi.co/
+local=/zigilink.com/
 local=/zik.link/
 local=/zimy.pw/
 local=/zip.net/
