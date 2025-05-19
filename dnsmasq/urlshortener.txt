@@ -11,8 +11,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 May 2025 11:21 UTC
-# Version: 2025.0518.1121.52
+# Last modified: 18 May 2025 23:21 UTC
+# Version: 2025.0518.2321.11
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 5817
 #
@@ -314,6 +314,7 @@ local=/tel-u.ac.id/
 local=/s.ub.ac.id/
 local=/link.untirta.ac.id/
 local=/short-url.upr.ac.id/
+local=/accessmy.tax/
 local=/accntu.re/
 local=/accommodatingly.xyz/
 local=/acconpit.com/
@@ -660,6 +661,7 @@ local=/bcl.ink/
 local=/bcove.video/
 local=/bcpsf.sbs/
 local=/bcsite.io/
+local=/bd-fw.com/
 local=/bddugi.com/
 local=/bddy.me/
 local=/bdf.net/
@@ -1054,6 +1056,7 @@ local=/clickhub.cc/
 local=/clickmeter.com/
 local=/clicksfly.com/
 local=/clicktosee.live/
+local=/clickurl.link/
 local=/clicky.me/
 local=/clikk.in/
 local=/clikx.net/
@@ -3430,7 +3433,6 @@ local=/onion.com/
 local=/onlineclothes.live/
 local=/onlinekassirjessica.life/
 local=/onlyfansamairanidiaz.live/
-local=/onlyfanscaycoleman.live/
 local=/onon.in/
 local=/onx.la/
 local=/oo0oo.icu/
@@ -3950,7 +3952,6 @@ local=/rnly.info/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
-local=/robloxgroup.life/
 local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
@@ -4151,7 +4152,6 @@ local=/sho-rt.ru/
 local=/shoort.io/
 local=/shop-ify-store-km.life/
 local=/shope.ee/
-local=/shopeedeals.sale/
 local=/shopifie.com/
 local=/shopifystorekms.life/
 local=/shoplarryherndon115.life/
@@ -4408,7 +4408,6 @@ local=/smtvj.com/
 local=/smu.gs/
 local=/smurl.link/
 local=/sn.im/
-local=/snapchats.life/
 local=/snapt.io/
 local=/snar.co/
 local=/snd.sc/
@@ -4463,7 +4462,6 @@ local=/spn.sr/
 local=/spoo.me/
 local=/spoti.fi/
 local=/spotify.link/
-local=/spotifypigeon.live/
 local=/spr.ly/
 local=/spr.tn/
 local=/sproutingdiscipleship.com/
@@ -5242,7 +5240,6 @@ local=/vid.lu/
 local=/videopro.live/
 local=/vig.fit/
 local=/vigilink.com/
-local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/
@@ -5512,8 +5509,10 @@ local=/wrctr.co/
 local=/wrd.cm/
 local=/wrdsdaily.com/
 local=/wrem.it/
+local=/wrqtc.com/
 local=/wru.kr/
 local=/ws.tc/
+local=/wsdxfn.com/
 local=/on.wsj.com/
 local=/wtc.la/
 local=/wu.cz/
@@ -5824,6 +5823,7 @@ local=/zurins.uk/
 local=/zurl.co/
 local=/zurl.ir/
 local=/zurl.ws/
+local=/zvjqn.com/
 local=/zws.im/
 local=/zxc.li/
 local=/zxq.net/

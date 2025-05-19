@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 May 2025 15:36 UTC
-# Version: 2025.0518.1536.08
+# Last modified: 19 May 2025 03:36 UTC
+# Version: 2025.0519.0336.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1596
+# Number of entries: 1597
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -849,6 +849,7 @@
 0.0.0.0 adg.khon.dev
 0.0.0.0 adguard.kiboko.it
 0.0.0.0 doh.kidzonet.io
+0.0.0.0 kilabit.info
 0.0.0.0 doh.killtw.im
 0.0.0.0 blog.kimiblock.top
 0.0.0.0 dns1.klcd.eu
