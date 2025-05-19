@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747625880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747683480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 May 2025 03:38 UTC
-; Version: 2025.0519.0338.05
+; Last modified: 19 May 2025 19:38 UTC
+; Version: 2025.0519.1938.34
 ; Syntax: RPZ
-; Number of entries: 8724
+; Number of entries: 8746
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -116,6 +116,8 @@ doge.sundblad.com.ar CNAME .
 *.doge.sundblad.com.ar CNAME .
 waermoster.sistemasplenario.ar CNAME .
 *.waermoster.sistemasplenario.ar CNAME .
+learn.xcloud.ar CNAME .
+*.learn.xcloud.ar CNAME .
 hugeph.art CNAME .
 *.hugeph.art CNAME .
 dns.wang.art CNAME .
@@ -394,6 +396,8 @@ xenergy.cc CNAME .
 *.xenergy.cc CNAME .
 xite.cc CNAME .
 *.xite.cc CNAME .
+alst.ynbbs.cc CNAME .
+*.alst.ynbbs.cc CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
 proxies.center CNAME .
@@ -408,6 +412,8 @@ ychen.cf CNAME .
 *.ychen.cf CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
+locval.araminimichael.ch CNAME .
+*.locval.araminimichael.ch CNAME .
 dns.chenu.ch CNAME .
 *.dns.chenu.ch CNAME .
 c.cicitt.ch CNAME .
@@ -576,6 +582,8 @@ doh.360.cn CNAME .
 *.doh.360.cn CNAME .
 dot.360.cn CNAME .
 *.dot.360.cn CNAME .
+learn.azimei.cn CNAME .
+*.learn.azimei.cn CNAME .
 teachers.azimei.cn CNAME .
 *.teachers.azimei.cn CNAME .
 dns.baishiyuan.cn CNAME .
@@ -588,6 +596,8 @@ dns.tuna.tsinghua.edu.cn CNAME .
 *.dns.tuna.tsinghua.edu.cn CNAME .
 free-vpn.cn CNAME .
 *.free-vpn.cn CNAME .
+domain.guojinloong.cn CNAME .
+*.domain.guojinloong.cn CNAME .
 dns.hujiayucc.cn CNAME .
 *.dns.hujiayucc.cn CNAME .
 bensmells.laoxz.cn CNAME .
@@ -1172,6 +1182,8 @@ dns.cooluc.com CNAME .
 *.dns.cooluc.com CNAME .
 corecloak.com CNAME .
 *.corecloak.com CNAME .
+real.coremindx.com CNAME .
+*.real.coremindx.com CNAME .
 coverproxy.com CNAME .
 *.coverproxy.com CNAME .
 covertproxy.com CNAME .
@@ -1360,6 +1372,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -1444,8 +1458,6 @@ flyssh.com CNAME .
 *.flyssh.com CNAME .
 flyvpn.com CNAME .
 *.flyvpn.com CNAME .
-footballinter.com CNAME .
-*.footballinter.com CNAME .
 footlia.com CNAME .
 *.footlia.com CNAME .
 buy.footlooseandfancyrich.com CNAME .
@@ -2176,6 +2188,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3046,6 +3060,8 @@ dns.technostriker.com CNAME .
 *.dns.technostriker.com CNAME .
 rx.techomespace.com CNAME .
 *.rx.techomespace.com CNAME .
+tekirdagescortlar.com CNAME .
+*.tekirdagescortlar.com CNAME .
 tenta.com CNAME .
 *.tenta.com CNAME .
 cloud.tezoi.com CNAME .
@@ -4018,6 +4034,8 @@ dns.esnube.es CNAME .
 *.dns.esnube.es CNAME .
 getproxi.es CNAME .
 *.getproxi.es CNAME .
+lowlow.jellyfl1x.es CNAME .
+*.lowlow.jellyfl1x.es CNAME .
 dns.paesa.es CNAME .
 *.dns.paesa.es CNAME .
 arxthegoat.ts0880.es CNAME .
@@ -4496,6 +4514,8 @@ bestvpnprovider.info CNAME .
 *.bestvpnprovider.info CNAME .
 bestyoutubeproxy.info CNAME .
 *.bestyoutubeproxy.info CNAME .
+binance.info CNAME .
+*.binance.info CNAME .
 bizfast.info CNAME .
 *.bizfast.info CNAME .
 brazilproxy.info CNAME .
@@ -5072,6 +5092,8 @@ ilysk.lol CNAME .
 *.ilysk.lol CNAME .
 stuffyschicken.isreallycool.lol CNAME .
 *.stuffyschicken.isreallycool.lol CNAME .
+johneldenring.lol CNAME .
+*.johneldenring.lol CNAME .
 kiliclar.lol CNAME .
 *.kiliclar.lol CNAME .
 lewsha.lol CNAME .
@@ -6270,6 +6292,8 @@ dns.stevenz.net CNAME .
 *.dns.stevenz.net CNAME .
 whatisfunanymore.com.strangled.net CNAME .
 *.whatisfunanymore.com.strangled.net CNAME .
+getbacktowork.strangled.net CNAME .
+*.getbacktowork.strangled.net CNAME .
 doh.sunoaki.net CNAME .
 *.doh.sunoaki.net CNAME .
 sunvpn.net CNAME .
@@ -6924,6 +6948,8 @@ doh.phdns4.lonet.org CNAME .
 *.doh.phdns4.lonet.org CNAME .
 doh.phdns5.lonet.org CNAME .
 *.doh.phdns5.lonet.org CNAME .
+edu.loskks.org CNAME .
+*.edu.loskks.org CNAME .
 lucasmaia.org CNAME .
 *.lucasmaia.org CNAME .
 mehide.org CNAME .
@@ -7912,8 +7938,6 @@ mathlearning.tech CNAME .
 *.mathlearning.tech CNAME .
 mehmetarikan.tech CNAME .
 *.mehmetarikan.tech CNAME .
-qqmcfw.tech CNAME .
-*.qqmcfw.tech CNAME .
 romirely.tech CNAME .
 *.romirely.tech CNAME .
 s4m.tech CNAME .
@@ -8058,8 +8082,6 @@ dns.twnic.tw CNAME .
 *.dns.twnic.tw CNAME .
 dns.xlion.tw CNAME .
 *.dns.xlion.tw CNAME .
-automisto24.com.ua CNAME .
-*.automisto24.com.ua CNAME .
 dns.aeiou.pp.ua CNAME .
 *.dns.aeiou.pp.ua CNAME .
 dns.ha-dvin.pp.ua CNAME .

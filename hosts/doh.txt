@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 May 2025 03:36 UTC
-# Version: 2025.0519.0336.38
+# Last modified: 19 May 2025 19:37 UTC
+# Version: 2025.0519.1937.10
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1597
+# Number of entries: 1599
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -620,6 +620,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 dns.eliv.kr
@@ -817,6 +818,7 @@
 0.0.0.0 green2.jnraptor.net
 0.0.0.0 dns.joey01245.nl
 0.0.0.0 adguard.johanliebert.top
+0.0.0.0 johneldenring.lol
 0.0.0.0 opencdn.jomodns.com
 0.0.0.0 adguard1.jsanagustin.net
 0.0.0.0 dns.jstockley.com
@@ -1015,6 +1017,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1275,7 +1278,6 @@
 0.0.0.0 at.pzhg.me
 0.0.0.0 vpsus3.pzhg.me
 0.0.0.0 doh.qis.io
-0.0.0.0 qqmcfw.tech
 0.0.0.0 ns1.qquack.org
 0.0.0.0 dns.qrtz.club
 0.0.0.0 hostdare.qtxd.net

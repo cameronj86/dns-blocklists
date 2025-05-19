@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 May 2025 03:36 UTC
-# Version: 2025.0519.0336.38
+# Last modified: 19 May 2025 19:37 UTC
+# Version: 2025.0519.1937.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1438
+# Number of entries: 1440
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -513,6 +513,7 @@ local=/edgy-dns.com/
 local=/dns.editechstudio.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/dns.eliv.kr/
@@ -707,6 +708,7 @@ local=/adg.jnorton.us/
 local=/green2.jnraptor.net/
 local=/dns.joey01245.nl/
 local=/adguard.johanliebert.top/
+local=/johneldenring.lol/
 local=/opencdn.jomodns.com/
 local=/adguard1.jsanagustin.net/
 local=/dns.jstockley.com/
@@ -894,6 +896,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -1136,7 +1139,6 @@ local=/doh.pyry.me/
 local=/at.pzhg.me/
 local=/vpsus3.pzhg.me/
 local=/doh.qis.io/
-local=/qqmcfw.tech/
 local=/ns1.qquack.org/
 local=/dns.qrtz.club/
 local=/hostdare.qtxd.net/

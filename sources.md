@@ -409,6 +409,7 @@ https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
 https://v.firebog.net/hosts/Admiral.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://vn-badsite-filter.pages.dev/vn-badsite-filter-hosts.txt
+https://www.auktionshilfe.info/board-feed/22/
 https://www.auktionshilfe.info/thread/20469-ver%C3%B6ffentlichung-von-fakeshops-und-betr%C3%BCgerischen-stellenangebote-blaue-kennzeic/
 https://www.binarydefense.com/banlist.txt
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
@@ -427,6 +428,7 @@ https://www.void.gr/kargig/void-gr-filters.txt
 https://www.vzhh.de/themen/einkauf-reise-freizeit/online-shopping/fake-shop-liste-wenn-guenstig-richtig-teuer-wird
 https://www.watchlist-internet.at/liste-abo-fallen/
 https://www.watchlist-internet.at/liste-betruegerischer-shops/
+https://www.watchlist-internet.at/liste-betruegerischer-shops/csv
 https://www.watchlist-internet.at/liste-finanzbetrug/
 https://www.watchlist-internet.at/liste-handwerksdienste/
 https://www.watchlist-internet.at/liste-immobilienagenturen/

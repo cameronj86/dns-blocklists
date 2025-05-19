@@ -1,5 +1,12 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/4941
+cdn.convertbox.com
+app.convertbox.com
+
+# https://github.com/hagezi/dns-blocklists/issues/6262
+remote-data.asnapieu.com
+
 # https://github.com/hagezi/dns-blocklists/issues/6075
 raka.bing.com
 
