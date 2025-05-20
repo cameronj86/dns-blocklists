@@ -175,6 +175,13 @@
       }
     },
     {
+      "PK": "*.apartments",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "apollo.fyi",
       "action": {
         "do": 1,
@@ -917,6 +924,13 @@
       }
     },
     {
+      "PK": "*.credit",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "crontab.guru",
       "action": {
         "do": 1,
@@ -1603,6 +1617,13 @@
       }
     },
     {
+      "PK": "*.futbol",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "futurology.today",
       "action": {
         "do": 1,
@@ -2257,6 +2278,13 @@
       "PK": "kodi.wiki",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.koeln",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -3069,6 +3097,13 @@
       "PK": "objection.lol",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.observer",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -4490,6 +4525,13 @@
       "PK": "timberjacks.store",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.tires",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },

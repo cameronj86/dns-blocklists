@@ -29,6 +29,13 @@
       }
     },
     {
+      "PK": "*.apartments",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.army",
       "action": {
         "do": 0,
@@ -372,6 +379,13 @@
       }
     },
     {
+      "PK": "*.credit",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.cymru",
       "action": {
         "do": 0,
@@ -652,6 +666,13 @@
       }
     },
     {
+      "PK": "*.futbol",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.fyi",
       "action": {
         "do": 0,
@@ -835,6 +856,13 @@
     },
     {
       "PK": "*.kim",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.koeln",
       "action": {
         "do": 0,
         "status": 1
@@ -1080,6 +1108,13 @@
     },
     {
       "PK": "*.non",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.observer",
       "action": {
         "do": 0,
         "status": 1
@@ -1556,6 +1591,13 @@
     },
     {
       "PK": "*.tienda",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.tires",
       "action": {
         "do": 0,
         "status": 1
