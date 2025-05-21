@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 May 2025 19:37 UTC
-# Version: 2025.0519.1937.10
+# Last modified: 21 May 2025 03:37 UTC
+# Version: 2025.0521.0337.55
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1599
+# Number of entries: 1598
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -1305,7 +1305,6 @@
 0.0.0.0 family.rabbitdns.org
 0.0.0.0 security.rabbitdns.org
 0.0.0.0 dns.api.rackspacecloud.com
-0.0.0.0 dns.rafn.is
 0.0.0.0 ns.ral9005.org
 0.0.0.0 emby.rasp.tv
 0.0.0.0 dns.rayanbab.com
