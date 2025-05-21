@@ -156,7 +156,6 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hos
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 https://raw.githubusercontent.com/bigdargon/hostsvn/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
-https://raw.githubusercontent.com/Bismuthfallacy/Schoolwebproxyblock/main/proxies.txt
 https://raw.githubusercontent.com/bitamind/filter/master/280blocker_domain_mirror.txt
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
 https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt
@@ -394,6 +393,7 @@ https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current.csv.gz
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv
 https://safelyweb.com/scams-database
+https://schoolwebproxy.com/1000-proxies-for-school-chromebook-2025/
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
