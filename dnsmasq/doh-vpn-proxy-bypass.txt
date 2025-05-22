@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 May 2025 03:44 UTC
-# Version: 2025.0522.0344.45
+# Last modified: 22 May 2025 16:18 UTC
+# Version: 2025.0522.1618.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4350
+# Number of entries: 4360
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -207,6 +207,7 @@ local=/blitz-setup.ahadns.com/
 local=/ahoj.email/
 local=/airdns.org/
 local=/airvpn.org/
+local=/study.ajhurst.org/
 local=/akunssh.net/
 local=/use.alabasgames.com/
 local=/dns.albony.xyz/
@@ -511,6 +512,7 @@ local=/browsebridge.com/
 local=/browsec.com/
 local=/browser.lol/
 local=/browserling.com/
+local=/edu.bsfa.info/
 local=/travel.bsfa.info/
 local=/doh.bt.com/
 local=/btguard.com/
@@ -1184,6 +1186,7 @@ local=/earnapp.com/
 local=/earth-vpn.net/
 local=/earthvpn.com/
 local=/adguard.easez.net/
+local=/study.info.east-kazakhstan.su/
 local=/filter-admins-come-and-get-me.easterndns.com/
 local=/goguardian-is-not-my-guardian.easterndns.com/
 local=/konnnitiha----saiko.easterndns.com/
@@ -1611,6 +1614,7 @@ local=/dns2.guidocioni.it/
 local=/intertravel.guillaumevanstrydonck.be/
 local=/gumm.org/
 local=/domain.guojinloong.cn/
+local=/edu.gurdit.com/
 local=/dns.gutwe.in/
 local=/gvirabi.com/
 local=/gwardgxd.baby/
@@ -1850,6 +1854,7 @@ local=/interssh.com/
 local=/intervpn.com/
 local=/intl-alliance.com/
 local=/invisv.com/
+local=/use.edu.iownyour.org/
 local=/ioxy.de/
 local=/ipbuzz.net/
 local=/ipcamouflage.com/
@@ -2265,6 +2270,7 @@ local=/mojtreker.ru/
 local=/edu.moldeo.org/
 local=/history-of-earth.moldeo.org/
 local=/only-shooting-stars-breakthe.moldeo.org/
+local=/study.moldeo.org/
 local=/dns.molinero.dev/
 local=/naganohara-yoimiya.momokko.moe/
 local=/dns.momou.ch/
@@ -2345,6 +2351,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2848,6 +2855,7 @@ local=/prohome.info/
 local=/prointern.info/
 local=/project-evoex.de/
 local=/dns.propheci.xyz/
+local=/edu.prostitutki-na-vyezd.com/
 local=/prostovpn.org/
 local=/vpn-api.proton.me/
 local=/protonstatus.com/
@@ -3668,6 +3676,7 @@ local=/tmhhd.tk/
 local=/tnvpn.com/
 local=/d.toairs.com/
 local=/tokit.site/
+local=/app.tollgatevillagetn.com/
 local=/tonvpn.com/
 local=/toolara.net/
 local=/dot.tooli.ca/
@@ -3704,6 +3713,7 @@ local=/totalvpn.com/
 local=/doh.totoro.pub/
 local=/touchvpn.net/
 local=/towervpn.com/
+local=/home.sso.toythieves.com/
 local=/tpymainx01.ru/
 local=/dns.tracker.ink/
 local=/tradeadspace.info/

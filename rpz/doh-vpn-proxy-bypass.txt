@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747885440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747930680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 May 2025 03:44 UTC
-; Version: 2025.0522.0344.45
+; Last modified: 22 May 2025 16:18 UTC
+; Version: 2025.0522.1618.21
 ; Syntax: RPZ
-; Number of entries: 8700
+; Number of entries: 8720
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1642,6 +1642,8 @@ guardster.com CNAME .
 *.guardster.com CNAME .
 guavi.com CNAME .
 *.guavi.com CNAME .
+edu.gurdit.com CNAME .
+*.edu.gurdit.com CNAME .
 gvirabi.com CNAME .
 *.gvirabi.com CNAME .
 gwopboyded.com CNAME .
@@ -2152,6 +2154,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -2468,6 +2472,8 @@ privatewifi.com CNAME .
 *.privatewifi.com CNAME .
 pro-tower.com CNAME .
 *.pro-tower.com CNAME .
+edu.prostitutki-na-vyezd.com CNAME .
+*.edu.prostitutki-na-vyezd.com CNAME .
 protonstatus.com CNAME .
 *.protonstatus.com CNAME .
 protonvpn.com CNAME .
@@ -3084,6 +3090,8 @@ tnvpn.com CNAME .
 *.tnvpn.com CNAME .
 d.toairs.com CNAME .
 *.d.toairs.com CNAME .
+app.tollgatevillagetn.com CNAME .
+*.app.tollgatevillagetn.com CNAME .
 tonvpn.com CNAME .
 *.tonvpn.com CNAME .
 proxy.toolur.com CNAME .
@@ -3106,6 +3114,8 @@ totalvpn.com CNAME .
 *.totalvpn.com CNAME .
 towervpn.com CNAME .
 *.towervpn.com CNAME .
+home.sso.toythieves.com CNAME .
+*.home.sso.toythieves.com CNAME .
 linewize.tradekinginternational.com CNAME .
 *.linewize.tradekinginternational.com CNAME .
 traffmonetizer.com CNAME .
@@ -4476,6 +4486,8 @@ bizfast.info CNAME .
 *.bizfast.info CNAME .
 brazilproxy.info CNAME .
 *.brazilproxy.info CNAME .
+edu.bsfa.info CNAME .
+*.edu.bsfa.info CNAME .
 travel.bsfa.info CNAME .
 *.travel.bsfa.info CNAME .
 canadaproxy.info CNAME .
@@ -6656,6 +6668,8 @@ airdns.org CNAME .
 *.airdns.org CNAME .
 airvpn.org CNAME .
 *.airvpn.org CNAME .
+study.ajhurst.org CNAME .
+*.study.ajhurst.org CNAME .
 amandahugnkiss.org CNAME .
 *.amandahugnkiss.org CNAME .
 mailer.amlegion.org CNAME .
@@ -6862,6 +6876,8 @@ math.hypernormal.org CNAME .
 *.math.hypernormal.org CNAME .
 ininja.org CNAME .
 *.ininja.org CNAME .
+use.edu.iownyour.org CNAME .
+*.use.edu.iownyour.org CNAME .
 dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
 kevinai.org CNAME .
@@ -6908,6 +6924,8 @@ history-of-earth.moldeo.org CNAME .
 *.history-of-earth.moldeo.org CNAME .
 only-shooting-stars-breakthe.moldeo.org CNAME .
 *.only-shooting-stars-breakthe.moldeo.org CNAME .
+study.moldeo.org CNAME .
+*.study.moldeo.org CNAME .
 later.monkxy.org CNAME .
 *.later.monkxy.org CNAME .
 vpn.mozilla.org CNAME .
@@ -7860,6 +7878,8 @@ dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
 *.proxy.2d.su CNAME .
+study.info.east-kazakhstan.su CNAME .
+*.study.info.east-kazakhstan.su CNAME .
 tor2web.su CNAME .
 *.tor2web.su CNAME .
 unblocked.surf CNAME .
