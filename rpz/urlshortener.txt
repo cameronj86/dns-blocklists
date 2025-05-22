@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747783200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747869900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 May 2025 23:20 UTC
-; Version: 2025.0520.2320.59
+; Last modified: 21 May 2025 23:25 UTC
+; Version: 2025.0521.2325.07
 ; Syntax: RPZ
-; Number of entries: 11698
+; Number of entries: 11704
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -724,6 +724,8 @@ rsgo.cc CNAME .
 *.rsgo.cc CNAME .
 sa-link.cc CNAME .
 *.sa-link.cc CNAME .
+sayapbola.cc CNAME .
+*.sayapbola.cc CNAME .
 short.cc CNAME .
 *.short.cc CNAME .
 shortly.cc CNAME .
@@ -1640,8 +1642,6 @@ aqyne.com CNAME .
 *.aqyne.com CNAME .
 arserike.com CNAME .
 *.arserike.com CNAME .
-aryenmotors.com CNAME .
-*.aryenmotors.com CNAME .
 aszvv.com CNAME .
 *.aszvv.com CNAME .
 atglinks.com CNAME .
@@ -3460,6 +3460,8 @@ xqhye.com CNAME .
 *.xqhye.com CNAME .
 xr.com CNAME .
 *.xr.com CNAME .
+xryab.com CNAME .
+*.xryab.com CNAME .
 xtoqc.com CNAME .
 *.xtoqc.com CNAME .
 xvjmv.com CNAME .
@@ -4380,8 +4382,6 @@ go.usa.gov CNAME .
 *.6.gp CNAME .
 act.gp CNAME .
 *.act.gp CNAME .
-iatp.by0.gp CNAME .
-*.iatp.by0.gp CNAME .
 aka.gr CNAME .
 *.aka.gr CNAME .
 alphab.gr CNAME .
@@ -7036,6 +7036,8 @@ google-meet-join-live-video-chat-invites.live CNAME .
 *.google-meet-join-live-video-chat-invites.live CNAME .
 google-photo.live CNAME .
 *.google-photo.live CNAME .
+googleidmaps.live CNAME .
+*.googleidmaps.live CNAME .
 googleonline.live CNAME .
 *.googleonline.live CNAME .
 groupsexting.live CNAME .
@@ -9328,6 +9330,8 @@ buka.red CNAME .
 *.buka.red CNAME .
 gacor123.red CNAME .
 *.gacor123.red CNAME .
+giv.red CNAME .
+*.giv.red CNAME .
 ndlb.red CNAME .
 *.ndlb.red CNAME .
 a.trp.red CNAME .
@@ -9504,6 +9508,8 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
+shopeedeals.sale CNAME .
+*.shopeedeals.sale CNAME .
 aplnn.sbs CNAME .
 *.aplnn.sbs CNAME .
 apzjp.sbs CNAME .
@@ -10282,6 +10288,8 @@ whatsapp4g.team CNAME .
 *.whatsapp4g.team CNAME .
 b2g.tech CNAME .
 *.b2g.tech CNAME .
+enbl.tech CNAME .
+*.enbl.tech CNAME .
 gbte.tech CNAME .
 *.gbte.tech CNAME .
 kkc.tech CNAME .
@@ -10958,8 +10966,6 @@ link.tubi.tv CNAME .
 *.link.tubi.tv CNAME .
 usanet.tv CNAME .
 *.usanet.tv CNAME .
-wfts.tv CNAME .
-*.wfts.tv CNAME .
 xfin.tv CNAME .
 *.xfin.tv CNAME .
 xyvid.tv CNAME .

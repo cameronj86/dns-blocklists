@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 May 2025 03:20 UTC
-# Version: 2025.0521.0320.33
+# Last modified: 22 May 2025 03:26 UTC
+# Version: 2025.0522.0326.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10228
+# Number of entries: 10230
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -655,7 +655,6 @@ local=/altadefinizione01.life/
 local=/altadefinizione01.love/
 local=/altadefinizione01.name/
 local=/altadefinizione01.online/
-local=/altadefinizione01.photo/
 local=/altadefinizione01.plus/
 local=/altadefinizione01.promo/
 local=/altadefinizione01.site/
@@ -1259,6 +1258,7 @@ local=/bit66.com/
 local=/bitchil.com/
 local=/bitcine.app/
 local=/bitcity.hu/
+local=/tracker.bitcoinindia.space/
 local=/bitcomet.com/
 local=/bitcorea.org/
 local=/bitcountry.com/
@@ -3663,6 +3663,7 @@ local=/free-telecharger.org/
 local=/free-telecharger.top/
 local=/free-telecharger.xyz/
 local=/open.free-tracker.ga/
+local=/free4pc.org/
 local=/freebannedbooks.org/
 local=/freebfg.org/
 local=/freebookspot.es/
@@ -6814,6 +6815,7 @@ local=/plusbox.tv/
 local=/plusnetbd.com/
 local=/pluspremieres.com/
 local=/plygig.com/
+local=/tracker.pmman.tech/
 local=/pmtorrents.com/
 local=/pobieramy24.pl/
 local=/pobieramy24.xyz/

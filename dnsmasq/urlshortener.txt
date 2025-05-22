@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 May 2025 23:20 UTC
-# Version: 2025.0520.2320.59
+# Last modified: 21 May 2025 23:25 UTC
+# Version: 2025.0521.2325.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5849
+# Number of entries: 5852
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -554,7 +554,6 @@ local=/arrington-j153.info/
 local=/arserike.com/
 local=/arsn.al/
 local=/arus.cc/
-local=/aryenmotors.com/
 local=/as1ansl0t88.site/
 local=/asharq.biz/
 local=/asharq.co/
@@ -911,7 +910,6 @@ local=/bwpdz.com/
 local=/bwrmp.com/
 local=/bxjtf.com/
 local=/bxl.me/
-local=/iatp.by0.gp/
 local=/by1.eu/
 local=/by2.io/
 local=/byli.pro/
@@ -1555,6 +1553,7 @@ local=/em.cm/
 local=/embt.co/
 local=/emirat.es/
 local=/emojied.net/
+local=/enbl.tech/
 local=/encurtador.net/
 local=/ene-amari-us-43.life/
 local=/engt.co/
@@ -1887,6 +1886,7 @@ local=/girlte.ch/
 local=/git.io/
 local=/git.new/
 local=/github.co/
+local=/giv.red/
 local=/gizmo.do/
 local=/gjk.id/
 local=/gkurl.us/
@@ -1945,6 +1945,7 @@ local=/goodnessokparaeke.live/
 local=/google-meet-join-live-video-chat-invites.live/
 local=/google-photo.live/
 local=/google-url.com/
+local=/googleidmaps.live/
 local=/googleonline.live/
 local=/goolink.cc/
 local=/goolnk.com/
@@ -4069,6 +4070,7 @@ local=/savetub.com/
 local=/savyour.app/
 local=/say.it/
 local=/sayahna.net/
+local=/sayapbola.cc/
 local=/sazi.to/
 local=/sbgo.io/
 local=/sbird.co/
@@ -4170,6 +4172,7 @@ local=/sho-rt.ru/
 local=/shoort.io/
 local=/shop-ify-store-km.life/
 local=/shope.ee/
+local=/shopeedeals.sale/
 local=/shopifie.com/
 local=/shopifystorekms.life/
 local=/shoplarryherndon115.life/
@@ -5440,7 +5443,6 @@ local=/weworkers.io/
 local=/wf0.xin/
 local=/wfly.co/
 local=/wfryer.me/
-local=/wfts.tv/
 local=/wgsv.top/
 local=/whatel.se/
 local=/whatsapp2.lat/
@@ -5638,6 +5640,7 @@ local=/xrl.cz/
 local=/xrl.in/
 local=/xrl.us/
 local=/xrshort.eu/
+local=/xryab.com/
 local=/xsin.it/
 local=/xsl.pt/
 local=/xsurl.eu/

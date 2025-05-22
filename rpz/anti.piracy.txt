@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747797600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747884360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 May 2025 03:20 UTC
-; Version: 2025.0521.0320.33
+; Last modified: 22 May 2025 03:26 UTC
+; Version: 2025.0522.0326.07
 ; Syntax: RPZ
-; Number of entries: 20456
+; Number of entries: 20460
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -14613,6 +14613,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -15773,8 +15775,6 @@ tantifilm.ph CNAME .
 *.tantifilm.ph CNAME .
 torrent9.ph CNAME .
 *.torrent9.ph CNAME .
-altadefinizione01.photo CNAME .
-*.altadefinizione01.photo CNAME .
 cb01.photos CNAME .
 *.cb01.photos CNAME .
 123movies.pics CNAME .
@@ -17439,6 +17439,8 @@ bananas.space CNAME .
 *.bananas.space CNAME .
 best4stremio.space CNAME .
 *.best4stremio.space CNAME .
+tracker.bitcoinindia.space CNAME .
+*.tracker.bitcoinindia.space CNAME .
 cineblog01.space CNAME .
 *.cineblog01.space CNAME .
 cmovies.space CNAME .
@@ -17747,6 +17749,8 @@ mp3juices.tech CNAME .
 *.mp3juices.tech CNAME .
 piratebay.tech CNAME .
 *.piratebay.tech CNAME .
+tracker.pmman.tech CNAME .
+*.tracker.pmman.tech CNAME .
 tantifilm.tech CNAME .
 *.tantifilm.tech CNAME .
 wawacity.tech CNAME .
