@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747930680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747972620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 May 2025 16:18 UTC
-; Version: 2025.0522.1618.21
+; Last modified: 23 May 2025 03:57 UTC
+; Version: 2025.0523.0357.29
 ; Syntax: RPZ
 ; Number of entries: 8720
 ;
@@ -1358,6 +1358,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -3090,8 +3092,6 @@ tnvpn.com CNAME .
 *.tnvpn.com CNAME .
 d.toairs.com CNAME .
 *.d.toairs.com CNAME .
-app.tollgatevillagetn.com CNAME .
-*.app.tollgatevillagetn.com CNAME .
 tonvpn.com CNAME .
 *.tonvpn.com CNAME .
 proxy.toolur.com CNAME .
