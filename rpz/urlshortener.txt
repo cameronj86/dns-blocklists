@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747956420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1747997880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 May 2025 23:27 UTC
-; Version: 2025.0522.2327.40
+; Last modified: 23 May 2025 10:58 UTC
+; Version: 2025.0523.1058.33
 ; Syntax: RPZ
-; Number of entries: 11712
+; Number of entries: 11726
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3694,6 +3694,8 @@ coz.de CNAME .
 *.coz.de CNAME .
 decat.de CNAME .
 *.decat.de CNAME .
+dswurl.de CNAME .
+*.dswurl.de CNAME .
 firsturl.de CNAME .
 *.firsturl.de CNAME .
 s.gdngs.de CNAME .
@@ -6442,6 +6444,8 @@ rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
 rivera-quinones-luis-manuel-5.life CNAME .
 *.rivera-quinones-luis-manuel-5.life CNAME .
+robloxgroup.life CNAME .
+*.robloxgroup.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -6472,6 +6476,8 @@ siakap.life CNAME .
 *.siakap.life CNAME .
 sibutathemba120.life CNAME .
 *.sibutathemba120.life CNAME .
+snapchats.life CNAME .
+*.snapchats.life CNAME .
 soegyi.life CNAME .
 *.soegyi.life CNAME .
 soulful-transformation-studio.life CNAME .
@@ -7182,6 +7188,8 @@ onlineclothes.live CNAME .
 *.onlineclothes.live CNAME .
 onlyfansamairanidiaz.live CNAME .
 *.onlyfansamairanidiaz.live CNAME .
+onlyfanscaycoleman.live CNAME .
+*.onlyfanscaycoleman.live CNAME .
 oostra.live CNAME .
 *.oostra.live CNAME .
 oururl.live CNAME .
@@ -7330,6 +7338,8 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
+vim-tiktok.live CNAME .
+*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -9244,6 +9254,8 @@ prz.pw CNAME .
 *.prz.pw CNAME .
 psce.pw CNAME .
 *.psce.pw CNAME .
+qdl.pw CNAME .
+*.qdl.pw CNAME .
 qsl.pw CNAME .
 *.qsl.pw CNAME .
 rebrand.pw CNAME .
@@ -9566,6 +9578,8 @@ djteg.sbs CNAME .
 *.djteg.sbs CNAME .
 dpkqq.sbs CNAME .
 *.dpkqq.sbs CNAME .
+dswiw.sbs CNAME .
+*.dswiw.sbs CNAME .
 dyjmk.sbs CNAME .
 *.dyjmk.sbs CNAME .
 effde.sbs CNAME .
@@ -10814,6 +10828,8 @@ rxxuy.top CNAME .
 *.rxxuy.top CNAME .
 ryut.top CNAME .
 *.ryut.top CNAME .
+sbfkg.top CNAME .
+*.sbfkg.top CNAME .
 selink.top CNAME .
 *.selink.top CNAME .
 sewei.top CNAME .
@@ -11436,8 +11452,6 @@ loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
-titok.website CNAME .
-*.titok.website CNAME .
 03.wf CNAME .
 *.03.wf CNAME .
 fff.wf CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747971480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748017740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 May 2025 03:38 UTC
-; Version: 2025.0523.0338.12
+; Last modified: 23 May 2025 16:29 UTC
+; Version: 2025.0523.1629.13
 ; Syntax: RPZ
-; Number of entries: 20460
+; Number of entries: 20464
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -281,6 +281,8 @@ zmov.vercel.app CNAME .
 *.zmov.vercel.app CNAME .
 nunflix-firebase.web.app CNAME .
 *.nunflix-firebase.web.app CNAME .
+h4g3z1-anti.piracy.web.app CNAME .
+*.h4g3z1-anti.piracy.web.app CNAME .
 yt1d.app CNAME .
 *.yt1d.app CNAME .
 btarg.com.ar CNAME .
@@ -1695,6 +1697,8 @@ cpasbien.cm CNAME .
 *.cpasbien.cm CNAME .
 kickass.cm CNAME .
 *.kickass.cm CNAME .
+motchill.cm CNAME .
+*.motchill.cm CNAME .
 send.cm CNAME .
 *.send.cm CNAME .
 btann.cn CNAME .
@@ -14613,8 +14617,6 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
-free4pc.org CNAME .
-*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -15775,6 +15777,8 @@ tantifilm.ph CNAME .
 *.tantifilm.ph CNAME .
 torrent9.ph CNAME .
 *.torrent9.ph CNAME .
+altadefinizione01.photo CNAME .
+*.altadefinizione01.photo CNAME .
 cb01.photos CNAME .
 *.cb01.photos CNAME .
 123movies.pics CNAME .

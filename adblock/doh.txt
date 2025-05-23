@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 May 2025 03:56 UTC
-! Version: 2025.0523.0356.04
+! Last modified: 23 May 2025 16:46 UTC
+! Version: 2025.0523.1646.54
 ! Syntax: AdBlock
-! Number of entries: 1439
+! Number of entries: 1440
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -1394,6 +1394,7 @@
 ||dns.warma.me^
 ||dns.warpnine.de^
 ||dns.engineer.web.id^
+||h4g3z1-doh.web.app^
 ||doh.this.web.id^
 ||doh.webnmail.de^
 ||dns.wechat.com^

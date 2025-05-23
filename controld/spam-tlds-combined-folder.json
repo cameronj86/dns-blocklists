@@ -2072,6 +2072,13 @@
       }
     },
     {
+      "PK": "i5i.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "iboost.life",
       "action": {
         "do": 1,
@@ -3629,6 +3636,13 @@
       "PK": "*.quest",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "qwertycxz.top",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 May 2025 23:27 UTC
-# Version: 2025.0522.2327.40
+# Last modified: 23 May 2025 10:58 UTC
+# Version: 2025.0523.1058.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5856
+# Number of entries: 5863
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1443,6 +1443,8 @@ local=/dside.ca/
 local=/dsre.me/
 local=/dssurl.com/
 local=/dstats.net/
+local=/dswiw.sbs/
+local=/dswurl.de/
 local=/dtdg.co/
 local=/dte.bz/
 local=/dtl.la/
@@ -3452,6 +3454,7 @@ local=/onion.com/
 local=/onlineclothes.live/
 local=/onlinekassirjessica.life/
 local=/onlyfansamairanidiaz.live/
+local=/onlyfanscaycoleman.live/
 local=/onon.in/
 local=/onx.la/
 local=/oo0oo.icu/
@@ -3756,6 +3759,7 @@ local=/go.qb.by/
 local=/qbn.ru/
 local=/qcutul2702.life/
 local=/qd.rs/
+local=/qdl.pw/
 local=/qicute.com/
 local=/qiyel.sbs/
 local=/qjccl.com/
@@ -3972,6 +3976,7 @@ local=/rnly.info/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
+local=/robloxgroup.life/
 local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
@@ -4073,6 +4078,7 @@ local=/say.it/
 local=/sayahna.net/
 local=/sayapbola.cc/
 local=/sazi.to/
+local=/sbfkg.top/
 local=/sbgo.io/
 local=/sbird.co/
 local=/sbms.biz/
@@ -4431,6 +4437,7 @@ local=/smtvj.com/
 local=/smu.gs/
 local=/smurl.link/
 local=/sn.im/
+local=/snapchats.life/
 local=/snapt.io/
 local=/snar.co/
 local=/snd.sc/
@@ -4804,7 +4811,6 @@ local=/tipeos.com/
 local=/tisfri.se/
 local=/titaniumlinks.com/
 local=/titleagentmarketing.com/
-local=/titok.website/
 local=/tiurl.link/
 local=/tixxh.com/
 local=/tj.wtf/
@@ -5273,6 +5279,7 @@ local=/vid.lu/
 local=/videopro.live/
 local=/vig.fit/
 local=/vigilink.com/
+local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/
