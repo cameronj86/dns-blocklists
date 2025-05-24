@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Apr 2025 10:51 UTC
-# Version: 2025.0417.1051.49
+# Last modified: 24 May 2025 00:43 UTC
+# Version: 2025.0524.0043.13
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 477
+# Number of entries: 478
 #
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -201,6 +201,7 @@
 0.0.0.0 traffic-media.co
 0.0.0.0 imgg.traffic-media.co
 0.0.0.0 www.traffic-media.co
+0.0.0.0 h4g3z1-native.xiaomi.web.app
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 staging.cname.ad.xiaomi.com

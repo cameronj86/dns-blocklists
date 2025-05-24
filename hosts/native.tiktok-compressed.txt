@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 23:11 UTC
-# Version: 2025.0508.2311.03
+# Last modified: 24 May 2025 00:16 UTC
+# Version: 2025.0524.0016.28
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 36
 #
@@ -44,4 +44,4 @@
 0.0.0.0 rtc-logger.us.tiktokv.com rtc-logger-ttp2.us.tiktokv.com rtlog.us.tiktokv.com rtlog16-applog-useast5.us.tiktokv.com rtlog16-normal-useast8.us.tiktokv.com rtlog16-platform-useast5.us.tiktokv.com rtlog19-applog-useast5.us.tiktokv.com rtlog19-platform-useast5.us.tiktokv.com xlog16-normal-useast8.us.tiktokv.com
 0.0.0.0 xlog16-platform-useast5.us.tiktokv.com xlog.tiktokv.com xlog-ru.tiktokv.com xlog-va.tiktokv.com xlog-va-useast2a.tiktokv.com xlog16-normal-c-useast1a.tiktokv.com xlog16-normal-c-useast2a.tiktokv.com xlog16-normal-no1a.tiktokv.eu xlog16-normal-useast5.tiktokv.us
 0.0.0.0 xlog16-platform-ycru.tiktokv.com xlog16-tmp-normal-useast1a.tiktokv.com log-snssdk.tiktokv-us.com ads-ie.tiktokw.eu ads-ttp2.tiktokw.eu analytics-ie.tiktokw.eu analytics-ipv6.tiktokw.us analytics-ttp2.tiktokw.eu location.tiktokw.us
-0.0.0.0 mcs.tiktokw.us mcs-ie.tiktokw.eu mcs-ie2.tiktokw.eu mssdk.tiktokw.eu mssdk.tiktokw.us 
+0.0.0.0 mcs.tiktokw.us mcs-ie.tiktokw.eu mcs-ie2.tiktokw.eu mssdk.tiktokw.eu mssdk.tiktokw.us h4g3z1-native.tiktok.web.app 

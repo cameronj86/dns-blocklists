@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 May 2025 13:24 UTC
-# Version: 2025.0516.1324.40
+# Last modified: 24 May 2025 00:36 UTC
+# Version: 2025.0524.0036.00
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 231
+# Number of entries: 233
 #
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
@@ -225,6 +225,7 @@
 0.0.0.0 tr-onrt-stsdk.vivoglobal.com
 0.0.0.0 tr-ort-stsdk.vivoglobal.com
 0.0.0.0 tr-p.vivoglobal.com
+0.0.0.0 tr-pnrt-stsdk.vivoglobal.com
 0.0.0.0 tr-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com
 0.0.0.0 tr-st-sysupgrade.vivoglobal.com
@@ -239,4 +240,5 @@
 0.0.0.0 xn-ex-adreq-asa-c5b.vivoglobal.com
 0.0.0.0 zasc-vcode-api.vivoglobal.com
 0.0.0.0 zasc-vcode-od.vivoglobal.com
+0.0.0.0 h4g3z1-native.vivo.web.app
 0.0.0.0 vhs.wwstat.com

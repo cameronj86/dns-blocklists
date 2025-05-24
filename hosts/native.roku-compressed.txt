@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 May 2025 03:00 UTC
-# Version: 2025.0512.0300.28
+# Last modified: 24 May 2025 00:34 UTC
+# Version: 2025.0524.0034.04
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 18
 #
@@ -26,4 +26,4 @@
 0.0.0.0 tyler.logs.roku.com victoria.logs.roku.com weighted.logs.roku.com windsor.logs.roku.com blog-advertising.msc.roku.com advertising-qa.us-east-1.dev.msc.roku.com advertising-v3-qa.us-east-1.dev.msc.roku.com blog-advertising-qa.us-east-1.dev.msc.roku.com blog-advertising-v2-qa.us-east-1.dev.msc.roku.com
 0.0.0.0 advertising.qa.us-east-1.dev.msc.roku.com advertising.us-east-1.msc.roku.com advertising-v3.us-east-1.msc.roku.com blog-advertising-v2.us-east-1.msc.roku.com ad-eng-pci-bl.geoproximity.rpay.roku.com ad-bl.geoproximity.staging.rpay.roku.com ad-eng-bl.geoproximity.staging.rpay.roku.com ad-eng-pci-bl.geoproximity.staging.rpay.roku.com assets.sr.roku.com
 0.0.0.0 item-tracking.dev.sr.roku.com logs.dev.sr.roku.com traces.dev.sr.roku.com traces-us-east-1.dev.sr.roku.com traces-us-west-2.dev.sr.roku.com userdata.dev.sr.roku.com logs.sr.roku.com traces.sr.roku.com userdata.sr.roku.com
-0.0.0.0 ads.staging.roku.com login.ads.staging.roku.com wwwimg.staging.roku.com customer-feedbacks.web.roku.com methodofpay-ads.web.roku.com pixel.web.roku.com pixel.staging.web.roku.com wwwimg.roku.com 
+0.0.0.0 ads.staging.roku.com login.ads.staging.roku.com wwwimg.staging.roku.com customer-feedbacks.web.roku.com methodofpay-ads.web.roku.com pixel.web.roku.com pixel.staging.web.roku.com wwwimg.roku.com h4g3z1-native.roku.web.app

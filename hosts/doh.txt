@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 May 2025 16:46 UTC
-# Version: 2025.0523.1646.54
+# Last modified: 23 May 2025 23:15 UTC
+# Version: 2025.0523.2315.40
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1599
+# Number of entries: 1595
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -153,7 +153,6 @@
 0.0.0.0 adguardhome.atakorah.com
 0.0.0.0 atris.cyou
 0.0.0.0 dohtrial.att.net
-0.0.0.0 dns.auapi.fun
 0.0.0.0 africa.avastdns.com
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
@@ -620,7 +619,6 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 dns.eliv.kr
@@ -1017,7 +1015,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1350,7 +1347,6 @@
 0.0.0.0 rumpelsepp.org
 0.0.0.0 doh.runsel.id
 0.0.0.0 agh-yz.russel053.com
-0.0.0.0 drs.rustsword.com
 0.0.0.0 dns1.ryan-palmer.com
 0.0.0.0 dns1.saferbfc.org
 0.0.0.0 dns2.saferbfc.org

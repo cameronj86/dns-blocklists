@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 22:06 UTC
-# Version: 2025.0508.2206.30
+# Last modified: 23 May 2025 23:11 UTC
+# Version: 2025.0523.2311.13
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 183
 #
@@ -35,7 +35,6 @@
 *.search.bluelock.org
 *.boomle.com
 *.search.bowlman.org
-*.searx.catfluori.de
 *.search.aol.co.uk
 *.websearch.excite.co.jp
 *.searx.com.au
@@ -181,6 +180,7 @@
 *.lx.vern.cc
 *.wg.vern.cc
 *.searx.vitanetworks.link
+*.h4g3z1-nosafesearch.web.app
 *.webcrawler.com
 *.searx.wegeeks.win
 *.wiby.me

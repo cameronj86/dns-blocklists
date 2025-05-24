@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 May 2025 05:12 UTC
-# Version: 2025.0505.0512.28
+# Last modified: 24 May 2025 00:39 UTC
+# Version: 2025.0524.0039.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 355
+# Number of entries: 356
 #
 local=/calculator-api-fr.allawnos.com/
 local=/calculator-api-in.allawnos.com/
@@ -364,3 +364,4 @@ local=/dhfs-in.oppomobile.com/
 local=/dhfs-th.oppomobile.com/
 local=/dhfs-vn.oppomobile.com/
 local=/dhfsf.oppomobile.com/
+local=/h4g3z1-native.oppo-realme.web.app/

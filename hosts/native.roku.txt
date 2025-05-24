@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 May 2025 03:00 UTC
-# Version: 2025.0512.0300.28
+# Last modified: 24 May 2025 00:34 UTC
+# Version: 2025.0524.0034.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 161
+# Number of entries: 162
 #
 0.0.0.0 ravm.tv
 0.0.0.0 cdn.ravm.tv
@@ -170,3 +170,4 @@
 0.0.0.0 pixel.web.roku.com
 0.0.0.0 pixel.staging.web.roku.com
 0.0.0.0 wwwimg.roku.com
+0.0.0.0 h4g3z1-native.roku.web.app

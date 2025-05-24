@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 May 2025 10:57 UTC
-# Version: 2025.0523.1057.06
+# Last modified: 23 May 2025 23:17 UTC
+# Version: 2025.0523.2317.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2111
+# Number of entries: 2108
 #
 local=/000a.de/
 local=/000space.com/
@@ -199,7 +199,6 @@ local=/activosblog.com/
 local=/actoblog.com/
 local=/admarketlocation.com/
 local=/aed1.host/
-local=/aeonjp.shop/
 local=/affiliatblogger.com/
 local=/africafull.top/
 local=/ag.gp/
@@ -262,6 +261,7 @@ local=/asiaal.shop/
 local=/asianhotel.shop/
 local=/at.cr/
 local=/at.st/
+local=/atsnx.com/
 local=/atspace.biz/
 local=/atspace.com/
 local=/atspace.org/
@@ -1062,7 +1062,6 @@ local=/georgiatwo.shop/
 local=/gerentebr.com/
 local=/get-blogging.com/
 local=/getblogs.net/
-local=/getenjoyment.net/
 local=/getresponsesite.com/
 local=/gg123.vip/
 local=/gigarocket.net/
@@ -1501,7 +1500,6 @@ local=/onlineweb.shop/
 local=/onlinewebshop.net/
 local=/only4u.eu/
 local=/onmbl.com/
-local=/ontheweb.nu/
 local=/onwebbox.com/
 local=/onzeblog.com/
 local=/oooninja.com/
@@ -1755,7 +1753,6 @@ local=/suchtis.de/
 local=/suomiblog.com/
 local=/superforum.fr/
 local=/superweb.ws/
-local=/support-rbs.digital/
 local=/sv.gp/
 local=/sv-whatsapp.top/
 local=/svsy.my/
@@ -1785,7 +1782,6 @@ local=/techionblog.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/tek-blogs.com/
-local=/telegrameyg.com/
 local=/telekom.at/
 local=/telepacific.net/
 local=/teleporthq.app/
@@ -1946,6 +1942,7 @@ local=/warhead.com/
 local=/warp0.com/
 local=/web.gg/
 local=/web.pe/
+local=/h4g3z1-hoster.web.app/
 local=/web-chat.eu/
 local=/web-clan.de/
 local=/web-log.nl/

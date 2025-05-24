@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 May 2025 00:10 UTC
-# Version: 2025.0517.0010.26
+# Last modified: 24 May 2025 00:08 UTC
+# Version: 2025.0524.0008.09
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 610
+# Number of entries: 613
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -207,9 +207,11 @@
 0.0.0.0 cell5001.iad.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 cell5002.pdx.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+0.0.0.0 cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
@@ -320,6 +322,7 @@
 0.0.0.0 global-2.telemetry.insights.video.a2z.com
 0.0.0.0 global-3.telemetry.insights.video.a2z.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
+0.0.0.0 h4g3z1-native.amazon.web.app
 0.0.0.0 identity.browserapps.amazon.de
 0.0.0.0 imdb.amazon-adsystem.com
 0.0.0.0 ipv6.unagi-na.amazon.com

@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 May 2025 05:18 UTC
-# Version: 2025.0505.0518.04
+# Last modified: 24 May 2025 00:45 UTC
+# Version: 2025.0524.0045.51
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 29
 #
@@ -37,4 +37,4 @@
 0.0.0.0 samsungca.api.useinsider.com samsunghk.api.useinsider.com samsungid.api.useinsider.com samsungiraq.api.useinsider.com samsungjordan.api.useinsider.com samsungkr.api.useinsider.com samsungksa.api.useinsider.com samsungmalaysia.api.useinsider.com samsungpakistan.api.useinsider.com
 0.0.0.0 samsungph.api.useinsider.com samsungsamcol.api.useinsider.com samsungsamcolepp.api.useinsider.com samsungsavinaepp.api.useinsider.com samsungsebnbg.api.useinsider.com samsungsebnnl.api.useinsider.com samsungseda.api.useinsider.com samsungsem.api.useinsider.com samsungsemepp.api.useinsider.com
 0.0.0.0 samsungsepr.api.useinsider.com samsungseromro.api.useinsider.com samsungsesarepp.api.useinsider.com samsungsetkepp.api.useinsider.com samsungsingapore.api.useinsider.com samsungth.api.useinsider.com samsungtseepp.api.useinsider.com samsungturkey.api.useinsider.com samsunguk.api.useinsider.com
-0.0.0.0 samsungusa.api.useinsider.com samsungvn.api.useinsider.com 
+0.0.0.0 samsungusa.api.useinsider.com samsungvn.api.useinsider.com h4g3z1-native.samsung.web.app 

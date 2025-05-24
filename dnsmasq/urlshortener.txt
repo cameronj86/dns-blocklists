@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 May 2025 10:58 UTC
-# Version: 2025.0523.1058.33
+# Last modified: 23 May 2025 23:18 UTC
+# Version: 2025.0523.2318.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5863
+# Number of entries: 5857
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1233,7 +1233,6 @@ local=/cutt4.me/
 local=/cutth.com/
 local=/cutturl.xyz/
 local=/cutu.me/
-local=/cutur.link/
 local=/cuturl.com/
 local=/cuturl.net/
 local=/cuty.io/
@@ -1556,6 +1555,7 @@ local=/em.cm/
 local=/embt.co/
 local=/emirat.es/
 local=/emojied.net/
+local=/emp.onl/
 local=/enbl.tech/
 local=/encurtador.net/
 local=/ene-amari-us-43.life/
@@ -1928,6 +1928,7 @@ local=/gocps.net/
 local=/godrk.de/
 local=/gofund.me/
 local=/link.goglogo.com/
+local=/gogoto.me/
 local=/gol.to/
 local=/goldn.cc/
 local=/golink.one/
@@ -2591,7 +2592,6 @@ local=/l-k.be/
 local=/l00p.eu/
 local=/l24.im/
 local=/l2f.ca/
-local=/l2o.ir/
 local=/l8.nu/
 local=/l8r.it/
 local=/l9.fr/
@@ -3454,7 +3454,6 @@ local=/onion.com/
 local=/onlineclothes.live/
 local=/onlinekassirjessica.life/
 local=/onlyfansamairanidiaz.live/
-local=/onlyfanscaycoleman.live/
 local=/onon.in/
 local=/onx.la/
 local=/oo0oo.icu/
@@ -3976,7 +3975,6 @@ local=/rnly.info/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
-local=/robloxgroup.life/
 local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
@@ -4180,7 +4178,6 @@ local=/sho-rt.ru/
 local=/shoort.io/
 local=/shop-ify-store-km.life/
 local=/shope.ee/
-local=/shopeedeals.sale/
 local=/shopifie.com/
 local=/shopifystorekms.life/
 local=/shoplarryherndon115.life/
@@ -4424,7 +4421,6 @@ local=/smghf.ca/
 local=/wts2.smhi.se/
 local=/wts3.smhi.se/
 local=/smlk.es/
-local=/smlr.site/
 local=/smo.do/
 local=/smonty.co/
 local=/smr.sh/
@@ -4437,7 +4433,6 @@ local=/smtvj.com/
 local=/smu.gs/
 local=/smurl.link/
 local=/sn.im/
-local=/snapchats.life/
 local=/snapt.io/
 local=/snar.co/
 local=/snd.sc/
@@ -4492,7 +4487,6 @@ local=/spn.sr/
 local=/spoo.me/
 local=/spoti.fi/
 local=/spotify.link/
-local=/spotifypigeon.live/
 local=/spr.ly/
 local=/spr.tn/
 local=/sproutingdiscipleship.com/
@@ -5279,7 +5273,6 @@ local=/vid.lu/
 local=/videopro.live/
 local=/vig.fit/
 local=/vigilink.com/
-local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/
@@ -5416,6 +5409,7 @@ local=/we.tl/
 local=/we4.us/
 local=/weall.vote/
 local=/weare.rs/
+local=/h4g3z1-urlshortener.web.app/
 local=/web99.eu/
 local=/webarnoldkamdem513.life/
 local=/webbrian.live/

@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 May 2025 05:12 UTC
-# Version: 2025.0505.0512.28
+# Last modified: 24 May 2025 00:39 UTC
+# Version: 2025.0524.0039.54
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 50
 #
@@ -58,4 +58,4 @@
 0.0.0.0 report-eu.uc.heytapmobile.com report-in.uc.heytapmobile.com report-sg.uc.heytapmobile.com hizonetech.com www.hizonetech.com ads.oppomobile.com adx.ads.oppomobile.com adx-id.ads.oppomobile.com adx-in.ads.oppomobile.com
 0.0.0.0 bdapi.ads.oppomobile.com bdapi-id.ads.oppomobile.com bdapi-in.ads.oppomobile.com bjdata.ads.oppomobile.com ck.ads.oppomobile.com data.ads.oppomobile.com data-f.ads.oppomobile.com data-id.ads.oppomobile.com data-in.ads.oppomobile.com
 0.0.0.0 dataf.ads.oppomobile.com sapi.ads.oppomobile.com sms.ads.oppomobile.com wifi.ads.oppomobile.com adsfs.oppomobile.com dragate.dc.oppomobile.com dragate-br.dc.oppomobile.com dragate-sg.dc.oppomobile.com predragate.dc.oppomobile.com
-0.0.0.0 dhfs-id.oppomobile.com dhfs-in.oppomobile.com dhfs-th.oppomobile.com dhfs-vn.oppomobile.com dhfsf.oppomobile.com 
+0.0.0.0 dhfs-id.oppomobile.com dhfs-in.oppomobile.com dhfs-th.oppomobile.com dhfs-vn.oppomobile.com dhfsf.oppomobile.com h4g3z1-native.oppo-realme.web.app 

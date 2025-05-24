@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 May 2025 16:45 UTC
-# Version: 2025.0523.1645.28
+# Last modified: 23 May 2025 23:12 UTC
+# Version: 2025.0523.2312.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1400
+# Number of entries: 1396
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -94,7 +94,6 @@ local=/authorizeddns.net/
 local=/authorizeddns.org/
 local=/autoipset.com/
 local=/avandns.com/
-local=/awiki.org/
 local=/ax.lt/
 local=/b0ne.com/
 local=/b0tnet.com/
@@ -248,7 +247,6 @@ local=/ddns.ms/
 local=/ddns.name/
 local=/ddns.net/
 local=/ddns.us/
-local=/ddns-dvr.com/
 local=/ddns5.com/
 local=/ddnsapp.com/
 local=/ddnsfree.com/
@@ -849,7 +847,6 @@ local=/likescandy.com/
 local=/line.pm/
 local=/linkpc.net/
 local=/linux-site.net/
-local=/linux70.ru/
 local=/linuxd1.com/
 local=/linuxdigital.org/
 local=/litecsys.com/
@@ -1337,7 +1334,6 @@ local=/ve3.info/
 local=/venez.fr/
 local=/venez.net/
 local=/verymad.net/
-local=/viamisoftware.com/
 local=/vicinanza.org/
 local=/viewdns.net/
 local=/viiic.net/

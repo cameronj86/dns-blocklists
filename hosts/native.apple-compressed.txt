@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 09:36 UTC
-# Version: 2025.0508.0936.01
+# Last modified: 24 May 2025 00:05 UTC
+# Version: 2025.0524.0005.52
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
-# Number of entries: 32
+# Number of entries: 33
 #
 0.0.0.0 cstat.g.aaplimg.com diagassets.g.aaplimg.com cdn-xp-ingest-ab.v.aaplimg.com iphonesubmissions.v.aaplimg.com prod-event-relay-api.v.aaplimg.com prod-event-relay-books-api.v.aaplimg.com prod-event-relay-notes-api.v.aaplimg.com prod-event-relay-sports-api.v.aaplimg.com prod-event-relay-stocks-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-weather-api.v.aaplimg.com prod-news-notification-events.v.aaplimg.com securemetrics.v.aaplimg.com securemvt.v.aaplimg.com smoot-feedback.v.aaplimg.com supportmetrics.v.aaplimg.com ab.apple.com.akadns.net cstat-lb.apple.com.akadns.net diagassets-lb.apple.com.akadns.net
@@ -41,3 +41,4 @@
 0.0.0.0 uxintg-iad.apple.com uxintgiad.apple.com weather-analytics-events.apple.com xp.apple.com xp-cdn.apple.com feedbackws.fe.apple-dns.cn feedbackws.fe2.apple-dns.net me.apple-dns.net probe.me.apple-dns.net
 0.0.0.0 applemediaservices.com cstat.cdn-apple.com feedbackws.icloud.com.cn cdn-xp-ingest.edge.apple experiments.apple.com.edgekey.net iadsdk.apple.com.edgekey.net partiality.itunes.apple.com.edgekey.net xp.apple.com.edgekey.net cstat.apple.com.edgesuite.net
 0.0.0.0 searchads.apple.com.edgesuite.net acfeedbackws.icloud.com feedbackws.icloud.com metrics.icloud.com metrics.mzstatic.com qwapi.com www.qwapi.com marketing.services.apple beacon.shazam.com
+0.0.0.0 h4g3z1-native.apple.web.app 

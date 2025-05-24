@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 May 2025 09:36 UTC
-# Version: 2025.0508.0936.01
+# Last modified: 24 May 2025 00:05 UTC
+# Version: 2025.0524.0005.52
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 288
+# Number of entries: 289
 #
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -297,3 +297,4 @@
 0.0.0.0 www.qwapi.com
 0.0.0.0 marketing.services.apple
 0.0.0.0 beacon.shazam.com
+0.0.0.0 h4g3z1-native.apple.web.app

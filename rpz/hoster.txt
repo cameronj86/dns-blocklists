@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1747997820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748042220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 May 2025 10:57 UTC
-; Version: 2025.0523.1057.06
+; Last modified: 23 May 2025 23:17 UTC
+; Version: 2025.0523.2317.05
 ; Syntax: RPZ
-; Number of entries: 4222
+; Number of entries: 4216
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -41,6 +41,8 @@ csb.app CNAME .
 *.csb.app CNAME .
 teleporthq.app CNAME .
 *.teleporthq.app CNAME .
+h4g3z1-hoster.web.app CNAME .
+*.h4g3z1-hoster.web.app CNAME .
 webnode.app CNAME .
 *.webnode.app CNAME .
 blogspot.com.ar CNAME .
@@ -523,6 +525,8 @@ articlesblogger.com CNAME .
 *.articlesblogger.com CNAME .
 arwebo.com CNAME .
 *.arwebo.com CNAME .
+atsnx.com CNAME .
+*.atsnx.com CNAME .
 atspace.com CNAME .
 *.atspace.com CNAME .
 atualblog.com CNAME .
@@ -1671,8 +1675,6 @@ techionblog.com CNAME .
 *.techionblog.com CNAME .
 tek-blogs.com CNAME .
 *.tek-blogs.com CNAME .
-telegrameyg.com CNAME .
-*.telegrameyg.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
 terapad.com CNAME .
@@ -2285,8 +2287,6 @@ hashnode.dev CNAME .
 *.hashnode.dev CNAME .
 webwave.dev CNAME .
 *.webwave.dev CNAME .
-support-rbs.digital CNAME .
-*.support-rbs.digital CNAME .
 chat.dj CNAME .
 *.chat.dj CNAME .
 bloggersdelight.dk CNAME .
@@ -3187,8 +3187,6 @@ freehosting.net CNAME .
 *.freehosting.net CNAME .
 getblogs.net CNAME .
 *.getblogs.net CNAME .
-getenjoyment.net CNAME .
-*.getenjoyment.net CNAME .
 gigarocket.net CNAME .
 *.gigarocket.net CNAME .
 gqnu.net CNAME .
@@ -3385,8 +3383,6 @@ info.nu CNAME .
 *.info.nu CNAME .
 mee.nu CNAME .
 *.mee.nu CNAME .
-ontheweb.nu CNAME .
-*.ontheweb.nu CNAME .
 ru.nu CNAME .
 *.ru.nu CNAME .
 uk.nu CNAME .
@@ -3733,8 +3729,6 @@ download.sh CNAME .
 *.download.sh CNAME .
 perl.sh CNAME .
 *.perl.sh CNAME .
-aeonjp.shop CNAME .
-*.aeonjp.shop CNAME .
 airself.shop CNAME .
 *.airself.shop CNAME .
 annualhuman.shop CNAME .

@@ -57,8 +57,6 @@ https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-anno
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://hblock.molinero.dev/hosts_adblock.txt
-https://hole.cert.pl/domains/domains.txt
-https://hole.cert.pl/domains/v2/domains.txt
 https://hostfiles.frogeye.fr/firstparty-trackers.txt
 https://hosts.tweedge.net/malicious.txt
 https://iplists.firehol.org/files/cybercrime.ipset
@@ -179,17 +177,8 @@ https://raw.githubusercontent.com/cbuijs/ut1/master/stalkerware/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/warez/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/adobe.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/brave.txt
 https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/huawei.txt
 https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/lg.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/matomo.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/mozilla.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/nvidia.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/plausible.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/sentry.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/unity.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/xiaomi.txt
 https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
@@ -247,6 +236,7 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_ips.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/anti-privacy-analytics.txt
+https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/refs/heads/main/pihole.txt
 https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/chainabuse.txt
 https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/easydmarc.txt
 https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/franceverif.txt
@@ -313,7 +303,6 @@ https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.tx
 https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
-https://raw.githubusercontent.com/realodix/adblockid/master/src/adservers.adfl
 https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
 https://raw.githubusercontent.com/ReverendRetro/Domain-Blocklists/main/Domain-Blocklist
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ips.txt
@@ -378,8 +367,6 @@ https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day_dga/domains-only/nrd-14day-dga.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day/domains-only/nrd-14day.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day_phishing/domains-only/nrd-phishing-14day.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_dga/adblock/nrd-30day-dga_adblock_part1.txt
-https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_dga/adblock/nrd-30day-dga_adblock_part2.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_dga/domains-only/nrd-30day-dga_part1.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_dga/domains-only/nrd-30day-dga_part2.txt
 https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day/domains-only/nrd-30day_part1.txt

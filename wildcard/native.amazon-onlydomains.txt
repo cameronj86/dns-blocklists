@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 May 2025 00:10 UTC
-# Version: 2025.0517.0010.26
+# Last modified: 24 May 2025 00:08 UTC
+# Version: 2025.0524.0008.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 347
+# Number of entries: 348
 #
 aan.amazon.co.jp
 aan.amazon.com
@@ -173,6 +173,7 @@ fls-na.amazon.com
 fls-na.amazon.com.br
 fls-na.amazon.com.mx
 forester.a2z.com
+h4g3z1-native.amazon.web.app
 identity.browserapps.amazon.de
 imdb.amazon-adsystem.com
 ir-br.amazon-adsystem.com
