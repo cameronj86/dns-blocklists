@@ -1,5 +1,8 @@
 # Domains to be removed from the tif and tif medium/mini list.
 
+# Dedicated to dnscheck.tools RRSIG checks
+null-addr.net
+
 # https://github.com/hagezi/dns-blocklists/issues/5303
 ak-is2.net
 pushub.xs.ak-is2.net
