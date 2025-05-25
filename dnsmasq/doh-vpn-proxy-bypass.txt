@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 May 2025 03:01 UTC
-# Version: 2025.0525.0301.28
+# Last modified: 25 May 2025 11:51 UTC
+# Version: 2025.0525.1151.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4343
+# Number of entries: 4345
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -361,6 +361,7 @@ local=/doh1.b-cdn.net/
 local=/doh2.b-cdn.net/
 local=/freevpnme.b-cdn.net/
 local=/hola-client-cdn4.b-cdn.net/
+local=/b-dns.se/
 local=/dns.b33.space/
 local=/i.am.selling.b33r.us/
 local=/dns.b612.me/
@@ -378,6 +379,7 @@ local=/doh.battle.christmas/
 local=/plant-selection.baumgardner.us/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.nu/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -1112,7 +1114,6 @@ local=/a.safe.ns.dnslify.com/
 local=/b.safe.ns.dnslify.com/
 local=/dnslow.me/
 local=/dns.dnsoverhttps.net/
-local=/dnstunnel.run/
 local=/adblock-dot.dnswarden.com/
 local=/adult-filter-dot.dnswarden.com/
 local=/doh.asia.dnswarden.com/
@@ -1351,6 +1352,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
@@ -1411,7 +1413,6 @@ local=/freeanimesonline.com/
 local=/freebypassproxy.com/
 local=/freecanadavpn.com/
 local=/freecavpn.com/
-local=/hkname.freecdn.one/
 local=/freeconnect.link/
 local=/freedom.cx/
 local=/freedome-vpn.net/
@@ -2349,6 +2350,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

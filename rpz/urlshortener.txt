@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748140680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748158200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 May 2025 02:38 UTC
-; Version: 2025.0525.0238.34
+; Last modified: 25 May 2025 07:30 UTC
+; Version: 2025.0525.0730.11
 ; Syntax: RPZ
-; Number of entries: 11732
+; Number of entries: 11740
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1858,6 +1858,8 @@ consiseurl.com CNAME .
 *.consiseurl.com CNAME .
 consultant828.com CNAME .
 *.consultant828.com CNAME .
+coopurl.com CNAME .
+*.coopurl.com CNAME .
 url.coronassh.com CNAME .
 *.url.coronassh.com CNAME .
 cpwuc.com CNAME .
@@ -8954,6 +8956,8 @@ squeez.org CNAME .
 *.squeez.org CNAME .
 y.stadtfabrikanten.org CNAME .
 *.y.stadtfabrikanten.org CNAME .
+texas88vvip.org CNAME .
+*.texas88vvip.org CNAME .
 texasbisa.org CNAME .
 *.texasbisa.org CNAME .
 tiny-link.org CNAME .
@@ -10030,6 +10034,8 @@ easyurl.site CNAME .
 *.easyurl.site CNAME .
 elx.site CNAME .
 *.elx.site CNAME .
+empukjeru.site CNAME .
+*.empukjeru.site CNAME .
 gglink.site CNAME .
 *.gglink.site CNAME .
 glowin88.site CNAME .
@@ -11440,6 +11446,8 @@ lienket.vn CNAME .
 *.lienket.vn CNAME .
 lnk.vn CNAME .
 *.lnk.vn CNAME .
+ura.vn CNAME .
+*.ura.vn CNAME .
 vnl.vn CNAME .
 *.vnl.vn CNAME .
 shorturl.vtcode.vn CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748140920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748172720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 May 2025 02:42 UTC
-; Version: 2025.0525.0242.08
+; Last modified: 25 May 2025 11:32 UTC
+; Version: 2025.0525.1132.54
 ; Syntax: RPZ
-; Number of entries: 20246
+; Number of entries: 20248
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7235,6 +7235,8 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
+videocop.com CNAME .
+*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -12957,8 +12959,6 @@ sex-torrent.net CNAME .
 *.sex-torrent.net CNAME .
 sexinsex.net CNAME .
 *.sexinsex.net CNAME .
-sexuria.net CNAME .
-*.sexuria.net CNAME .
 tracker.shadowthein.net CNAME .
 *.tracker.shadowthein.net CNAME .
 sharego.net CNAME .
@@ -14457,6 +14457,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .

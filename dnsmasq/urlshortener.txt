@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 May 2025 02:38 UTC
-# Version: 2025.0525.0238.34
+# Last modified: 25 May 2025 07:30 UTC
+# Version: 2025.0525.0730.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5866
+# Number of entries: 5870
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1149,6 +1149,7 @@ local=/conviva.live/
 local=/cookcenter.info/
 local=/cooldaddy4yatwo.live/
 local=/coop.uk/
+local=/coopurl.com/
 local=/cop.vn/
 local=/cor236kofc.life/
 local=/url.coronassh.com/
@@ -1557,6 +1558,7 @@ local=/embt.co/
 local=/emirat.es/
 local=/emojied.net/
 local=/emp.onl/
+local=/empukjeru.site/
 local=/enbl.tech/
 local=/encurtador.net/
 local=/ene-amari-us-43.life/
@@ -4694,6 +4696,7 @@ local=/teratai888.ink/
 local=/terbar.ink/
 local=/terijoss.com/
 local=/terp.icu/
+local=/texas88vvip.org/
 local=/texasbisa.org/
 local=/texn.cc/
 local=/tfg2000.de/
@@ -5091,6 +5094,7 @@ local=/ur-l.ru/
 local=/ur1.ca/
 local=/ur3.us/
 local=/ur4l.com/
+local=/ura.vn/
 local=/urb.tf/
 local=/urbn.is/
 local=/newsletter.urcelia.com/
