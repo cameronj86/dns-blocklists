@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748042280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748140680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 May 2025 23:18 UTC
-; Version: 2025.0523.2318.33
+; Last modified: 25 May 2025 02:38 UTC
+; Version: 2025.0525.0238.34
 ; Syntax: RPZ
-; Number of entries: 11714
+; Number of entries: 11732
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1942,6 +1942,8 @@ disjt.com CNAME .
 *.disjt.com CNAME .
 divsly.com CNAME .
 *.divsly.com CNAME .
+djljjk.com CNAME .
+*.djljjk.com CNAME .
 djurl.com CNAME .
 *.djurl.com CNAME .
 dktlg.com CNAME .
@@ -2690,6 +2692,8 @@ pragmaticurl.com CNAME .
 *.pragmaticurl.com CNAME .
 privad0.com CNAME .
 *.privad0.com CNAME .
+profeelo.com CNAME .
+*.profeelo.com CNAME .
 psgra.com CNAME .
 *.psgra.com CNAME .
 ptolreco.com CNAME .
@@ -2888,6 +2892,8 @@ shortenerreviews.com CNAME .
 *.shortenerreviews.com CNAME .
 shortenlinkurl.com CNAME .
 *.shortenlinkurl.com CNAME .
+shortenurlz.com CNAME .
+*.shortenurlz.com CNAME .
 shortenwe.com CNAME .
 *.shortenwe.com CNAME .
 shortenworld.com CNAME .
@@ -7312,6 +7318,8 @@ tinycheck9.live CNAME .
 *.tinycheck9.live CNAME .
 trendingvideo.live CNAME .
 *.trendingvideo.live CNAME .
+truongthanhlen.live CNAME .
+*.truongthanhlen.live CNAME .
 tvonlineappitv.live CNAME .
 *.tvonlineappitv.live CNAME .
 tylervisionary.live CNAME .
@@ -8922,6 +8930,8 @@ qxxxp.org CNAME .
 *.qxxxp.org CNAME .
 rdcrss.org CNAME .
 *.rdcrss.org CNAME .
+redditlink.org CNAME .
+*.redditlink.org CNAME .
 sc.org CNAME .
 *.sc.org CNAME .
 scbetgacorr.org CNAME .
@@ -9718,6 +9728,8 @@ prcgg.sbs CNAME .
 *.prcgg.sbs CNAME .
 prljx.sbs CNAME .
 *.prljx.sbs CNAME .
+psrak.sbs CNAME .
+*.psrak.sbs CNAME .
 pwepu.sbs CNAME .
 *.pwepu.sbs CNAME .
 pylwm.sbs CNAME .
@@ -9728,6 +9740,8 @@ pzjms.sbs CNAME .
 *.pzjms.sbs CNAME .
 qiyel.sbs CNAME .
 *.qiyel.sbs CNAME .
+qliyr.sbs CNAME .
+*.qliyr.sbs CNAME .
 qntfq.sbs CNAME .
 *.qntfq.sbs CNAME .
 qnvhd.sbs CNAME .
@@ -10696,6 +10710,8 @@ gfwtz.top CNAME .
 *.gfwtz.top CNAME .
 gfxa.top CNAME .
 *.gfxa.top CNAME .
+gnkxh.top CNAME .
+*.gnkxh.top CNAME .
 gpqkc.top CNAME .
 *.gpqkc.top CNAME .
 gqqri.top CNAME .
@@ -10792,6 +10808,8 @@ pyrif.top CNAME .
 *.pyrif.top CNAME .
 pywpv.top CNAME .
 *.pywpv.top CNAME .
+qfqqi.top CNAME .
+*.qfqqi.top CNAME .
 qlur.top CNAME .
 *.qlur.top CNAME .
 qmnxj.top CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748042400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748140920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 May 2025 23:20 UTC
-; Version: 2025.0523.2320.00
+; Last modified: 25 May 2025 02:42 UTC
+; Version: 2025.0525.0242.08
 ; Syntax: RPZ
 ; Number of entries: 20246
 ;
@@ -4423,6 +4423,8 @@ hexrom.com CNAME .
 *.hexrom.com CNAME .
 hi10anime.com CNAME .
 *.hi10anime.com CNAME .
+tracker.hifitechindia.com CNAME .
+*.tracker.hifitechindia.com CNAME .
 torrents.hikarinokiseki.com CNAME .
 *.torrents.hikarinokiseki.com CNAME .
 histreaming.com CNAME .
@@ -14455,8 +14457,6 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
-free4pc.org CNAME .
-*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .

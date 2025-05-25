@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748042040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748142060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 May 2025 23:14 UTC
-; Version: 2025.0523.2314.03
+; Last modified: 25 May 2025 03:01 UTC
+; Version: 2025.0525.0301.28
 ; Syntax: RPZ
-; Number of entries: 8682
+; Number of entries: 8686
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1354,6 +1354,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elephantvpn.com CNAME .
 *.elephantvpn.com CNAME .
 emban-networks.com CNAME .
@@ -7154,6 +7156,8 @@ cloudns.bosco.ovh CNAME .
 *.cloudns.bosco.ovh CNAME .
 dns.clanless.ovh CNAME .
 *.dns.clanless.ovh CNAME .
+eliatofani.ovh CNAME .
+*.eliatofani.ovh CNAME .
 fezgate.ovh CNAME .
 *.fezgate.ovh CNAME .
 vps.fleuryk.ovh CNAME .
@@ -7662,6 +7666,8 @@ vpnonelove.ru CNAME .
 *.vpnonelove.ru CNAME .
 dns.yandex.ru CNAME .
 *.dns.yandex.ru CNAME .
+dnstunnel.run CNAME .
+*.dnstunnel.run CNAME .
 your-dns.run CNAME .
 *.your-dns.run CNAME .
 dns.sb CNAME .
@@ -7834,8 +7840,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
