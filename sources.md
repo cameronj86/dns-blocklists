@@ -16,6 +16,7 @@ https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-dns.txt
 https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter.txt
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/3rd_domains.txt
+https://cybercrime-tracker.net/all.php
 https://danger.rulez.sk/projects/bruteforceblocker/blist.php
 https://dl.red.flag.domains/red.flag.domains.txt
 https://downloads.majestic.com/majestic_million.csv
@@ -57,6 +58,8 @@ https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-anno
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://hblock.molinero.dev/hosts_adblock.txt
+https://hole.cert.pl/domains/domains.txt
+https://hole.cert.pl/domains/v2/domains.txt
 https://hostfiles.frogeye.fr/firstparty-trackers.txt
 https://hosts.tweedge.net/malicious.txt
 https://iplists.firehol.org/files/cybercrime.ipset

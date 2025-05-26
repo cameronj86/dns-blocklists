@@ -12,13 +12,6 @@ ichnaea.dradis.netflix.com
 variations.brave.com
 variations.bravesoftware.com
 
-# Errortracking
-sentry-relay.coupang.net
-
-# Matomo
-webstat.hrz.tu-freiberg.de
-matomo.studentenwerk-halle.de
-
 # https://github.com/hagezi/dns-blocklists/issues/4352
 cherry.tv
 trackcherry.com
@@ -67,10 +60,6 @@ analyticsadmin.googleapis.com
 analyticsdata.googleapis.com
 analyticshub.googleapis.com
 analyticsreporting.googleapis.com
-
-# Lock designated content with survey. "Install ... to get the download link" 
-unlockcontent.net
-unlock-content.net
 
 # https://github.com/hagezi/dns-blocklists/issues/2676
 # https://github.com/hagezi/dns-blocklists/issues/2791
@@ -179,7 +168,3 @@ swim-in-place.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2718
 hupuza.com
-
-# EA Error Log
-collector.errors.ea.com
-a-collector.errors.ea.com

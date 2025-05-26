@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748173860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748228340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 May 2025 11:51 UTC
-; Version: 2025.0525.1151.57
+; Last modified: 26 May 2025 02:59 UTC
+; Version: 2025.0526.0259.47
 ; Syntax: RPZ
-; Number of entries: 8690
+; Number of entries: 8680
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2152,8 +2152,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -2900,8 +2898,6 @@ eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
 error.proxy.startpage.com CNAME .
 *.error.proxy.startpage.com CNAME .
-proxy2.startpage.com CNAME .
-*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -6486,8 +6482,6 @@ auditing.lepetitprince.com.np CNAME .
 *.auditing.lepetitprince.com.np CNAME .
 use.purplefolder.com.np CNAME .
 *.use.purplefolder.com.np CNAME .
-bdns.nu CNAME .
-*.bdns.nu CNAME .
 onion.nu CNAME .
 *.onion.nu CNAME .
 unblocked.nu CNAME .
@@ -7680,8 +7674,6 @@ myatris.sbs CNAME .
 *.myatris.sbs CNAME .
 oxywebproxy.sbs CNAME .
 *.oxywebproxy.sbs CNAME .
-b-dns.se CNAME .
-*.b-dns.se CNAME .
 dns.haka.se CNAME .
 *.dns.haka.se CNAME .
 ipredator.se CNAME .
@@ -7842,8 +7834,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .

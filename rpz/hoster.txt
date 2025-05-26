@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748158080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748212320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 May 2025 07:28 UTC
-; Version: 2025.0525.0728.43
+; Last modified: 25 May 2025 22:32 UTC
+; Version: 2025.0525.2232.53
 ; Syntax: RPZ
-; Number of entries: 4216
+; Number of entries: 4218
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -525,8 +525,6 @@ articlesblogger.com CNAME .
 *.articlesblogger.com CNAME .
 arwebo.com CNAME .
 *.arwebo.com CNAME .
-atsnx.com CNAME .
-*.atsnx.com CNAME .
 atspace.com CNAME .
 *.atspace.com CNAME .
 atualblog.com CNAME .
@@ -3187,6 +3185,8 @@ freehosting.net CNAME .
 *.freehosting.net CNAME .
 getblogs.net CNAME .
 *.getblogs.net CNAME .
+getenjoyment.net CNAME .
+*.getenjoyment.net CNAME .
 gigarocket.net CNAME .
 *.gigarocket.net CNAME .
 gqnu.net CNAME .
@@ -3807,6 +3807,8 @@ dorabiamarketing.shop CNAME .
 *.dorabiamarketing.shop CNAME .
 doteyoueshop.shop CNAME .
 *.doteyoueshop.shop CNAME .
+downfall.shop CNAME .
+*.downfall.shop CNAME .
 drugpoint.shop CNAME .
 *.drugpoint.shop CNAME .
 duchessandthedude.shop CNAME .
